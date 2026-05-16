@@ -6,7 +6,8 @@ import type { RentListing, RentSnapshot } from "@repo/types";
 const RSS_URL = "https://rss.rent.ie/rooms-to-rent/renting_dublin/room-type_either/";
 const SOURCE_URL = "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/";
 const OUTPUT_PATH = resolve(process.cwd(), "../../data/rent/listings.json");
-const ENSUITE_REGEX = /\b(en[\s-]?suite)\b/i;
+const ENSUITE_REGEX = /\ben[\s-]?suite\b/i;
+const NON_ENSUITE_REGEX = /\bnon[-\s]?en[\s-]?suite\b/gi;
 
 interface RssItem {
   title?: string;
@@ -46,8 +47,28 @@ async function fetchRss(): Promise<RssItem[]> {
   return Array.isArray(raw) ? raw : [raw];
 }
 
+function decodeEntities(s: string): string {
+  return s
+    .replace(/&euro;/g, "€")
+    .replace(/&pound;/g, "£")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&amp;/g, "&"); // last to avoid double-decoding
+}
+
 function stripHtml(s: string): string {
-  return s.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
+  return decodeEntities(s.replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
+}
+
+function isEnsuite(text: string): boolean {
+  // Strip "non-ensuite" mentions first; if any ensuite mention remains, it's a match.
+  const cleaned = text.replace(NON_ENSUITE_REGEX, "");
+  return ENSUITE_REGEX.test(cleaned);
 }
 
 function extractListingId(url: string): string | null {
@@ -107,7 +128,7 @@ async function main(): Promise<void> {
 
     const description = item.description ? stripHtml(item.description) : null;
     const combined = `${title} ${description ?? ""}`;
-    if (!ENSUITE_REGEX.test(combined)) continue;
+    if (!isEnsuite(combined)) continue;
     ensuiteCount++;
 
     const id = extractListingId(link) ?? guidString(item.guid);
