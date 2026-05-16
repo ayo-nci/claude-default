@@ -2,7 +2,9 @@ name: Scrape rent.ie
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # Hourly. Stays within ScrapingBee's 1,000/month free tier
+    # (~730 calls/month) with headroom for manual retries.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
