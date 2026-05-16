@@ -1,65 +1,48 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
-import * as cheerio from "cheerio";
-import { chromium, type Browser, type BrowserContext } from "playwright";
+import { XMLParser } from "fast-xml-parser";
 import type { RentListing, RentSnapshot } from "@repo/types";
 
-const ORIGIN = "https://www.rent.ie";
-const SOURCE_URL = `${ORIGIN}/rooms-to-rent/renting_dublin/room-type_either/`;
+const RSS_URL = "https://rss.rent.ie/rooms-to-rent/renting_dublin/room-type_either/";
+const SOURCE_URL = "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/";
 const OUTPUT_PATH = resolve(process.cwd(), "../../data/rent/listings.json");
-const PAGE_CAP = 10;
 const ENSUITE_REGEX = /\b(en[\s-]?suite)\b/i;
 
 const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36";
 
-let browser: Browser | null = null;
-let context: BrowserContext | null = null;
+interface RssItem {
+  title?: string;
+  link?: string;
+  description?: string;
+  pubDate?: string;
+  guid?: string | { "#text"?: string };
+}
 
-async function getContext(): Promise<BrowserContext> {
-  if (context) return context;
-  browser = await chromium.launch({ headless: true });
-  context = await browser.newContext({
-    userAgent: UA,
-    locale: "en-IE",
-    viewport: { width: 1280, height: 900 },
-    extraHTTPHeaders: { "accept-language": "en-IE,en;q=0.9" }
+interface RssEnvelope {
+  rss?: { channel?: { item?: RssItem | RssItem[] } };
+}
+
+async function fetchRss(): Promise<RssItem[]> {
+  const res = await fetch(RSS_URL, {
+    headers: {
+      "user-agent": UA,
+      accept: "application/rss+xml, application/xml, text/xml, */*;q=0.8",
+      "accept-language": "en-IE,en;q=0.9"
+    }
   });
-  return context;
+  if (!res.ok) throw new Error(`${res.status} ${res.statusText} for ${RSS_URL}`);
+  const xml = await res.text();
+  const parser = new XMLParser({ ignoreAttributes: false, trimValues: true });
+  const parsed = parser.parse(xml) as RssEnvelope;
+  const raw = parsed.rss?.channel?.item;
+  if (!raw) return [];
+  return Array.isArray(raw) ? raw : [raw];
 }
 
-async function shutdown(): Promise<void> {
-  try {
-    await context?.close();
-  } finally {
-    await browser?.close();
-    context = null;
-    browser = null;
-  }
-}
-
-async function fetchHtml(url: string): Promise<string> {
-  const ctx = await getContext();
-  const page = await ctx.newPage();
-  try {
-    const response = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
-    if (!response) throw new Error(`No response for ${url}`);
-    if (!response.ok()) throw new Error(`${response.status()} ${response.statusText()} for ${url}`);
-    // give late-loading content a moment to render
-    await page.waitForLoadState("networkidle", { timeout: 8000 }).catch(() => undefined);
-    return page.content();
-  } finally {
-    await page.close();
-  }
-}
-
-function absoluteUrl(href: string | undefined): string | null {
-  if (!href) return null;
-  if (href.startsWith("http")) return href;
-  if (href.startsWith("//")) return `https:${href}`;
-  if (href.startsWith("/")) return `${ORIGIN}${href}`;
-  return `${ORIGIN}/${href}`;
+function stripHtml(s: string): string {
+  return s.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
 }
 
 function extractListingId(url: string): string | null {
@@ -67,79 +50,27 @@ function extractListingId(url: string): string | null {
   return m?.[1] ?? null;
 }
 
-interface CardSummary {
-  id: string;
-  url: string;
-  title: string;
-  price: string | null;
-  area: string | null;
-  imageUrl: string | null;
+function extractPrice(text: string): string | null {
+  const m = text.match(/€\s?[\d,]+(?:\s*(?:per\s+month|per\s+week|monthly|pcm|pw))?/i);
+  return m ? m[0].replace(/\s+/g, " ").trim() : null;
 }
 
-function parseListingCards(html: string): CardSummary[] {
-  const $ = cheerio.load(html);
-  const cards = new Map<string, CardSummary>();
-
-  // Grab every anchor that links to a rooms-to-rent listing detail page.
-  $('a[href*="/rooms-to-rent/"]').each((_, el) => {
-    const href = $(el).attr("href");
-    const url = absoluteUrl(href);
-    if (!url) return;
-    const id = extractListingId(url);
-    if (!id) return;
-
-    // Climb to the surrounding card container to harvest title/price/etc.
-    const card = $(el)
-      .closest("[class*='search'], [class*='result'], [class*='listing'], li, article, div")
-      .first();
-
-    const titleEl = card.find("h2, h3, .title, [class*='title']").first();
-    const title = (titleEl.text() || $(el).attr("title") || $(el).text() || "").trim();
-    if (!title) return;
-
-    const priceText = card.find("[class*='price'], .price").first().text().trim() || null;
-    const area = card.find("[class*='address'], .address, [class*='location']").first().text().trim() || null;
-    const img = card.find("img").first();
-    const imageUrl = absoluteUrl(img.attr("data-src") || img.attr("src") || undefined);
-
-    if (!cards.has(id)) {
-      cards.set(id, { id, url, title, price: priceText, area, imageUrl });
-    }
-  });
-
-  return [...cards.values()];
+function extractArea(title: string): string | null {
+  // titles look like "Single Bedroom, Glencairn, Sandyford, Dublin 18"
+  const parts = title.split(",").map((p) => p.trim()).filter(Boolean);
+  return parts.length >= 2 ? parts.slice(1).join(", ") : null;
 }
 
-function isEnsuite(text: string | null | undefined): boolean {
-  if (!text) return false;
-  return ENSUITE_REGEX.test(text);
+function extractImage(description: string | undefined): string | null {
+  if (!description) return null;
+  const m = description.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return m?.[1] ?? null;
 }
 
-interface DetailExtras {
-  description: string | null;
-  agent: string | null;
-  agentPhone: string | null;
-}
-
-function parseDetailPage(html: string): DetailExtras {
-  const $ = cheerio.load(html);
-
-  const description =
-    $('[class*="description"], [id*="description"], .property_description').first().text().trim() ||
-    $("meta[name='description']").attr("content") ||
-    null;
-
-  const agent =
-    $('[class*="agent"], [class*="advertiser"], [class*="landlord"]').first().text().trim() || null;
-
-  const phoneMatch = html.match(/(?:tel:|telephone[^0-9+]*|phone[^0-9+]*)\+?(\d[\d\s-]{7,})/i);
-  const agentPhone = phoneMatch?.[1] ? phoneMatch[1].replace(/\s+/g, " ").trim() : null;
-
-  return {
-    description: description ? description.replace(/\s+/g, " ").trim().slice(0, 1500) : null,
-    agent: agent ? agent.replace(/\s+/g, " ").trim().slice(0, 200) : null,
-    agentPhone
-  };
+function guidString(g: RssItem["guid"]): string | null {
+  if (!g) return null;
+  if (typeof g === "string") return g;
+  return g["#text"] ?? null;
 }
 
 async function loadPrevious(): Promise<Map<string, RentListing>> {
@@ -154,69 +85,48 @@ async function loadPrevious(): Promise<Map<string, RentListing>> {
 }
 
 async function main(): Promise<void> {
-  console.log(`Scraping ${SOURCE_URL}`);
+  console.log(`Fetching ${RSS_URL}`);
+  const items = await fetchRss();
+  console.log(`RSS returned ${items.length} item(s)`);
+
   const previous = await loadPrevious();
-
-  const seen = new Set<string>();
-  const ensuiteCandidates: CardSummary[] = [];
-
-  for (let page = 1; page <= PAGE_CAP; page++) {
-    const url = page === 1 ? SOURCE_URL : `${SOURCE_URL}?page=${page}`;
-    let html: string;
-    try {
-      html = await fetchHtml(url);
-    } catch (err) {
-      if (page === 1) throw err;
-      console.log(`  page ${page}: ${(err as Error).message} — stopping pagination`);
-      break;
-    }
-    const cards = parseListingCards(html);
-    const fresh = cards.filter((c) => !seen.has(c.id));
-    for (const c of fresh) seen.add(c.id);
-    const ensuiteHere = fresh.filter((c) => isEnsuite(c.title));
-    ensuiteCandidates.push(...ensuiteHere);
-    console.log(
-      `  page ${page}: ${cards.length} cards, ${fresh.length} new, ${ensuiteHere.length} ensuite by title`
-    );
-    if (fresh.length === 0) break;
-  }
-
-  const listings: RentListing[] = [];
   const now = new Date().toISOString();
 
-  for (const card of ensuiteCandidates) {
-    const prev = previous.get(card.id);
-    if (prev) {
-      // already known — keep existing detail, only update mutable fields
-      listings.push({ ...prev, title: card.title, price: card.price, area: card.area, imageUrl: card.imageUrl });
-      continue;
-    }
-    // newly-spotted ensuite listing → fetch detail page
-    let extras: DetailExtras = { description: null, agent: null, agentPhone: null };
-    try {
-      const detailHtml = await fetchHtml(card.url);
-      extras = parseDetailPage(detailHtml);
-      // double-check ensuite is in description too (some titles use the word loosely)
-      if (!isEnsuite(card.title) && !isEnsuite(extras.description)) continue;
-    } catch (err) {
-      console.log(`  detail fetch failed for ${card.id}: ${(err as Error).message}`);
-    }
+  const listings: RentListing[] = [];
+  let ensuiteCount = 0;
+
+  for (const item of items) {
+    const title = item.title?.trim();
+    const link = item.link?.trim();
+    if (!title || !link) continue;
+
+    const description = item.description ? stripHtml(item.description) : null;
+    const combined = `${title} ${description ?? ""}`;
+    if (!ENSUITE_REGEX.test(combined)) continue;
+    ensuiteCount++;
+
+    const id = extractListingId(link) ?? guidString(item.guid);
+    if (!id) continue;
+
+    const prev = previous.get(id);
     listings.push({
-      id: card.id,
-      url: card.url,
-      title: card.title,
-      price: card.price,
-      area: card.area,
-      imageUrl: card.imageUrl,
-      description: extras.description,
-      agent: extras.agent,
-      agentPhone: extras.agentPhone,
-      firstSeenAt: now
+      id,
+      url: link,
+      title,
+      price: extractPrice(combined),
+      area: extractArea(title),
+      imageUrl: extractImage(item.description),
+      description: description ? description.slice(0, 1500) : null,
+      agent: prev?.agent ?? null,
+      agentPhone: prev?.agentPhone ?? null,
+      firstSeenAt: prev?.firstSeenAt ?? now
     });
   }
 
-  // Sort newest-first by firstSeenAt
+  // Newest-first by firstSeenAt
   listings.sort((a, b) => (a.firstSeenAt < b.firstSeenAt ? 1 : -1));
+
+  console.log(`${ensuiteCount} ensuite match(es) of ${items.length}; keeping ${listings.length}`);
 
   const snapshot: RentSnapshot = {
     fetchedAt: now,
@@ -226,12 +136,10 @@ async function main(): Promise<void> {
 
   await mkdir(dirname(OUTPUT_PATH), { recursive: true });
   await writeFile(OUTPUT_PATH, JSON.stringify(snapshot, null, 2) + "\n");
-  console.log(`Wrote ${OUTPUT_PATH} (${listings.length} ensuite listings)`);
+  console.log(`Wrote ${OUTPUT_PATH}`);
 }
 
-main()
-  .catch((err) => {
-    console.error(err);
-    process.exitCode = 1;
-  })
-  .finally(() => shutdown());
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
