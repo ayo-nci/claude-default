@@ -1,167 +1,120 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
-import * as cheerio from "cheerio";
 import type { DealItem, DealsSnapshot } from "@repo/types";
 
-const SOURCE_URL = "https://www.dunnesstores.com/men/clothing";
+const ORIGIN = "https://www.dunnesstores.com";
+const CATEGORY_PATH = "men/clothing";
+const SOURCE_URL = `${ORIGIN}/${CATEGORY_PATH}`;
+const API_BASE = `${ORIGIN}/api/catalog_system/pub/products/search/${CATEGORY_PATH}`;
 const THRESHOLD = 10;
 const CURRENCY = "EUR";
+const PAGE_SIZE = 50; // VTEX hard max per request
+const PAGE_CAP = 50; // 50 * 50 = 2500 products, well above the category size
 const OUTPUT_PATH = resolve(process.cwd(), "../../data/items.json");
 
 const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36";
 
-async function fetchAllPages(): Promise<string[]> {
-  const pages: string[] = [];
-  let start = 0;
-  const sz = 60;
-  for (let i = 0; i < 20; i++) {
-    const url = i === 0 ? SOURCE_URL : `${SOURCE_URL}?start=${start}&sz=${sz}`;
-    const res = await fetch(url, {
-      headers: {
-        "user-agent": UA,
-        accept:
-          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "accept-language": "en-IE,en;q=0.9"
-      }
-    });
-    if (!res.ok) {
-      if (i === 0) throw new Error(`Fetch failed: ${res.status} ${res.statusText}`);
-      break;
-    }
-    const html = await res.text();
-    pages.push(html);
-    const $ = cheerio.load(html);
-    const tileCount = $("[data-pid], .product-tile, .product").length;
-    if (tileCount < sz) break;
-    start += sz;
-  }
-  return pages;
+interface VtexImage {
+  imageUrl: string;
 }
 
-function parsePrice(text: string | undefined | null): number | null {
-  if (!text) return null;
-  const m = text.replace(/,/g, ".").match(/(\d+(?:\.\d{1,2})?)/);
-  return m ? Number(m[1]) : null;
+interface VtexCommercialOffer {
+  Price: number;
+  ListPrice?: number;
+  IsAvailable?: boolean;
+  AvailableQuantity?: number;
 }
 
-function extractFromJsonLd($: cheerio.CheerioAPI): DealItem[] {
-  const items: DealItem[] = [];
-  $('script[type="application/ld+json"]').each((_, el) => {
-    const raw = $(el).contents().text();
-    if (!raw) return;
-    try {
-      const data = JSON.parse(raw);
-      const nodes: unknown[] = Array.isArray(data) ? data : [data];
-      for (const node of nodes) walk(node, items);
-    } catch {
-      /* ignore malformed json-ld */
+interface VtexSeller {
+  commertialOffer: VtexCommercialOffer;
+}
+
+interface VtexItem {
+  itemId?: string;
+  images?: VtexImage[];
+  sellers?: VtexSeller[];
+}
+
+interface VtexProduct {
+  productId: string;
+  productName: string;
+  linkText?: string;
+  link?: string;
+  items?: VtexItem[];
+}
+
+async function fetchPage(from: number, to: number): Promise<VtexProduct[]> {
+  const url = `${API_BASE}?_from=${from}&_to=${to}`;
+  const res = await fetch(url, {
+    headers: {
+      "user-agent": UA,
+      accept: "application/json",
+      "accept-language": "en-IE,en;q=0.9"
     }
   });
-  return items;
+  // VTEX returns 206 Partial Content for paginated responses — treat as ok.
+  if (!res.ok && res.status !== 206) {
+    throw new Error(`VTEX API ${res.status} ${res.statusText} (page ${from}-${to})`);
+  }
+  const data = (await res.json()) as VtexProduct[];
+  return Array.isArray(data) ? data : [];
 }
 
-function walk(node: unknown, items: DealItem[]): void {
-  if (!node || typeof node !== "object") return;
-  const obj = node as Record<string, unknown>;
-  const type = obj["@type"];
-  if (type === "Product" || (Array.isArray(type) && type.includes("Product"))) {
-    const offers = obj.offers as Record<string, unknown> | undefined;
-    const offerList = Array.isArray(offers) ? offers : offers ? [offers] : [];
-    let price: number | null = null;
-    let currency = CURRENCY;
-    for (const o of offerList) {
-      const oo = o as Record<string, unknown>;
-      const p = parsePrice(String(oo.price ?? oo.lowPrice ?? ""));
-      if (p != null) {
-        price = price == null ? p : Math.min(price, p);
-      }
-      if (typeof oo.priceCurrency === "string") currency = oo.priceCurrency;
-    }
-    if (price != null) {
-      const sku = String(obj.sku ?? obj.productID ?? obj.mpn ?? obj.url ?? obj.name ?? "");
-      const url = typeof obj.url === "string" ? obj.url : "";
-      const image = Array.isArray(obj.image)
-        ? String(obj.image[0])
-        : typeof obj.image === "string"
-        ? obj.image
-        : null;
-      items.push({
-        id: sku || url || String(obj.name ?? ""),
-        name: String(obj.name ?? ""),
-        price,
-        currency,
-        url: url.startsWith("http") ? url : `https://www.dunnesstores.com${url}`,
-        imageUrl: image
-      });
+function toDealItem(p: VtexProduct): DealItem | null {
+  const item = p.items?.[0];
+  if (!item) return null;
+
+  let bestPrice: number | null = null;
+  let bestAvailable = false;
+  for (const seller of item.sellers ?? []) {
+    const offer = seller.commertialOffer;
+    if (!offer || typeof offer.Price !== "number" || offer.Price <= 0) continue;
+    const available = offer.IsAvailable !== false && (offer.AvailableQuantity ?? 1) > 0;
+    if (bestPrice == null || offer.Price < bestPrice) {
+      bestPrice = offer.Price;
+      bestAvailable = available;
     }
   }
-  for (const v of Object.values(obj)) {
-    if (v && typeof v === "object") walk(v, items);
-  }
-}
+  if (bestPrice == null || !bestAvailable) return null;
 
-function extractFromTiles($: cheerio.CheerioAPI): DealItem[] {
-  const items: DealItem[] = [];
-  $("[data-pid], .product-tile, .product").each((_, el) => {
-    const $el = $(el);
-    const pid =
-      $el.attr("data-pid") ||
-      $el.find("[data-pid]").first().attr("data-pid") ||
-      "";
-    const name =
-      $el.find(".pdp-link a, .product-name, .link, a.name-link").first().text().trim() ||
-      $el.find("a").first().attr("title") ||
-      "";
-    const priceText =
-      $el.find(".sales .value, .price-sales, .sales, .price .value, .price").first().text() || "";
-    const price = parsePrice(priceText);
-    const href = $el.find("a").first().attr("href") || "";
-    const img =
-      $el.find("img").first().attr("src") ||
-      $el.find("img").first().attr("data-src") ||
-      null;
-    if (!price || !name) return;
-    items.push({
-      id: pid || href || name,
-      name,
-      price,
-      currency: CURRENCY,
-      url: href.startsWith("http") ? href : `https://www.dunnesstores.com${href}`,
-      imageUrl: img
-    });
-  });
-  return items;
-}
-
-function dedupe(items: DealItem[]): DealItem[] {
-  const seen = new Map<string, DealItem>();
-  for (const it of items) {
-    const existing = seen.get(it.id);
-    if (!existing || it.price < existing.price) seen.set(it.id, it);
-  }
-  return [...seen.values()];
+  const slug = p.linkText ?? p.link?.split("/").filter(Boolean).pop() ?? p.productId;
+  return {
+    id: p.productId,
+    name: p.productName,
+    price: bestPrice,
+    currency: CURRENCY,
+    url: `${ORIGIN}/${slug}/p`,
+    imageUrl: item.images?.[0]?.imageUrl ?? null
+  };
 }
 
 async function main(): Promise<void> {
-  console.log(`Scraping ${SOURCE_URL}`);
-  const pages = await fetchAllPages();
-  console.log(`Fetched ${pages.length} page(s)`);
+  console.log(`Scraping ${SOURCE_URL} via VTEX catalog API`);
+  const items: DealItem[] = [];
+  const seen = new Set<string>();
 
-  const all: DealItem[] = [];
-  for (const html of pages) {
-    const $ = cheerio.load(html);
-    const jsonLd = extractFromJsonLd($);
-    const tiles = extractFromTiles($);
-    all.push(...jsonLd, ...tiles);
+  for (let i = 0; i < PAGE_CAP; i++) {
+    const from = i * PAGE_SIZE;
+    const to = from + PAGE_SIZE - 1;
+    const page = await fetchPage(from, to);
+    if (page.length === 0) break;
+    for (const product of page) {
+      const deal = toDealItem(product);
+      if (!deal || seen.has(deal.id)) continue;
+      seen.add(deal.id);
+      items.push(deal);
+    }
+    console.log(`  page ${i + 1}: ${page.length} products (running total ${items.length})`);
+    if (page.length < PAGE_SIZE) break;
   }
-  const unique = dedupe(all);
-  const cheap = unique
+
+  const cheap = items
     .filter((i) => i.price > 0 && i.price < THRESHOLD)
     .sort((a, b) => a.price - b.price);
 
-  console.log(`Parsed ${unique.length} products, ${cheap.length} under €${THRESHOLD}`);
+  console.log(`Parsed ${items.length} products, ${cheap.length} under €${THRESHOLD}`);
 
   const snapshot: DealsSnapshot = {
     fetchedAt: new Date().toISOString(),

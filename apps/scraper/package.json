@@ -9,8 +9,7 @@
     "lint": "eslint src"
   },
   "dependencies": {
-    "@repo/types": "workspace:*",
-    "cheerio": "^1.0.0"
+    "@repo/types": "workspace:*"
   },
   "devDependencies": {
     "@repo/tsconfig": "workspace:*",
