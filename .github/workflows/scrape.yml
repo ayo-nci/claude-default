@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: scrape
@@ -29,6 +30,11 @@ jobs:
 
       - name: Run scraper
         run: pnpm --filter @repo/scraper scrape
+
+      - name: Notify on watch matches
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pnpm --filter @repo/scraper notify
 
       - name: Commit updated data
         run: |

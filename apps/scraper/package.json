@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "scrape": "tsx src/index.ts",
+    "notify": "tsx src/notify.ts",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src"
   },

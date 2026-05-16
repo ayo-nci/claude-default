@@ -1,0 +1,18 @@
+{
+  "$schema": "Each watch: name (label), one of (include keywords | ids), optional exclude, optional maxPrice (defaults to the snapshot threshold).",
+  "watches": [
+    {
+      "name": "Hoodies & sweatshirts",
+      "include": ["hoodie", "sweatshirt"],
+      "exclude": []
+    },
+    {
+      "name": "Jeans / chinos",
+      "include": ["jeans", "chinos", "trousers"]
+    },
+    {
+      "name": "Specific product IDs",
+      "ids": []
+    }
+  ]
+}
