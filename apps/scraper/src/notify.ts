@@ -5,7 +5,6 @@ import type { DealItem, DealsSnapshot } from "@repo/types";
 
 const ITEMS_PATH = resolve(process.cwd(), "../../data/items.json");
 const WATCH_PATH = resolve(process.cwd(), "../../data/watch.json");
-const MAX_ISSUES_PER_RUN = 10;
 const ISSUE_LABEL = "dunnes-alert";
 
 interface Watch {
@@ -25,7 +24,8 @@ function loadPreviousItems(): DealItem[] {
     const raw = execFileSync("git", ["show", "HEAD:data/items.json"], {
       encoding: "utf8",
       stdio: ["ignore", "pipe", "ignore"]
-    });
+    }).trim();
+    if (!raw) return [];
     return (JSON.parse(raw) as DealsSnapshot).items ?? [];
   } catch {
     return [];
@@ -49,23 +49,26 @@ function matchesWatch(item: DealItem, watch: Watch): boolean {
 
 interface GitHubContext {
   token: string;
+  owner: string;
   repo: string;
 }
 
 function ghContext(): GitHubContext | null {
   const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
-  const repo = process.env.GITHUB_REPOSITORY;
-  if (!token || !repo) return null;
-  return { token, repo };
+  const slug = process.env.GITHUB_REPOSITORY;
+  if (!token || !slug) return null;
+  const [owner, repo] = slug.split("/");
+  if (!owner || !repo) return null;
+  return { token, owner, repo };
 }
 
 async function ensureLabel(ctx: GitHubContext): Promise<void> {
   const res = await fetch(
-    `https://api.github.com/repos/${ctx.repo}/labels/${ISSUE_LABEL}`,
+    `https://api.github.com/repos/${ctx.owner}/${ctx.repo}/labels/${ISSUE_LABEL}`,
     { headers: { authorization: `Bearer ${ctx.token}`, accept: "application/vnd.github+json" } }
   );
   if (res.status === 200) return;
-  await fetch(`https://api.github.com/repos/${ctx.repo}/labels`, {
+  await fetch(`https://api.github.com/repos/${ctx.owner}/${ctx.repo}/labels`, {
     method: "POST",
     headers: {
       authorization: `Bearer ${ctx.token}`,
@@ -79,16 +82,17 @@ async function ensureLabel(ctx: GitHubContext): Promise<void> {
 async function createIssue(
   ctx: GitHubContext,
   title: string,
-  body: string
+  body: string,
+  assignees: string[]
 ): Promise<void> {
-  const res = await fetch(`https://api.github.com/repos/${ctx.repo}/issues`, {
+  const res = await fetch(`https://api.github.com/repos/${ctx.owner}/${ctx.repo}/issues`, {
     method: "POST",
     headers: {
       authorization: `Bearer ${ctx.token}`,
       accept: "application/vnd.github+json",
       "content-type": "application/json"
     },
-    body: JSON.stringify({ title, body, labels: [ISSUE_LABEL] })
+    body: JSON.stringify({ title, body, labels: [ISSUE_LABEL], assignees })
   });
   if (!res.ok) {
     const text = await res.text();
@@ -96,16 +100,25 @@ async function createIssue(
   }
 }
 
-function issueBody(item: DealItem, watch: Watch, fetchedAt: string): string {
-  return [
-    `Matched watch: **${watch.name}**`,
-    "",
-    `**${item.name}** — €${item.price}`,
-    `[View product](${item.url})`,
-    item.imageUrl ? `\n![](${item.imageUrl})` : "",
-    "",
-    `_Snapshot ${fetchedAt}_`
-  ].join("\n");
+function renderBody(
+  groups: Map<string, DealItem[]>,
+  fetchedAt: string,
+  mention: string
+): string {
+  const lines: string[] = [];
+  lines.push(`Hey @${mention} — new under-€10 matches for your watches:`);
+  lines.push("");
+  for (const [watchName, items] of groups) {
+    lines.push(`### ${watchName} (${items.length})`);
+    lines.push("");
+    for (const it of items) {
+      lines.push(`- **[${it.name}](${it.url})** — €${it.price}`);
+      if (it.imageUrl) lines.push(`  <br><img src="${it.imageUrl}" width="160">`);
+    }
+    lines.push("");
+  }
+  lines.push(`_Snapshot ${fetchedAt}_`);
+  return lines.join("\n");
 }
 
 async function main(): Promise<void> {
@@ -117,37 +130,34 @@ async function main(): Promise<void> {
   const newItems = snapshot.items.filter((i) => !previousIds.has(i.id));
   console.log(`${newItems.length} item(s) appeared since last snapshot`);
 
-  const alerts: Array<{ watch: Watch; item: DealItem }> = [];
+  // group new matches by watch name; an item can match multiple watches
+  const groups = new Map<string, DealItem[]>();
   for (const watch of watchFile.watches) {
-    for (const item of newItems) {
-      if (matchesWatch(item, watch)) alerts.push({ watch, item });
-    }
+    const matched = newItems.filter((i) => matchesWatch(i, watch));
+    if (matched.length > 0) groups.set(watch.name, matched);
   }
 
-  if (alerts.length === 0) {
+  const totalMatches = [...groups.values()].reduce((n, list) => n + list.length, 0);
+  if (totalMatches === 0) {
     console.log("No watch matches; nothing to notify.");
     return;
   }
 
-  const capped = alerts.slice(0, MAX_ISSUES_PER_RUN);
-  console.log(`${alerts.length} match(es); creating ${capped.length} issue(s).`);
-
   const ctx = ghContext();
   if (!ctx) {
-    console.log("No GitHub token / repo context — dry run, would create:");
-    for (const a of capped) console.log(`  [${a.watch.name}] ${a.item.name} (€${a.item.price})`);
+    console.log(`Dry run — would file 1 issue with ${totalMatches} match(es):`);
+    for (const [name, items] of groups) {
+      console.log(`  ${name}: ${items.map((i) => `${i.name} (€${i.price})`).join(", ")}`);
+    }
     return;
   }
 
   await ensureLabel(ctx);
-  for (const { watch, item } of capped) {
-    const title = `[${watch.name}] ${item.name} — €${item.price}`;
-    await createIssue(ctx, title, issueBody(item, watch, snapshot.fetchedAt));
-    console.log(`  filed: ${title}`);
-  }
-  if (alerts.length > capped.length) {
-    console.log(`(suppressed ${alerts.length - capped.length} additional match(es) to avoid spam)`);
-  }
+  const date = new Date(snapshot.fetchedAt).toISOString().replace("T", " ").slice(0, 16);
+  const title = `${totalMatches} new under-€10 match${totalMatches === 1 ? "" : "es"} — ${date}`;
+  const body = renderBody(groups, snapshot.fetchedAt, ctx.owner);
+  await createIssue(ctx, title, body, [ctx.owner]);
+  console.log(`Filed issue: ${title}`);
 }
 
 main().catch((err) => {
