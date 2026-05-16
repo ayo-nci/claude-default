@@ -4,8 +4,20 @@ import type { DealsSnapshot } from "@repo/types";
 
 async function loadSnapshot(): Promise<DealsSnapshot> {
   const path = join(process.cwd(), "../../data/items.json");
-  const raw = await fs.readFile(path, "utf8");
-  return JSON.parse(raw) as DealsSnapshot;
+  const fallback: DealsSnapshot = {
+    fetchedAt: new Date(0).toISOString(),
+    source: "https://www.dunnesstores.com/men/clothing",
+    threshold: 10,
+    currency: "EUR",
+    items: []
+  };
+  try {
+    const raw = (await fs.readFile(path, "utf8")).trim();
+    if (!raw) return fallback;
+    return { ...fallback, ...(JSON.parse(raw) as Partial<DealsSnapshot>) } as DealsSnapshot;
+  } catch {
+    return fallback;
+  }
 }
 
 function formatPrice(price: number, currency: string): string {
