@@ -1,45 +1,67 @@
-# Dunnes Men's under €10 — monitor
+# Monitors
 
-Static site that lists items under €10 from
-https://www.dunnesstores.com/men/clothing. A scheduled GitHub Action
-re-scrapes the site, commits an updated `data/items.json`, and the
-new commit triggers a Pages redeploy.
+Two scheduled monitors, both built on the same pattern: GitHub Actions
+cron → scraper writes a JSON snapshot → diff vs previous commit → file
+a single consolidated GitHub Issue per scrape for any new matches. A
+static Next.js site renders the current snapshots.
+
+## Monitors
+
+| Source | Match | Schedule | Data | Web route |
+|---|---|---|---|---|
+| `dunnesstores.com/men/clothing` | items under €10 + your watch list | every 30 min | `data/items.json` | `/` |
+| `rent.ie/rooms-to-rent/renting_dublin` | ensuite rooms | hourly | `data/rent/listings.json` | `/rent` |
 
 ## Layout
 
 ```
 apps/
-  web/         Next.js (static export) — renders data/items.json
-  scraper/     Node script — fetches the page, writes data/items.json
-  api/         (Hono starter — unused by this app, kept as a scaffold)
+  scraper/        Dunnes scraper (VTEX catalog API)
+  scraper-rent/   rent.ie scraper (RSS via ScrapingBee) + /send responder
+  web/            Static Next.js export rendering both snapshots
 packages/
-  types/       Shared DealItem / DealsSnapshot types
-  ui/          Shared React components
-  tsconfig/    Shared tsconfig presets
+  types/          Shared DealItem / RentListing types
+  tsconfig/       Shared tsconfig presets
   eslint-config/  Shared ESLint config
+  ui/             Shared React components
 data/
-  items.json   Latest snapshot; committed by the Scrape workflow
+  items.json      Current Dunnes snapshot
+  watch.json      Dunnes watch list (edit to subscribe to keywords/IDs)
+  rent/listings.json   Current rent.ie snapshot
 .github/workflows/
-  scrape.yml   Cron job (every 30 min) — runs the scraper, commits data
-  deploy.yml   On push to main — builds the web app and deploys to Pages
+  scrape.yml         Dunnes cron + notifier
+  scrape-rent.yml    rent.ie cron + notifier
+  rent-respond.yml   /send <listing-id> reply handler
+  deploy.yml         Build + publish to GitHub Pages
 ```
+
+## Required repo secrets
+
+| Secret | Used by | What for |
+|---|---|---|
+| `SCRAPINGBEE_API_KEY` | rent.ie scraper | residential-IP proxy (free tier) |
+| `APPLICANT_NAME` | rent.ie `/send` | your name in the application draft |
+| `APPLICANT_EMAIL` | rent.ie `/send` | contact email |
+| `APPLICANT_PHONE` | rent.ie `/send` | contact phone |
+| `APPLICANT_BIO` | rent.ie `/send` | one-paragraph self-intro |
+
+`GITHUB_TOKEN` is provided automatically.
 
 ## Local
 
 ```bash
 pnpm install
-pnpm --filter @repo/scraper scrape   # writes data/items.json
-pnpm --filter @repo/web dev          # http://localhost:3000
+pnpm --filter @repo/scraper scrape         # Dunnes → data/items.json
+SCRAPINGBEE_API_KEY=... pnpm --filter @repo/scraper-rent scrape   # rent.ie
+pnpm --filter @repo/web dev                # http://localhost:3000
 ```
 
-## Enabling GitHub Pages
+## Patterns and gotchas
 
-In the repo settings:
+See [`FINDINGS.md`](./FINDINGS.md) for what we learned — the access-tier
+hierarchy (official API > RSS > scraping > headless > paid proxy), the
+ScrapingBee credit budget, the notification mistakes we made, and the
+parsing gotchas worth knowing before adding a third source.
 
-1. **Settings → Pages → Build and deployment → Source**: GitHub Actions.
-2. **Settings → Actions → General → Workflow permissions**: Read and write
-   permissions (so the scrape workflow can push data commits).
-
-Push to `main` triggers a build. The cron workflow runs every 30 minutes;
-trigger it manually via the **Actions → Scrape → Run workflow** button to
-seed the first snapshot.
+See [`BACKLOG.md`](./BACKLOG.md) for the planned Dunnes `/send`
+generator.
