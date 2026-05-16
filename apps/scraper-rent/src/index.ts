@@ -1,6 +1,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import * as cheerio from "cheerio";
+import { chromium, type Browser, type BrowserContext } from "playwright";
 import type { RentListing, RentSnapshot } from "@repo/types";
 
 const ORIGIN = "https://www.rent.ie";
@@ -13,16 +14,44 @@ const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36";
 
-async function fetchHtml(url: string): Promise<string> {
-  const res = await fetch(url, {
-    headers: {
-      "user-agent": UA,
-      accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "accept-language": "en-IE,en;q=0.9"
-    }
+let browser: Browser | null = null;
+let context: BrowserContext | null = null;
+
+async function getContext(): Promise<BrowserContext> {
+  if (context) return context;
+  browser = await chromium.launch({ headless: true });
+  context = await browser.newContext({
+    userAgent: UA,
+    locale: "en-IE",
+    viewport: { width: 1280, height: 900 },
+    extraHTTPHeaders: { "accept-language": "en-IE,en;q=0.9" }
   });
-  if (!res.ok) throw new Error(`${res.status} ${res.statusText} for ${url}`);
-  return res.text();
+  return context;
+}
+
+async function shutdown(): Promise<void> {
+  try {
+    await context?.close();
+  } finally {
+    await browser?.close();
+    context = null;
+    browser = null;
+  }
+}
+
+async function fetchHtml(url: string): Promise<string> {
+  const ctx = await getContext();
+  const page = await ctx.newPage();
+  try {
+    const response = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
+    if (!response) throw new Error(`No response for ${url}`);
+    if (!response.ok()) throw new Error(`${response.status()} ${response.statusText()} for ${url}`);
+    // give late-loading content a moment to render
+    await page.waitForLoadState("networkidle", { timeout: 8000 }).catch(() => undefined);
+    return page.content();
+  } finally {
+    await page.close();
+  }
 }
 
 function absoluteUrl(href: string | undefined): string | null {
@@ -200,7 +229,9 @@ async function main(): Promise<void> {
   console.log(`Wrote ${OUTPUT_PATH} (${listings.length} ensuite listings)`);
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+main()
+  .catch((err) => {
+    console.error(err);
+    process.exitCode = 1;
+  })
+  .finally(() => shutdown());

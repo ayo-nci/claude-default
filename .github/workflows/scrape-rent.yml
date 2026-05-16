@@ -28,6 +28,22 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      - name: Resolve Playwright version
+        id: pw
+        run: |
+          v=$(node -e "console.log(require('./apps/scraper-rent/node_modules/playwright/package.json').version)")
+          echo "version=$v" >> "$GITHUB_OUTPUT"
+
+      - name: Cache Playwright browsers
+        id: pw-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ steps.pw.outputs.version }}
+
+      - name: Install Chromium
+        run: pnpm --filter @repo/scraper-rent exec playwright install --with-deps chromium
+
       - name: Scrape listings
         run: pnpm --filter @repo/scraper-rent scrape
 
