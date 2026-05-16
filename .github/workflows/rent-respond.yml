@@ -1,0 +1,37 @@
+name: Rent /send responder
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  respond:
+    if: |
+      contains(github.event.issue.labels.*.name, 'rent-alert') &&
+      startsWith(github.event.comment.body, '/send')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Generate application draft
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          APPLICANT_NAME: ${{ secrets.APPLICANT_NAME }}
+          APPLICANT_EMAIL: ${{ secrets.APPLICANT_EMAIL }}
+          APPLICANT_PHONE: ${{ secrets.APPLICANT_PHONE }}
+          APPLICANT_BIO: ${{ secrets.APPLICANT_BIO }}
+        run: pnpm --filter @repo/scraper-rent respond

@@ -1,0 +1,50 @@
+name: Scrape rent.ie
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: scrape-rent
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Scrape listings
+        run: pnpm --filter @repo/scraper-rent scrape
+
+      - name: Notify on new ensuite listings
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pnpm --filter @repo/scraper-rent notify
+
+      - name: Commit updated listings
+        run: |
+          if git diff --quiet -- data/rent/listings.json; then
+            echo "No listing changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          count=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/rent/listings.json','utf8')).listings.length)")
+          git add data/rent/listings.json
+          git commit -m "chore(rent): refresh listings (${count} ensuite)"
+          git push

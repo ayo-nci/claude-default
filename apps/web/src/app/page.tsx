@@ -44,7 +44,7 @@ export default async function HomePage() {
         <h1 style={{ margin: 0 }}>Dunnes Men&apos;s — under {formatPrice(threshold, currency)}</h1>
         <p style={{ color: "#666", margin: "4px 0 0" }}>
           {items.length} item{items.length === 1 ? "" : "s"} · last checked {formatTime(fetchedAt)} ·{" "}
-          <a href={source}>source</a>
+          <a href={source}>source</a> · <a href={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/rent/`}>rent.ie ensuite rooms →</a>
         </p>
       </header>
 
