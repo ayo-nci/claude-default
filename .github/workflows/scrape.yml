@@ -1,0 +1,46 @@
+name: Scrape
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Run scraper
+        run: pnpm --filter @repo/scraper scrape
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- data/items.json; then
+            echo "No changes to data/items.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          count=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/items.json','utf8')).items.length)")
+          git add data/items.json
+          git commit -m "chore(data): refresh items (${count} under €10)"
+          git push

@@ -9,6 +9,7 @@
     "lint": "turbo run lint",
     "test": "turbo run test",
     "typecheck": "turbo run typecheck",
+    "scrape": "pnpm --filter @repo/scraper scrape",
     "clean": "turbo run clean && rm -rf node_modules"
   },
   "devDependencies": {

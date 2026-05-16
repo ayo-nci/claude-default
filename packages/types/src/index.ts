@@ -1,11 +1,16 @@
-export interface User {
+export interface DealItem {
   id: string;
-  email: string;
   name: string;
-  createdAt: string;
+  price: number;
+  currency: string;
+  url: string;
+  imageUrl: string | null;
 }
 
-export interface ApiError {
-  code: string;
-  message: string;
+export interface DealsSnapshot {
+  fetchedAt: string;
+  source: string;
+  threshold: number;
+  currency: string;
+  items: DealItem[];
 }
