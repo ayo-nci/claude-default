@@ -28,7 +28,9 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
-      - name: Scrape listings (RSS)
+      - name: Scrape listings (RSS via ScrapingBee)
+        env:
+          SCRAPINGBEE_API_KEY: ${{ secrets.SCRAPINGBEE_API_KEY }}
         run: pnpm --filter @repo/scraper-rent scrape
 
       - name: Notify on new ensuite listings

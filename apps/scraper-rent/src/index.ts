@@ -1,7 +1,6 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { XMLParser } from "fast-xml-parser";
-import { HeaderGenerator } from "header-generator";
 import type { RentListing, RentSnapshot } from "@repo/types";
 
 const RSS_URL = "https://rss.rent.ie/rooms-to-rent/renting_dublin/room-type_either/";
@@ -21,26 +20,22 @@ interface RssEnvelope {
   rss?: { channel?: { item?: RssItem | RssItem[] } };
 }
 
-const headerGenerator = new HeaderGenerator({
-  browsers: [{ name: "chrome", minVersion: 124 }],
-  devices: ["desktop"],
-  operatingSystems: ["macos", "windows"],
-  locales: ["en-IE", "en-GB", "en-US"]
-});
-
 async function fetchRss(): Promise<RssItem[]> {
-  const headers = headerGenerator.getHeaders({
-    httpVersion: "2",
-    operatingSystems: ["macos"]
+  const apiKey = process.env.SCRAPINGBEE_API_KEY;
+  if (!apiKey) throw new Error("SCRAPINGBEE_API_KEY missing");
+  const params = new URLSearchParams({
+    api_key: apiKey,
+    url: RSS_URL,
+    render_js: "false"
   });
-  // RSS endpoint usually expects an RSS-friendly accept, but rent.ie's
-  // edge may key on browsery accept headers — keep what the generator gives us.
-  console.log("Request headers:", JSON.stringify(headers));
-  const res = await fetch(RSS_URL, { headers });
+  const proxyUrl = `https://app.scrapingbee.com/api/v1/?${params.toString()}`;
+
+  const res = await fetch(proxyUrl);
   if (!res.ok) {
     const body = await res.text().catch(() => "");
     throw new Error(
-      `${res.status} ${res.statusText} for ${RSS_URL}` + (body ? ` — body: ${body.slice(0, 200)}` : "")
+      `ScrapingBee returned ${res.status} ${res.statusText}` +
+        (body ? ` — body: ${body.slice(0, 300)}` : "")
     );
   }
   const xml = await res.text();
