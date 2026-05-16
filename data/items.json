@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-16T22:11:27.577Z",
+  "fetchedAt": "2026-05-16T23:27:02.439Z",
   "source": "https://www.dunnesstores.com/men/clothing",
   "threshold": 10,
   "currency": "EUR",
@@ -45,6 +45,14 @@
       "imageUrl": "https://dunnesstores.vteximg.com.br/arquivos/ids/2813822/L---Black.jpg?v=639092529033830000"
     },
     {
+      "id": "439",
+      "name": "Sports Socks - Pack Of 5",
+      "price": 5,
+      "currency": "EUR",
+      "url": "https://www.dunnesstores.com/sports-socks---pack-of-5-608220/p",
+      "imageUrl": "https://dunnesstores.vteximg.com.br/arquivos/ids/1012904/6-11---Black.jpg?v=638658401809600000"
+    },
+    {
       "id": "27521",
       "name": "Regular Fit Crew Neck T-Shirt - Teal",
       "price": 5,
@@ -59,14 +67,6 @@
       "currency": "EUR",
       "url": "https://www.dunnesstores.com/regular-fit-crew-neck-t-shirt-4541124whit/p",
       "imageUrl": "https://dunnesstores.vteximg.com.br/arquivos/ids/2824060/L---White.jpg?v=639094533461000000"
-    },
-    {
-      "id": "439",
-      "name": "Sports Socks - Pack Of 5",
-      "price": 5,
-      "currency": "EUR",
-      "url": "https://www.dunnesstores.com/sports-socks---pack-of-5-608220/p",
-      "imageUrl": "https://dunnesstores.vteximg.com.br/arquivos/ids/1012904/6-11---Black.jpg?v=638658401809600000"
     },
     {
       "id": "27522",
