@@ -30,6 +30,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
           APPLICANT_NAME: ${{ secrets.APPLICANT_NAME }}
           APPLICANT_EMAIL: ${{ secrets.APPLICANT_EMAIL }}
           APPLICANT_PHONE: ${{ secrets.APPLICANT_PHONE }}

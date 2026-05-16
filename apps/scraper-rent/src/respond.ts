@@ -52,11 +52,23 @@ async function comment(ctx: GitHubContext, number: number, body: string): Promis
   if (!res.ok) throw new Error(`Comment failed: ${res.status} ${await res.text()}`);
 }
 
-function extractListingId(text: string): string | null {
-  const m = text.match(/<!--\s*listing-id:\s*(\d+)\s*-->/);
-  if (m?.[1]) return m[1];
-  const m2 = text.match(/\/rooms-to-rent\/[^/]+\/(\d{4,})/);
-  return m2?.[1] ?? null;
+function extractListingIds(text: string): string[] {
+  const ids = new Set<string>();
+  for (const m of text.matchAll(/<!--\s*listing-id:\s*(\d+)\s*-->/g)) {
+    if (m[1]) ids.add(m[1]);
+  }
+  if (ids.size === 0) {
+    for (const m of text.matchAll(/\/rooms-to-rent\/[^/]+\/(\d{4,})/g)) {
+      if (m[1]) ids.add(m[1]);
+    }
+  }
+  return [...ids];
+}
+
+function parseSendCommand(body: string): string | null {
+  const m = body.trim().match(/^\/send(?:\s+(\d+))?/i);
+  if (!m) return null;
+  return m[1] ?? "";
 }
 
 function buildMessage(listing: RentListing): string {
@@ -86,15 +98,39 @@ function buildMessage(listing: RentListing): string {
 
 async function main(): Promise<void> {
   const issueNumberStr = process.env.ISSUE_NUMBER;
+  const commentBody = process.env.COMMENT_BODY ?? "";
   if (!issueNumberStr) throw new Error("ISSUE_NUMBER env var required");
   const issueNumber = Number(issueNumberStr);
 
   const ctx = ghContext();
   const issue = await getIssue(ctx, issueNumber);
 
-  const listingId = extractListingId(issue.body) ?? extractListingId(issue.title);
-  if (!listingId) {
-    await comment(ctx, issueNumber, "⚠️ Couldn't find a listing ID in this issue — cannot generate an application.");
+  const issueIds = extractListingIds(`${issue.body}\n${issue.title}`);
+  if (issueIds.length === 0) {
+    await comment(ctx, issueNumber, "⚠️ Couldn't find any listing IDs in this issue.");
+    return;
+  }
+
+  const cmdArg = parseSendCommand(commentBody);
+  let listingId: string;
+  if (cmdArg && cmdArg.length > 0) {
+    if (!issueIds.includes(cmdArg)) {
+      await comment(
+        ctx,
+        issueNumber,
+        `⚠️ Listing \`${cmdArg}\` isn't in this issue. Pick one of: ${issueIds.map((id) => `\`${id}\``).join(", ")}.`
+      );
+      return;
+    }
+    listingId = cmdArg;
+  } else if (issueIds.length === 1) {
+    listingId = issueIds[0]!;
+  } else {
+    await comment(
+      ctx,
+      issueNumber,
+      `⚠️ This issue has ${issueIds.length} listings — reply \`/send <listing-id>\`. Options: ${issueIds.map((id) => `\`${id}\``).join(", ")}.`
+    );
     return;
   }
 
@@ -104,7 +140,7 @@ async function main(): Promise<void> {
     await comment(
       ctx,
       issueNumber,
-      `⚠️ Listing \`${listingId}\` no longer in the snapshot — it may have been removed. Try the enquiry form on ${issue.title}.`
+      `⚠️ Listing \`${listingId}\` no longer in the snapshot — it may have been removed.`
     );
     return;
   }
@@ -126,7 +162,7 @@ async function main(): Promise<void> {
     .join("\n");
 
   await comment(ctx, issueNumber, body);
-  console.log(`Posted application draft on issue #${issueNumber}`);
+  console.log(`Posted application draft for listing ${listingId} on issue #${issueNumber}`);
 }
 
 main().catch((err) => {

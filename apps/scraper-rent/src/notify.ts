@@ -66,35 +66,41 @@ async function createIssue(
     },
     body: JSON.stringify({ title, body, labels: [ISSUE_LABEL], assignees })
   });
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`Failed to create issue: ${res.status} ${text}`);
-  }
+  if (!res.ok) throw new Error(`Failed to create issue: ${res.status} ${await res.text()}`);
   const data = (await res.json()) as { number: number };
   return data.number;
 }
 
-function renderBody(listing: RentListing, mention: string): string {
+function renderListing(listing: RentListing, index: number): string {
   const lines: string[] = [];
-  lines.push(`Hey @${mention} — new ensuite listing on rent.ie:`);
-  lines.push("");
-  lines.push(`**${listing.title}**`);
+  lines.push(`### ${index}. ${listing.title}`);
   if (listing.area) lines.push(`📍 ${listing.area}`);
   if (listing.price) lines.push(`💶 ${listing.price}`);
-  if (listing.agent) lines.push(`👤 ${listing.agent}`);
-  if (listing.agentPhone) lines.push(`☎️ ${listing.agentPhone}`);
-  lines.push("");
   lines.push(`🔗 ${listing.url}`);
-  if (listing.imageUrl) lines.push(`\n![](${listing.imageUrl})`);
+  if (listing.imageUrl) lines.push(`\n<img src="${listing.imageUrl}" width="320">\n`);
   if (listing.description) {
     lines.push("");
-    lines.push(`> ${listing.description.slice(0, 800)}${listing.description.length > 800 ? "…" : ""}`);
+    lines.push(`> ${listing.description.slice(0, 600)}${listing.description.length > 600 ? "…" : ""}`);
   }
   lines.push("");
-  lines.push(`<sub>Reply \`/send\` to generate a templated application message you can copy into the listing's enquiry form.</sub>`);
-  lines.push("");
+  lines.push(`💬 Reply \`/send ${listing.id}\` to draft an application for this one.`);
   lines.push(`<!-- listing-id: ${listing.id} -->`);
   return lines.join("\n");
+}
+
+function renderBody(listings: RentListing[], mention: string): string {
+  const blocks = listings.map((l, i) => renderListing(l, i + 1)).join("\n\n---\n\n");
+  return [
+    `Hey @${mention} — ${listings.length} new ensuite listing${listings.length === 1 ? "" : "s"} on rent.ie:`,
+    "",
+    blocks,
+    "",
+    "---",
+    "",
+    listings.length === 1
+      ? "Reply `/send` (or `/send " + listings[0]!.id + "`) to draft an application."
+      : "Reply `/send <listing-id>` (e.g. `/send " + listings[0]!.id + "`) to draft an application for a specific listing."
+  ].join("\n");
 }
 
 async function main(): Promise<void> {
@@ -110,18 +116,17 @@ async function main(): Promise<void> {
 
   const ctx = ghContext();
   if (!ctx) {
-    console.log("Dry run — would file these issues:");
+    console.log(`Dry run — would file 1 issue with ${newListings.length} listing(s):`);
     for (const l of newListings) console.log(`  ${l.id} — ${l.title}`);
     return;
   }
 
   await ensureLabel(ctx);
-  for (const listing of newListings) {
-    const title = `[rent] ${listing.title}${listing.price ? ` — ${listing.price}` : ""}`;
-    const body = renderBody(listing, ctx.owner);
-    const num = await createIssue(ctx, title, body, [ctx.owner]);
-    console.log(`  filed #${num}: ${title}`);
-  }
+  const date = new Date(snapshot.fetchedAt).toISOString().replace("T", " ").slice(0, 16);
+  const title = `${newListings.length} new ensuite room${newListings.length === 1 ? "" : "s"} — ${date}`;
+  const body = renderBody(newListings, ctx.owner);
+  const num = await createIssue(ctx, title, body, [ctx.owner]);
+  console.log(`Filed issue #${num}: ${title}`);
 }
 
 main().catch((err) => {
