@@ -1,7 +1,24 @@
 {
-  "fetchedAt": "1970-01-01T00:00:00.000Z",
+  "fetchedAt": "2026-05-16T20:22:51.596Z",
   "source": "https://www.dunnesstores.com/men/clothing",
   "threshold": 10,
   "currency": "EUR",
-  "items": []
+  "items": [
+    {
+      "id": "198110",
+      "name": "Regular Fit Cotton Crew Neck T-Shirt - Light Pink",
+      "price": 5,
+      "currency": "EUR",
+      "url": "https://www.dunnesstores.com",
+      "imageUrl": "https://dunnesstores.vtexassets.com/arquivos/ids/2965816/4541142_light-pink.jpg?v=639141851443700000"
+    },
+    {
+      "id": "195402",
+      "name": "Blue Woven Swim Shorts",
+      "price": 8,
+      "currency": "EUR",
+      "url": "https://www.dunnesstores.com",
+      "imageUrl": "https://dunnesstores.vtexassets.com/arquivos/ids/2869624/L---Blue.jpg?v=639106449171130000"
+    }
+  ]
 }
