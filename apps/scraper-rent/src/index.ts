@@ -27,7 +27,8 @@ async function fetchRss(): Promise<RssItem[]> {
   const params = new URLSearchParams({
     api_key: apiKey,
     url: RSS_URL,
-    render_js: "false"
+    // render_js costs 5 credits but rent.ie's basic proxy started 500ing.
+    render_js: "true"
   });
   const proxyUrl = `https://app.scrapingbee.com/api/v1/?${params.toString()}`;
 

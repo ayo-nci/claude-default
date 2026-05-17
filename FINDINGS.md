@@ -52,12 +52,18 @@ Check | Rent`), and even headless Chromium failed it — needed ScrapingBee.
 | GitHub Pages | Free for public | Per-deploy build | Free |
 
 **Rules of thumb:**
-- Half-hourly = 1,440 calls/month → over the ScrapingBee free tier.
-- Hourly = ~730 calls/month → safe with retry headroom.
-- `render_js=true` costs 10 credits (10× more). Avoid unless required
-  for the data you need.
-- `premium_proxy=true` costs 25 credits (25×). Only enable if `render_js`
-  with basic proxy still 403s.
+- Half-hourly = 1,440 calls/month → over the ScrapingBee free tier
+  even with basic 1-credit calls.
+- `render_js=true` costs 5 credits/call. Hourly = 3,600/mo (over);
+  every 4 hours = 900/mo (safe).
+- `premium_proxy=true` costs 25 credits/call. Only enable if
+  `render_js=true` still fails.
+
+**rent.ie evolution.** Started on free basic proxy (1 credit). Within
+a few days the basic proxy started returning ScrapingBee 500s on
+rent.ie — they'd tightened. Switched to `render_js=true` + every-4-hours
+cron, which holds. Expect this kind of erosion on any protected target
+over time; budget for one tier escalation.
 
 ## Notification patterns
 

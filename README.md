@@ -2,15 +2,14 @@
 
 Two scheduled monitors, both built on the same pattern: GitHub Actions
 cron → scraper writes a JSON snapshot → diff vs previous commit → file
-a single consolidated GitHub Issue per scrape for any new matches. A
-static Next.js site renders the current snapshots.
+a single consolidated GitHub Issue per scrape for any new matches.
 
 ## Monitors
 
-| Source | Match | Schedule | Data | Web route |
-|---|---|---|---|---|
-| `dunnesstores.com/men/clothing` | items under €10 + your watch list | every 30 min | `data/items.json` | `/` |
-| `rent.ie/rooms-to-rent/renting_dublin` | ensuite rooms | hourly | `data/rent/listings.json` | `/rent` |
+| Source | Match | Schedule | Data |
+|---|---|---|---|
+| `dunnesstores.com/men/clothing` | items under €10 + your watch list | every 30 min | `data/items.json` |
+| `rent.ie/rooms-to-rent/renting_dublin` | ensuite rooms | every 4 hours | `data/rent/listings.json` |
 
 ## Layout
 
@@ -18,7 +17,7 @@ static Next.js site renders the current snapshots.
 apps/
   scraper/        Dunnes scraper (VTEX catalog API)
   scraper-rent/   rent.ie scraper (RSS via ScrapingBee) + /send responder
-  web/            Static Next.js export rendering both snapshots
+  web/            Static Next.js export (not deployed; kept for local previews)
 packages/
   types/          Shared DealItem / RentListing types
   tsconfig/       Shared tsconfig presets
@@ -32,7 +31,6 @@ data/
   scrape.yml         Dunnes cron + notifier
   scrape-rent.yml    rent.ie cron + notifier
   rent-respond.yml   /send <listing-id> reply handler
-  deploy.yml         Build + publish to GitHub Pages
 ```
 
 ## Required repo secrets
