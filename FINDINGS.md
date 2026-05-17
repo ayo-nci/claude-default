@@ -61,9 +61,18 @@ Check | Rent`), and even headless Chromium failed it — needed ScrapingBee.
 
 **rent.ie evolution.** Started on free basic proxy (1 credit). Within
 a few days the basic proxy started returning ScrapingBee 500s on
-rent.ie — they'd tightened. Switched to `render_js=true` + every-4-hours
-cron, which holds. Expect this kind of erosion on any protected target
-over time; budget for one tier escalation.
+rent.ie — they'd tightened. Escalation path that worked:
+
+1. `render_js=true` (5 credits) — held briefly, then 500s returned.
+2. `render_js=true` + `block_resources=false` (still 5 credits) —
+   stable. ScrapingBee blocks images/css/fonts by default when
+   rendering JS to save bandwidth; rent.ie's anti-bot was checking
+   they loaded.
+
+If this also erodes, the next escalation is `premium_proxy=true`
+(25 credits), which forces dropping the cron to once per ~18h to
+stay under the 1,000-credit free tier. Expect this kind of erosion
+on any protected target over time; budget for two tier escalations.
 
 ## Notification patterns
 
