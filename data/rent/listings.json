@@ -1,30 +1,42 @@
 {
-  "fetchedAt": "2026-05-17T09:44:30.729Z",
+  "fetchedAt": "2026-05-18T14:49:11.481Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6573289",
-      "url": "https://www.rent.ie/rooms-to-rent/Clontarf-Road-Clontarf-Dublin-3/6573289/",
-      "title": "Clontarf Road, Clontarf, Dublin 3",
-      "price": "€280",
-      "area": "Clontarf, Dublin 3",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvNFwvZjRhM2YyNzAtMjc1Yy00NzQ4LWJkMDctNGQ4ZWJlOWRkMjFmLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=89d3d15c096e27f2cd611db43f0131fbaeb6f2ff86ff4e4dcb463909b0aeb46c",
-      "description": "Double Bedroom Ensuite €280 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
+      "id": "6574119",
+      "url": "https://www.rent.ie/rooms-to-rent/1-Saint-Michaels-Terrace-Dun-Laoghaire-Co-Dubli-Monkstown-Co-Dublin/6574119/",
+      "title": "1 Saint Michaels Terrace, Dun Laoghaire, Co. Dubli, Monkstown, Co. Dublin",
+      "price": "€1,200 monthly",
+      "area": "Dun Laoghaire, Co. Dubli, Monkstown, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvYlwvNmIxNGUzZGYtNDQzZi00YjUwLTk4ZDMtZmQyODEyYTIzOGZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6fd4f8098d45cd9cb52358cce1db36030604b275d56c093ab18b1c0e1a5d8e45",
+      "description": "Double Bedroom Ensuite €1,200 monthly Owner Occupied Available 1st June - A lovely independent studio room in a superb location in central Dun Laoghaire. It has its own entrance, its own bathroom and a covered decking space for sitting outside. All bil... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-17T09:44:30.729Z"
+      "firstSeenAt": "2026-05-18T14:49:11.481Z"
     },
     {
-      "id": "6573290",
-      "url": "https://www.rent.ie/rooms-to-rent/Foxwood-Lucan-Co-Dublin/6573290/",
-      "title": "Foxwood, Lucan, Co. Dublin",
-      "price": "€140",
-      "area": "Lucan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMFwvNjBkZmYyYmMtZTc2Yy00N2NmLThhYmUtNjczNGI4OWQ5MjZlLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=4235892790c019374a4bf031b922c6ec5641059c4d1b41cf5d0bd0544ddc1697",
-      "description": "Double Bedroom Ensuite €140 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 17th September - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
+      "id": "6574224",
+      "url": "https://www.rent.ie/rooms-to-rent/Mariners-Way-Rush-Co-Dublin-Rush-Co-Dublin/6574224/",
+      "title": "Mariners Way, Rush, Co. Dublin, Rush, Co. Dublin",
+      "price": "€950 monthly",
+      "area": "Rush, Co. Dublin, Rush, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvM1wvNzM1ZTVlZjEtOTUxOS00MzI4LWE5OGYtYjZlYWRiZGI3ODMwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=33a6e998c4da56dc3de4eff077dd58cf3c670c1891c9dda0cfcdc7ca39796d1a",
+      "description": "Double Bedroom Ensuite €950 monthly Owner Occupied Available 20th June - Double Room with en-suite - Mariners Way, Rush '950 per month - rent includes bills You will be sharing the house with one person (female). Strictly no pets or smoking. One m... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-17T09:44:30.729Z"
+      "firstSeenAt": "2026-05-18T14:49:11.481Z"
+    },
+    {
+      "id": "6574300",
+      "url": "https://www.rent.ie/rooms-to-rent/Charlottehoney-Parkdun-Laoghaireco-Dublin-Dun-Laoghaire-Co-Dublin/6574300/",
+      "title": "Charlotte,honey Park,dun Laoghaire,co. Dublin, Dun Laoghaire, Co. Dublin",
+      "price": "€1,200 monthly",
+      "area": "honey Park, dun Laoghaire, co. Dublin, Dun Laoghaire, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvZFwvNWRlY2IxM2QtZmQ4MS00N2E5LTk3MzAtN2IwMGFhNzJmODAxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d228614d31c74256bcec0290d1143d8a8c21eca25df7219359472135f798e7dd",
+      "description": "Double Bedroom Ensuite €1,200 monthly Available 1st July - Hi, i am Olamide. I am Looking for a peace-loving, non smoking female housemate to take up the second room in a two bedroom apartment at Charlotte honeypark. Offering a modern En... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-05-18T14:49:11.481Z"
     }
   ]
 }
