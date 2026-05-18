@@ -1,7 +1,19 @@
 {
-  "fetchedAt": "2026-05-18T14:49:11.481Z",
+  "fetchedAt": "2026-05-18T17:50:46.009Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
+    {
+      "id": "6574360",
+      "url": "https://www.rent.ie/rooms-to-rent/Kilmainham-Village-Suir-Road-Luas-Tram-Stop-Kilmainham-Dublin-8/6574360/",
+      "title": "Kilmainham Village Suir Road Luas Tram Stop, Kilmainham, Dublin 8",
+      "price": "€1,000 monthly",
+      "area": "Kilmainham, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvYlwvZGIxMmFmNmZhNzM0NjY3YzEyMThlODZjNDNkMGFjMWUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=65dd3617db57b4a38169abfea4fdf9c22ed1e8a73266293d7d9c3eb600b5c1b5",
+      "description": "Double Bedroom Ensuite €1,000 monthly - Twin Bedroom Ensuite €1,000 monthly Available 22nd May - Double room room available for 9-10 month or 1year+ . 0ne min walk from Suir road Luas tram stop and bus stop to City centre etc . 5 min walk Kilmainham Village centre . The house is... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-05-18T17:50:46.009Z"
+    },
     {
       "id": "6574119",
       "url": "https://www.rent.ie/rooms-to-rent/1-Saint-Michaels-Terrace-Dun-Laoghaire-Co-Dubli-Monkstown-Co-Dublin/6574119/",
