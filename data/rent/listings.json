@@ -1,66 +1,42 @@
 {
-  "fetchedAt": "2026-05-21T21:20:21.542Z",
+  "fetchedAt": "2026-05-23T01:48:52.458Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6577773",
-      "url": "https://www.rent.ie/rooms-to-rent/Hunters-Hall-Hunters-Place-Hunters-Woodballycullen-Dublin-24-Firhouse-Dublin-24/6577773/",
-      "title": "Hunters Hall, Hunters Place, Hunters Wood,ballycullen Dublin 24, Firhouse, Dublin 24",
-      "price": "€1,000 monthly",
-      "area": "Hunters Place, Hunters Wood, ballycullen Dublin 24, Firhouse, Dublin 24",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvOFwvNjhjMDkyMDItNDgxYi00NWEwLWEzNjktZjc0MDliMTZlZjU5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f92cf09bf3734473959699b6b2c68036b8a2472073a2471fd696b41901c550b5",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 1st June - Bright & Modern 3 Bed Apartment Share in Hunterswood, D24 – Only Sharing with 1 Other The Room & The Apartment 3 - Bed Apartment with 2 Bathrooms, Kitchen / Living Area and Big... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-21T21:20:21.542Z"
-    },
-    {
-      "id": "6577834",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-4-Pakenham-House-Spencer-Dock-Dublin-IFSC-Dublin-1/6577834/",
-      "title": "Apartment 4, Pakenham House, Spencer Dock, Dublin, IFSC, Dublin 1",
-      "price": "€1,100 monthly",
-      "area": "Pakenham House, Spencer Dock, Dublin, IFSC, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvNlwvOTY4ZGU1NWUtMTMzOC00OTQ0LTkzZDktYmM5OWQ0YThjMzQwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e6ddeb438db27d8136fb998415615b5490a6825980170726f8091bd2ad70987c",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 23rd May - HI there This is a two-bed apartment in the very sought-after development of Spencer Dock. It is 1 minute walk to the Soencer Dock Luas red line stop, and 1 minute walk to the local ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-21T21:20:21.542Z"
-    },
-    {
-      "id": "6577840",
-      "url": "https://www.rent.ie/rooms-to-rent/4-The-Drive-Citywest-Demesne-Dublin-24-Citywest-Co-Dublin/6577840/",
-      "title": "4 The Drive, Citywest Demesne, Dublin 24, Citywest, Co. Dublin",
+      "id": "6578444",
+      "url": "https://www.rent.ie/rooms-to-rent/Clonard-Roaddublin-12-Crumlin-Dublin-12/6578444/",
+      "title": "Clonard Road,dublin 12, Crumlin, Dublin 12",
       "price": "€1,200 monthly",
-      "area": "Citywest Demesne, Dublin 24, Citywest, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvYlwvOGI0YTkwNGUtMmNhNi00MzgwLTlkMGEtMjc5ODI2N2Y5NTAxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=78f8792a4907bc2ef6b678e278599ba95b7a54692769a8959ea2f56528e43a63",
-      "description": "Double Bedroom Ensuite €1,200 monthly Available 1st June - *Long Term Accommodation for female/ couple in a spacious en-suite double Bedroom* Citywest Demesne, City West Shopping Centre Spacious fully furnished double room + pr... View full ad on Rent.ie",
+      "area": "dublin 12, Crumlin, Dublin 12",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvM1wvNDMwOTFmZjMtZGY3MC00ZjNhLWI2YzEtNTQwZDcwMTZlYWJhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2e088c4f3bc9333fe53da6408f3754b575db5e9ead74fb56ddef916d7928adb5",
+      "description": "Double Bedroom Ensuite €1,200 monthly Available Now - Bright double room with private bathroom available in this recently renovated, high-spec house on Clonard Road, Kimmage/Crumlin. The property was finished to a very high sta... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-21T21:20:21.542Z"
+      "firstSeenAt": "2026-05-23T01:48:52.458Z"
     },
     {
-      "id": "6577881",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-85-Millrace-Road-Phoenix-Park-Racecour-Navan-Road-D7-Dublin-7/6577881/",
-      "title": "Apartment 85, Millrace Road, Phoenix Park Racecour, Navan Road (D7), Dublin 7",
-      "price": "€1,200 monthly",
-      "area": "Millrace Road, Phoenix Park Racecour, Navan Road (D7), Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvYVwvNWE3MDU3ODktMzBlNS00OGNhLTlmY2UtMGRjYzA4ZTYxYzE0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0fec77a00917f3d0c9281bcf258b47aa2f3a3bb3b52dcbd6686eb4f833e5e5e1",
-      "description": "Double Bedroom Ensuite €1,200 monthly Available 25th May - This luxurious property is located in castleknock and is right beside the pheonix park. It is located 3 minutes from the blanchardstown centre and 5 minutes from the city centre. There are 5 major bus routes and a train service within 3 minutes walk from the property. The property is a corner Appartment and so has a big double balc... View full ad on Rent.ie",
+      "id": "6578767",
+      "url": "https://www.rent.ie/rooms-to-rent/Moylaragh-Drivebalbrigganco-Dublin-Balbriggan-Co-Dublin/6578767/",
+      "title": "Moylaragh Drive,balbriggan,co. Dublin, Balbriggan, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "balbriggan, co. Dublin, Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvZlwvY2Y4YjEwZWEtZDc5My00YjJlLTg5YjYtMmM4NDMyNGJiYTc3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=67180e7b864aa0517c5455eb98e1335e5d214f19e86313de3effad82ee2e4edf",
+      "description": "Double Bedroom Ensuite €900 monthly - Double Bedroom €850 monthly - Single Bedroom €650 monthly Owner Occupied Available 16th June - Beautiful large 3-bedroom end terrace house located in a quiet and friendly neighbourhood in Balbriggan. Property Features:• Large bright living room• Spacious dining ro... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-21T21:20:21.542Z"
+      "firstSeenAt": "2026-05-23T01:48:52.458Z"
     },
     {
-      "id": "6577924",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-121-The-Crannoacuteg-Granitefield-Manor-Ro-Glenageary-Co-Dublin/6577924/",
-      "title": "Apartment 121, The Crann&oacute;g, Granitefield Manor, Ro, Glenageary, Co. Dublin",
-      "price": "€1,200 monthly",
-      "area": "The Crann&oacute;g, Granitefield Manor, Ro, Glenageary, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvOVwvNDlhODAwODUtYTQzOC00OGRlLTkzMTYtZjlhMTBjYjY3YTU0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0bb13d764847de6ac5dc39f45176230990541674016b5945e3b825f73903f316",
-      "description": "Double Bedroom Ensuite €1,200 monthly - Double Bedroom €1,150 monthly Available 3rd June - Safe and peaceful. Doorstep to Killiney Shopping Centre and bus stop. View full ad on Rent.ie",
+      "id": "6578854",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-Barrington-Building-Cherrywood-Avenue-Dublin-18-Cherrywood-Co-Dublin/6578854/",
+      "title": "Apartment, Barrington Building, Cherrywood Avenue, Dublin 18, Cherrywood, Co. Dublin",
+      "price": "€1,358 monthly",
+      "area": "Barrington Building, Cherrywood Avenue, Dublin 18, Cherrywood, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNVwvNTVkN2ZhYmQtMjgwZC00NGQ1LWJjNTQtNGM4ZWI4MjM0MmJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=aa5143f7eed209a95f69bcb21b41e962a4f0b4b2d6fd3060f4c1164b1d78786b",
+      "description": "Double Bedroom Ensuite €1,358 monthly Available 15th June - Permanent accommodation available • Location: Hali, Cherrywood, Dublin 18 • Available From: 15th June 2026 Property Details • 2 Bedroom | 2 Bathroom Apartment (Total) • ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-21T21:20:21.542Z"
+      "firstSeenAt": "2026-05-23T01:48:52.458Z"
     }
   ]
 }
