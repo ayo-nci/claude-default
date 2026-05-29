@@ -1,66 +1,42 @@
 {
-  "fetchedAt": "2026-05-28T07:45:28.391Z",
+  "fetchedAt": "2026-05-29T14:37:02.636Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6582700",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-68-Chapelgate-Saint-Alphonsus-Road-Up-Drumcondra-Dublin-9/6582700/",
-      "title": "Apartment 68, Chapelgate, Saint Alphonsus' Road Up, Drumcondra, Dublin 9",
-      "price": "€1,000 monthly",
-      "area": "Chapelgate, Saint Alphonsus' Road Up, Drumcondra, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvZVwvN2U1MGQ1ZTgtOWQ0My00NDM5LWJhNGYtMjBiYzE1NTFmOWZkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4aaae8c528f875760b3eb3d94875e9d02a9170340497cba99ccb4be1dbce6547",
-      "description": "Single Bedroom Ensuite €1,000 monthly Available 1st June - Room for Rent in Charming Walled Complex with Garden – Dublin 9 Location: Chapelgate, Alphonsus St Upper, Drumcondra, Dublin 9, D09CVO9 Features: Accommodation: You will be renting a spacious room and a private bathroom in a beautiful, well-maintained walled complex featuring a serene garden. Amenities: Centrally lo... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-28T07:45:28.391Z"
-    },
-    {
-      "id": "6582464",
-      "url": "https://www.rent.ie/rooms-to-rent/14-Wilkins-View-Dublin-12-Greenhills-Dublin-12/6582464/",
-      "title": "14 Wilkins View, Dublin 12, Greenhills, Dublin 12",
-      "price": "€1,165 monthly",
-      "area": "Dublin 12, Greenhills, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvNlwvZjZlYmExMjYtNjBlZS00MWQyLTkwNjItYWNlZjZiMzBhNzg5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0613991aee7bcfd08f6d1e987fc413909138e401db295d6e7acbe7969899848d",
-      "description": "Double Bedroom Ensuite €1,165 monthly Owner Occupied Available 22nd June - Spacious ensuite room - Monday to Friday - Walkinstown, close to Templeogue and limekiln. Ideal for quiet professional working in Dublin during the week. Features Private en... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-28T01:45:44.707Z"
-    },
-    {
-      "id": "6582627",
-      "url": "https://www.rent.ie/rooms-to-rent/Mornington-Roaddublin-6-Ranelagh-Dublin-6/6582627/",
-      "title": "Mornington Road,dublin 6, Ranelagh, Dublin 6",
-      "price": "€470",
-      "area": "dublin 6, Ranelagh, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMFwvYjA4ZGRhYzctYTZlZC00ZGRmLWIwNjEtYTEyZjA0OGJhNmNjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4f630f2df2fb207680bb39e495c1e2da241a6565645935ba9e146744465a547c",
-      "description": "Double Bedroom Ensuite €470 weekly Owner Occupied Available 1st June - Available for June, July and August only. A beautifully refurbished, fully self-contained private studio in the heart of Ranelagh, offering modern, comfortable and fully ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-28T01:45:44.707Z"
-    },
-    {
-      "id": "6572461",
-      "url": "https://www.rent.ie/rooms-to-rent/Ashdale-Avenue-Terenure-Dublin-6/6572461/",
-      "title": "Ashdale Avenue, Terenure, Dublin 6",
-      "price": "€765 monthly",
-      "area": "Terenure, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvMlwvMzIyZTEyMTQ5ZmQwN2JmYWMwOTRhZjAyMzkwYWY0NjQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=4ebd247facedefa76aa68968290c0da510c79ecef77d47d3a4211c40f3982577",
-      "description": "Double Bedroom Ensuite €765 monthly Available 8th June - Looking for a housemate, for a house share with 4 easy-going professionals, 2 girls and 2 guys. Double bedroom with own ensuite on 1st floor. The house has a large kitchen and di... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-28T01:45:44.707Z"
-    },
-    {
-      "id": "6582682",
-      "url": "https://www.rent.ie/rooms-to-rent/Obelisk-Walk-Blackrock-Stillorgan-Co-Dublin/6582682/",
-      "title": "Obelisk Walk, Blackrock, Stillorgan, Co. Dublin",
+      "id": "6584004",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Courtyard-Clonsilla-Road-Dublin-15-Porterstown-Dublin-15/6584004/",
+      "title": "The Courtyard, Clonsilla Road, Dublin 15, Porterstown, Dublin 15",
       "price": "€1,100 monthly",
-      "area": "Blackrock, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvNFwvNDQwYjExMTYtZGZiZS00Y2E1LTk5NWMtMTZiN2NhZmFhMDA2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=eabeef6a619166cf9dd0ac510b5e80327ff6390fc3da3ff41da209bf64bd5377",
-      "description": "Single Bedroom Ensuite €1,100 monthly Available 1st July - Detached house located in St. Augustines park. The location is second to none being close to a host of great amenities. Blackrock and Stillorgan Villages are both a short walk aw... View full ad on Rent.ie",
+      "area": "Clonsilla Road, Dublin 15, Porterstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvMlwvOTI0MmFjMjEtMmJmZi00ZTNmLTljYmMtZmE2MTlhOGY5OTI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a6912f598746832082830b07a822e24fa13fc4fb7a0f4569f9900e3ec9475062",
+      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 18th July - Happy home with a small dog, LGBTQ+ friendly I work in software and from home a lot Shopping centre, cafes, pub, gym, garages, bus and train nearby :) We are Irish and Brazil... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-28T01:45:44.707Z"
+      "firstSeenAt": "2026-05-29T14:37:02.636Z"
+    },
+    {
+      "id": "6584029",
+      "url": "https://www.rent.ie/rooms-to-rent/Whitehall-Road-East-Terenure-Dublin-6/6584029/",
+      "title": "Whitehall Road East, Terenure, Dublin 6",
+      "price": "€875 monthly",
+      "area": "Terenure, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvNVwvZjUyNGI3ZGEtMDMyNi00OGJjLWE5ZTgtODRjZjY4ZWQzZGJhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f1b23cc3c900c7626409b851f421db45b0e7d58e45f6b37cf03543e4944a32de",
+      "description": "Single Bedroom Ensuite €875 monthly Owner Occupied Available 31st May - one single with private bathroom. The price includes, all bills, gas, heating, electric and internet access etc.bus stop outside of house. The bus service is excellent and it t... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-05-29T14:37:02.636Z"
+    },
+    {
+      "id": "6584308",
+      "url": "https://www.rent.ie/rooms-to-rent/278-Keeper-Road-Dublin-12-Rialto-Dublin-8/6584308/",
+      "title": "278 Keeper Road, Dublin 12, Rialto, Dublin 8",
+      "price": "€275",
+      "area": "Dublin 12, Rialto, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvNlwvMDY2MjI5YzktYjc0OS00MDg5LWI4MzEtNWVlMDcwZDc3ZTZhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=08649b58850d518a8b57fd9decaaa68bf35e635538ba326cdf793b29ace7243c",
+      "description": "Double Bedroom Ensuite €275 weekly Owner Occupied Available 28th June - Double room available to rent from end of June 2026 in a recently renovated four-bedroom house. The room itself has ample storage. The house comprises of an open-plan sitting ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-05-29T14:37:02.636Z"
     }
   ]
 }
