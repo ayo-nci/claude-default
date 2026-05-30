@@ -1,42 +1,30 @@
 {
-  "fetchedAt": "2026-05-29T14:37:02.636Z",
+  "fetchedAt": "2026-05-30T06:38:48.459Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6584004",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Courtyard-Clonsilla-Road-Dublin-15-Porterstown-Dublin-15/6584004/",
-      "title": "The Courtyard, Clonsilla Road, Dublin 15, Porterstown, Dublin 15",
-      "price": "€1,100 monthly",
-      "area": "Clonsilla Road, Dublin 15, Porterstown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvMlwvOTI0MmFjMjEtMmJmZi00ZTNmLTljYmMtZmE2MTlhOGY5OTI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a6912f598746832082830b07a822e24fa13fc4fb7a0f4569f9900e3ec9475062",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 18th July - Happy home with a small dog, LGBTQ+ friendly I work in software and from home a lot Shopping centre, cafes, pub, gym, garages, bus and train nearby :) We are Irish and Brazil... View full ad on Rent.ie",
+      "id": "6584636",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-87-Whatley-Hall-Archerswood-Dublin-15-Huntstown-Dublin-15/6584636/",
+      "title": "Apartment 87, Whatley Hall, Archerswood, Dublin 15, Huntstown, Dublin 15",
+      "price": "€850 monthly",
+      "area": "Whatley Hall, Archerswood, Dublin 15, Huntstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvN1wvZjdmNzM0NTctZDg4Yi00YmM3LWJkZDktNzE4ZDAxZjIzOGJiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7e031419f2978e2684a5d5f3190272a4556c903a83e98e940bebeffacd6cbbd2",
+      "description": "Double Bedroom Ensuite €850 monthly Owner Occupied Available Now - Lovely apartment Beautiful place to live surrounded by trees and park Close to 3 buses to city Just great View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-29T14:37:02.636Z"
+      "firstSeenAt": "2026-05-30T06:38:48.459Z"
     },
     {
-      "id": "6584029",
-      "url": "https://www.rent.ie/rooms-to-rent/Whitehall-Road-East-Terenure-Dublin-6/6584029/",
-      "title": "Whitehall Road East, Terenure, Dublin 6",
-      "price": "€875 monthly",
-      "area": "Terenure, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvNVwvZjUyNGI3ZGEtMDMyNi00OGJjLWE5ZTgtODRjZjY4ZWQzZGJhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f1b23cc3c900c7626409b851f421db45b0e7d58e45f6b37cf03543e4944a32de",
-      "description": "Single Bedroom Ensuite €875 monthly Owner Occupied Available 31st May - one single with private bathroom. The price includes, all bills, gas, heating, electric and internet access etc.bus stop outside of house. The bus service is excellent and it t... View full ad on Rent.ie",
+      "id": "6584755",
+      "url": "https://www.rent.ie/rooms-to-rent/Dublin-15-Near-Clonsilla-Train-Station-Clonsilla-Dublin-15/6584755/",
+      "title": "Dublin 15 Near Clonsilla Train Station, Clonsilla, Dublin 15",
+      "price": "€750 monthly",
+      "area": "Clonsilla, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvMVwvOTEzYWM4ZjItYjcyYy00YTJhLTlkNjktYjcyYTU4MjAzNGQ3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9e04a5ee0cd4670f084f20823686e17657b4520bb86a10e9a592ca6103869148",
+      "description": "Double Bedroom Ensuite €750 monthly Owner Occupied Available 1st June - 2-bedroom, 2-bathroom house available from 1 June to 15 September. Conveniently located near Clonsilla Train Station — only 40 minutes to Dublin city centre. Just a 4-minute... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-29T14:37:02.636Z"
-    },
-    {
-      "id": "6584308",
-      "url": "https://www.rent.ie/rooms-to-rent/278-Keeper-Road-Dublin-12-Rialto-Dublin-8/6584308/",
-      "title": "278 Keeper Road, Dublin 12, Rialto, Dublin 8",
-      "price": "€275",
-      "area": "Dublin 12, Rialto, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvNlwvMDY2MjI5YzktYjc0OS00MDg5LWI4MzEtNWVlMDcwZDc3ZTZhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=08649b58850d518a8b57fd9decaaa68bf35e635538ba326cdf793b29ace7243c",
-      "description": "Double Bedroom Ensuite €275 weekly Owner Occupied Available 28th June - Double room available to rent from end of June 2026 in a recently renovated four-bedroom house. The room itself has ample storage. The house comprises of an open-plan sitting ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-29T14:37:02.636Z"
+      "firstSeenAt": "2026-05-30T06:38:48.459Z"
     }
   ]
 }
