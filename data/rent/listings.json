@@ -1,78 +1,54 @@
 {
-  "fetchedAt": "2026-05-31T16:52:46.637Z",
+  "fetchedAt": "2026-06-02T19:34:10.982Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6585134",
-      "url": "https://www.rent.ie/rooms-to-rent/Off-Grey-Street-The-Coombe-Dublin-8/6585134/",
-      "title": "Off Grey Street, The Coombe, Dublin 8",
-      "price": "€1,500 monthly",
-      "area": "The Coombe, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvZVwvNWUxMDAyOTYtZGZiNi00ZDFlLWE4MjItYzBkYmZhZjk1YWQ0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cae56bbe93cf18c0f9e95911ff8ef2aac8c51fd46f46d33c841c23fb5b985f15",
-      "description": "Double Bedroom Ensuite €1,500 monthly Available 1st July - ***Short Term Let for July and August - Entire home available*** Lovely 1 Bedroom cottage in a quiet residential square inthe heart of The Liberties. Recently renovated to a h... View full ad on Rent.ie",
+      "id": "6586684",
+      "url": "https://www.rent.ie/rooms-to-rent/Ferndale-Avenuedublin-11-Finglas-Dublin-11/6586684/",
+      "title": "Ferndale Avenue,dublin 11, Finglas, Dublin 11",
+      "price": "€995 monthly",
+      "area": "dublin 11, Finglas, Dublin 11",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvM1wvOTM2YWIyODctNmEyMC00MzEyLWEzM2YtODc0MjRhNDU2NTdlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5cbb95bea842aa63db463683aad9da877c547f8ee83de9cdb7f6507730a8ad5c",
+      "description": "Single Bedroom Ensuite €995 monthly Available 14th June - Room with own en-suite to rent in shared home. Sitting room, kitchen and gardens are communal. Included in the bills is WiFi, bins and electricity in common areas (exception of washing machine) fair usage apply. Each bedroom has its own electricity supply so you only pay for the electricity you use. Recently renovated so the applia... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-31T16:52:46.637Z"
+      "firstSeenAt": "2026-06-02T19:34:10.982Z"
     },
     {
-      "id": "6585163",
-      "url": "https://www.rent.ie/rooms-to-rent/Move-In-Ready---Modern-Ensuite-Room-In-2-Bed-Room-Apartment-IFSC-Dublin-1/6585163/",
-      "title": "Move In Ready - Modern Ensuite Room In 2 Bed Room Apartment, IFSC, Dublin 1",
-      "price": "€1,760 monthly",
-      "area": "IFSC, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMVwvYjE3Yzk2YjQtNDU4MC00Zjc2LTliYjgtMjY2ZDllYmIzZTYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cbd750497203f05055acefc806a42130108e8711a38fdca33ddcfe7212a7ba20",
-      "description": "Double Bedroom Ensuite €1,760 monthly Available 1st June - Hi everyone! (Short term available) • Room + bathroom at Quayside Quarter • starting 01.06 - flexible • Rent: '1,790 to be paid on the 1st of each month • Utilities:... View full ad on Rent.ie",
+      "id": "6586768",
+      "url": "https://www.rent.ie/rooms-to-rent/Hazelhatch-Newcastle-Co-Dublin/6586768/",
+      "title": "Hazelhatch, Newcastle, Co. Dublin",
+      "price": "€150",
+      "area": "Newcastle, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvOFwvOThiNDc1ZmI2Njc4MWZmODhhYTMwOGU3NzUzMGNlYWYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=850677439fdad4235628eafe26044ac16ec040eaaedf9f23c1fad71bb05572e9",
+      "description": "Double Bedroom Ensuite €150 weekly Owner Occupied Agent: Dublin Host Families Available Now - ****AVAILABLE 5 NIGHTS PER WEEK BASIS ONLY - SUNDAY EVENING TO FRIDAY AFTERNOONS**** Dublin Host Families are delighted to offer a self contained studio located in this rural... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-31T16:52:46.637Z"
+      "firstSeenAt": "2026-06-02T19:34:10.982Z"
     },
     {
-      "id": "6585160",
-      "url": "https://www.rent.ie/rooms-to-rent/Citywest-Co-Dublin-Citywest-Co-Dublin/6585160/",
-      "title": "Citywest, Co. Dublin, Citywest, Co. Dublin",
-      "price": "€1,000 monthly",
-      "area": "Co. Dublin, Citywest, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMVwvYjE3NjA5OTUtNjM1Mi00NGYyLTg2NjAtZjYzNmQwODcxYTBmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0ae98e7c6a974add20707848c7c4e8a313dca39abafe46cef961080460ef431c",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 1st June - Bright and spacious master bedroom available from 1st June in a modern A3-rated home with a lovely back garden. Excellent Location: 5 min walk to Fortunestown Luas Stop (Red L... View full ad on Rent.ie",
+      "id": "6586790",
+      "url": "https://www.rent.ie/rooms-to-rent/Effra-Road-Rathmines-Dublin-6-Harolds-Cross-Dublin-6/6586790/",
+      "title": "Effra Road, Rathmines, Dublin 6, Harold's Cross, Dublin 6",
+      "price": "€1,095 monthly",
+      "area": "Rathmines, Dublin 6, Harold's Cross, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvY1wvMmMzNzgyZGMtNDU4YS00YTQxLTg5NDMtZGFkNjdhNWI3NGMxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4796399bf5caadff6a50a4a9c7be430779007eb10751982516012713b9e15b56",
+      "description": "Double Bedroom Ensuite €1,095 monthly Available 15th June - Superb en suite bedroom available in modern, well-maintained house within a few minutes' walk of Rathmines Village and within easy walking distance of St Stephen's Green. Ve... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-31T16:52:46.637Z"
+      "firstSeenAt": "2026-06-02T19:34:10.982Z"
     },
     {
-      "id": "6585187",
-      "url": "https://www.rent.ie/rooms-to-rent/Leo-Street-Off-Dorset-Street-Lwr-Phibsborough-Dublin-7/6585187/",
-      "title": "Leo Street, Off Dorset Street Lwr, Phibsborough, Dublin 7",
-      "price": "€210",
-      "area": "Off Dorset Street Lwr, Phibsborough, Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvOFwvYzg5YThhMDNhNDhkZmJmYmFmYzA5NDZhMDU3MzdhNWQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=fa85a018a74f7c588a832794eb39c40fb2c86a1e56e4d366ebc020eefaa5c122",
-      "description": "Double Bedroom Ensuite €210 weekly Agent: Property Vision Available 1st June - ***Electricity & Gas Included in the rent.*** Call or Txt at PROPERTY VISION to view 1 double / twin room available to rent in 5 bedroom house. Great location - located beside Ma... View full ad on Rent.ie",
+      "id": "6585321",
+      "url": "https://www.rent.ie/rooms-to-rent/Citywest-Village-Citywest-Co-Dublin/6585321/",
+      "title": "Citywest Village, Citywest, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "Citywest, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvYlwvYWI3NDJmOGItYWM4YS00NjdjLWEzMzAtYmM3OTBlNWUyZjY3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2ee371f397da357c0c3ec51f535580c59f1445b8ac9b214e109d756e47b684cd",
+      "description": "Double Bedroom Ensuite €900 monthly Owner Occupied Available 1st July - Large King-Size Bedroom Available in Citywest A large king-size bedroom is available in a modern, energy efficient A1-rated 4-bedroom house in Citywest. The room is brig... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-05-31T16:52:46.637Z"
-    },
-    {
-      "id": "6585189",
-      "url": "https://www.rent.ie/rooms-to-rent/Clancy-Quay-Islandbridge-Dublin-8/6585189/",
-      "title": "Clancy Quay, Islandbridge, Dublin 8",
-      "price": "€1,350 monthly",
-      "area": "Islandbridge, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvYVwvM2EwNDQxNWYtYWQ1OC00ODAwLTg5NmUtMzJkYWMzOGRiMzNmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a8954682c706e5d12647d5d9a62266a93df0f369283753b3473c4d767ae5aed4",
-      "description": "Double Bedroom Ensuite €1,350 monthly Available Now - We are looking for a responsible, respectful person who keeps the place clean and tidy. It is a modern three bedroom top floor bright, warm, mold-free apartment with a large living room, kitchen area and big balcony. In the other two rooms are: man 30s, woman early 40s, and two budgies. To the en-suite also belongs a storage room... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-31T16:52:46.637Z"
-    },
-    {
-      "id": "6585194",
-      "url": "https://www.rent.ie/rooms-to-rent/Taylor-Hill-Balbriggan-Co-Dublin/6585194/",
-      "title": "Taylor Hill, Balbriggan, Co. Dublin",
-      "price": "€600 monthly",
-      "area": "Balbriggan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvZFwvZGQ5OTI2ODE1N2Q0MzU1YTc5ODY3Y2FlNzM4NTQxYjcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=65d15c305965262ed96c9577165fa28ee381e0103ddafed1d30c8f0fb744fc7f",
-      "description": "Single Bedroom Ensuite €600 monthly Owner Occupied Available 1st July - NOTE :::Only for female vacancy. Family Home! - 15-minute drive from the airport and 5 minutes from the M1 motorway. - 10-minute walk to Dunnes Stores, Tesco Extra, and an ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-05-31T16:52:46.637Z"
+      "firstSeenAt": "2026-06-02T19:34:10.982Z"
     }
   ]
 }
