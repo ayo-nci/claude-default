@@ -1,78 +1,54 @@
 {
-  "fetchedAt": "2026-06-05T07:57:37.589Z",
+  "fetchedAt": "2026-06-05T21:14:24.806Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6588404",
-      "url": "https://www.rent.ie/rooms-to-rent/Shanganagh-Valedublin-18-Loughlinstown-Co-Dublin/6588404/",
-      "title": "Shanganagh Vale,dublin 18, Loughlinstown, Co. Dublin",
-      "price": "€1,250 monthly",
-      "area": "dublin 18, Loughlinstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvZVwvNmUxYzIxNWUtMjE2OC00NGRjLWE4YjYtYWRkOTMwOTQzNDQxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c09ca4a9658b3a0b215c5d5f3bb44ce4aac8c4d74f2ebc5ba87d1d1ed470ca41",
-      "description": "Double Bedroom Ensuite €1,250 monthly Available 12th July - Double room with own door access and kitchen, finished to an excellent standard, it is bright, spacious, and securely located, with high-speed internet access, under floor he... View full ad on Rent.ie",
+      "id": "6590150",
+      "url": "https://www.rent.ie/rooms-to-rent/Ballymun-Ballymun-Dublin-9/6590150/",
+      "title": "Ballymun, Ballymun, Dublin 9",
+      "price": "€900 monthly",
+      "area": "Ballymun, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNVwvZTUxNDMwMjYtMDI2OC00YTk5LTgwOGYtY2NjY2UzMzUxZjEyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=b416fa25b49a0283eeec4b71e69b6f27f51dcaa36197a893a7473760f166b57f",
+      "description": "Single Bedroom Ensuite €900 monthly Owner Occupied Available 22nd June - Room available to rent in a modern house with WiFi available sharing with one other person lady in her 50s (owner) you will have alot of space and privacy there is a lovely back gard... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-05T07:57:37.589Z"
+      "firstSeenAt": "2026-06-05T21:14:24.806Z"
     },
     {
-      "id": "6589167",
-      "url": "https://www.rent.ie/rooms-to-rent/Coopers-Cross-Residentialmayor-Street-Upperdublin-1-IFSC-Dublin-1/6589167/",
-      "title": "Coopers Cross Residential,mayor Street Upper,dublin 1, IFSC, Dublin 1",
-      "price": "€1,650 monthly",
-      "area": "mayor Street Upper, dublin 1, IFSC, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvM1wvYjMxOWM2ZTktYWEwZC00NzZhLWFhOGQtNmIzODU1ZTkyMDFjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d10041c966b98e31c5857ca2522ff202e07df022d4da64c1e4abe280e4f26e3e",
-      "description": "Double Bedroom €1,650 monthly Available 22nd June - Spacious Double Room with private Bathroom Available A bright and spacious double bedroom with a private en-suite bathroom is available in a modern, newly built apartment. ... View full ad on Rent.ie",
+      "id": "6590122",
+      "url": "https://www.rent.ie/rooms-to-rent/Mount-Eagle-Greendublin-18-Leopardstown-Dublin-18/6590122/",
+      "title": "Mount Eagle Green,dublin 18, Leopardstown, Dublin 18",
+      "price": "€900 monthly",
+      "area": "dublin 18, Leopardstown, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvY1wvNWMyZDE0YTktMzdmZS00NmEwLWIzYmUtOTQ0MzU0NmI1ZGE2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=b7fc7e91b5302a80e8aeeaec1d725dfa8eab11dd60ac706760c30b22faa1c840",
+      "description": "Single Bedroom €900 monthly - Double Bedroom €1,050 monthly Available 6th June - Bright ensuite double room and single rooms available in a newly updated home in the quiet residential estate of Leopardstown Heights with all bills included. The room is fully ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-05T07:57:37.589Z"
+      "firstSeenAt": "2026-06-05T21:14:24.806Z"
     },
     {
-      "id": "6569394",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-27-Rowan-Hall-Larkfield-Heath-Dublin-Leopardstown-Dublin-18/6569394/",
-      "title": "Apartment 27, Rowan Hall, Larkfield Heath, Dublin, Leopardstown, Dublin 18",
-      "price": "€1,166 monthly",
-      "area": "Rowan Hall, Larkfield Heath, Dublin, Leopardstown, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvOVwvODkxMGVkMGMtYzU5My00NDE5LWE0OTEtMmQ4ODcyNzIzZjkwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=19432746316f78d06a6fa9a2abca48b99fcc9d607c836de78b1eb7d20a2b8dfa",
-      "description": "Double Bedroom €1,166 monthly Owner Occupied Available 27th August - Lovely double bedroom with beautiful view to let for 11 months only. Bathroom is mostly private (the other room has an en suite). Would suit a sensible student or contract work... View full ad on Rent.ie",
+      "id": "6590164",
+      "url": "https://www.rent.ie/rooms-to-rent/Burnell-Court-Mayne-River-Street-Clonshaugh-Dublin-17/6590164/",
+      "title": "Burnell Court, Mayne River Street, Clonshaugh, Dublin 17",
+      "price": "€1,100 monthly",
+      "area": "Mayne River Street, Clonshaugh, Dublin 17",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvOVwvMTlhY2I0OWUtZGRmOC00YzE1LWIxMjgtOGE0YTM0ZDc5NjAwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=afdc42511c7f4e2f0c13551227d8c4c66a765d1a91ee278594da53cbb60cb6b0",
+      "description": "Double Bedroom Ensuite €1,100 monthly Available Now - Housemate Wanted – En-Suite Double Room Available NOW | Dublin 17 Private Bathroom Double Bed Large Wardrobe Modern Apartment Secure Complex 24-Hour Bus Routes Close... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-05T07:57:37.589Z"
+      "firstSeenAt": "2026-06-05T21:14:24.806Z"
     },
     {
-      "id": "6589213",
-      "url": "https://www.rent.ie/rooms-to-rent/24-Ashington-Park-Dublin-7-Ashington-Dublin-7/6589213/",
-      "title": "24 Ashington Park, Dublin 7, Ashington, Dublin 7",
-      "price": "€800 monthly",
-      "area": "Dublin 7, Ashington, Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvMVwvODFjMTZlZGYtY2Q2MC00ZmY3LTliZGYtNjNhYjI0MzE2ZDUyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3d0bcbcb483c1e68218cc274b43da918eb5021f80994d45c1a0ab5257f7afbe7",
-      "description": "Double Bedroom Ensuite €800 monthly Available 4th July - Bright and cosy large room available in a quiet, well-maintained home on Ashington Avenue, Dublin 7. The room features a king-size bed, built-in wardrobe, chest of drawers, and... View full ad on Rent.ie",
+      "id": "6590207",
+      "url": "https://www.rent.ie/rooms-to-rent/Old-Finglas-Road-Dublin-11-Finglas-Dublin-11/6590207/",
+      "title": "Old Finglas Road, Dublin 11, Finglas, Dublin 11",
+      "price": "€1,200 monthly",
+      "area": "Dublin 11, Finglas, Dublin 11",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvNFwvODQ0NzdlOTMtOWVmMy00MjI4LWEyNGMtN2YwMGUzNDNmYTVjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=007560cf9c8c9c4f6df53b7ed4015d547d4c9d1d7b57206e2362b0a979fcc28a",
+      "description": "Double Bedroom Ensuite €1,200 monthly Owner Occupied Available 1st August - Newly furnished, Super king, built in wardrobes, no furniture required, bills included. Private full size bathroom. Not suitable for WFH or couples. View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-05T07:57:37.589Z"
-    },
-    {
-      "id": "6589273",
-      "url": "https://www.rent.ie/rooms-to-rent/Ballyfermot-Dublin-10--Ballyfermot-Dublin-10/6589273/",
-      "title": "Ballyfermot Dublin 10 , Ballyfermot, Dublin 10",
-      "price": "€1,150 monthly",
-      "area": "Ballyfermot, Dublin 10",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvNlwvYzZhMTRjZTgtNWVlOC00MGNiLTk1ZGQtY2JjOWM0MjU1MWI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=22b078392c01a0f5b714ac3617159607df9fea417b3abe3af3461a891169e18a",
-      "description": "Double Bedroom Ensuite €1,150 monthly - Double Bedroom Ensuite €1,150 monthly Available Now - 3 min walk to the luas line . Newly renovated beautiful property set in a Prime location with excellent transportation to all areas . Communal bill washing and dryers , internet a... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-05T07:57:37.589Z"
-    },
-    {
-      "id": "6589276",
-      "url": "https://www.rent.ie/rooms-to-rent/Dublin-12-Ballyfermot-Dublin-10/6589276/",
-      "title": "Dublin 12, Ballyfermot, Dublin 10",
-      "price": "€950 monthly",
-      "area": "Ballyfermot, Dublin 10",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYVwvY2FkZDhmNjgtMTg2MS00MDY4LTgyYTgtNTAyYmVlZWU2ODI4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9a731e7f1315f4efded2c69c66d34eda7e2ebebcb0d67b3b238330e61f420726",
-      "description": "Double Bedroom Ensuite €950 monthly - Double Bedroom Ensuite €950 monthly Available Now - For one occupancy only. Double en-suite Beautiful room for rent for one occupancy, Newly renovated beautiful property set in a Prime location next to all major bus routes with e... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-05T07:57:37.589Z"
+      "firstSeenAt": "2026-06-05T21:14:24.806Z"
     }
   ]
 }
