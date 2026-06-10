@@ -1,54 +1,66 @@
 {
-  "fetchedAt": "2026-06-10T18:22:46.204Z",
+  "fetchedAt": "2026-06-10T21:48:58.406Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6593817",
-      "url": "https://www.rent.ie/rooms-to-rent/Knocklyon-Dublin-16-Dublin-16/6593817/",
-      "title": "Knocklyon Dublin 16, Dublin 16",
-      "price": "€1,100 monthly",
-      "area": "Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvOVwvMzk5ZDg0ZTItNjljOC00MjEzLWExMGUtZDNmNzE5OTUzMWM4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2368e96a8e1f534b4b7bb2e13a8dd5d3e1127df2849e7d741ac8d2b933323a42",
-      "description": "Double Bedroom Ensuite €1,100 monthly Available 1st July - Double bedroom available in Knocklyon Dublin 16. Decent size double bedroom with en-suite. Property located in Knocklyon. 15 bus stop is 5 mins walk and 24 hrs. Also 5 min walk to ... View full ad on Rent.ie",
+      "id": "6594002",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-17-The-Slade-Tassagard-Greens-Garters-Citywest-Co-Dublin/6594002/",
+      "title": "Apartment 17, The Slade, Tassagard Greens, Garters, Citywest, Co. Dublin",
+      "price": "€1,030 monthly",
+      "area": "The Slade, Tassagard Greens, Garters, Citywest, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvZVwvYWUxMjg5YWUtNzE5ZC00OTgwLWE4NmYtZGYyYjg5ODVmMWJhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=66dcc22af266e7bd537f22ac2872d35d276d5335d5583e1643e75f3000b4c991",
+      "description": "Double Bedroom Ensuite €1,030 monthly Available 14th June - Room available from 15th June. Large Double room available in very large penthouse 2 mins walk from Luas and various bus routes into city centre. This room comes with a parking ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-10T18:22:46.204Z"
+      "firstSeenAt": "2026-06-10T21:48:58.406Z"
     },
     {
-      "id": "6593752",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-8--Three-Rock-Grove-Harolds-Grange-Ro-Ballinteer-Dublin-16/6593752/",
-      "title": "Apartment 8 , Three Rock Grove, Harold's Grange Ro, Ballinteer, Dublin 16",
-      "price": "€1,100 monthly",
-      "area": "Three Rock Grove, Harold's Grange Ro, Ballinteer, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvOFwvNzg4N2IyZGQtNTY4MC00MDU5LTliYWEtNjY5MzkyN2E3ZTc0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2c630f5f8b1a3d6946780bd9d9c737eeb2e432f9074b5c1b61ae97f6daf9880a",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 1st July - Extremely spacious double room with large ensuite with double sink, bath and shower on second floor of a duplex apartment. Ample wardrobe space including chest of drawers and d... View full ad on Rent.ie",
+      "id": "6594016",
+      "url": "https://www.rent.ie/rooms-to-rent/43-Carleton-Road-Dublin-3-Marino-Dublin-3/6594016/",
+      "title": "43 Carleton Road, Dublin 3, Marino, Dublin 3",
+      "price": "€425",
+      "area": "Dublin 3, Marino, Dublin 3",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMVwvYjFlMTkyNjUtOTc2OC00YWU0LTk1YTQtOWE3Mzg0ZDk3YTA2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=294df54c7afb5a7c686afbce41980354fd7adc5a1eebc7a7e133dc951ae905af",
+      "description": "Double Bedroom Ensuite €425 weekly Owner Occupied Available 20th June - Beautiful double bedroom with private en-suite and shower. House is shared with Spanish guy, English girl and Irish guy. All professionals. Quiet and respectful atmosphere. ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-10T18:22:46.204Z"
+      "firstSeenAt": "2026-06-10T21:48:58.406Z"
     },
     {
-      "id": "6593894",
-      "url": "https://www.rent.ie/rooms-to-rent/Waterville-Terraceblanchardstowndublin-15-Ballycoolin-Dublin-15/6593894/",
-      "title": "Waterville Terrace,blanchardstown,dublin 15, Ballycoolin, Dublin 15",
-      "price": "€1,000 monthly",
-      "area": "blanchardstown, dublin 15, Ballycoolin, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvYlwvNWJkODJlNmQtZTgyOS00YzNmLTg2NjQtY2ZlNmJiYjk2MDJjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c2327eb954b0eec017fc8ce87291d489d75edda21e9ee41713024f45df66472c",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 15th June - The available room is a double bedroom with private external bathroom, ample storage space and individual use fridge in the kitchen. The place is a spacious 2-bedroom/2-bat... View full ad on Rent.ie",
+      "id": "6594015",
+      "url": "https://www.rent.ie/rooms-to-rent/Phibblestown-Wood-Ongar-Dublin-15/6594015/",
+      "title": "Phibblestown Wood, Ongar, Dublin 15",
+      "price": "€1,250 monthly",
+      "area": "Ongar, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvYVwvN2EzNjljZjUtOTk5My00MWYzLWEyNDItYTI3ZGM3NTdjYTY0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a185205a1da7ee0025795a21aea6ffd4a304f17439286a0650fc4c8bd158f676",
+      "description": "Double Bedroom Ensuite €1,250 monthly Available 1st July - Lovely, spacious and clean Ensuite room with build-in wardrobe, large kitchen with all appliances. Wifi available, patio and garden accessible, parking space available. Use of sitting room and kitchen/laundry, fridge/freezer, microwave, alarm and washing machine. Etc clean! comfortable! nice quiet estate, beside shops, ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-10T18:22:46.204Z"
+      "firstSeenAt": "2026-06-10T21:48:58.406Z"
     },
     {
-      "id": "6593714",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-906-Terrace-Sandyford-Central-Sandyfo-Stillorgan-Co-Dublin/6593714/",
-      "title": "Apartment 906, Terrace, Sandyford Central, Sandyfo, Stillorgan, Co. Dublin",
-      "price": "€1,420 monthly",
-      "area": "Terrace, Sandyford Central, Sandyfo, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvMFwvMzA0OTNhYTEtMjZmOC00MTBiLWEzYWUtYzAxM2FjNzJiNDEyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=82174615661349faf3242c74abc1c0d3a0295f0a73913d6d32c6ae6238a86dae",
-      "description": "Single Bedroom Ensuite €1,420 monthly Available 1st July - Bright En-Suite Room in Modern Sandyford Apartment – Excellent Location A spacious and well-presented en-suite double bedroom is available in a modern apartment located in... View full ad on Rent.ie",
+      "id": "6594047",
+      "url": "https://www.rent.ie/rooms-to-rent/Wyckham-Place-Dundrum-Dublin-14/6594047/",
+      "title": "Wyckham Place, Dundrum, Dublin 14",
+      "price": "€1,058 monthly",
+      "area": "Dundrum, Dublin 14",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvYlwvM2IyOTYwNDQtMDQyZS00M2MxLThiZDgtZmVjNjFmY2FiZmI0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e4803369e28d6f543af077748123fe184b6177417d2e4c14adc5ec433e1d58f1",
+      "description": "Double Bedroom Ensuite €1,058 monthly Available 10th July - LARGE DOUBLE ENSUITE ROOM IN SECURE GATED COMPLEX – 5 MINS TO DUNDRUM AVAILABLE: July 10th THE ROOM: Spacious double bedroom with an ensuite bathroom. Fully furnished, fe... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-10T14:45:30.238Z"
+      "firstSeenAt": "2026-06-10T21:48:58.406Z"
+    },
+    {
+      "id": "6594042",
+      "url": "https://www.rent.ie/rooms-to-rent/Chancery-Lane-Christchurch-Dublin-8/6594042/",
+      "title": "Chancery Lane, Christchurch, Dublin 8",
+      "price": "€950 monthly",
+      "area": "Christchurch, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvYlwvMGJhYmQwNTAtYWUzZC00OTBiLWIzYjYtNWQyNWEzNTRlY2VkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7d7ffe5294acae045d847591a1ebdf3e57188065913b9f5acc3e297b429dfd21",
+      "description": "Double Bedroom Ensuite €950 monthly Available 1st July - Hi, Double bedroom available from the 1st of July.Access to your own bathroom as my room has an en suite. I am a 35 year old professional working in the city centre. The apartment... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-10T21:48:58.406Z"
     }
   ]
 }
