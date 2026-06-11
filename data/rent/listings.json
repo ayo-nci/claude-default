@@ -1,7 +1,19 @@
 {
-  "fetchedAt": "2026-06-10T21:48:58.406Z",
+  "fetchedAt": "2026-06-11T08:26:17.483Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
+    {
+      "id": "6594159",
+      "url": "https://www.rent.ie/rooms-to-rent/Glenageary-Woods-Dun-Laoghaire-Co-Dublin/6594159/",
+      "title": "Glenageary Woods, Dun Laoghaire, Co. Dublin",
+      "price": "€220",
+      "area": "Dun Laoghaire, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvZFwvOGQyMzM3OGFmOTNiMzNlNGJiNGZmZDkxNzI1OTRmMmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=38c699b12213b458f97c22ddae37c1c7613d03cbb011dfb98b781b96cdfab676",
+      "description": "Double Bedroom Ensuite €220 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 1st October - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-11T08:26:17.483Z"
+    },
     {
       "id": "6594002",
       "url": "https://www.rent.ie/rooms-to-rent/Apartment-17-The-Slade-Tassagard-Greens-Garters-Citywest-Co-Dublin/6594002/",
