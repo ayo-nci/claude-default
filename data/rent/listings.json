@@ -1,66 +1,42 @@
 {
-  "fetchedAt": "2026-06-12T08:13:59.417Z",
+  "fetchedAt": "2026-06-12T14:27:36.988Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6578988",
-      "url": "https://www.rent.ie/rooms-to-rent/Occupancy-Till-August-At-Apartment-152-Beechwood-Court-Stillorgan-Blackrock-Leopardstown-Dublin-18/6578988/",
-      "title": "Occupancy Till August At Apartment 152, Beechwood Court, Stillorgan, Blackrock, Leopardstown, Dublin 18",
-      "price": "€700 monthly",
-      "area": "Beechwood Court, Stillorgan, Blackrock, Leopardstown, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvY1wvYmNmY2RkOTktZDk4Yi00ODQ3LTliNjAtNmU2ZjBjYzc2NWEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=eb43b346e05c57d53fa9134c56ea3a14ef2c8d9a727f1440155e2049f346be81",
-      "description": "Double Bedroom Ensuite €700 monthly Available Now - Short-term Tenancy till August About the Rooms: - Ensuite room: Double sharing with a female roommate - Non-ensuite room: Double sharing with a female roommate Transp... View full ad on Rent.ie",
+      "id": "6595491",
+      "url": "https://www.rent.ie/rooms-to-rent/62-Parklands-Place-Saggart-Co-Dublin-Saggart-Co-Dublin/6595491/",
+      "title": "62 Parklands Place, Saggart, Co. Dublin, Saggart, Co. Dublin",
+      "price": "€950 monthly",
+      "area": "Saggart, Co. Dublin, Saggart, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvZFwvZGRjMDU3NDUtMTRhNi00NDlmLWI3MzgtMmMxN2IzM2ZhODhlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3eaf10129d5816271acb2be3b56bc7c5ce51ae16370f14b52bbf7f777bb014c5",
+      "description": "Double Bedroom Ensuite €950 monthly Owner Occupied Available 24th August - Note: This is not for couples I have a spare double bedroom to share in a brand new property. The house is clean, spacious, and quiet. Living room with tv Netflix and amazon prime and kitchen fully furnished. Location: Citywest, D24 Minimum rent duration: 6months or more. Saggart Luas stop: 10 mins walk Citywest business p... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-12T08:13:59.417Z"
+      "firstSeenAt": "2026-06-12T14:27:36.988Z"
     },
     {
-      "id": "6594952",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Gallopsdublin-18-Leopardstown-Dublin-18/6594952/",
-      "title": "The Gallops,dublin 18, Leopardstown, Dublin 18",
-      "price": "€995 monthly",
-      "area": "dublin 18, Leopardstown, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvNlwvNjZhZjg2NDItMTQwMy00YTgwLTk0YTktZWJjNzc4ZDczYzRlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cc9f81d9f2a080360e598bc4dd0fb2b73cd6c191a9a9b773fef4058c701654f1",
-      "description": "Single Bedroom Ensuite €995 monthly Owner Occupied Available 16th June - The property is a 3 bedroom house situated in Leopardstown, 2 min walk to the Gallops LUAS stop. We have two small dogs so if you are allergic this won't work. You will have full ac... View full ad on Rent.ie",
+      "id": "6595539",
+      "url": "https://www.rent.ie/rooms-to-rent/Fforester-Square-Lucan-Co-Dublin/6595539/",
+      "title": "Fforester Square, Lucan, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "Lucan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvYVwvNGFiNjUxMDgtNTlmMi00MzdmLWE5YjYtMmI1OTc5MTFiZDJlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=46dbcbeef82f0cce8037cc262cd89917e9a2d6ffa0025b0f392105f1bcdc71ee",
+      "description": "Double Bedroom Ensuite €900 monthly Owner Occupied Available 1st July - Spacious ensuite bedroom with a private balcony available to rent in Lucan, Co. Dublin. Single only. The apartment is located in a quiet, well maintained residential area w... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-11T18:38:48.724Z"
+      "firstSeenAt": "2026-06-12T14:27:36.988Z"
     },
     {
-      "id": "6592941",
-      "url": "https://www.rent.ie/rooms-to-rent/Dublin-24-Firhouse-Dublin-24/6592941/",
-      "title": "Dublin 24, Firhouse, Dublin 24",
-      "price": "€220",
-      "area": "Firhouse, Dublin 24",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvMFwvMTA3YWY1OTUtZGJlMC00Y2M2LTgyYjYtMTgxZjVlMzNkMGE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=48beb52a7964838dabb7e68b62c036a6bb3d998171a0d2eeb25230a438eeb74c",
-      "description": "Double Bedroom Ensuite €220 weekly Owner Occupied Available Now - Large double en-suite room available for immediate move in. The property is located in a quiet, settled neighborhood. Excellent convenience for commuting and shopping, with ... View full ad on Rent.ie",
+      "id": "6595108",
+      "url": "https://www.rent.ie/rooms-to-rent/Redwood-Dublin-Kilnamanagh-Dublin-24/6595108/",
+      "title": "Redwood, Dublin, Kilnamanagh, Dublin 24",
+      "price": "€280",
+      "area": "Dublin, Kilnamanagh, Dublin 24",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvOVwvMzkwZTNhMzMtYjExMi00Y2Y4LWFjZWYtYjA1MjhlMGI4ODczLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=70a45ecaa46116d06395a17d3efe58c7fa116700c23a5a3aafece9f85b4e1dab",
+      "description": "Double Bedroom Ensuite €280 weekly Available Now - This small self-contained studio, attached to a quiet family home, offers a comfortable and private living space suitable for one. The studio has its own private entrance and i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-11T18:38:48.724Z"
-    },
-    {
-      "id": "6594991",
-      "url": "https://www.rent.ie/rooms-to-rent/Auburn-Howth-Road-Clontarf-Dublin-3/6594991/",
-      "title": "Auburn, Howth Road, Clontarf, Dublin 3",
-      "price": "€1,100 monthly",
-      "area": "Howth Road, Clontarf, Dublin 3",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvZVwvMWVkYWUzOGItNTdkMS00MzY2LTg0YjAtMzk4N2IwNGY0NmZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9e36fa62a962c2b7f5b5852c3c3fb37a869552dc7ce0f1d5ad4d720632eb05bf",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 11th July - Lovely, modern, spacious 3 bedroom terraced house, (3 storey's) in safe, trendy, well kept Mediterranean style estate just minutes from the Howth Road, Killester village, Ha... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-11T18:38:48.724Z"
-    },
-    {
-      "id": "6594989",
-      "url": "https://www.rent.ie/rooms-to-rent/Clonliffe-Roaddublin-3-Drumcondra-Dublin-3/6594989/",
-      "title": "Clonliffe Road,dublin 3, Drumcondra, Dublin 3",
-      "price": "€850 monthly",
-      "area": "dublin 3, Drumcondra, Dublin 3",
-      "imageUrl": null,
-      "description": "Single Bedroom Ensuite €850 monthly - Shared Bedroom Ensuite €650 monthly Available 18th June - En-Suite Accommodation Available - Clonliffe Road, Dublin 3 Excellent en-suite accommodation available in a prime Dublin 3 location on Clonliffe Road. Situated in a vibrant and highly sought-after area, the property is within walking distance of Dublin City Centre and offers excellent transport connections, local amenit... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-11T18:38:48.724Z"
+      "firstSeenAt": "2026-06-12T14:27:36.988Z"
     }
   ]
 }
