@@ -1,18 +1,78 @@
 {
-  "fetchedAt": "2026-06-14T13:22:52.912Z",
+  "fetchedAt": "2026-06-15T09:49:04.588Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6596357",
-      "url": "https://www.rent.ie/rooms-to-rent/Millbankthe-Linksstation-Roadportmarnockco-Dublin-Portmarnock-Co-Dublin/6596357/",
-      "title": "Millbank,the Links,station Road,portmarnock,co. Dublin, Portmarnock, Co. Dublin",
-      "price": "€1,400 monthly",
-      "area": "the Links, station Road, portmarnock, co. Dublin, Portmarnock, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvZlwvMWY5ZWVkYWMtNDM1Yi00NDY2LTg3M2EtY2FkMTNhMzdkNTJhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c7d97498c14797c282d560233faf00203b5306d3ada50e31472ae673086d319a",
-      "description": "Double Bedroom Ensuite €1,400 monthly - Double Bedroom €1,300 monthly Owner Occupied Available 16th June - 2 Bedroom Apartment for Rent Rent Bedroom 1 (En-suite): '1,400/month Bedroom 2 : '1,300/month Entire apartment: '2,700/month Property Features 2 spacious bedrooms & 2... View full ad on Rent.ie",
+      "id": "6596334",
+      "url": "https://www.rent.ie/rooms-to-rent/Taney-Grove-Goatstown-Goatstown-Dublin-14/6596334/",
+      "title": "Taney Grove, Goatstown, Goatstown, Dublin 14",
+      "price": "€350",
+      "area": "Goatstown, Goatstown, Dublin 14",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvOFwvZTgzYjM3N2YtYWMxMy00M2QwLWIzYzItMThiMmU3ZGY2YmM2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e9e1108d1841150a5b7e170f3f53c0b72287b2ca91d7d9785b1ff5ec97e39d8a",
+      "description": "Single Bedroom Ensuite €350 weekly - Twin Bedroom Ensuite €250 weekly Available 20th June - Newly innovated rooms in the safest and beautiful area of one of the best south Dublin location, between UCD and Dundrum Luas line. Own bedroom, bathroom and kitchen. Suite for U... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-14T13:22:52.912Z"
+      "firstSeenAt": "2026-06-15T09:49:04.588Z"
+    },
+    {
+      "id": "6596602",
+      "url": "https://www.rent.ie/rooms-to-rent/Military-Close-Killiney-Co-Dublin/6596602/",
+      "title": "Military Close, Killiney, Co. Dublin",
+      "price": "€225",
+      "area": "Killiney, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvOVwvYjljN2ZiOGQ1NjZjNzQyZGI5MWEwYjE5MWMyZGJlYzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=4840d158aaf7b4450513334cc378e4dd14f23cceb80728f4927be96356d58391",
+      "description": "Double Bedroom Ensuite €225 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 10th October - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-15T09:49:04.588Z"
+    },
+    {
+      "id": "6596605",
+      "url": "https://www.rent.ie/rooms-to-rent/Hazel-Court-Portmarnock-Co-Dublin/6596605/",
+      "title": "Hazel Court, Portmarnock, Co. Dublin",
+      "price": "€240",
+      "area": "Portmarnock, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvY1wvMWM0YWRlMWQxNmQ1ZjAxMzdkZmYzMzNhNTE3MTgxMGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=6b951f4d78965dc6f1048d1a7b4f8119d0e9026fd6e83965c291f708c4f0bcba",
+      "description": "Double Bedroom Ensuite €240 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 2nd July - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-15T09:49:04.588Z"
+    },
+    {
+      "id": "6596643",
+      "url": "https://www.rent.ie/rooms-to-rent/165-Shanliss-Road-Dublin-9-Ballymun-Dublin-9/6596643/",
+      "title": "165 Shanliss Road, Dublin 9, Ballymun, Dublin 9",
+      "price": "€1,295 monthly",
+      "area": "Dublin 9, Ballymun, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvZVwvZmVhMDRkYzUtNmYwOC00ZWVlLWE0ZWItNGExYTdlNDE2ZjU5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8be9c5361e757833d8cff826a04c8d5d4c414f62930055a45ede5f133a7fb797",
+      "description": "Double Bedroom Ensuite €1,295 monthly Available 1st July - *MUST SEE* **AVAILABLE NOW** DOUBLE BEDROOM WITH ENSUITE BATHROOM IN A SHARED HOUSE - CALL / WHATSAPP JAMES ON 089 483 1335 FOR MORE INFORMATION / TO ARRANGE A VIEWING. - Recently refurbished to an excellent and very comfortable standard, - Five-bedroom house located in Santry with many local amenities including shops and scho... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-15T09:49:04.588Z"
+    },
+    {
+      "id": "6596640",
+      "url": "https://www.rent.ie/rooms-to-rent/48-Bradogue-Court-Annamoe-Road-Dublin-7-North-Circular-Road-Dublin-7/6596640/",
+      "title": "48 Bradogue Court, Annamoe Road, Dublin 7, North Circular Road, Dublin 7",
+      "price": "€250",
+      "area": "Annamoe Road, Dublin 7, North Circular Road, Dublin 7",
+      "imageUrl": null,
+      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Available 6th July - Double room with shower and toilet near city centre the hospital the park all walking. Distance. Bus stop luas five minutes away . Tesco. Very good location. Very quiet working c... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-15T09:49:04.588Z"
+    },
+    {
+      "id": "6596647",
+      "url": "https://www.rent.ie/rooms-to-rent/383-North-Circular-Road-Dublin-7-North-Circular-Road-Dublin-7/6596647/",
+      "title": "383 North Circular Road, Dublin 7, North Circular Road, Dublin 7",
+      "price": "€650 monthly",
+      "area": "Dublin 7, North Circular Road, Dublin 7",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvZVwvY2U5MDUxOTItYTI0Ny00OWE0LThmMGMtMmYyNjlmZTBiNzA4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=77c4625ab4be7b5311bb7e427f8210da3f9617f7ec7a2f61cbe26caa65afaca2",
+      "description": "Shared Bedroom Ensuite €650 monthly Available Now - Studio Available – North Circular Road, Dublin 7 Address: 383A North Circular Road, Phibsborough, Dublin 7 Rent: Starting from '650 per month/ per person Accommodation... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-15T09:49:04.588Z"
     }
   ]
 }
