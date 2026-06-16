@@ -1,42 +1,18 @@
 {
-  "fetchedAt": "2026-06-16T02:30:37.193Z",
+  "fetchedAt": "2026-06-16T09:13:47.403Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6597534",
-      "url": "https://www.rent.ie/rooms-to-rent/Clarinda-Park-East-Dun-Laoghaire-Co-Glenageary-Co-Dublin/6597534/",
-      "title": "Clarinda Park East, Dun Laoghaire, Co., Glenageary, Co. Dublin",
-      "price": "€950 monthly",
-      "area": "Dun Laoghaire, Co., Glenageary, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvMFwvMjA1YmI4ZDYtZGE1NS00NzgyLWE5MzktZWI0MWI5NTQzNjYxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=42f58e0564b6dcd9b3c27939ed787d2f67a67bfef3d3cf2456b559f907261916",
-      "description": "Double Bedroom Ensuite €950 monthly Owner Occupied Available 1st July - Small bedsit Ensuite with shower, kitchenette, single bed that can be extended to a double. New matress. Five mins walk from Dart, 2 minute walk from main St Dun Laoighe. 3 mi... View full ad on Rent.ie",
+      "id": "6597846",
+      "url": "https://www.rent.ie/rooms-to-rent/Swords-Road-Whitehall-Dublin-9/6597846/",
+      "title": "Swords Road, Whitehall, Dublin 9",
+      "price": "€1,000 monthly",
+      "area": "Whitehall, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvOFwvMDg1MTk3NzdmYTllZGJmYjI3ZjUxOGU3MzhjNTdhM2YuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=6ca129a4d7b63e3b5e5ca46cde37311bb731ce2574d85f71ab821a18d2fe1e15",
+      "description": "Double Bedroom Ensuite €1,000 monthly Agent: Arkcon Available Now - Arkcon welcomes you to our recently renovated house share to let on the ever-popular Swords Road. Please email your enquiry. Phone call enquiries are not accepted due to high vo... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-16T02:30:37.193Z"
-    },
-    {
-      "id": "6597522",
-      "url": "https://www.rent.ie/rooms-to-rent/Rathlin-House-Custom-House-Square-Mayor-Street-Lower-Ifsc-Dublin-1-IFSC-Dublin-1/6597522/",
-      "title": "Rathlin House, Custom House Square, Mayor Street Lower, I.f.s.c., Dublin 1, IFSC, Dublin 1",
-      "price": "€1,380 monthly",
-      "area": "Custom House Square, Mayor Street Lower, I.f.s.c., Dublin 1, IFSC, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvN1wvMTc5YzgzMDMtNmM3My00YmI0LWE2MTYtMTE2ODgzOTBmOGI1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7413ee2887a7e3305b9c082905468f9fc780d30bf98781a530e4cdacceec0f6c",
-      "description": "Double Bedroom Ensuite €1,380 monthly Available 17th June - Modern fourth-floor apartment in a well-maintained, secure city-centre development Bright open-plan living and dining area with floor-to-ceiling windows Two double be... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-16T02:30:37.193Z"
-    },
-    {
-      "id": "6585273",
-      "url": "https://www.rent.ie/rooms-to-rent/Grande-Central-Rockbrook-Blackthorn-Drive-D18-Sandyford-Dublin-18/6585273/",
-      "title": "Grande Central, Rockbrook, Blackthorn Drive, D18, Sandyford, Dublin 18",
-      "price": "€1,375 monthly",
-      "area": "Rockbrook, Blackthorn Drive, D18, Sandyford, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvYlwvM2JhYjA2YWMwZmViYjEwNzcwMDI5NTEwMzE4ZjFkZjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=09b83c96e3070819fd664fc7aaf04a043a922e768f4447a09d69e322af698164",
-      "description": "Double Bedroom Ensuite €1,375 monthly - Double Bedroom Ensuite €1,395 monthly Available 30th June - Two Double Rooms ensuite available for Rent in Sandyford. Each Double Room with own bathroom available in a 2 bedroom 2 bathroom apartment on the third floor of Grande Central ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-16T02:30:37.193Z"
+      "firstSeenAt": "2026-06-16T09:13:47.403Z"
     },
     {
       "id": "6597597",
