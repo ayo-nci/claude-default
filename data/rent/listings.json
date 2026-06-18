@@ -1,42 +1,78 @@
 {
-  "fetchedAt": "2026-06-16T09:13:47.403Z",
+  "fetchedAt": "2026-06-18T14:38:30.867Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6597846",
-      "url": "https://www.rent.ie/rooms-to-rent/Swords-Road-Whitehall-Dublin-9/6597846/",
-      "title": "Swords Road, Whitehall, Dublin 9",
-      "price": "€1,000 monthly",
+      "id": "6599971",
+      "url": "https://www.rent.ie/rooms-to-rent/Ascaill-Na-Tiniacuteleach-Whitehall-Dublin-9/6599971/",
+      "title": "Ascaill Na Tin&iacute;leach, Whitehall, Dublin 9",
+      "price": "€250",
       "area": "Whitehall, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvOFwvMDg1MTk3NzdmYTllZGJmYjI3ZjUxOGU3MzhjNTdhM2YuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=6ca129a4d7b63e3b5e5ca46cde37311bb731ce2574d85f71ab821a18d2fe1e15",
-      "description": "Double Bedroom Ensuite €1,000 monthly Agent: Arkcon Available Now - Arkcon welcomes you to our recently renovated house share to let on the ever-popular Swords Road. Please email your enquiry. Phone call enquiries are not accepted due to high vo... View full ad on Rent.ie",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvOFwvYThhM2ZjZjEtMTYzMS00Yzg4LThhOTQtYjM4Yzk4NTZjMDU5LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=387b167e8cee4b73b376dee16b96129c53a3dae20f908b24c45ac77e5b6ee077",
+      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 22nd June - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-16T09:13:47.403Z"
+      "firstSeenAt": "2026-06-18T14:38:30.867Z"
     },
     {
-      "id": "6597597",
-      "url": "https://www.rent.ie/rooms-to-rent/Longlands-Swords-Co-Dublin/6597597/",
-      "title": "Longlands, Swords, Co. Dublin",
+      "id": "6600152",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Hermitage-Apartments-Malahide-Road-Dublin-Balgriffin-Dublin-13/6600152/",
+      "title": "The Hermitage Apartments, Malahide Road, Dublin, Balgriffin, Dublin 13",
+      "price": "€1,400 monthly",
+      "area": "Malahide Road, Dublin, Balgriffin, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvNVwvZjU0ZWQ0Njk3YTQ2MjMxMDRlZjUzNDM0Y2UwZTk0NTQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=ccd932b9f65a7f6ba2b6ad996d2b720baa2a2a688b388fa25e75c5e28ff88128",
+      "description": "Double Bedroom Ensuite €1,400 monthly Available 1st July - ****Short Term Let Available (6 month)**** A bright and modern double en suite bedroom in a shared apartment available in Balgriffin, Dublin 13. Ideal for someone seeking lo... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-18T14:38:30.867Z"
+    },
+    {
+      "id": "6600224",
+      "url": "https://www.rent.ie/rooms-to-rent/Hollystown-Dublin-15-Hollystown-Dublin-15/6600224/",
+      "title": "Hollystown, Dublin 15, Hollystown, Dublin 15",
+      "price": "€900 monthly",
+      "area": "Dublin 15, Hollystown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvNFwvOTQ1MTA3ZGItZGJkMy00YzI5LWFkNTQtOGYwODRkMWRkMWFkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=534f2a27bba723c93d039a695c81971fa2d6476b2abde6e443dc6757191e2364",
+      "description": "Double Bedroom Ensuite €900 monthly Owner Occupied Available 1st July - Room to rent in a private dwelling home. Property is located In Hollystown Dublin 15 with public transport available to city centre. Room to rent is a double room with fully fitted... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-18T14:38:30.867Z"
+    },
+    {
+      "id": "6592153",
+      "url": "https://www.rent.ie/rooms-to-rent/Rathmill-Green-Rathcoole-Co-Dublin-24-Rathcoole-Co-Dublin/6592153/",
+      "title": "Rathmill Green, Rathcoole, Co. Dublin 24, Rathcoole, Co. Dublin",
       "price": "€600 monthly",
-      "area": "Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvYVwvNmFjNWZiYjEtOWQzYi00NGRlLThiZGEtOGY0ZjhhMzE3NDVkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=33afb818e455317f20a799efb152d191c7d697323679f583f277fe887657dfa9",
-      "description": "Double Bedroom Ensuite €600 monthly Available 1st July - Double room w/ ensuite for rent in Longlands, Swords. 5 mins walk to main street. Rent - 600 euro a month. Bills - approx 60-100 euro a month (varies throughout the year). Shari... View full ad on Rent.ie",
+      "area": "Rathcoole, Co. Dublin 24, Rathcoole, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvOFwvNzhlNzJkOGMtZjNiNS00NjMzLWE5NzktZDgzZThlNmQ1ODk3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d19a4792e9d43559b0345412178b6d97f7088f3f23f6935177b0a21f16ebe0d0",
+      "description": "Double Bedroom €600 monthly Available Now - A well-maintained and spacious 6-bedroom home, ideal for shared living in a comfortable and convenient setting. Room Type Monthly Rent Large Double '635/month Small Double '1000/month Double '650/month Ensuite Double '700/month Double Attic '600/month Double Attic '625/month Spacious twin room in a wel... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-16T02:30:37.193Z"
+      "firstSeenAt": "2026-06-18T14:38:30.867Z"
     },
     {
-      "id": "6596519",
-      "url": "https://www.rent.ie/rooms-to-rent/Seven-Mills-Clondalkin-Dublin-22/6596519/",
-      "title": "Seven Mills, Clondalkin, Dublin 22",
-      "price": "€1,100 monthly",
-      "area": "Clondalkin, Dublin 22",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvNFwvMDQyMmVjOTMtOWUyZi00MmI4LWI2NmYtYzRlMmFjMWYxYTYxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e936819b41f8b52b0caa69b211c3f7577b53d9d09dd5768b036caf87b619ab41",
-      "description": "Double Bedroom Ensuite €1,100 monthly - Double Bedroom €850 monthly - Double Bedroom €750 monthly - Double Bedroom €700 monthly Available Now - It is a new built in seven mills clondalkin, Just next to Adamstown. It has 3 floors: Ground floor: Kitchen, living room , toilet, and back garden. First floor: 1 big bedro... View full ad on Rent.ie",
+      "id": "6600014",
+      "url": "https://www.rent.ie/rooms-to-rent/Foxborough-Drive-Lucan-Co-Dublin/6600014/",
+      "title": "Foxborough Drive, Lucan, Co. Dublin",
+      "price": "€820 monthly",
+      "area": "Lucan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvMlwvOTJjMTk3ZGYtYzA2MS00ZTkwLTllMDYtNGFjZjA2YjVlYTBlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=b4dcd63a5072fcd12ca99a0e31f4c6bd3099a86382a05b0be3b74aea848ff0ff",
+      "description": "Double Bedroom Ensuite €820 monthly Available Now - Large double room available for rent. The room has two wardrobes, dressing table and tallboy, also access to the back garden. There is an en-suite WC (no shower) in the room as wel... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-16T02:30:37.193Z"
+      "firstSeenAt": "2026-06-18T14:38:30.867Z"
+    },
+    {
+      "id": "6600372",
+      "url": "https://www.rent.ie/rooms-to-rent/Cedarview-Northwood-Ave-Santry-Dublin-9-Dublin-9/6600372/",
+      "title": "Cedarview, Northwood Ave, Santry, Dublin 9, Dublin 9",
+      "price": "€1,100 monthly",
+      "area": "Northwood Ave, Santry, Dublin 9, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvOFwvNjg0MTlmOGMtZWNiOS00NzllLTk1YzktNDVjMzI3MzgzMGZkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6109c1238cca4ae8321562f6e0771313ab318174092a3e4c3a7f5e2b41b50aea",
+      "description": "Double Bedroom Ensuite €1,100 monthly Available 11th July - One(1) large double bedroom (ensuite) available for rent in a new spacious apartment. Looking for male/female. 2 double bedroom 2 bath apartment. The apartment is fully fu... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-06-18T14:38:30.867Z"
     }
   ]
 }
