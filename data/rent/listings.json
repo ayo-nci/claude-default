@@ -1,90 +1,42 @@
 {
-  "fetchedAt": "2026-06-20T07:40:11.088Z",
+  "fetchedAt": "2026-06-21T17:14:56.865Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6601665",
-      "url": "https://www.rent.ie/rooms-to-rent/Howth-Road-Dublin-3-Fairview-Dublin-3/6601665/",
-      "title": "Howth Road, Dublin 3, Fairview, Dublin 3",
-      "price": "€700 monthly",
-      "area": "Dublin 3, Fairview, Dublin 3",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvZlwvMWYzYTNmODktZTc4Ni00OGNiLThlMjQtNWNiNmFjMDgzOTQwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a12d76c457bb48c7d1a886a6d792868242453c4c30bcf438306f763ce46db113",
-      "description": "Double Bedroom Ensuite €700 monthly Available Now - Located on the Howth Road this 3 storey house is just a 2 minute walk from Fairview Park. Double room is available on the top floor and is an en-suite room. House is shared with 4 othe... View full ad on Rent.ie",
+      "id": "6601984",
+      "url": "https://www.rent.ie/rooms-to-rent/Kilmartin-Grovehollystowndublin-15-Hollystown-Dublin-15/6601984/",
+      "title": "Kilmartin Grove,hollystown,dublin 15, Hollystown, Dublin 15",
+      "price": "€1,300 monthly",
+      "area": "hollystown, dublin 15, Hollystown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvZVwvYmVjNWUzYzgtYWVlZC00MGIwLThiNDEtYWE2MWU2OTA1NmQyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7483228675595a4b5bfd802254cdc75b5f054f1b9ad28c49f6224a8846f72a80",
+      "description": "Double Bedroom Ensuite €1,300 monthly Available 22nd June - Its a new build property - smart home- with all amenities - best for those who need to commute to airport and business parks nearby. The room is availAble for immediate occupancy from 01/08/25. Utility bills are electricity and internet. Bins are included in the Rent. Deposit is the same as rent. View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-20T07:40:11.088Z"
+      "firstSeenAt": "2026-06-21T17:14:56.865Z"
     },
     {
-      "id": "6601433",
-      "url": "https://www.rent.ie/rooms-to-rent/Rockview-Bracken-Hill-Sandyford-Dublin-18-Ballinteer-Dublin-16/6601433/",
-      "title": "Rockview, Bracken Hill, Sandyford, Dublin 18, Ballinteer, Dublin 16",
-      "price": "€950 monthly",
-      "area": "Bracken Hill, Sandyford, Dublin 18, Ballinteer, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvOFwvZjg4NWFkNTItODBjMS00OGQ0LTljNDktYzhjMDJlN2Y5OGYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6640eaa7a9d71e639ead793519c3c2ad7e625018bad0c6e53cd71967aef19b27",
-      "description": "Double Bedroom Ensuite €950 monthly Available Now - Sunny in winter, double room, private bathroom, second floor, with its own private balcony, and assigned parking space next to the entrance if you have a car. Views of the south ... View full ad on Rent.ie",
+      "id": "6602015",
+      "url": "https://www.rent.ie/rooms-to-rent/Island-Key-Block-3-East-Road-North-Wall-Dublin-1/6602015/",
+      "title": "Island Key Block 3 East Road, North Wall, Dublin 1",
+      "price": "€1,150 monthly",
+      "area": "North Wall, Dublin 1",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvMFwvNTBmODI2ODQtNjNhYS00ZDc2LWFlNGQtNTYzMjhjOWZiM2RjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2f6a842463d1529a19cbb032067e4e209cc12ecb047161ef98033cef570567c7",
+      "description": "Double Bedroom Ensuite €1,150 monthly Available 20th July - Large bright double room available from mid-July in a well-maintained 3-bedroom apartment in East Wall. About the room: - Large and bright with great natural light - Priv... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-19T20:58:30.878Z"
+      "firstSeenAt": "2026-06-21T17:14:56.865Z"
     },
     {
-      "id": "6601168",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Grove-Kilmartin-Grove-Hollystown-Dublin-15-Hollystown-Dublin-15/6601168/",
-      "title": "The Grove, Kilmartin Grove, Hollystown, Dublin 15, Hollystown, Dublin 15",
-      "price": "€1,175 monthly",
-      "area": "Kilmartin Grove, Hollystown, Dublin 15, Hollystown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNVwvZTU0NjE4ZGEtNzdhMS00ODNmLThjNjEtNjBmYjE4OTFhYjljLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=55b16ba2c25a4a78c25ab44d5e623c66d146031dace3ae108f6088430643e0bf",
-      "description": "Double Bedroom Ensuite €1,175 monthly Available 1st August - A double room en-suite available in a four-bedroom semi-detached house in a new residential estate in Hollystown, Dublin 15. 8 minutes walk to Tyrrelstown shopping centre with... View full ad on Rent.ie",
+      "id": "6602044",
+      "url": "https://www.rent.ie/rooms-to-rent/Myrtle-Drivethe-Coastdublin-13-Baldoyle-Dublin-13/6602044/",
+      "title": "Myrtle Drive,the Coast,dublin 13, Baldoyle, Dublin 13",
+      "price": "€850 monthly",
+      "area": "the Coast, dublin 13, Baldoyle, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvYVwvZGExYzI3Y2EtZDdiYS00NGVhLWJlYWItZmFlNTEzMWU5MDJiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5fdd656be3db72a94fb2970e352722fbaadbeab0b76bca6c8faf59c178135083",
+      "description": "Double Bedroom Ensuite €850 monthly Available 14th July - Large loft style bedroom available. Upstairs away from rest of apartment( bit more privacy). Has an ensuite bathroom and balcony. Beside dart station and bus H1 + 15 (24hrs).... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-19T20:58:30.878Z"
-    },
-    {
-      "id": "6600931",
-      "url": "https://www.rent.ie/rooms-to-rent/Pakenham-Housespencer-Dockdublin-1-IFSC-Dublin-1/6600931/",
-      "title": "Pakenham House,spencer Dock,dublin 1, IFSC, Dublin 1",
-      "price": "€1,507 monthly",
-      "area": "spencer Dock, dublin 1, IFSC, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvNFwvNjRkYzI4OTUtMDNhZC00MDNiLWI4YTItNjkyOTY2OTY3Zjc3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e37810cf5e7668fc8dd3badcec635e14087833effdc44a1f2950a0e0e1405ad7",
-      "description": "Double Bedroom Ensuite €1,507 monthly Available 21st June - A bright and spacious double bedroom available in a well-maintained shared apartment with just one other tenant. Property Features: • Large double bedroom • Private bath... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-19T20:58:30.878Z"
-    },
-    {
-      "id": "6601514",
-      "url": "https://www.rent.ie/rooms-to-rent/Wyckham-Pointwyckham-Waydundrumdublin-16-Ballinteer-Dublin-16/6601514/",
-      "title": "Wyckham Point,wyckham Way,dundrum,dublin 16, Ballinteer, Dublin 16",
-      "price": "€1,018 monthly",
-      "area": "wyckham Way, dundrum, dublin 16, Ballinteer, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvNVwvYTU4N2U2YTQtMmRmYy00NjE2LThmZDItMDVhMDE5Y2I5MTNiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e1bf1d20967125fa4d999ce1dc173d4bb3b71a7d3d4207d1eb82e8feccfc5d3f",
-      "description": "Double Bedroom Ensuite €1,018 monthly Available 1st August - Double room with ensuite. Room includes king size bed, 2 bedside lockers and lamps, desk and 4 door wardrobe. Tenant will be living with two female professionals in their late... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-19T20:58:30.878Z"
-    },
-    {
-      "id": "6590097",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Davittdavitt-Roaddublin-12-Drimnagh-Dublin-12/6590097/",
-      "title": "The Davitt,davitt Road,dublin 12, Drimnagh, Dublin 12",
-      "price": "€1,346 monthly",
-      "area": "davitt Road, dublin 12, Drimnagh, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvOVwvNzk3YThlZDMtN2ZjZC00ZTBhLWI2NTQtMmE1NzNlMTg4ZmMyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ffd528121fde047486288f4e567c1b9def38a978f81ce2bc01f6f9acf78af8d5",
-      "description": "Double Bedroom Ensuite €1,346 monthly Available 1st July - Permanent Accommodation Available – From 1st July - ONE INDIVIDUAL ONLY Spacious ensuite room available in a modern and well-maintained apartment. The room features a walk... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-19T20:58:30.878Z"
-    },
-    {
-      "id": "6601643",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-Neptunehoney-Parkdun-Laoghaireco-Dublin-Glenageary-Co-Dublin/6601643/",
-      "title": "Apartment Neptune,honey Park,dun Laoghaire,co. Dublin, Glenageary, Co. Dublin",
-      "price": "€903 monthly",
-      "area": "honey Park, dun Laoghaire, co. Dublin, Glenageary, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvYVwvMGFiOTUwMDEtMGUzOC00OTUyLTljZGEtNjBjMmU1ZGJlMzBmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f6e8a34b8ce474463c74a594caf1f84e0c024d51c37672196436a3ec7ba3f945",
-      "description": "Double Bedroom Ensuite €903 monthly Available 1st August - Double bedroom ensuite in apartment shared with two other women in their thirties, working professionals. Looking for other working professionals to move in. Nice community ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-19T20:58:30.878Z"
+      "firstSeenAt": "2026-06-21T17:14:56.865Z"
     }
   ]
 }
