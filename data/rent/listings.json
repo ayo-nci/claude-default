@@ -1,54 +1,30 @@
 {
-  "fetchedAt": "2026-06-23T14:14:30.955Z",
+  "fetchedAt": "2026-06-23T21:21:28.239Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6603512",
-      "url": "https://www.rent.ie/rooms-to-rent/Western-Parkway-Park-West-Dublin-12/6603512/",
-      "title": "Western Parkway, Park West, Dublin 12",
-      "price": "€320",
-      "area": "Park West, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvOVwvNzlmNjhjNTktNGU1Zi00NjhjLTlmNDMtNmNlNmRlZTlhMWQ4LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=c4a5aad00c6f5641107bacc66ba824b5ca7bbab0667e3c55ad46335208217930",
-      "description": "Double Bedroom Ensuite €320 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "id": "6604169",
+      "url": "https://www.rent.ie/rooms-to-rent/Stillorgan-Road-Donnybrook-Stillorgan-Co-Dublin/6604169/",
+      "title": "Stillorgan Road Donnybrook, Stillorgan, Co. Dublin",
+      "price": "€1,400 monthly",
+      "area": "Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvMlwvNzIyYzI2YTQtMTBhNy00MTM1LTgyYTUtZjM5YmYwM2MyNjIwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=173b0819ffa2196678e66982bd631e45ab971f1df53618d9fbb84f686f398df9",
+      "description": "Shared Bedroom Ensuite €1,400 monthly - Twin Bedroom Ensuite €1,400 monthly - Single Bedroom €900 monthly Available Now - 3 Beautiful Twin Ensuite Rooms – Female Students Looking for a safe, comfortable place to call home during your studies? These large, beautifully spacious twin ensuite rooms could be perfect for you. Located just a 5-minute walk from UCD, this is a wonderful opportunity to live in a warm, welcoming home shared with like-minded... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-23T14:14:30.955Z"
+      "firstSeenAt": "2026-06-23T21:21:28.239Z"
     },
     {
-      "id": "6603517",
-      "url": "https://www.rent.ie/rooms-to-rent/Adamstown-Park-Lucan-Co-Dublin/6603517/",
-      "title": "Adamstown Park, Lucan, Co. Dublin",
-      "price": "€275",
-      "area": "Lucan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvZFwvMWQzOGRiNGItYjdhMi00YWIzLTkwZGUtNTE3NTViN2NhMzQ2LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=2156239d99953b1446cd9b9852c22b143f5404e0811aef7692119a73d81a2353",
-      "description": "Double Bedroom Ensuite €275 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "id": "6604216",
+      "url": "https://www.rent.ie/rooms-to-rent/Swords-Road-Dublin-9-Whitehall-Whitehall-Dublin-9/6604216/",
+      "title": "Swords Road, Dublin 9 Whitehall, Whitehall, Dublin 9",
+      "price": "€1,500 monthly",
+      "area": "Dublin 9 Whitehall, Whitehall, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvNFwvNDQ4M2Q4ZTctMjY5OS00MDMyLTgxZDgtNzAyZTNiZmNhOGNlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cab9b5d623bf1a7e070499e2a5ff30a60bea11a9b8718b6a11d125006abc8e6e",
+      "description": "Double Bedroom Ensuite €1,500 monthly Available 9th July - extra large king size bedroom fitted with king size bed AND 65 inch tv All bills included internet HBO MAX PARAMOUNT PLUS 24 hours heating and hot water bus stop to airport... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-23T14:14:30.955Z"
-    },
-    {
-      "id": "6603478",
-      "url": "https://www.rent.ie/rooms-to-rent/Reginald-Street-Dublin-8-The-Coombe-Dublin-8/6603478/",
-      "title": "Reginald Street, Dublin 8, The Coombe, Dublin 8",
-      "price": "€779 monthly",
-      "area": "Dublin 8, The Coombe, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvY1wvYmM2MWQ5NDEtNjBjMC00ZDcyLTkwZDYtZTkyNWQ1YWZiMmRjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c847976d50b1f2d160cca4f0a6980c9cd441e89e6b13ccca3016531b7a4f3a0c",
-      "description": "Double Bedroom Ensuite €779 monthly Available 15th July - A well light-filled room available to rent in a bright house. The property offers a relaxed shared living room, private bathroom and fully equipped kitchen. Available for July, August or September bookings. Perfect for someone looking for a friendly and quiet environment. Suitable for a clean, responsible, and friendly ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-23T14:14:30.955Z"
-    },
-    {
-      "id": "6603541",
-      "url": "https://www.rent.ie/rooms-to-rent/5-Fairfield-Court-Upr-Herbert-Road-Ballsbridge-Dublin-4/6603541/",
-      "title": "5 Fairfield Court Upr, Herbert Road, Ballsbridge, Dublin 4",
-      "price": "€1,050 monthly",
-      "area": "Herbert Road, Ballsbridge, Dublin 4",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvNVwvNjViYzUzY2EtODNkNS00MTVkLTk4ZWUtNWJiNTJlYTIxOGI2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=829ca2df20a82d271b2f73e80c6fa31d7f3090c6d47be2eae3f9f0bf83f8e7d8",
-      "description": "Double Bedroom €1,050 monthly - Double Bedroom Ensuite €1,350 monthly Available 15th July - Two bedrooms (one en Suite) beside Aviva Stadium. Lansdowne Road DART (100 meters). Opposite Sandymount Hotel and nearby Sandymount Village. View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-23T14:14:30.955Z"
+      "firstSeenAt": "2026-06-23T21:21:28.239Z"
     },
     {
       "id": "6603911",
