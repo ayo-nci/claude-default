@@ -1,78 +1,66 @@
 {
-  "fetchedAt": "2026-06-25T21:19:45.321Z",
+  "fetchedAt": "2026-06-27T09:53:50.012Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6606126",
-      "url": "https://www.rent.ie/rooms-to-rent/Rathfarnham-Dublin-14-Dublin-14/6606126/",
-      "title": "Rathfarnham, Dublin 14, Dublin 14",
-      "price": "€1,100 monthly",
-      "area": "Dublin 14, Dublin 14",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMVwvYjFiN2Q3OTItMDI3Zi00OTY2LTkyYzAtY2U0ZGRhZTQzMDQzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f1e05d42f85d4f37e15d2dd22d9039332dc36f6fa5db8b53e21f31a4a5aae93b",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 31st August - A spacious newly refurbished double room with a private En-suite bathroom is available for rent in a quiet and safe residential area in Rathfarnham. Rathfarnham Castle nears by... View full ad on Rent.ie",
+      "id": "6602119",
+      "url": "https://www.rent.ie/rooms-to-rent/Portersfield-Clonsilla-Road-Blanchardstown-Dublin-15/6602119/",
+      "title": "Portersfield, Clonsilla Road, Blanchardstown, Dublin 15",
+      "price": "€1,000 monthly",
+      "area": "Clonsilla Road, Blanchardstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvZFwvZmQ4YzNlODgtMzVjNS00M2M0LTg2MTMtYWEzZGE1NzI4ZWE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0d0b26da6b4b37f8e87bc962de8054678ecafc94294d43cb9a10dc3f08890a58",
+      "description": "Double Bedroom Ensuite €1,000 monthly Available 25th July - Spacious large Double en suite room available to rent in a big two bedroom apartment. Single person 1000e Apartment is warm and clean. This would suit an easy going, tidy, non-s... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-25T21:19:45.321Z"
+      "firstSeenAt": "2026-06-27T09:53:50.012Z"
     },
     {
-      "id": "6606241",
-      "url": "https://www.rent.ie/rooms-to-rent/Rathborne-Court-Ashtown-Dublin-15/6606241/",
-      "title": "Rathborne Court, Ashtown, Dublin 15",
+      "id": "6607274",
+      "url": "https://www.rent.ie/rooms-to-rent/12-Ulverton-Court-Ulverton-Road-Dalkey-Co-Dublin/6607274/",
+      "title": "12 Ulverton Court, Ulverton Road, Dalkey, Co. Dublin",
       "price": "€800 monthly",
-      "area": "Ashtown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvNlwvZDY0YjFiZjEtMjA0NS00YmNkLWFlNmMtNmNhMmRhNTkxZDkwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2dd5ae594b5c8873c8f8f7f6072dc722e4400cf5ca699ffe436fed5dce58899a",
-      "description": "Single Bedroom Ensuite €800 monthly Owner Occupied Available 1st July - Room to rent in Rathbourne, directly opposite the park. Fully furnished with a private bathroom, two balconies, and fast Wi-Fi. Car park spot.Sharing with just one (the owner) ... View full ad on Rent.ie",
+      "area": "Ulverton Road, Dalkey, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvM1wvOTMzZjY3MzMwNmRjNGZmNmE4M2M4NzRlOGFhZDI1NmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=bfdd692008d4ff70c8b6687f0491f7fc2f1482d664afbbb75cef7d6272a25168",
+      "description": "Twin Bedroom Ensuite €800 monthly Owner Occupied Available Now - Apartment share with couple. Nice spacious apartment Secure location, 5 min walk to dart On bus/air-coach route 2 min walk to village centre Beautiful location safe in ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-25T21:19:45.321Z"
+      "firstSeenAt": "2026-06-27T09:53:50.012Z"
     },
     {
-      "id": "6606243",
-      "url": "https://www.rent.ie/rooms-to-rent/38-Millers-Avenue-Millers-Glen-Swords-Co-Dubl-Ballyboughal-Co-Dublin/6606243/",
-      "title": "38 Millers Avenue, Miller's Glen, Swords, Co. Dubl, Ballyboughal, Co. Dublin",
-      "price": "€250",
-      "area": "Miller's Glen, Swords, Co. Dubl, Ballyboughal, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMVwvNjEzYzI0YmUtMmU0NS00MTY0LTk3OWYtZGY3ODA3NzY5YTcwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=45bcc301affe5a93c7a7eddd6a9c25dc4c304812a2f31ba9a77df272f4f684cb",
-      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Available 26th June - Double En-Suite Room Available in Swords A bright and comfortable double room with a private en-suite bathroom is available in a clean and well-maintained owner-occupied ho... View full ad on Rent.ie",
+      "id": "6607342",
+      "url": "https://www.rent.ie/rooms-to-rent/326-Collins-Avenue-Whitehall-Dublin-9/6607342/",
+      "title": "326 Collins Avenue, Whitehall, Dublin 9",
+      "price": "€1,100 monthly",
+      "area": "Whitehall, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvNlwvMjY3ODI3YTgtMTU3ZS00NmZmLWJhYzAtNzk3NGM1YjA3ODYwLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=dd0d037904cfd446b444fe52494eeec6563a99ee7956293ecbc5fa34393307d6",
+      "description": "Double Bedroom €1,100 monthly - Double Bedroom Ensuite €1,500 monthly Agent: Forbes Property Available 6th July - Two spacious and bright double bedrooms available to rent in a well-maintained house on Collins Avenue, Dublin 9. These generously sized rooms are fully furnished and offer co... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-25T21:19:45.321Z"
+      "firstSeenAt": "2026-06-27T09:53:50.012Z"
     },
     {
-      "id": "6606250",
-      "url": "https://www.rent.ie/rooms-to-rent/326-Collins-Avenue-Dublin-9-Beaumont-Dublin-9/6606250/",
-      "title": "326 Collins Avenue, Dublin 9, Beaumont, Dublin 9",
-      "price": "€1,500 monthly",
-      "area": "Dublin 9, Beaumont, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvNFwvYTQzMDAyZmYtYmU1YS00OTMxLThlN2EtYTkwNWI1MDVjODAzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cf6a861be89177b3ea4fe8af2e9c94fda46e5e988e9a9d3e91539e88339da4b7",
-      "description": "Double Bedroom Ensuite €1,500 monthly - Double Bedroom €1,200 monthly Owner Occupied Available 6th July - My property is an ideal location to duc ten min walk saint Patrick’s collage 10 min walk shops bars and restaurants all with in five to ten min walk parks gyms ten min walk city centre 15 mins on the bus supermarkets 10 min walk its a lovely area also 15 min walk to the beach . Beamount hospital is also 10 mins away and bus to airport at top of the... View full ad on Rent.ie",
+      "id": "6607356",
+      "url": "https://www.rent.ie/rooms-to-rent/37-Broadfield-Drive-Broadfield-Manor-Rathcoole-Rathcoole-Co-Dublin/6607356/",
+      "title": "37 Broadfield Drive, Broadfield Manor, Rathcoole, Rathcoole, Co. Dublin",
+      "price": "€950 monthly",
+      "area": "Broadfield Manor, Rathcoole, Rathcoole, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvNlwvYTYyYjhlNzUtYjg2YS00ODQyLWE3ZjctMjdmYmNmZjM5MTg4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=b2d776adb172bb604036e811428c2ea17de733de1ebd77c17f7c6e6a65e72cac",
+      "description": "Double Bedroom Ensuite €950 monthly Owner Occupied Available Now - LARGE DOUBLE room ensuite*** ALL BILLS, Netflix, Wifi, Bins, Gas and electricity*** comes fully furnished with large built in wardropes,new smart Tv . Available to move in ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-25T21:19:45.321Z"
+      "firstSeenAt": "2026-06-27T09:53:50.012Z"
     },
     {
-      "id": "6606257",
-      "url": "https://www.rent.ie/rooms-to-rent/Ardoyne-Mews-Pembroke-Park-Dublin-4-Ballsbridge-Dublin-4/6606257/",
-      "title": "Ardoyne Mews, Pembroke Park, Dublin 4, Ballsbridge, Dublin 4",
-      "price": "€1,650 monthly",
-      "area": "Pembroke Park, Dublin 4, Ballsbridge, Dublin 4",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMFwvYjA5ZmFiZmEtZjk4Zi00MTAwLWE1ZTgtNjUxNzMyZTBhODIxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7e827e62b3182b1e070e5c691cf9c446d835bac0882eef3f90751fb18d8efe98",
-      "description": "Twin Bedroom Ensuite €1,650 monthly Available Now - Available immediately Flexible terms (Minimum stay 6 months +) Beautiful mews, American-style property with all mod cons. One bedroom with an ensuite is exclusive to 2 suitable candidates. Facilities: Fully equipped kitchen Beautiful surroundings, Peaceful neighborhood Private bathroom Rent 1650 plus bi... View full ad on Rent.ie",
+      "id": "6607355",
+      "url": "https://www.rent.ie/rooms-to-rent/Holywell-Square-Swords-Co-Dublin-Kinsealy-Co-Dublin/6607355/",
+      "title": "Holywell Square, Swords, Co. Dublin, Kinsealy, Co. Dublin",
+      "price": "€1,100 monthly",
+      "area": "Swords, Co. Dublin, Kinsealy, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvZFwvMmQzN2Q2OGUtNmNkYi00ZGQzLWEwZDEtNzVjMzcwNzkzMjAwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=fab5ebaa2eb5443598e763ada2dc743cf4afd4c297b6147f9a485b89f763fd33",
+      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 4th July - A bright and large double bedroom with a private en-suite bathroom, ideal for someone looking for comfort and privacy. The room is fully furnished with a comfortable double bed, wardrobe, and ample space for additional furniture or a work desk. Large windows provide plenty of natural light, creating a warm and welcoming atmosphe... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-25T21:19:45.321Z"
-    },
-    {
-      "id": "6605071",
-      "url": "https://www.rent.ie/rooms-to-rent/Brookwood-Parkdublin-5-Raheny-Dublin-5/6605071/",
-      "title": "Brookwood Park,dublin 5, Raheny, Dublin 5",
-      "price": "€1,300 monthly",
-      "area": "dublin 5, Raheny, Dublin 5",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvY1wvYWMwMjYwYzAtNGY0Yy00Y2Q2LTk2MzktZTk2MGY4YzdkY2Q2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2e3c8c99f99ab2c1c0b66b3041763e04f3878cbb876a3229c04f5e2643f58ad9",
-      "description": "Twin Bedroom Ensuite €1,300 monthly Owner Occupied Available 17th July - Very large, bright and spacious attic room with. double and single bed. There is an en-suite bathroom and shower and a sun terrace. Would suit acouple or two friends. Lovely ho... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-25T21:19:45.321Z"
+      "firstSeenAt": "2026-06-27T09:53:50.012Z"
     }
   ]
 }
