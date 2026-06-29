@@ -1,66 +1,42 @@
 {
-  "fetchedAt": "2026-06-28T02:04:18.404Z",
+  "fetchedAt": "2026-06-29T02:04:48.805Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6607470",
-      "url": "https://www.rent.ie/rooms-to-rent/Sandymount-Avenue-Sandymount-Dublin-4/6607470/",
-      "title": "Sandymount Avenue, Sandymount, Dublin 4",
-      "price": "€1,080 monthly",
-      "area": "Sandymount, Dublin 4",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvN1wvNDc3N2JhMDYtNjhiMC00YmNlLTlmZjktOWFmZDNhNTIzNTI5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0eb9ab057c58e43cc49822ddd4c1a7a9c2bc6bd876795bab96ba6968dc540504",
-      "description": "Double Bedroom Ensuite €1,080 monthly Available 13th July - The property is a three-bedroom, three bathroom house with a shared living area and a large kitchen. The property also has free off street parking. The property is within walki... View full ad on Rent.ie",
+      "id": "6607808",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-36b-The-Plaza-Crescent-Forster-Way-Sw-Swords-Co-Dublin/6607808/",
+      "title": "Apartment 36b, The Plaza Crescent, Forster Way, Sw, Swords, Co. Dublin",
+      "price": "€1,000 monthly",
+      "area": "The Plaza Crescent, Forster Way, Sw, Swords, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvZlwvNmY4NzEzNTMtYWYxOS00NmJkLTlkNzEtNmNmNDU2ZGVmNDlkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8baf7a6b7e4a9636bb27d5348f55157d5683e3bd0c4288e36a060c23335b0893",
+      "description": "Double Bedroom Ensuite €1,000 monthly Available 1st September - A south facing 2 bedroom 2 bathroom property at the heart of Swords Village literally 1 minute away from the Pavilions Shopping Centre and Sword Main Road. Also super close to var... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-28T02:04:18.404Z"
+      "firstSeenAt": "2026-06-29T02:04:48.805Z"
     },
     {
-      "id": "6607492",
-      "url": "https://www.rent.ie/rooms-to-rent/Kimmage-Road-Kimmage-Dublin-12/6607492/",
-      "title": "Kimmage Road, Kimmage, Dublin 12",
-      "price": "€280",
-      "area": "Kimmage, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvZFwvZmRhYzdmMjgtZmUxZS00ZTNiLTgwOWEtMzMyMGYyY2NiMWFmLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=c84a6682f1fa0dfcb81991759f16f79d25ddefc61703d3dfcb25417fc6750885",
-      "description": "Double Bedroom Ensuite €280 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 30th June - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "id": "6607850",
+      "url": "https://www.rent.ie/rooms-to-rent/Kilmartin-Grove-Hollystown-Dublin-15/6607850/",
+      "title": "Kilmartin Grove, Hollystown, Dublin 15",
+      "price": "€900 monthly",
+      "area": "Hollystown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvZVwvN2VhYjU0ZDMtZmQ4Zi00NmJiLWI0ZmEtYWZkOWJiYzI3MWQ2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6d5ac94e68fb380bbacd05d1eb8b54e68e5dd5ad0f0ce44f8b7029c3487c1fe1",
+      "description": "Double Bedroom Ensuite €900 monthly Owner Occupied Available 30th June - A bright and spacious double room with an attached bathroom, in a family-friendly neighbourhood in Dublin 15. The room has enough space for a desk and chair for study / remote w... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-28T02:04:18.404Z"
+      "firstSeenAt": "2026-06-29T02:04:48.805Z"
     },
     {
-      "id": "6607419",
-      "url": "https://www.rent.ie/rooms-to-rent/Laurel-Hall-Larkfield-Heath-Dublin-18-Leopardstown-Dublin-18/6607419/",
-      "title": "Laurel Hall, Larkfield Heath, Dublin 18, Leopardstown, Dublin 18",
-      "price": "€1,425 monthly",
-      "area": "Larkfield Heath, Dublin 18, Leopardstown, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvYVwvMmE2YzczM2UtMzZkMi00M2YzLWE4YWUtOWUxMTE0MWYyMGNiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2dfda8161a553bc266e72ece6ca729bed9162c2673109986ed170d70efdaad66",
-      "description": "Double Bedroom Ensuite €1,425 monthly Available 13th July - I'm moving out of my apartment in Laurel Hall, Clay Farm, Leopardstown (D18). The apartment is a 2 bed-2 bath dual aspect, on the 5th floor and the nicest unit in the building. Excellent location - 2 minutes walk to The Gallops (Green Line Luas) and 5 minutes walk to the Leopardstown Luas stop, Spar, Dunnes superstore, GP and pharmacy. ... View full ad on Rent.ie",
+      "id": "6607844",
+      "url": "https://www.rent.ie/rooms-to-rent/Slademore-Avenue-Dublin-13-Ard-Na-Greine-Dublin-13/6607844/",
+      "title": "Slademore Avenue, Dublin 13, Ard Na Greine, Dublin 13",
+      "price": "€1,000 monthly",
+      "area": "Dublin 13, Ard Na Greine, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvNlwvMTYxNzhlMzctNTI3NS00ODdhLWIxOGEtZGEwNzY1OTJmNWZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=bc6e818fd3e0350ce69aad01c59048e6a5ffb890af4a0e132278b5f82cec8695",
+      "description": "Single Bedroom Ensuite €1,000 monthly Available 1st July - 20m&sup2; ensuite attic room with a king-size bed, located in a detached house in the Ard-na-Greine neighborhood (D13). The room is available from July 1st. The rent is '1,000 per m... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-28T02:04:18.404Z"
-    },
-    {
-      "id": "6607548",
-      "url": "https://www.rent.ie/rooms-to-rent/Saint-Johns-Road-West-Dublin-8-Kilmainham-Dublin-8/6607548/",
-      "title": "Saint John's Road West, Dublin 8, Kilmainham, Dublin 8",
-      "price": "€1,400 monthly",
-      "area": "Dublin 8, Kilmainham, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvNlwvYzYwYjc5NWMtYTk4NS00N2U0LTkzNmQtMWQ2YzBlOTY2MjUwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ad53e691d5958322dd8ee7a2e963e0164835f611ebe95c41a26624b17f11f053",
-      "description": "Double Bedroom Ensuite €1,400 monthly Owner Occupied Available 31st July - Confortable double room + en-suite in a cozy quiet apartment located in a very conveniente area closed to loads of bus stops, luas and train station. Shops near by and walking dis... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-28T02:04:18.404Z"
-    },
-    {
-      "id": "6607568",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Close-Kingswood-Heights-Tallaght-Dublin-24/6607568/",
-      "title": "The Close, Kingswood Heights, Tallaght, Dublin 24",
-      "price": "€1,100 monthly",
-      "area": "Kingswood Heights, Tallaght, Dublin 24",
-      "imageUrl": null,
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available Now - Ensuite Close to Luas, within walking distance Quiet and Friendly Shared Kitchen View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-28T02:04:18.404Z"
+      "firstSeenAt": "2026-06-29T02:04:48.805Z"
     }
   ]
 }
