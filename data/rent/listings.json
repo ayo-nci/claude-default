@@ -1,42 +1,30 @@
 {
-  "fetchedAt": "2026-06-29T02:04:48.805Z",
+  "fetchedAt": "2026-06-29T15:23:41.152Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6607808",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-36b-The-Plaza-Crescent-Forster-Way-Sw-Swords-Co-Dublin/6607808/",
-      "title": "Apartment 36b, The Plaza Crescent, Forster Way, Sw, Swords, Co. Dublin",
-      "price": "€1,000 monthly",
-      "area": "The Plaza Crescent, Forster Way, Sw, Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvZlwvNmY4NzEzNTMtYWYxOS00NmJkLTlkNzEtNmNmNDU2ZGVmNDlkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8baf7a6b7e4a9636bb27d5348f55157d5683e3bd0c4288e36a060c23335b0893",
-      "description": "Double Bedroom Ensuite €1,000 monthly Available 1st September - A south facing 2 bedroom 2 bathroom property at the heart of Swords Village literally 1 minute away from the Pavilions Shopping Centre and Sword Main Road. Also super close to var... View full ad on Rent.ie",
+      "id": "6608365",
+      "url": "https://www.rent.ie/rooms-to-rent/Moyne-Road-Dublin-6-Ranelagh-Dublin-6/6608365/",
+      "title": "Moyne Road, Dublin 6, Ranelagh, Dublin 6",
+      "price": "€800 monthly",
+      "area": "Dublin 6, Ranelagh, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYlwvY2I3OTMyZDgtNzRmNi00ZDVlLTkzNjYtODIxMmI2MGRhMTJmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2d52a07a4ebab72b31cd29ed9a9580f4836560a441b0c235eefb6952177c3519",
+      "description": "Single Bedroom €800 monthly - Double Bedroom Ensuite €1,300 monthly Owner Occupied Available 15th July - Beautiful property, Large Bright double bedroom with private bathroom and smaller double with shared bathroom in beautiful victorian house on quiet street with large sunny g... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-29T02:04:48.805Z"
+      "firstSeenAt": "2026-06-29T15:23:41.152Z"
     },
     {
-      "id": "6607850",
-      "url": "https://www.rent.ie/rooms-to-rent/Kilmartin-Grove-Hollystown-Dublin-15/6607850/",
-      "title": "Kilmartin Grove, Hollystown, Dublin 15",
-      "price": "€900 monthly",
-      "area": "Hollystown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvZVwvN2VhYjU0ZDMtZmQ4Zi00NmJiLWI0ZmEtYWZkOWJiYzI3MWQ2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6d5ac94e68fb380bbacd05d1eb8b54e68e5dd5ad0f0ce44f8b7029c3487c1fe1",
-      "description": "Double Bedroom Ensuite €900 monthly Owner Occupied Available 30th June - A bright and spacious double room with an attached bathroom, in a family-friendly neighbourhood in Dublin 15. The room has enough space for a desk and chair for study / remote w... View full ad on Rent.ie",
+      "id": "6608524",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Concert-Park-West-Pointe-Yeats-Way-Park-West-Business-Park-Dublin-12-Park-West-Dublin-12/6608524/",
+      "title": "The Concert, Park West Pointe, Yeats Way, Park West Business Park, Dublin 12, Park West, Dublin 12",
+      "price": "€1,200 monthly",
+      "area": "Park West Pointe, Yeats Way, Park West Business Park, Dublin 12, Park West, Dublin 12",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvNVwvNjUzMDBmNzYtNDkyNy00OGU2LWFiNDEtMTQzZTNmNDExMGY1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=df9569c227b6191c146f2fe952029f52158371ecd4177ccbd7355d052b9a5ba2",
+      "description": "Double Bedroom Ensuite €1,200 monthly Available 1st July - Double room for one or a couple with its own shower room. 5 minutes from home, a shop, a pharmacy, a coffee shop. Liffey Valley shopping centre 3 km, Lidl, Dunnes stores and Polonez ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-29T02:04:48.805Z"
-    },
-    {
-      "id": "6607844",
-      "url": "https://www.rent.ie/rooms-to-rent/Slademore-Avenue-Dublin-13-Ard-Na-Greine-Dublin-13/6607844/",
-      "title": "Slademore Avenue, Dublin 13, Ard Na Greine, Dublin 13",
-      "price": "€1,000 monthly",
-      "area": "Dublin 13, Ard Na Greine, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvNlwvMTYxNzhlMzctNTI3NS00ODdhLWIxOGEtZGEwNzY1OTJmNWZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=bc6e818fd3e0350ce69aad01c59048e6a5ffb890af4a0e132278b5f82cec8695",
-      "description": "Single Bedroom Ensuite €1,000 monthly Available 1st July - 20m&sup2; ensuite attic room with a king-size bed, located in a detached house in the Ard-na-Greine neighborhood (D13). The room is available from July 1st. The rent is '1,000 per m... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-29T02:04:48.805Z"
+      "firstSeenAt": "2026-06-29T15:23:41.152Z"
     }
   ]
 }
