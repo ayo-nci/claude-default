@@ -1,66 +1,54 @@
 {
-  "fetchedAt": "2026-06-30T17:45:07.544Z",
+  "fetchedAt": "2026-07-01T21:14:29.291Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6609693",
-      "url": "https://www.rent.ie/rooms-to-rent/Charlestown-Finglas-Dublin-11/6609693/",
-      "title": "Charlestown, Finglas, Dublin 11",
-      "price": "€950 monthly",
-      "area": "Finglas, Dublin 11",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvOFwvYTg0YWIwZDQtOTJjYi00MDY4LTgzZjktYWYwMWY1NjUwNmNmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=10f56cdf45347e80b3b42499049a39d5b4a5ad6be3f1e066abc67521cefb6dca",
-      "description": "Double Bedroom Ensuite €950 monthly Available 1st September - ***Move in date: 01/09/2026 *** Large and bright double bedroom with external bathroom to rent in Charlestown, Dublin 11. Modern open plan apartment kitchen dining/livi... View full ad on Rent.ie",
+      "id": "6611095",
+      "url": "https://www.rent.ie/rooms-to-rent/1a-Fumbally-Lane-Dublin-8-South-Circular-Road-Dublin-8/6611095/",
+      "title": "1a Fumbally Lane, Dublin 8, South Circular Road, Dublin 8",
+      "price": "€1,250 monthly",
+      "area": "Dublin 8, South Circular Road, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvYlwvZmI1OWFiOTUtOGNjYS00YmEyLTk3MWMtYTI4NmY1NzI4ZjliLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=040c7adf544a10c810031252946a66b15fc397e47638a0ed1ee321705c908c39",
+      "description": "Double Bedroom Ensuite €1,250 monthly Available 15th August - Long-Term Accommodation Available Location: 1A Fumbally Lane, Dublin 08 EIR Code: D08 A3V2 Availability: From 15th Aug, 2026 Property Details: Single private ro... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-30T17:45:07.544Z"
+      "firstSeenAt": "2026-07-01T21:14:29.291Z"
     },
     {
-      "id": "6609848",
-      "url": "https://www.rent.ie/rooms-to-rent/Portland-Street-North-Dublin-1-Drumcondra-Dublin-3/6609848/",
-      "title": "Portland Street North, Dublin 1, Drumcondra, Dublin 3",
-      "price": "€1,100 monthly",
-      "area": "Dublin 1, Drumcondra, Dublin 3",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvNVwvMDU0NTY1MTgtN2U4Mi00YzA0LTlhZmItZmU3YjI0YjNkNjQ3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=20f172cb2748b5932f0cc0871d2df8a70025b43e98cea89ea58de6d3135a8ef6",
-      "description": "Double Bedroom Ensuite €1,100 monthly Available 1st July - Move in date : ASAP Room - Double bed room very spacious and your own large bathroom. Central Location - Dublin Bikes, Buses, Luas (Red and Green) Connolly Station , Spire, Of... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-30T17:45:07.544Z"
-    },
-    {
-      "id": "6585624",
-      "url": "https://www.rent.ie/rooms-to-rent/41-Mellowes-Quay-Ushers-Island-Dublin-8-DO8X431-Dublin-8/6585624/",
-      "title": "41 Mellowes Quay Ushers Island Dublin 8 DO8X431, Dublin 8",
-      "price": "€1,109 monthly",
-      "area": "Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvOVwvMDljNGI3ZGU5ZTEzMTA4ZjQ4NDRhZTRmODhkNGU5NWEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=2734c7336d65de71960e64284974f2429d5c0037910131c5bab2988b3ee8361a",
-      "description": "Double Bedroom Ensuite €1,109 monthly Available 6th July - Dual aspect modern 3 bed apartment over looking the River Liffey sharing with 2 male profesessionals. Fully fitted kitchen with all mod cons. Full cooker,hob, microwave ,toaster, kettle, fridge freezer and washer/drier. Diningroom/sitting room fitted with modern furniture and television. All double bedrooms with fi... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-30T17:45:07.544Z"
-    },
-    {
-      "id": "6609948",
-      "url": "https://www.rent.ie/rooms-to-rent/18-Newmarket-Square-Dublin-8-Christchurch-Dublin-8/6609948/",
-      "title": "18 Newmarket Square, Dublin 8, Christchurch, Dublin 8",
-      "price": "€1,650 monthly",
-      "area": "Dublin 8, Christchurch, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvZVwvZmU0NzY2MGItOGIzMS00ZGRhLWEwMmUtOGM3NmIyMWY4MDNhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=30f115fde66609fd454333cd00b35471234be84d918f5849540a60b61a090c7b",
-      "description": "Single Bedroom Ensuite €1,650 monthly Available 10th July - Hey! I’m looking for a roommate for a brand new apartment in a newly built development in Dublin 8 / The Liberties. -First occupancy – completely new and fully furnished/equ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-06-30T17:45:07.544Z"
-    },
-    {
-      "id": "6609942",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Tannery-Cork-Street-Dublin-8-The-Coombe-Dublin-8/6609942/",
-      "title": "The Tannery Cork Street Dublin 8, The Coombe, Dublin 8",
+      "id": "6611123",
+      "url": "https://www.rent.ie/rooms-to-rent/Waterloo-Road-Ballsbridge-Dublin-4/6611123/",
+      "title": "Waterloo Road, Ballsbridge, Dublin 4",
       "price": "€1,300 monthly",
-      "area": "The Coombe, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvNlwvMDY5OGMxMzhlNDYyYTZhMjhjZDA0NmM2ZDRiMjAxMmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=023a9953f2d513e691bd5a7593631a176cc9d41fd77f567f60b6a6634dbfb5ab",
-      "description": "Double Bedroom Ensuite €1,300 monthly Owner Occupied Available Now - Call to +353896160670 An ensuite Double-bedroom is available to rent in 2-Double-Bedroom and 2-Bathroom Apartment. Apartment is conveniently located in the south part of... View full ad on Rent.ie",
+      "area": "Ballsbridge, Dublin 4",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvNVwvNzVhODlkYTYtZjFjZC00NGI4LWIzODQtNmI5OTQ1YTQ4MTA1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=81bccefbf829a6519a47f266c5cd764da05211f1bcd1487b117210f7bff99c91",
+      "description": "Single Bedroom Ensuite €1,300 monthly Owner Occupied Available 2nd July - A single ensuite bedroom available in quiet flat in a Georgian house in Ballsbridge. Shared kitchen and living room. Very close to supermarket, shops and restaurants on Up... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-06-30T17:45:07.544Z"
+      "firstSeenAt": "2026-07-01T21:14:29.291Z"
+    },
+    {
+      "id": "6611128",
+      "url": "https://www.rent.ie/rooms-to-rent/Violet-Hill-Road-Dublin-11-Glasnevin-Dublin-11/6611128/",
+      "title": "Violet Hill Road, Dublin 11, Glasnevin, Dublin 11",
+      "price": "€1,450 monthly",
+      "area": "Dublin 11, Glasnevin, Dublin 11",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvOFwvNjhhOTM3MDktN2EwZC00NDJlLTkwMzctODc4OWM0NjhiMmZkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=50fe72d2d86aaf49a3d5c3e7e9416c030037f7711bb265929729fce8abd6f1ab",
+      "description": "Double Bedroom Ensuite €1,450 monthly Owner Occupied Available 2nd August - AMAZING opportunity to rent a room in this beautiful house in the most quietest of areas. Located in glasnevin within close proximity to Dublin City, bon secours hospital, DCU c... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-01T21:14:29.291Z"
+    },
+    {
+      "id": "6611139",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-50--Saint-Raphaelas-Apartments-Saint-R-Stillorgan-Co-Dublin/6611139/",
+      "title": "Apartment 50 , Saint Raphaelas Apartments, Saint R, Stillorgan, Co. Dublin",
+      "price": "€1,000 monthly",
+      "area": "Saint Raphaelas Apartments, Saint R, Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvNlwvMTY3ZGMxMTMtMWIwMC00MjVlLWFlOWQtNTVkN2ZkNzUxNDc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=78aa81217e476f325a6b5975129f52e4e0fd15165285f21f9fc612fa868048de",
+      "description": "Double Bedroom Ensuite €1,000 monthly Available 16th July - Room available for period from 16th July until end of August 2026. (with possibility to extent vacancy). Double en-suite room available for rent in a 3 bedroom spacious apartm... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-01T21:14:29.291Z"
     }
   ]
 }
