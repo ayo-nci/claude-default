@@ -1,7 +1,31 @@
 {
-  "fetchedAt": "2026-07-01T21:14:29.291Z",
+  "fetchedAt": "2026-07-02T01:58:00.490Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
+    {
+      "id": "6611183",
+      "url": "https://www.rent.ie/rooms-to-rent/Ivy-Cottage-13-Rafters-Road-Dublin-12-Drimnagh-Dublin-12/6611183/",
+      "title": "Ivy Cottage, 13 Rafters Road, Dublin 12, Drimnagh, Dublin 12",
+      "price": "€310",
+      "area": "13 Rafters Road, Dublin 12, Drimnagh, Dublin 12",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvZVwvMGVkNWU0MWYtM2IzNy00OTU4LWIyODItYjJmZThhMmU3YTQ2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f427091d2b0562a11312c51b986c858eba8397f067894867fb3fd7120831b66c",
+      "description": "Single Bedroom Ensuite €310 weekly - Double Bedroom Ensuite €480 weekly - Double Bedroom Ensuite €480 weekly - Single Bedroom Ensuite €310 weekly Owner Occupied Available 4th July - This newly renovated property in Drimnagh, Dublin 12 offers bright and modern en-suite rooms finished to a high standard. The house features spacious, fully furnished bedrooms with private bathrooms, a fully equipped shared kitchen, high-speed Wi-Fi, a laundry room, and both bike and car parking. Located just 10 minutes from D... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-02T01:58:00.490Z"
+    },
+    {
+      "id": "6611189",
+      "url": "https://www.rent.ie/rooms-to-rent/Clonbern-Phoenix-Park-Racecourse-Navan-Road-D7-Dublin-7/6611189/",
+      "title": "Clonbern, Phoenix Park Racecourse, Navan Road (D7), Dublin 7",
+      "price": "€1,150 monthly",
+      "area": "Phoenix Park Racecourse, Navan Road (D7), Dublin 7",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvYlwvMGJiYmQzYTUtODkwOC00MTAwLWE1YmEtNDM4YmZkZGJkOGRlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=31dcaf7212f9801efdd5e32f5fe94c87987f528e9c999f874f22023eb8dc48ac",
+      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available Now - I'm offering a large, clean bedroom with a private bathroom. The room is fully furnished with a double-size ottoman bed, a wardrobe, and a chest of drawers. There's also plenty of... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-02T01:58:00.490Z"
+    },
     {
       "id": "6611095",
       "url": "https://www.rent.ie/rooms-to-rent/1a-Fumbally-Lane-Dublin-8-South-Circular-Road-Dublin-8/6611095/",
@@ -21,7 +45,7 @@
       "price": "€1,300 monthly",
       "area": "Ballsbridge, Dublin 4",
       "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvNVwvNzVhODlkYTYtZjFjZC00NGI4LWIzODQtNmI5OTQ1YTQ4MTA1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=81bccefbf829a6519a47f266c5cd764da05211f1bcd1487b117210f7bff99c91",
-      "description": "Single Bedroom Ensuite €1,300 monthly Owner Occupied Available 2nd July - A single ensuite bedroom available in quiet flat in a Georgian house in Ballsbridge. Shared kitchen and living room. Very close to supermarket, shops and restaurants on Up... View full ad on Rent.ie",
+      "description": "Single Bedroom Ensuite €1,300 monthly Owner Occupied Available Now - A single ensuite bedroom available in quiet flat in a Georgian house in Ballsbridge. Shared kitchen and living room. Very close to supermarket, shops and restaurants on Up... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
       "firstSeenAt": "2026-07-01T21:14:29.291Z"
