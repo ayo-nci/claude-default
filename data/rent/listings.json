@@ -1,78 +1,66 @@
 {
-  "fetchedAt": "2026-07-02T01:58:00.490Z",
+  "fetchedAt": "2026-07-03T20:49:51.883Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6611183",
-      "url": "https://www.rent.ie/rooms-to-rent/Ivy-Cottage-13-Rafters-Road-Dublin-12-Drimnagh-Dublin-12/6611183/",
-      "title": "Ivy Cottage, 13 Rafters Road, Dublin 12, Drimnagh, Dublin 12",
-      "price": "€310",
-      "area": "13 Rafters Road, Dublin 12, Drimnagh, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvZVwvMGVkNWU0MWYtM2IzNy00OTU4LWIyODItYjJmZThhMmU3YTQ2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f427091d2b0562a11312c51b986c858eba8397f067894867fb3fd7120831b66c",
-      "description": "Single Bedroom Ensuite €310 weekly - Double Bedroom Ensuite €480 weekly - Double Bedroom Ensuite €480 weekly - Single Bedroom Ensuite €310 weekly Owner Occupied Available 4th July - This newly renovated property in Drimnagh, Dublin 12 offers bright and modern en-suite rooms finished to a high standard. The house features spacious, fully furnished bedrooms with private bathrooms, a fully equipped shared kitchen, high-speed Wi-Fi, a laundry room, and both bike and car parking. Located just 10 minutes from D... View full ad on Rent.ie",
+      "id": "6612847",
+      "url": "https://www.rent.ie/rooms-to-rent/27-Kilmore-Avenue-Dublin-5-Kilmore-Dublin-5/6612847/",
+      "title": "27 Kilmore Avenue, Dublin 5, Kilmore, Dublin 5",
+      "price": "€170",
+      "area": "Dublin 5, Kilmore, Dublin 5",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMlwvNDJlOWEwMzUtMDJlMS00YjM2LTlkZDctMTdjNThjYjBhOWFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d55775dbffe8ae2a70de693a1cce74246640ab46f3c636eb895dbe0d1c37e00b",
+      "description": "Shared Bedroom Ensuite €170 weekly Available 12th July - Ensuite Shared Rooms Available Now – '680 per 4 Weeks + '340 Deposit Ideal student accommodation close to city centre, with ensuite bathrooms in every room. Rooms Available listed below, please state which of the following you are interested in when sending inquiry, 1-One bed in a shared room with a male Features: Fully f... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-02T01:58:00.490Z"
+      "firstSeenAt": "2026-07-03T20:49:51.883Z"
     },
     {
-      "id": "6611189",
-      "url": "https://www.rent.ie/rooms-to-rent/Clonbern-Phoenix-Park-Racecourse-Navan-Road-D7-Dublin-7/6611189/",
-      "title": "Clonbern, Phoenix Park Racecourse, Navan Road (D7), Dublin 7",
-      "price": "€1,150 monthly",
-      "area": "Phoenix Park Racecourse, Navan Road (D7), Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvYlwvMGJiYmQzYTUtODkwOC00MTAwLWE1YmEtNDM4YmZkZGJkOGRlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=31dcaf7212f9801efdd5e32f5fe94c87987f528e9c999f874f22023eb8dc48ac",
-      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available Now - I'm offering a large, clean bedroom with a private bathroom. The room is fully furnished with a double-size ottoman bed, a wardrobe, and a chest of drawers. There's also plenty of... View full ad on Rent.ie",
+      "id": "6612849",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-8-Temple-Hill-Dublin-6w-Terenure-Dublin-6w/6612849/",
+      "title": "Apartment 8, Temple Hill, Dublin 6w, Terenure, Dublin 6w",
+      "price": "€1,024 monthly",
+      "area": "Temple Hill, Dublin 6w, Terenure, Dublin 6w",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvYlwvN2IzYjAxNjMtMDAyMC00YzEwLTllODEtZmY4NTZlYzdlNjQ0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6c21d8a2a386088bb9d6556c1bc78c9b2da3c3b7c86f363216d962dc24392ad7",
+      "description": "Double Bedroom Ensuite €1,024 monthly Available 8th July - Room with a private bathroom is available in an apartment located in Terenure. The house has two bedrooms (both with private bathrooms), a living room, kitchen, covered veran... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-02T01:58:00.490Z"
+      "firstSeenAt": "2026-07-03T20:49:51.883Z"
     },
     {
-      "id": "6611095",
-      "url": "https://www.rent.ie/rooms-to-rent/1a-Fumbally-Lane-Dublin-8-South-Circular-Road-Dublin-8/6611095/",
-      "title": "1a Fumbally Lane, Dublin 8, South Circular Road, Dublin 8",
-      "price": "€1,250 monthly",
-      "area": "Dublin 8, South Circular Road, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvYlwvZmI1OWFiOTUtOGNjYS00YmEyLTk3MWMtYTI4NmY1NzI4ZjliLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=040c7adf544a10c810031252946a66b15fc397e47638a0ed1ee321705c908c39",
-      "description": "Double Bedroom Ensuite €1,250 monthly Available 15th August - Long-Term Accommodation Available Location: 1A Fumbally Lane, Dublin 08 EIR Code: D08 A3V2 Availability: From 15th Aug, 2026 Property Details: Single private ro... View full ad on Rent.ie",
+      "id": "6613057",
+      "url": "https://www.rent.ie/rooms-to-rent/Ballyboughal-Co-Dublin-Ballyboughal-Co-Dublin/6613057/",
+      "title": "Ballyboughal, Co. Dublin, Ballyboughal, Co. Dublin",
+      "price": "€800 monthly",
+      "area": "Co. Dublin, Ballyboughal, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvMVwvMDEyOTBhNDktZTA0Mi00ZjJkLWFmNzgtMzAzYTMwN2NlYWE1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=72944377e7c5aa42167f2f66bf4708fc4036f53ca2ede1da8c77159ed5b00159",
+      "description": "Double Bedroom Ensuite €800 monthly Available 5th July - Stunning dormer bungalow View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-01T21:14:29.291Z"
+      "firstSeenAt": "2026-07-03T20:49:51.883Z"
     },
     {
-      "id": "6611123",
-      "url": "https://www.rent.ie/rooms-to-rent/Waterloo-Road-Ballsbridge-Dublin-4/6611123/",
-      "title": "Waterloo Road, Ballsbridge, Dublin 4",
-      "price": "€1,300 monthly",
-      "area": "Ballsbridge, Dublin 4",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvNVwvNzVhODlkYTYtZjFjZC00NGI4LWIzODQtNmI5OTQ1YTQ4MTA1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=81bccefbf829a6519a47f266c5cd764da05211f1bcd1487b117210f7bff99c91",
-      "description": "Single Bedroom Ensuite €1,300 monthly Owner Occupied Available Now - A single ensuite bedroom available in quiet flat in a Georgian house in Ballsbridge. Shared kitchen and living room. Very close to supermarket, shops and restaurants on Up... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-01T21:14:29.291Z"
-    },
-    {
-      "id": "6611128",
-      "url": "https://www.rent.ie/rooms-to-rent/Violet-Hill-Road-Dublin-11-Glasnevin-Dublin-11/6611128/",
-      "title": "Violet Hill Road, Dublin 11, Glasnevin, Dublin 11",
-      "price": "€1,450 monthly",
-      "area": "Dublin 11, Glasnevin, Dublin 11",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvOFwvNjhhOTM3MDktN2EwZC00NDJlLTkwMzctODc4OWM0NjhiMmZkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=50fe72d2d86aaf49a3d5c3e7e9416c030037f7711bb265929729fce8abd6f1ab",
-      "description": "Double Bedroom Ensuite €1,450 monthly Owner Occupied Available 2nd August - AMAZING opportunity to rent a room in this beautiful house in the most quietest of areas. Located in glasnevin within close proximity to Dublin City, bon secours hospital, DCU c... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-01T21:14:29.291Z"
-    },
-    {
-      "id": "6611139",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-50--Saint-Raphaelas-Apartments-Saint-R-Stillorgan-Co-Dublin/6611139/",
-      "title": "Apartment 50 , Saint Raphaelas Apartments, Saint R, Stillorgan, Co. Dublin",
+      "id": "6613054",
+      "url": "https://www.rent.ie/rooms-to-rent/Abbeyvale-Avenue-Swords-Co-Dublin-Swords-Co-Dublin/6613054/",
+      "title": "Abbeyvale Avenue, Swords, Co. Dublin, Swords, Co. Dublin",
       "price": "€1,000 monthly",
-      "area": "Saint Raphaelas Apartments, Saint R, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvNlwvMTY3ZGMxMTMtMWIwMC00MjVlLWFlOWQtNTVkN2ZkNzUxNDc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=78aa81217e476f325a6b5975129f52e4e0fd15165285f21f9fc612fa868048de",
-      "description": "Double Bedroom Ensuite €1,000 monthly Available 16th July - Room available for period from 16th July until end of August 2026. (with possibility to extent vacancy). Double en-suite room available for rent in a 3 bedroom spacious apartm... View full ad on Rent.ie",
+      "area": "Swords, Co. Dublin, Swords, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvM1wvYzM4ZTJiOTUtYTFhZS00NDQxLTlmNjMtM2M2ZmQ1M2I3ZDMwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=08346a63cfc167d2bf5c259535867e8c63635f41fc7d0949bca2af3d33e4c9ab",
+      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available Now - Modern flat off our main home Own entrance On street parking available No pets allowed 2min walk from bus stop to city centre or airport. Separate metre for electricity/ he... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-01T21:14:29.291Z"
+      "firstSeenAt": "2026-07-03T20:49:51.883Z"
+    },
+    {
+      "id": "6613078",
+      "url": "https://www.rent.ie/rooms-to-rent/Short-Term-2-Months---Spencer-Place-Residential-Mayor-Street-Upper-Dublin-1-IFSC-Dublin-1/6613078/",
+      "title": "Short Term 2 Months - Spencer Place Residential, Mayor Street Upper, Dublin 1, IFSC, Dublin 1",
+      "price": "€1,567 monthly",
+      "area": "Mayor Street Upper, Dublin 1, IFSC, Dublin 1",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvZVwvMGUyM2M2ODMtNzU5Ni00OTRkLTgwMGQtZDliMWQyNDdjYzZlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d4645e0d09bc38cf17aa15fd8f8c88dc43e137b3f9a842cc82486142aff864c7",
+      "description": "Double Bedroom Ensuite €1,567 monthly Available 16th July - Spencer Place Residential by Libra Living Private room with en-suite bathroom in a 2-bed, 2-bath apartment (shared with one flatmate) '1,567/month (utilities not included... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-03T20:49:51.883Z"
     }
   ]
 }
