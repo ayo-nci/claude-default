@@ -1,54 +1,90 @@
 {
-  "fetchedAt": "2026-07-05T10:01:06.925Z",
+  "fetchedAt": "2026-07-06T18:01:48.106Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6613513",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Ashes-Elmfield-Ballyogan-Road-Dublin-18-Leopardstown-Dublin-18/6613513/",
-      "title": "The Ashes, Elmfield, Ballyogan Road, Dublin 18, Leopardstown, Dublin 18",
-      "price": "€1,033 monthly",
-      "area": "Elmfield, Ballyogan Road, Dublin 18, Leopardstown, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYlwvY2JmMDA5ZDAtY2NlOS00MmViLTliYWUtNjE5ZjdhNDA4NDE0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c7ad6f93c893f77cd78d019b36216d107ce428b797e10b3d3b392543b35273c9",
-      "description": "Double Bedroom Ensuite €1,033 monthly Available 6th July - Please read carefully before enquiring. A bright and spacious master bedroom with private en-suite is available in a modern, newly furnished 3-bedroom, 2-bathroom apartm... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-05T10:01:06.925Z"
-    },
-    {
-      "id": "6613519",
-      "url": "https://www.rent.ie/rooms-to-rent/Shackleton-Gate-Adamstown-Co-Dublin/6613519/",
-      "title": "Shackleton Gate, Adamstown, Co. Dublin",
+      "id": "6612818",
+      "url": "https://www.rent.ie/rooms-to-rent/Corrie-Blackglen-Road-Dublin-18-Sandyford-Dublin-18/6612818/",
+      "title": "Corrie, Blackglen Road, Dublin 18, Sandyford, Dublin 18",
       "price": "€1,200 monthly",
-      "area": "Adamstown, Co. Dublin",
-      "imageUrl": null,
-      "description": "Double Bedroom Ensuite €1,200 monthly Available 6th July - Spacious Ensuite Room for Rent – Available Now A bright and spacious ensuite room is available in a clean and quiet 3-bedroom house. The home is shared with a couple and 2 kids. ... View full ad on Rent.ie",
+      "area": "Blackglen Road, Dublin 18, Sandyford, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvZFwvOWQ1MmUxYzQtNjdlOC00YjAzLTk1MDgtZTdmYjUyMmMzYjNkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f6c372824ede13812f216d6869477cc7aef041aca5a2c1b0b13389daefb56e64",
+      "description": "Single Bedroom Ensuite €1,200 monthly Owner Occupied Available 1st September - 4 bedroom house located just outside of sandyford. 10 minutes cycle/drive to the nearest luas stop. Large Garden. Geothermal heating. room in driveway for extra cars. Modern d... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-05T10:01:06.925Z"
+      "firstSeenAt": "2026-07-06T18:01:48.106Z"
     },
     {
-      "id": "6613528",
-      "url": "https://www.rent.ie/rooms-to-rent/Sandford-Road-Ranelagh-Dublin-6/6613528/",
-      "title": "Sandford Road, Ranelagh, Dublin 6",
-      "price": "€153",
-      "area": "Ranelagh, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvN1wvODc0MDVkMTAtNTYzZC00YjQ0LThmMTgtMmI5NTFhZjQwNGMzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ce96ffba8759e126179986e69d056358bf942fdd1db0fc17b846e33a6059ace2",
-      "description": "Twin Bedroom Ensuite €153 weekly Available 1st September - At Ranelagh / UCD. House sharing with young females : Twin Room 153 euros per week September to May. Broadband. TV. Dishwasher. Washing Machine. Clothes Dryer. Full sized... View full ad on Rent.ie",
+      "id": "6614236",
+      "url": "https://www.rent.ie/rooms-to-rent/Grande-Central-Apartments-Stillorgan-Dublin-18-Stillorgan-Co-Dublin/6614236/",
+      "title": "Grande Central Apartments, Stillorgan, Dublin 18, Stillorgan, Co. Dublin",
+      "price": "€1,522 monthly",
+      "area": "Stillorgan, Dublin 18, Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvOFwvZTgyZjYxODUtOTBlYy00OTYzLWIwYjAtYTZlYjJhNTgyMDQxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a5f44c974b54989e7892b454b5c4c68d21f8c2493d92b77ecdd23fd9de97ac75",
+      "description": "Double Bedroom Ensuite €1,522 monthly - Double Bedroom €1,244 monthly - Double Bedroom €1,244 monthly Available 20th July - Available from July 20th - Three premium bedrooms are available in a stunning, fully furnished, BER B-rated 3-bed, 2-bath apartment located at Grande Central, Sandyford, D18.... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-05T10:01:06.925Z"
+      "firstSeenAt": "2026-07-06T18:01:48.106Z"
     },
     {
-      "id": "6613454",
-      "url": "https://www.rent.ie/rooms-to-rent/Burnell-Court-Mayne-River-Avenue-Malahide-Road-Northern-Cross-Dublin-17-Donaghmede-Dublin-13/6613454/",
-      "title": "Burnell Court, Mayne River Avenue, Malahide Road, Northern Cross, Dublin 17, Donaghmede, Dublin 13",
-      "price": "€1,380 monthly",
-      "area": "Mayne River Avenue, Malahide Road, Northern Cross, Dublin 17, Donaghmede, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvM1wvZjNmMTkzYTctM2ZkYi00NjgyLWEwNzQtNmNmNGViNzU3NDNkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ae070c938f13150643e34ece600003f1a07f5f8bc0658c92c7db5d1c9691db06",
-      "description": "Double Bedroom Ensuite €1,380 monthly Available 12th July - A spacious ensuite master bedroom is available in one of the most sought-after developments in North Dublin. The apartment features: Private ensuite bathroom Fully fur... View full ad on Rent.ie",
+      "id": "6614259",
+      "url": "https://www.rent.ie/rooms-to-rent/Moylaragh-Walk-Balbriggan-Co-Dublin-Balbriggan-Co-Dublin/6614259/",
+      "title": "Moylaragh Walk, Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "price": "€950 monthly",
+      "area": "Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvMVwvMTFlMDQxYjItZjQ1MS00MTFlLTgyY2MtYTk0OWQzODg1Yzc4LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=8541a4b72eed9e38d1afa9a7048e5e8d38ecb15c56bcf8af5ee338a37cab06b9",
+      "description": "Double Bedroom Ensuite €950 monthly Agent: Colman Grimes Estate Agents Available Now - ***COLMAN GRIMES ESTATE AGENTS***LUXURIOUS ROOM RENTAL***WE ARE DELIGHTED TO PRESENT THIS FAB ROOM WITH EN-SUITE BATHROOM*** Accommodation comprises of communal kitch... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-05T06:58:02.111Z"
+      "firstSeenAt": "2026-07-06T18:01:48.106Z"
+    },
+    {
+      "id": "6614533",
+      "url": "https://www.rent.ie/rooms-to-rent/Wolfe-Tone-Lofts-by-havitat-Dublin-1/6614533/",
+      "title": "Wolfe Tone Lofts by havitat, Dublin 1",
+      "price": "€1,700 monthly",
+      "area": "Dublin 1",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMVwvNDEzODlkYTUtZGMzMS00YzI1LWI5Y2EtOGNmNzA1ODViMjFmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=94ae7245d76d14f3ac43c3f8426b3e213185b9d3e634552b375b3b171ff812d4",
+      "description": "Double Bedroom Ensuite €1,700 monthly Available 30th July - The apartment: A bright, modern 3-bedroom, 3-bathroom apartment with a fully equipped kitchen (kitchen island included) and a spacious living room with TV. The real highligh... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-06T18:01:48.106Z"
+    },
+    {
+      "id": "6614566",
+      "url": "https://www.rent.ie/rooms-to-rent/Spencer-Place--Spencer-Place-Residential-IFSC-Dublin-1/6614566/",
+      "title": "Spencer Place | Spencer Place Residential, IFSC, Dublin 1",
+      "price": "€1,475 monthly",
+      "area": "IFSC, Dublin 1",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMFwvNjA2YWU3ZGItMzNiYy00ZmY3LTk1MGMtNTMxNDJjMWYyMGI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2964f6962cab039b6846c902851744ebe17e0e73662af3fb2251bfa147a130c0",
+      "description": "Double Bedroom Ensuite €1,475 monthly Available 19th July - Spacious Double Bedroom with En Suite | Spencer Place, Dublin 1 A spacious double bedroom with a built-in wardrobe and private en suite bathroom is available in a beautifully ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-06T18:01:48.106Z"
+    },
+    {
+      "id": "6614601",
+      "url": "https://www.rent.ie/rooms-to-rent/Churchwell-Place-Belmayne-Dublin-13-Clongriffin-Dublin-13/6614601/",
+      "title": "Churchwell Place, Belmayne, Dublin 13, Clongriffin, Dublin 13",
+      "price": "€1,150 monthly",
+      "area": "Belmayne, Dublin 13, Clongriffin, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvNFwvNzRhZWY3OTQtN2M3OC00Nzk5LWFjODYtODA1OTY0MGZjMDIxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=463edd59f9ee907979e42e73f09bf6d1f868fcc1d75cc0ce7b2c3f6194d7734a",
+      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available Now - Double room available immediately. belmayne D13 Spacious, brand new, clean and tidy house with living room, large kitchen, and garden. Bedroom with double bed. Private... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-06T18:01:48.106Z"
+    },
+    {
+      "id": "6614604",
+      "url": "https://www.rent.ie/rooms-to-rent/135-Rialto-Cottages-Dublin-8-Rialto-Dublin-8/6614604/",
+      "title": "135 Rialto Cottages, Dublin 8, Rialto, Dublin 8",
+      "price": "€1,184 monthly",
+      "area": "Dublin 8, Rialto, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvZlwvOWYyOTk0YmUtM2NlZS00YThjLWFkYTItNTZiNzc1ODViOThiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ca3c4c1d5d4a14bc71408876bc66b1f8c3a3d0a3e154155d0ca6cbfb50a83d42",
+      "description": "Double Bedroom Ensuite €1,184 monthly Available 22nd July - Bright and cozy double room is available in a beautiful, fully furnished 2-bed 2-bathroom cottage in Rialto. The location is superb - within easy reach of the city centre and e... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-06T18:01:48.106Z"
     }
   ]
 }
