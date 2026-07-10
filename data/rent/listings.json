@@ -1,30 +1,54 @@
 {
-  "fetchedAt": "2026-07-10T10:41:37.678Z",
+  "fetchedAt": "2026-07-10T20:57:20.280Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6615871",
-      "url": "https://www.rent.ie/rooms-to-rent/4a-Tolka-View-Blanchardstown-Village-Dublin-15-Blanchardstown-Dublin-15/6615871/",
-      "title": "4a Tolka View, Blanchardstown Village, Dublin 15, Blanchardstown, Dublin 15",
-      "price": "€750 monthly",
-      "area": "Blanchardstown Village, Dublin 15, Blanchardstown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvOFwvODhlZDIxZGMtYWFjYy00MjNiLTk0ZDYtYTEwYzg5YTJlNmQ3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=be0fb5717c62976e32a8767f3a5cb2a329ac25213a8780e3cbe5ec7b3f945c85",
-      "description": "Double Bedroom Ensuite €750 monthly Available 22nd July - En suite room , right in the centre of Blanchardstown Village. Large House. Very Quiet. Walking distance to all ameneties,Connolly Hospital, Buses and Train. Rent includes El... View full ad on Rent.ie",
+      "id": "6618466",
+      "url": "https://www.rent.ie/rooms-to-rent/6-Mount-Andrew-Rise-Lucan-Co-Dublin-Dublin-20/6618466/",
+      "title": "6 Mount Andrew Rise, Lucan, Co. Dublin, Dublin 20",
+      "price": "€650 monthly",
+      "area": "Lucan, Co. Dublin, Dublin 20",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMlwvNDI5YjVlMjEtMzIxMS00ZDNlLThiZmEtMjlmZTA0M2NmOTRiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=61942de8d4a018040ce77ebffa9be8fc66d4ee271927be14fc3d9adb8c4f77c6",
+      "description": "Shared Bedroom Ensuite €650 monthly Available 15th July - Suitable place for students, 30 minutes away from Dublin, bus stop 3 minutes from the house, C1, C2, C3, C4 View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-10T10:41:37.678Z"
+      "firstSeenAt": "2026-07-10T20:57:20.280Z"
     },
     {
-      "id": "6618003",
-      "url": "https://www.rent.ie/rooms-to-rent/Brackenstown-Rd-Swords-Co-Dublin/6618003/",
-      "title": "Brackenstown Rd, Swords, Co. Dublin",
-      "price": "€160",
-      "area": "Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvMlwvZjI0YzQxM2QtNjk4Ni00ZmVhLWJlYTAtYTJlMzcyMjgwMjljLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=730f98defd2290d491ab1cb50771406ac67692c16cea87ff36e0287728a7e018",
-      "description": "Double Bedroom Ensuite €160 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "id": "6618502",
+      "url": "https://www.rent.ie/rooms-to-rent/22-Danesfort-Castle-Avenue-Dublin-3-Clontarf-Dublin-3/6618502/",
+      "title": "22 Danesfort, Castle Avenue, Dublin 3, Clontarf, Dublin 3",
+      "price": "€934 monthly",
+      "area": "Castle Avenue, Dublin 3, Clontarf, Dublin 3",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMVwvYjFkZDI5OWEtYzBmZS00ZjRjLTkwNzEtOGYyZmIxZDQ4NTZiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=634f5ccfb1f4ee8f971026b257fd8cb96d1c9fd1d3c578a242832bcfd7851815",
+      "description": "Double Bedroom Ensuite €934 monthly Available 3rd August - Top floor double room available in Duplex gated complex. Sharing with two others in their early/mid 30s. View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-10T10:41:37.678Z"
+      "firstSeenAt": "2026-07-10T20:57:20.280Z"
+    },
+    {
+      "id": "6618436",
+      "url": "https://www.rent.ie/rooms-to-rent/3-Airlie-View-Adamstown-Lucan-Co-Dublin-Adamstown-Co-Dublin/6618436/",
+      "title": "3 Airlie View, Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
+      "price": "€1,200 monthly",
+      "area": "Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvZFwvYWRlNzA0MjMtMTY5Zi00MTQ5LTk0YTctMjRjYmQyYWRjNDU4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8586d80052af443212993710ee0c90c686d2feed931d9e387ad19d8c71178fa2",
+      "description": "Double Bedroom Ensuite €1,200 monthly Available 31st August - A bright and spacious double en-suite room is available to rent in a modern apartment located in the sought-after Adamstown, Lucan, Dublin area. This well-maintained home offers comfortable and secure accommodation, making it ideal for either a single or a couple. The room is fully furnished and features a large double bed, a p... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-10T20:57:20.280Z"
+    },
+    {
+      "id": "6618768",
+      "url": "https://www.rent.ie/rooms-to-rent/Rathmill-Manor-Rathcoole-Co-Dublin-Rathcoole-Co-Dublin/6618768/",
+      "title": "Rathmill Manor, Rathcoole, Co. Dublin, Rathcoole, Co. Dublin",
+      "price": "€1,150 monthly",
+      "area": "Rathcoole, Co. Dublin, Rathcoole, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvYVwvZmE5YjVhY2QtNzA0NC00YTczLWFkNjMtYjQ0OGFkNWY2ZTE1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=06a6f1bb2c76c0fdf3c38b3b4e97cfb04f97b2baa8c0dd7122f69f2a856791f5",
+      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available 15th September - This is a very spacious double bedroom with a walk-in wardrobe and ensuite. This is a 3-story new-build A2 rated property. The house is 4 bedroom, 4 bath. You will be sharing with o... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-10T20:57:20.280Z"
     }
   ]
 }
