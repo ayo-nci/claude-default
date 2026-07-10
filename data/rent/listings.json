@@ -1,78 +1,30 @@
 {
-  "fetchedAt": "2026-07-10T07:24:33.849Z",
+  "fetchedAt": "2026-07-10T10:41:37.678Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6617756",
-      "url": "https://www.rent.ie/rooms-to-rent/Saint-Clares-Park-Harolds-Cross-Road-Dublin-6w-Harolds-Cross-Dublin-6w/6617756/",
-      "title": "Saint Clare's Park, Harold's Cross Road, Dublin 6w, Harold's Cross, Dublin 6w",
-      "price": "€1,500 monthly",
-      "area": "Harold's Cross Road, Dublin 6w, Harold's Cross, Dublin 6w",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvZVwvYmVkNDcwZGQtNWI2OC00OTY5LTg4YjQtZWRhOTdkMTRlMzE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=99894ffc4d775eb22d434ba3d97de580de3d42c54da6ee0f356578942ed1d8d1",
-      "description": "Double Bedroom Ensuite €1,500 monthly - Double Bedroom €1,450 monthly Available 1st October - Modern 2-Bed, 2-Bath Apartment in Harold’s Cross (Double Room Available) Looking for a modern, high-spec home with incredible amenities and great connectivity? A double ro... View full ad on Rent.ie",
+      "id": "6615871",
+      "url": "https://www.rent.ie/rooms-to-rent/4a-Tolka-View-Blanchardstown-Village-Dublin-15-Blanchardstown-Dublin-15/6615871/",
+      "title": "4a Tolka View, Blanchardstown Village, Dublin 15, Blanchardstown, Dublin 15",
+      "price": "€750 monthly",
+      "area": "Blanchardstown Village, Dublin 15, Blanchardstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvOFwvODhlZDIxZGMtYWFjYy00MjNiLTk0ZDYtYTEwYzg5YTJlNmQ3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=be0fb5717c62976e32a8767f3a5cb2a329ac25213a8780e3cbe5ec7b3f945c85",
+      "description": "Double Bedroom Ensuite €750 monthly Available 22nd July - En suite room , right in the centre of Blanchardstown Village. Large House. Very Quiet. Walking distance to all ameneties,Connolly Hospital, Buses and Train. Rent includes El... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-10T07:24:33.849Z"
+      "firstSeenAt": "2026-07-10T10:41:37.678Z"
     },
     {
-      "id": "6617792",
-      "url": "https://www.rent.ie/rooms-to-rent/9-Turnapin-Cottages-Dublin-17-Dublin-17/6617792/",
-      "title": "9 Turnapin Cottages, Dublin 17, Dublin 17",
-      "price": "€1,350 monthly",
-      "area": "Dublin 17, Dublin 17",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMVwvNDFlMTliZjktZTQyNy00OGVlLWEzOWEtODIyM2UzOWU1ZWQ2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1970169053a6d1a11fc29c5e24057a14db770c68f5bad098bf08423eb584aa28",
-      "description": "Double Bedroom Ensuite €1,350 monthly Available 15th July - Spacious double bedroom with en-suite private bathroom and a large 4 door wardrove in a modern, fully-equipped house. Bills are included in the monthly price. Ideal for two peo... View full ad on Rent.ie",
+      "id": "6618003",
+      "url": "https://www.rent.ie/rooms-to-rent/Brackenstown-Rd-Swords-Co-Dublin/6618003/",
+      "title": "Brackenstown Rd, Swords, Co. Dublin",
+      "price": "€160",
+      "area": "Swords, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvMlwvZjI0YzQxM2QtNjk4Ni00ZmVhLWJlYTAtYTJlMzcyMjgwMjljLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=730f98defd2290d491ab1cb50771406ac67692c16cea87ff36e0287728a7e018",
+      "description": "Double Bedroom Ensuite €160 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-10T07:24:33.849Z"
-    },
-    {
-      "id": "6617796",
-      "url": "https://www.rent.ie/rooms-to-rent/Red-Arches-Parkthe-Coastdublin-13-Baldoyle-Dublin-13/6617796/",
-      "title": "Red Arches Park,the Coast,dublin 13, Baldoyle, Dublin 13",
-      "price": "€1,000 monthly",
-      "area": "the Coast, dublin 13, Baldoyle, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvZVwvNGU2MmM0ODAtMWZmYS00NTg2LWE1MzYtMzAyMDcwYjliNjQzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ae27ca1a5a32c43222cf7cccf8d9cc7a0e6911249de087607a7b72e6b05a652f",
-      "description": "Double Bedroom Ensuite €1,000 monthly Available 8th August - Quiet 5 bed rooms (3 toilets) house, sharing a DOUBLE room (OWN BATHROOM) to one tidy people for '1000, sharing electricity and gas bills, also can be for 2 persons at price '1200.... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-10T07:24:33.849Z"
-    },
-    {
-      "id": "6617831",
-      "url": "https://www.rent.ie/rooms-to-rent/Lohunda-Crescent-Blanchardstown-Dublin-15-Clonsilla-Dublin-15/6617831/",
-      "title": "Lohunda Crescent, Blanchardstown, Dublin 15, Clonsilla, Dublin 15",
-      "price": "€1,100 monthly",
-      "area": "Blanchardstown, Dublin 15, Clonsilla, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNlwvZTZlMGM1MTAtY2FhZS00MjI0LWI2OTgtMTc2ZDFhNGNhMmRhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ba94f6c1da78b4ab5f2d62ed7f1729ee5a992ac1e238b30288d3db94db41b791",
-      "description": "Double Bedroom Ensuite €1,100 monthly - Double Bedroom Ensuite €1,100 monthly Available 16th July - Long Term Vacancy for Single/Couple in Newly Build House * Ensuite Room - (Double Size Bed + Wardrobe) '1100 monthly for Single / '1250 monthly for Couple - High-Speed Unlimited Wifi Broadband (up to 1000 mbps by Vodafone) - Front Garden - Free Car parking - Attic space in the room - Newly Build house - All Bedroom and Kitchen ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-10T07:24:33.849Z"
-    },
-    {
-      "id": "6617833",
-      "url": "https://www.rent.ie/rooms-to-rent/Hogan-Square-Hogan-Place-Dublin-2-Grand-Canal-Dock-Dublin-2/6617833/",
-      "title": "Hogan Square, Hogan Place, Dublin 2, Grand Canal Dock, Dublin 2",
-      "price": "€1,500 monthly",
-      "area": "Hogan Place, Dublin 2, Grand Canal Dock, Dublin 2",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMVwvNjEzMjM5N2MtZjRjOS00M2Y1LWE1MjgtYmU3MzZiNDc1ZDdkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6418eff323d09d42259541a5559dda2a3a8931092d0e2d014b18d26864f1c21d",
-      "description": "Double Bedroom Ensuite €1,500 monthly - Twin Bedroom €1,400 monthly - Double Bedroom €1,350 monthly Available Now - Clean, Quiet Peaceful Area Very Central & Convenient Many Bus Stops Nearby Ensuite Room & Shared Bathroom Available *Available Immediately* View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-10T07:24:33.849Z"
-    },
-    {
-      "id": "6617841",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-120-Neptune-Honey-Park-Dun-Laoghaire-Glenageary-Co-Dublin/6617841/",
-      "title": "Apartment 120, Neptune, Honey Park, Dun Laoghaire, Glenageary, Co. Dublin",
-      "price": "€1,002 monthly",
-      "area": "Neptune, Honey Park, Dun Laoghaire, Glenageary, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvZFwvN2QxZDlkZTktYjkyNi00YjM3LWExNzYtZTY1Mjg3MDgyNTlmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a4b0db032f7a6490ca2c719c0647bb58e58ee51bb243514a3e5e2cb8631bfe2d",
-      "description": "Double Bedroom Ensuite €1,002 monthly Available 1st August - Double room in Dun Laoghaire with ensuite available from 1st August. Sharing with two women working in sales and engineering. Looking for a single clean and quiet tenant lo... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-10T07:24:33.849Z"
+      "firstSeenAt": "2026-07-10T10:41:37.678Z"
     }
   ]
 }
