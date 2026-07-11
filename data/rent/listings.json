@@ -1,54 +1,90 @@
 {
-  "fetchedAt": "2026-07-10T20:57:20.280Z",
+  "fetchedAt": "2026-07-11T20:35:54.354Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6618466",
-      "url": "https://www.rent.ie/rooms-to-rent/6-Mount-Andrew-Rise-Lucan-Co-Dublin-Dublin-20/6618466/",
-      "title": "6 Mount Andrew Rise, Lucan, Co. Dublin, Dublin 20",
-      "price": "€650 monthly",
-      "area": "Lucan, Co. Dublin, Dublin 20",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMlwvNDI5YjVlMjEtMzIxMS00ZDNlLThiZmEtMjlmZTA0M2NmOTRiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=61942de8d4a018040ce77ebffa9be8fc66d4ee271927be14fc3d9adb8c4f77c6",
-      "description": "Shared Bedroom Ensuite €650 monthly Available 15th July - Suitable place for students, 30 minutes away from Dublin, bus stop 3 minutes from the house, C1, C2, C3, C4 View full ad on Rent.ie",
+      "id": "6618927",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-203-Building-3-Vantage-East-Central-Pa-Leopardstown-Dublin-18/6618927/",
+      "title": "Apartment 203, Building 3 Vantage East, Central Pa, Leopardstown, Dublin 18",
+      "price": "€1,163 monthly",
+      "area": "Building 3 Vantage East, Central Pa, Leopardstown, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNVwvZTUwMDJkZDAtNDI2MS00M2E5LWE2NDEtNzNkYzY4OGUwYmYzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=153268852ea10ef7ea8c26e2aa13cbed9cca286c4e4a6efca9ff1fdf3cf54824",
+      "description": "Double Bedroom Ensuite €1,163 monthly Available 9th August - The apartment: Double bedroom with private bathroom available in an apartment with shared sitting room, kitchen and small balcony. We have a small laundry and storage room. Dishwasher, cable/Internet, etc. Underground parking space. Apartment complex also has a gym for residents, workstation, games room with pool table, l... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-10T20:57:20.280Z"
+      "firstSeenAt": "2026-07-11T20:35:54.354Z"
     },
     {
-      "id": "6618502",
-      "url": "https://www.rent.ie/rooms-to-rent/22-Danesfort-Castle-Avenue-Dublin-3-Clontarf-Dublin-3/6618502/",
-      "title": "22 Danesfort, Castle Avenue, Dublin 3, Clontarf, Dublin 3",
-      "price": "€934 monthly",
-      "area": "Castle Avenue, Dublin 3, Clontarf, Dublin 3",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMVwvYjFkZDI5OWEtYzBmZS00ZjRjLTkwNzEtOGYyZmIxZDQ4NTZiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=634f5ccfb1f4ee8f971026b257fd8cb96d1c9fd1d3c578a242832bcfd7851815",
-      "description": "Double Bedroom Ensuite €934 monthly Available 3rd August - Top floor double room available in Duplex gated complex. Sharing with two others in their early/mid 30s. View full ad on Rent.ie",
+      "id": "6618935",
+      "url": "https://www.rent.ie/rooms-to-rent/Killiney-Co-Dublin-Ballybrack-Co-Dublin/6618935/",
+      "title": "Killiney, Co. Dublin, Ballybrack, Co. Dublin",
+      "price": "€160",
+      "area": "Co. Dublin, Ballybrack, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvZlwvNmZiYWM5ZDktYzZiMi00ZmI2LWFjMmQtOGY5Njc4ZmVjMjEzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=b8525a7ca9791d0cf37591f47ccce82ffc45220f253cb9d3bc1dd83bb5009cff",
+      "description": "Double Bedroom Ensuite €160 weekly Owner Occupied Available 25th July - MONDAY TO THURSDAY ONLY New apartment Bills included in the price Sharing with one other male. Large double bedroom . Parking available. Buses to city centre , Blackrock ,... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-10T20:57:20.280Z"
+      "firstSeenAt": "2026-07-11T20:35:54.354Z"
     },
     {
-      "id": "6618436",
-      "url": "https://www.rent.ie/rooms-to-rent/3-Airlie-View-Adamstown-Lucan-Co-Dublin-Adamstown-Co-Dublin/6618436/",
-      "title": "3 Airlie View, Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
-      "price": "€1,200 monthly",
-      "area": "Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvZFwvYWRlNzA0MjMtMTY5Zi00MTQ5LTk0YTctMjRjYmQyYWRjNDU4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8586d80052af443212993710ee0c90c686d2feed931d9e387ad19d8c71178fa2",
-      "description": "Double Bedroom Ensuite €1,200 monthly Available 31st August - A bright and spacious double en-suite room is available to rent in a modern apartment located in the sought-after Adamstown, Lucan, Dublin area. This well-maintained home offers comfortable and secure accommodation, making it ideal for either a single or a couple. The room is fully furnished and features a large double bed, a p... View full ad on Rent.ie",
+      "id": "6618938",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-29-Oatlands-Hall-Mount-Merrion-Blackr-Mount-Merrion-Co-Dublin/6618938/",
+      "title": "Apartment 29, Oatlands Hall, Mount Merrion, Blackr, Mount Merrion, Co. Dublin",
+      "price": "€890 monthly",
+      "area": "Oatlands Hall, Mount Merrion, Blackr, Mount Merrion, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvMlwvMTI3YTVkOTctNjM4YS00MjQzLTkyNzUtZDYxMTkzNjA4NDZhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=78817405f10cd469ec082527d934959d580b6f8bbb83e40431cd65517389942c",
+      "description": "Twin Bedroom Ensuite €890 monthly Available 1st September - 2 places availables in a twin bedroom with a private bathroom in a top-floor apartment (girl's roommate) in a new and very quiet residence in Mount Merrion. Close to UCD and Stillorgan Village. A studious atmosphere for demanding students seeking an ideal setting to succeed in their studies. Large glass-enclosed living room, fit... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-10T20:57:20.280Z"
+      "firstSeenAt": "2026-07-11T20:35:54.354Z"
     },
     {
-      "id": "6618768",
-      "url": "https://www.rent.ie/rooms-to-rent/Rathmill-Manor-Rathcoole-Co-Dublin-Rathcoole-Co-Dublin/6618768/",
-      "title": "Rathmill Manor, Rathcoole, Co. Dublin, Rathcoole, Co. Dublin",
-      "price": "€1,150 monthly",
-      "area": "Rathcoole, Co. Dublin, Rathcoole, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvYVwvZmE5YjVhY2QtNzA0NC00YTczLWFkNjMtYjQ0OGFkNWY2ZTE1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=06a6f1bb2c76c0fdf3c38b3b4e97cfb04f97b2baa8c0dd7122f69f2a856791f5",
-      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available 15th September - This is a very spacious double bedroom with a walk-in wardrobe and ensuite. This is a 3-story new-build A2 rated property. The house is 4 bedroom, 4 bath. You will be sharing with o... View full ad on Rent.ie",
+      "id": "6618973",
+      "url": "https://www.rent.ie/rooms-to-rent/Griffeenlucanco-Dublin-Lucan-Co-Dublin/6618973/",
+      "title": "Griffeen,lucan,co. Dublin, Lucan, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "lucan, co. Dublin, Lucan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMFwvNDA0NmVkMTUtNDAwNi00MTVjLTlmN2EtYzNkNmZkOTJmNjBiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c16edbf28f08f51a2eae10dbc35e72882ac9dac25cef32c0cb8e0041f8c49759",
+      "description": "Double Bedroom Ensuite €900 monthly Owner Occupied Available Now - Family home with mum and 19yr old college going daughter, cul de sac in friendly neighbourhood . Room to rent on the ground floor, en-suite. Beside •Griffeen Park, •C1&C2 buses... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-10T20:57:20.280Z"
+      "firstSeenAt": "2026-07-11T20:35:54.354Z"
+    },
+    {
+      "id": "6618980",
+      "url": "https://www.rent.ie/rooms-to-rent/Dalymount-Phibsborough-Dublin-7/6618980/",
+      "title": "Dalymount, Phibsborough, Dublin 7",
+      "price": "€1,600 monthly",
+      "area": "Phibsborough, Dublin 7",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvNVwvMzUzNDY4Zjc3YjgzMjIzOWQzNjMwYTllZDk3MDQwYzEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=cf2a48fad41a9baeb15b898eb07b12eb5309d3f440a63104138842ab97d28f2a",
+      "description": "Double Bedroom Ensuite €1,600 monthly Owner Occupied Available 1st August - Very large master double bedroom ensuite available to rent in a recently renovated & extended large Georgian red-brick house in the heart of Phibsboro. High ceilings and lots of natural light throughout the house. Lots of living space & storage with gardens front & rear. Sharing with two other people. While the house is owner/occu... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-11T20:35:54.354Z"
+    },
+    {
+      "id": "6618963",
+      "url": "https://www.rent.ie/rooms-to-rent/Millers-Glen-Swords-Co-Dublin-Swords-Co-Dublin/6618963/",
+      "title": "Millers Glen, Swords, Co. Dublin, Swords, Co. Dublin",
+      "price": "€850 monthly",
+      "area": "Swords, Co. Dublin, Swords, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvNVwvYTVjMGFiZDQtYTBjMC00YTcyLTliMWItOGM2MGIwYjBlZmI2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=85ad24f3c638d6774921f0427c575c177c4b766089cd5a4001e33f6083903361",
+      "description": "Double Bedroom Ensuite €850 monthly Owner Occupied Available 19th July - Bright Double Room Available – Millers Glen, Swords (Female Preferred) A spacious and comfortable double room is available in the popular Millers Glen, Swords area. About... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-11T20:35:54.354Z"
+    },
+    {
+      "id": "6593832",
+      "url": "https://www.rent.ie/rooms-to-rent/Mountbrook-Stillorgan-Road-Blackrock-Co-Dublin/6593832/",
+      "title": "Mountbrook, Stillorgan Road, Blackrock, Co. Dublin",
+      "price": "€1,375 monthly",
+      "area": "Stillorgan Road, Blackrock, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvMlwvYTI0NmQ4ZGQtYzhhYy00NzA3LTk3YTUtMzYzZjY3Yjg1NzAzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=11910fe29a731197df3eb5f98c471283e7b847c26f51c1aa58b70dbe1540c8c3",
+      "description": "Double Bedroom Ensuite €1,375 monthly - Double Bedroom €1,375 monthly Available 12th July - Great location, near UCD just off Stillorgan Road. Well decorated and refurbished clean apartment. There are shops and a variety of amenities nearby Frequent bus services n... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-11T20:35:54.354Z"
     }
   ]
 }
