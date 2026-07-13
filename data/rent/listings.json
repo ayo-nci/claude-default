@@ -1,78 +1,42 @@
 {
-  "fetchedAt": "2026-07-12T09:39:59.901Z",
+  "fetchedAt": "2026-07-13T13:54:42.698Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6619051",
-      "url": "https://www.rent.ie/rooms-to-rent/Hamlet-Lane-Balbriggan-Co-Dublin/6619051/",
-      "title": "Hamlet Lane, Balbriggan, Co. Dublin",
-      "price": "€170",
-      "area": "Balbriggan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvOVwvNjkyNTZiZTgtNTE5Yy00ZmEyLWE5NzAtZWIyMDNlMDBmZmU1LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=d81ad50b15276fe49037cc4af8224b7abd8e42a879636fbfd506cbb402f47747",
-      "description": "Double Bedroom Ensuite €170 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
+      "id": "6585138",
+      "url": "https://www.rent.ie/rooms-to-rent/71-Parklands-Boulevard-Saggart-Co-Dublin-Citywest-Co-Dublin/6585138/",
+      "title": "71 Parklands Boulevard, Saggart, Co. Dublin, Citywest, Co. Dublin",
+      "price": "€750 monthly",
+      "area": "Saggart, Co. Dublin, Citywest, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvMFwvNzAxMzk5NjYtYThmMS00MTM0LWIwMDktZTkxYzdkNzkzNzgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ff4813d5e31067fdfb463859f9da5c6055d5d1197caad1a1b126379410656153",
+      "description": "Single Bedroom €750 monthly - Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 15th July - Single Room Available in Owner-Occupied House | 10-min Walk to Saggart LUAS | Park-Facing A bright and comfortable single bedroom is available in a well-maintained owner-oc... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-12T09:39:59.901Z"
+      "firstSeenAt": "2026-07-13T13:54:42.698Z"
     },
     {
-      "id": "6619052",
-      "url": "https://www.rent.ie/rooms-to-rent/Stationcourt-Park-Coolmine-Dublin-15/6619052/",
-      "title": "Stationcourt Park, Coolmine, Dublin 15",
+      "id": "6619625",
+      "url": "https://www.rent.ie/rooms-to-rent/20-Simmonscourt-Square-Dublin-4-Donnybrook-Dublin-4/6619625/",
+      "title": "20 Simmonscourt Square, Dublin 4, Donnybrook, Dublin 4",
       "price": "€1,100 monthly",
-      "area": "Coolmine, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvYlwvZGIzZDhlNTEtNGNjZi00NDliLTg3NGUtZDMxNGRmOTk1ODQxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=fa2a1e122f910808ed45f245066b4654d9ae0b88826324d401089312162038e2",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available Now - Spacious Double En-suite Room – Dublin 15 A bright and spacious double bedroom with a private en-suite bathroom available in a quiet, well-maintained house in Dublin 15. A... View full ad on Rent.ie",
+      "area": "Dublin 4, Donnybrook, Dublin 4",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNVwvNTVjNjc3YzYtMDI0ZS00YTE0LThjNmMtYjE5NzNlMjhlNjZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7fefbe1824e62a4216533957d8bf5e4cf6bb104263d0dc1d9915f2fe43381e89",
+      "description": "Double Bedroom Ensuite €1,100 monthly Available 9th August - Cozy Double bedroom is available in Ballsbridge. You will be sharing this three bedroom house with working professionals. We are looking for a clean and friendly person. We l... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-12T09:39:59.901Z"
+      "firstSeenAt": "2026-07-13T13:54:42.698Z"
     },
     {
-      "id": "6619058",
-      "url": "https://www.rent.ie/rooms-to-rent/Citywest-Road-Citywest-Co-Dublin/6619058/",
-      "title": "Citywest Road, Citywest, Co. Dublin",
-      "price": "€180",
-      "area": "Citywest, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvZFwvM2QzYzJkY2UtY2VjZC00ODczLTg3M2UtZTM0ZmViOGUwZGMxLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=b0da63369e437b9b08988a26d7a493d0088dfa85a0793d7cc3e6237bc97141bc",
-      "description": "Double Bedroom Ensuite €180 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 24th August - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
+      "id": "6619725",
+      "url": "https://www.rent.ie/rooms-to-rent/Haliday-House-Cualanor-Dun-Laoghaire-Co-Dublin-Glenageary-Co-Dublin/6619725/",
+      "title": "Haliday House, Cualanor, Dun Laoghaire, Co. Dublin, Glenageary, Co. Dublin",
+      "price": "€1,230 monthly",
+      "area": "Cualanor, Dun Laoghaire, Co. Dublin, Glenageary, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvZVwvMGU1ZGM3ODUtODZjOS00Mjk4LWI1ZjUtN2MzYmY0YjJkM2Q4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9f179f3fb68beab021ac3fe0df1a9debe42d94909192c2e44941f28aae4e020b",
+      "description": "Double Bedroom Ensuite €1,230 monthly Available 1st August - This bright and spacious master bedroom available for rent is in a stunning, modern, and high-standard apartment with stylish d&eacute;cor and beautiful views. It features a comfort... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-12T09:39:59.901Z"
-    },
-    {
-      "id": "6619070",
-      "url": "https://www.rent.ie/rooms-to-rent/Dromartin-Castle-Birchs-Lane-Dublin-14-Kilmacud-Co-Dublin/6619070/",
-      "title": "Dromartin Castle, Birch's Lane, Dublin 14, Kilmacud, Co. Dublin",
-      "price": "€1,000 monthly",
-      "area": "Birch's Lane, Dublin 14, Kilmacud, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvYlwvNGI3NDlkYjktZTYwMS00MzEwLTk4N2MtMWRiYWY3Y2IyNzEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=db5ad28220a8eed1bca7ce6d2927b34fb472476edbcf636d590d6fdb81ca8b33",
-      "description": "Double Bedroom Ensuite €1,000 monthly Available Now - **Short-Term Stay in Dundrum (1 Month Only)** **Location:** 500m from Dundrum Shopping Centre & Green LUAS. **Available:** 2 Bed /2 Bath Apartment. **Pricing Options:** *... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-12T09:39:59.901Z"
-    },
-    {
-      "id": "6619082",
-      "url": "https://www.rent.ie/rooms-to-rent/22-The-Elms-Citywest-Demesne-Dublin-24-Citywest-Co-Dublin/6619082/",
-      "title": "22 The Elms, Citywest Demesne, Dublin 24, Citywest, Co. Dublin",
-      "price": "€1,000 monthly",
-      "area": "Citywest Demesne, Dublin 24, Citywest, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvZFwvNmQ1MmU3NzItNTA4Yi00ZDY2LTkyZTYtNjVjY2U4OTFiZjhmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=712027f42930c36d92177b954a96781140c0e217d16672470769d225f66bc516",
-      "description": "Double Bedroom Ensuite €1,000 monthly Available 1st August - Double room in house in Citywest, ideal for two people to move in who are looking for accommodation in quiet area. 112 m&sup2; of living space, 3 more male occupants are living in the ho... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-12T09:39:59.901Z"
-    },
-    {
-      "id": "6593832",
-      "url": "https://www.rent.ie/rooms-to-rent/Mountbrook-Stillorgan-Road-Blackrock-Co-Dublin/6593832/",
-      "title": "Mountbrook, Stillorgan Road, Blackrock, Co. Dublin",
-      "price": "€1,375 monthly",
-      "area": "Stillorgan Road, Blackrock, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvMlwvYTI0NmQ4ZGQtYzhhYy00NzA3LTk3YTUtMzYzZjY3Yjg1NzAzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=11910fe29a731197df3eb5f98c471283e7b847c26f51c1aa58b70dbe1540c8c3",
-      "description": "Double Bedroom Ensuite €1,375 monthly - Double Bedroom €1,375 monthly Available Now - Great location, near UCD just off Stillorgan Road. Well decorated and refurbished clean apartment. There are shops and a variety of amenities nearby Frequent bus services n... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-11T20:35:54.354Z"
+      "firstSeenAt": "2026-07-13T13:54:42.698Z"
     }
   ]
 }
