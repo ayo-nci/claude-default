@@ -1,42 +1,54 @@
 {
-  "fetchedAt": "2026-07-13T13:54:42.698Z",
+  "fetchedAt": "2026-07-14T09:42:18.199Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6585138",
-      "url": "https://www.rent.ie/rooms-to-rent/71-Parklands-Boulevard-Saggart-Co-Dublin-Citywest-Co-Dublin/6585138/",
-      "title": "71 Parklands Boulevard, Saggart, Co. Dublin, Citywest, Co. Dublin",
-      "price": "€750 monthly",
-      "area": "Saggart, Co. Dublin, Citywest, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvMFwvNzAxMzk5NjYtYThmMS00MTM0LWIwMDktZTkxYzdkNzkzNzgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ff4813d5e31067fdfb463859f9da5c6055d5d1197caad1a1b126379410656153",
-      "description": "Single Bedroom €750 monthly - Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 15th July - Single Room Available in Owner-Occupied House | 10-min Walk to Saggart LUAS | Park-Facing A bright and comfortable single bedroom is available in a well-maintained owner-oc... View full ad on Rent.ie",
+      "id": "6620334",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-82-Cheevers-Court-Cualanor-Dun-Laogha-Glenageary-Co-Dublin/6620334/",
+      "title": "Apartment 82, Cheevers Court, Cualanor, Dun Laogha, Glenageary, Co. Dublin",
+      "price": "€1,216 monthly",
+      "area": "Cheevers Court, Cualanor, Dun Laogha, Glenageary, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvMVwvMjE1MzY3NWItYWYwYy00ZDg2LWE5NzQtNzU0MWVmM2FlMmNlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7a12c608d68e055fa66f258b9d16adef5507b2bb6da73143bd2a4497e9e3d703",
+      "description": "Double Bedroom Ensuite €1,216 monthly Available 4th August - One large en-suite bedroom available in a modern 2 bed 2 bath apartment, on 3rd floor of a secure building managed by Occu. Sharing with one other easy-going housemate, you'll be ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-13T13:54:42.698Z"
+      "firstSeenAt": "2026-07-14T09:42:18.199Z"
     },
     {
-      "id": "6619625",
-      "url": "https://www.rent.ie/rooms-to-rent/20-Simmonscourt-Square-Dublin-4-Donnybrook-Dublin-4/6619625/",
-      "title": "20 Simmonscourt Square, Dublin 4, Donnybrook, Dublin 4",
-      "price": "€1,100 monthly",
-      "area": "Dublin 4, Donnybrook, Dublin 4",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNVwvNTVjNjc3YzYtMDI0ZS00YTE0LThjNmMtYjE5NzNlMjhlNjZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7fefbe1824e62a4216533957d8bf5e4cf6bb104263d0dc1d9915f2fe43381e89",
-      "description": "Double Bedroom Ensuite €1,100 monthly Available 9th August - Cozy Double bedroom is available in Ballsbridge. You will be sharing this three bedroom house with working professionals. We are looking for a clean and friendly person. We l... View full ad on Rent.ie",
+      "id": "6620351",
+      "url": "https://www.rent.ie/rooms-to-rent/Carechoice-Northern-Cross-Mayne-River-Street-Mal-Clonshaugh-Dublin-17/6620351/",
+      "title": "Carechoice Northern Cross, Mayne River Street, Mal, Clonshaugh, Dublin 17",
+      "price": "€1,240 monthly",
+      "area": "Mayne River Street, Mal, Clonshaugh, Dublin 17",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMVwvYjExZmY5NDAtZjhkNS00M2UzLThlY2QtMGI0M2M1ZDZjYTk4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=b9b9f93d0979d018b34151c6cfe33048888e9e50d923caf444a95f7ef52e1d19",
+      "description": "Double Bedroom Ensuite €1,240 monthly Available 1st August - Please whatsapp for quick answer 0857489909 *Permanent/Temporary Accommodation (minimum 6months) available from 1st of August. Spacious Double Bedroom Ensuite with P... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-13T13:54:42.698Z"
+      "firstSeenAt": "2026-07-14T09:42:18.199Z"
     },
     {
-      "id": "6619725",
-      "url": "https://www.rent.ie/rooms-to-rent/Haliday-House-Cualanor-Dun-Laoghaire-Co-Dublin-Glenageary-Co-Dublin/6619725/",
-      "title": "Haliday House, Cualanor, Dun Laoghaire, Co. Dublin, Glenageary, Co. Dublin",
-      "price": "€1,230 monthly",
-      "area": "Cualanor, Dun Laoghaire, Co. Dublin, Glenageary, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvZVwvMGU1ZGM3ODUtODZjOS00Mjk4LWI1ZjUtN2MzYmY0YjJkM2Q4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9f179f3fb68beab021ac3fe0df1a9debe42d94909192c2e44941f28aae4e020b",
-      "description": "Double Bedroom Ensuite €1,230 monthly Available 1st August - This bright and spacious master bedroom available for rent is in a stunning, modern, and high-standard apartment with stylish d&eacute;cor and beautiful views. It features a comfort... View full ad on Rent.ie",
+      "id": "6620218",
+      "url": "https://www.rent.ie/rooms-to-rent/Willsbrook-Drive-Lucan-Co-Dublin-Lucan-Co-Dublin/6620218/",
+      "title": "Willsbrook Drive, Lucan, Co. Dublin, Lucan, Co. Dublin",
+      "price": "€1,075 monthly",
+      "area": "Lucan, Co. Dublin, Lucan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvN1wvZDdlZGUxMWUtYjNjMy00ZGU0LWEzMDEtMmZhOGUzZDc4NTFlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e6234507a10c5fb4cc1bce3b8ab5fc5c66c9a8c5c3a27b290c189dee00841a77",
+      "description": "Double Bedroom Ensuite €1,075 monthly Owner Occupied Available 3rd August - Large double ensuite room available, bus stop for C1/C2 routes right outside the estate, close to all amenities, you will be sharing this house with the owner, who is an Irish male... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-13T13:54:42.698Z"
+      "firstSeenAt": "2026-07-14T09:42:18.199Z"
+    },
+    {
+      "id": "6612189",
+      "url": "https://www.rent.ie/rooms-to-rent/Griffeen-Glen-Lucan-Co-Dublin/6612189/",
+      "title": "Griffeen Glen, Lucan, Co. Dublin",
+      "price": "€550 monthly",
+      "area": "Lucan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvYVwvOGE3YWM3YjItYjA2Mi00M2JiLTgxMWEtZTZmODBlMDMwMWVjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=050c3bb07ff1f71b6f9a2e949c3a47b3959f62bd20b20d7f3c4f96652aaf10f2",
+      "description": "Double Bedroom Ensuite €550 monthly Owner Occupied Available 17th August - Monday to Friday only (rent which includes bills). Double room available in house sharing with one other and owner in a three bed house with attic conversion. This room does not h... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-14T09:42:18.199Z"
     }
   ]
 }
