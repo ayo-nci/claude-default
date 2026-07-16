@@ -1,66 +1,42 @@
 {
-  "fetchedAt": "2026-07-15T06:04:27.071Z",
+  "fetchedAt": "2026-07-16T09:52:05.457Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6621243",
-      "url": "https://www.rent.ie/rooms-to-rent/Clay-Farm-Leopardstown-Dublin-18-Leopardstown-Dublin-18/6621243/",
-      "title": "Clay Farm, Leopardstown, Dublin 18, Leopardstown, Dublin 18",
-      "price": "€1,300 monthly",
-      "area": "Leopardstown, Dublin 18, Leopardstown, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvN1wvNTc5NzEwNjctMWM0Ni00ZjY3LThjODUtYTBiOTFkZTA0Nzc0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=69b646d95ade4c2c9c112be382c90f6228739609f08764d4d06edef9721e8cb0",
-      "description": "Double Bedroom Ensuite €1,300 monthly Available 19th July - En-Suite room available to rent in Dublin 18 Location: Clay Farm, Leopardstown, Dublin 18 Room Type: Double En-suite Occupancy: Single Public Transport: Luas Green Line ... View full ad on Rent.ie",
+      "id": "6622257",
+      "url": "https://www.rent.ie/rooms-to-rent/Waterville-Blanchardstown-Dublin-15/6622257/",
+      "title": "Waterville, Blanchardstown, Dublin 15",
+      "price": "€1,000 monthly",
+      "area": "Blanchardstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvZVwvYWU5OGE5MDZjM2QyNDViMTlmZTU0NWZmZTAwMmQyNmIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=0b2f6e5f8309a76a7c3c3e8febcb8470a2dd1a9e9927b0edc958d4ff3aa7b388",
+      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available Now - Ensuite Double bedroom for Premium Rentals - Females Only(strictly 1 person) *** Medium Sized friendly dog in the house ( dog has no access to the room,gated) Facilities, P... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-15T06:04:27.071Z"
+      "firstSeenAt": "2026-07-16T09:52:05.457Z"
     },
     {
-      "id": "6621263",
-      "url": "https://www.rent.ie/rooms-to-rent/13-Belmont-Lawn-Stillorgan-Blackrock-Co-Dublin-Stillorgan-Co-Dublin/6621263/",
-      "title": "13 Belmont Lawn, Stillorgan, Blackrock, Co. Dublin, Stillorgan, Co. Dublin",
-      "price": "€1,250 monthly",
-      "area": "Stillorgan, Blackrock, Co. Dublin, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvOVwvMjk4MTkzNjEtM2Y5ZS00MWQ0LTg2NjQtOGEwMjc2NzI3YWNiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7153a6b36c011db93d3ff8d17cbd07d2e77ef9bd974ef8db7c578d192a54b6b7",
-      "description": "Single Bedroom €1,250 monthly - Double Bedroom Ensuite €1,720 monthly Available Now - Spacious Detached House in Great Location Spacious Ensuite Bedroom with king size and single bed '1720/month including utilities, broadband and gardening Spacious Single Bedroom with king size bed '1120/month including utilities, broadband and gardening View full ad on Rent.ie",
+      "id": "6622304",
+      "url": "https://www.rent.ie/rooms-to-rent/Chapelgate-Drumcondra-Dublin-3/6622304/",
+      "title": "Chapelgate, Drumcondra, Dublin 3",
+      "price": "€250",
+      "area": "Drumcondra, Dublin 3",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNFwvNTRhNTdkMjQxNjIyMGZjZWEyYWYzMmNhZTI0M2VkNjkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=7395025d9b5bbfaa408c523e709768bfe8cd851c9e59428cd0490a3ea3fb0906",
+      "description": "Twin Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-15T06:04:27.071Z"
+      "firstSeenAt": "2026-07-16T09:52:05.457Z"
     },
     {
-      "id": "6614217",
-      "url": "https://www.rent.ie/rooms-to-rent/Rathborne-Park---Double-Room-For-Rent-Royal-Canal-Park-Dublin-15/6614217/",
-      "title": "Rathborne Park - Double Room For Rent, Royal Canal Park, Dublin 15",
-      "price": "€1,200 monthly",
-      "area": "Royal Canal Park, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvYlwvOWIwZmQ1OGMtOTc4NS00OTZkLTkxNGItYWM3YWI0YWEwZTU0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9dd48903869351d4d49438bf9593c526f82a6118ea4a05e828f964788aada1df",
-      "description": "Double Bedroom Ensuite €1,200 monthly Available Now - Double room with private bathroom available for rent in a 2.5 storey modern duplex in Ashtown, sharing with just one other (female professional). - Dedicated parking space a... View full ad on Rent.ie",
+      "id": "6622446",
+      "url": "https://www.rent.ie/rooms-to-rent/Adelaide-Road-Dublin-2/6622446/",
+      "title": "Adelaide Road, Dublin 2",
+      "price": "€875 monthly",
+      "area": "Dublin 2",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvM1wvOTM5MjI1N2Y1NGNiZmRiNzA5NmJiMTliOGUxZmQ3YTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=bdc5a9c580472ccfd8363feb31ac2ce37c9cc524b09091fa28c937ba1980a164",
+      "description": "Double Bedroom Ensuite €875 monthly Available 1st August - Large double room with an en suite and lots of natural light available to move into the first week of August. The house is currently occupied by three other females, ranging from... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-15T06:04:27.071Z"
-    },
-    {
-      "id": "6621311",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-16-Block-A-Cameron-Court-Cork-Street-Dolphins-Barn-Dublin-8/6621311/",
-      "title": "Apartment 16, Block A, Cameron Court, Cork Street, Dolphin's Barn, Dublin 8",
-      "price": "€500 monthly",
-      "area": "Block A, Cameron Court, Cork Street, Dolphin's Barn, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYVwvY2FjOGYwZWEtYmRiMS00NmU1LWIwYTQtMGM1YjkzZDdjMzUwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2d457293a42d9d52a9a80a84863d44ba11fe7b26e3d77916f8babbe133933cc3",
-      "description": "Shared Bedroom Ensuite €500 monthly Available 20th July - Girls Only | Bed Space Available in a Beautiful Apartment | Excellent City Location A bed space is available for one girl in a spacious, bright, and comfortable bedroom in a modern 2-bedroom, 2-bathroom apartment. You'll be sharing the room with two lovely female students from Japan and Turkey. The second bedroom is occupied by a ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-15T06:04:27.071Z"
-    },
-    {
-      "id": "6618977",
-      "url": "https://www.rent.ie/rooms-to-rent/Phibsborough-Road-Phibsborough-Dublin-7/6618977/",
-      "title": "Phibsborough Road, Phibsborough, Dublin 7",
-      "price": "€1,300 monthly",
-      "area": "Phibsborough, Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMlwvYjI5ZjQwYjYtMDllOC00YWUyLWJiZGYtODkzZTNmZWZlY2I0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=56b638d5930226a77f66f6b71f67e4217da0d6e2c6bab86a9f9c03b08a04ddf4",
-      "description": "Double Bedroom Ensuite €1,300 monthly Owner Occupied Available 1st August - 1 double room in a shared house All modern conditions Newly refurbished Central Heating Modern Kitchen Within walking distance to city centre 20 Minutes Garden with tab... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-15T06:04:27.071Z"
+      "firstSeenAt": "2026-07-16T09:52:05.457Z"
     }
   ]
 }
