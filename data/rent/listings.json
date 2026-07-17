@@ -1,54 +1,90 @@
 {
-  "fetchedAt": "2026-07-17T06:07:06.551Z",
+  "fetchedAt": "2026-07-17T16:55:51.831Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6623030",
-      "url": "https://www.rent.ie/rooms-to-rent/Ranelagh-Road-Dublin-6-Ranelagh-Dublin-6/6623030/",
-      "title": "Ranelagh Road, Dublin 6, Ranelagh, Dublin 6",
-      "price": "€1,350 monthly",
-      "area": "Dublin 6, Ranelagh, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvMVwvZDE4NTI3ZDEtNjJhOS00MzU1LWIwMzEtYjdkZTIxNjYwMDlmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=201f080ea514f9186d53d05cbcdb892d8e1c27eb114d3801fccdfd1aa5ff4f29",
-      "description": "Double Bedroom Ensuite €1,350 monthly Owner Occupied Available 10th August - This is a nice bright ground floor room with its own kitchenette and ensuite small shower room. Access available to the garden also. Near the green Line Luas and within walking di... View full ad on Rent.ie",
+      "id": "6623182",
+      "url": "https://www.rent.ie/rooms-to-rent/2-Jamestown-Road-Dublin-8-Inchicore-Dublin-8/6623182/",
+      "title": "2 Jamestown Road, Dublin 8, Inchicore, Dublin 8",
+      "price": "€845 monthly",
+      "area": "Dublin 8, Inchicore, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvZVwvMmVjYmFjZTMtMjQ4MC00ZDkzLWIxNDEtMjY4YWFiOGE0NjJmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1d1fd08379503bce295fcee3417a7533fcadeb62ddb4c669aaf10c8f411c19b1",
+      "description": "Single Bedroom €845 monthly Available 1st August - ** MUST SEE** **AVAILABLE NOW** single bedroom access to own bathroom. CALL / WHATSAPP JAMES ON 0894831335 TO ARRANGE A VIEWING. Refurbished to a very high standard, this fantastic property includes: - central heating - each double bedroom has its own ensuite bathroom - shared kitchen, fully equipped with all the modern app... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-17T01:20:44.225Z"
+      "firstSeenAt": "2026-07-17T16:55:51.831Z"
     },
     {
-      "id": "6623066",
-      "url": "https://www.rent.ie/rooms-to-rent/Jasper-The-Grange-Brewery-Road-Stillorgan-Dubl-Stillorgan-Co-Dublin/6623066/",
-      "title": "Jasper, The Grange, Brewery Road, Stillorgan, Dubl, Stillorgan, Co. Dublin",
-      "price": "€1,250 monthly",
-      "area": "The Grange, Brewery Road, Stillorgan, Dubl, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvNFwvMjRhMzNlY2UtYjM4OC00OGEwLWIwMjAtMzYzZTc1MTcyZTI0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=110cbab4725762120adf3ba1da636b87218e8c8b3c74367057f09430dbb2d566",
-      "description": "Double Bedroom Ensuite €1,250 monthly Owner Occupied Available Now - Lovely spacious room with en-suite and direct entrance access available in a 2 bed apartment in a fantastic location on the N11. The room has a large built in wardrobe/closet with... View full ad on Rent.ie",
+      "id": "6621404",
+      "url": "https://www.rent.ie/rooms-to-rent/Dublin-18-Stillorgan-Co-Dublin/6621404/",
+      "title": "Dublin 18, Stillorgan, Co. Dublin",
+      "price": "€1,400 monthly",
+      "area": "Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvN1wvNzc1MDRkN2YtMDY3OC00ZDlkLWJkMDAtM2RiYjJjM2NiZjFlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=99e5ef490bf6a2e6e9710eff612dcde15eb907b26a4c5b39f71cd579687f0e6c",
+      "description": "Double Bedroom Ensuite €1,400 monthly Owner Occupied Available 1st August - Beautiful en-suite bedroom with private balcony, plenty of natural light, stylish, comfortable, and in a great location. Modern decor and fully equipped kitchen. Located ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-17T01:20:44.225Z"
+      "firstSeenAt": "2026-07-17T16:55:51.831Z"
     },
     {
-      "id": "6623106",
-      "url": "https://www.rent.ie/rooms-to-rent/Rialto-Dublin-8-Kilmainham-Dublin-8/6623106/",
-      "title": "Rialto, Dublin 8, Kilmainham, Dublin 8",
-      "price": "€742 monthly",
-      "area": "Dublin 8, Kilmainham, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvN1wvMTdiYWMyZWQtMGU2OC00ZTIxLTk2NTktNjZkZDgzZjZhN2MxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9d74ba0487deca2a7a2f79a849296c4344e101b9509702c5a037995f0dca4e12",
-      "description": "Double Bedroom €742 monthly Available 1st August - House between Rialto and Kilmainhaim, 2 minutes from red line Luas. On street parking permits available to apply for. 5 bedrooms one ensuite, living room, kitchen, downstairs ... View full ad on Rent.ie",
+      "id": "6623666",
+      "url": "https://www.rent.ie/rooms-to-rent/81-The-Way-Hunters-Run-Co-Dublin-Huntstown-Dublin-15/6623666/",
+      "title": "81 The Way, Hunter's Run, Co. Dublin, Huntstown, Dublin 15",
+      "price": "€1,000 monthly",
+      "area": "Hunter's Run, Co. Dublin, Huntstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvMFwvZTAyOTkzZTQtNDQyYy00ZDcxLWFkNzctMmQxMDFiODZjNzFkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=210df304b732621b3427100af6dd86cd63f0a79dbbe8f20cf96f18c19a183f3f",
+      "description": "Double Bedroom Ensuite €1,000 monthly Available 20th July - A double room ensuite available for rent in a quiet area of blanchardstown Dublin 15 . View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-17T01:20:44.225Z"
+      "firstSeenAt": "2026-07-17T16:55:51.831Z"
     },
     {
-      "id": "6622192",
-      "url": "https://www.rent.ie/rooms-to-rent/19-The-Crescent-Kilmartin-Grove-Hollystown-Dubl-Hollystown-Dublin-15/6622192/",
-      "title": "19 The Crescent, Kilmartin Grove, Hollystown, Dubl, Hollystown, Dublin 15",
+      "id": "6623733",
+      "url": "https://www.rent.ie/rooms-to-rent/Collins-Square--BENBURB-STREET-Dublin-7/6623733/",
+      "title": "Collins Square , BENBURB STREET, Dublin 7",
       "price": "€1,300 monthly",
-      "area": "Kilmartin Grove, Hollystown, Dubl, Hollystown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvOVwvZjk4MGI2ZTctNTNiMC00YjRkLThlYzAtZmEzYjdmZDcyMDE5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=aa8242c73e5d6d296d24da03d608c54d6ad15b363f890e0a18dcad9c532f6384",
-      "description": "Double Bedroom Ensuite €1,300 monthly - Double Bedroom Ensuite €1,300 monthly Owner Occupied Available Now - Stunning New Build House to Let – Hollystown, Dublin 15 Ideally located in a newly developed, modern residential community in Hollystown, Dublin 15, this pristine, brand-n... View full ad on Rent.ie",
+      "area": "BENBURB STREET, Dublin 7",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvZFwvNWRmOGUyYWQtYmQ4Mi00ZmRiLWE3OGYtMjVjNzAwYjg2MWQ2LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=5967129090aaeb6dafa9c2e4cc1e41b2a89bb3a1451a40da7bbc03ca05530438",
+      "description": "Double Bedroom Ensuite €1,300 monthly Agent: EARNEST Available 26th July - *****WIFI INCLUDED **OWN BATHROOM ***Double bed provided. Double room with main bathroom available for rent in a modern apartment in Collins Square. Rent is '1300 per month. A... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-17T01:20:44.225Z"
+      "firstSeenAt": "2026-07-17T16:55:51.831Z"
+    },
+    {
+      "id": "6623945",
+      "url": "https://www.rent.ie/rooms-to-rent/Moylaragh-Walk-Balbriggan-Co-Dublin/6623945/",
+      "title": "Moylaragh Walk, Balbriggan, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvN1wvNTcxYjVhZTMtNDFjYi00NDhjLWJkZmYtZjNjMGU4MjA3NTgwLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=4423a32e619ec279825311cce54318a2f55342dda0d97b21864fd51b7ab96998",
+      "description": "Double Bedroom Ensuite €900 monthly Agent: Colman Grimes Estate Agents Available Now - ***COLMAN GRIMES ESTATE AGENTS***LUXURIOUS ROOM RENTAL***WE ARE DELIGHTED TO PRESENT THIS FAB ROOM WITH EN-SUITE BATHROOM*** Accommodation comprises of communal kitch... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-17T16:55:51.831Z"
+    },
+    {
+      "id": "6623964",
+      "url": "https://www.rent.ie/rooms-to-rent/Albert-College-Park-Santry-Dublin-9/6623964/",
+      "title": "Albert College Park, Santry, Dublin 9",
+      "price": "€1,200 monthly",
+      "area": "Santry, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvOFwvMTg2NTQwYTYtMTg4Ny00MGI2LTk3OTYtNDc0NTIyYjk0MzQ4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=255728cea6d7a3825da124d67f23f60a80739ea95949fb6c0ae1f63eb34a5d9d",
+      "description": "Single Bedroom Ensuite €1,200 monthly Available 19th July - Lovely sunny, clean and warm bedroom ensuite for 1xOne person only in quiet, respectful house sharing with PhD, masters students and professionals. Common bills included. Just 4 mins walk to DCU and a short walk to many bus services to the city and airport. Fully Serviced property and completely hassle free renting. View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-17T16:55:51.831Z"
+    },
+    {
+      "id": "6622002",
+      "url": "https://www.rent.ie/rooms-to-rent/Premier-Square-Finglas-Road-Dublin-11-Finglas-Dublin-11/6622002/",
+      "title": "Premier Square, Finglas Road, Dublin 11, Finglas, Dublin 11",
+      "price": "€1,200 monthly",
+      "area": "Finglas Road, Dublin 11, Finglas, Dublin 11",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvM1wvOTM1ZGM4OTItMDVmOS00ZGZjLWI5OTEtOGUzMzk2YmY1YzdhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=abb47be1c409da973dc0a2699fffa5e2c5561ee8679a88686d5ec560a2ab40c8",
+      "description": "Double Bedroom Ensuite €1,200 monthly - Double Bedroom €1,000 monthly - Double Bedroom €1,000 monthly Available Now - ***ENQUIRES TO BE SENT BY EMAIL ONLY*** TOTALLY BRAND NEW! 1st time to let! Large 3 double bedroom, 2 bathroom, 1st floor apartment situated within this regarded and mature ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-17T16:55:51.831Z"
     }
   ]
 }
