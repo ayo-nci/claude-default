@@ -1,42 +1,54 @@
 {
-  "fetchedAt": "2026-07-16T09:52:05.457Z",
+  "fetchedAt": "2026-07-17T01:20:44.225Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6622257",
-      "url": "https://www.rent.ie/rooms-to-rent/Waterville-Blanchardstown-Dublin-15/6622257/",
-      "title": "Waterville, Blanchardstown, Dublin 15",
-      "price": "€1,000 monthly",
-      "area": "Blanchardstown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvZVwvYWU5OGE5MDZjM2QyNDViMTlmZTU0NWZmZTAwMmQyNmIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=0b2f6e5f8309a76a7c3c3e8febcb8470a2dd1a9e9927b0edc958d4ff3aa7b388",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available Now - Ensuite Double bedroom for Premium Rentals - Females Only(strictly 1 person) *** Medium Sized friendly dog in the house ( dog has no access to the room,gated) Facilities, P... View full ad on Rent.ie",
+      "id": "6623030",
+      "url": "https://www.rent.ie/rooms-to-rent/Ranelagh-Road-Dublin-6-Ranelagh-Dublin-6/6623030/",
+      "title": "Ranelagh Road, Dublin 6, Ranelagh, Dublin 6",
+      "price": "€1,350 monthly",
+      "area": "Dublin 6, Ranelagh, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvMVwvZDE4NTI3ZDEtNjJhOS00MzU1LWIwMzEtYjdkZTIxNjYwMDlmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=201f080ea514f9186d53d05cbcdb892d8e1c27eb114d3801fccdfd1aa5ff4f29",
+      "description": "Double Bedroom Ensuite €1,350 monthly Owner Occupied Available 10th August - This is a nice bright ground floor room with its own kitchenette and ensuite small shower room. Access available to the garden also. Near the green Line Luas and within walking di... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-16T09:52:05.457Z"
+      "firstSeenAt": "2026-07-17T01:20:44.225Z"
     },
     {
-      "id": "6622304",
-      "url": "https://www.rent.ie/rooms-to-rent/Chapelgate-Drumcondra-Dublin-3/6622304/",
-      "title": "Chapelgate, Drumcondra, Dublin 3",
-      "price": "€250",
-      "area": "Drumcondra, Dublin 3",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNFwvNTRhNTdkMjQxNjIyMGZjZWEyYWYzMmNhZTI0M2VkNjkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=7395025d9b5bbfaa408c523e709768bfe8cd851c9e59428cd0490a3ea3fb0906",
-      "description": "Twin Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "id": "6623066",
+      "url": "https://www.rent.ie/rooms-to-rent/Jasper-The-Grange-Brewery-Road-Stillorgan-Dubl-Stillorgan-Co-Dublin/6623066/",
+      "title": "Jasper, The Grange, Brewery Road, Stillorgan, Dubl, Stillorgan, Co. Dublin",
+      "price": "€1,250 monthly",
+      "area": "The Grange, Brewery Road, Stillorgan, Dubl, Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvNFwvMjRhMzNlY2UtYjM4OC00OGEwLWIwMjAtMzYzZTc1MTcyZTI0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=110cbab4725762120adf3ba1da636b87218e8c8b3c74367057f09430dbb2d566",
+      "description": "Double Bedroom Ensuite €1,250 monthly Owner Occupied Available Now - Lovely spacious room with en-suite and direct entrance access available in a 2 bed apartment in a fantastic location on the N11. The room has a large built in wardrobe/closet with... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-16T09:52:05.457Z"
+      "firstSeenAt": "2026-07-17T01:20:44.225Z"
     },
     {
-      "id": "6622446",
-      "url": "https://www.rent.ie/rooms-to-rent/Adelaide-Road-Dublin-2/6622446/",
-      "title": "Adelaide Road, Dublin 2",
-      "price": "€875 monthly",
-      "area": "Dublin 2",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvM1wvOTM5MjI1N2Y1NGNiZmRiNzA5NmJiMTliOGUxZmQ3YTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=bdc5a9c580472ccfd8363feb31ac2ce37c9cc524b09091fa28c937ba1980a164",
-      "description": "Double Bedroom Ensuite €875 monthly Available 1st August - Large double room with an en suite and lots of natural light available to move into the first week of August. The house is currently occupied by three other females, ranging from... View full ad on Rent.ie",
+      "id": "6623106",
+      "url": "https://www.rent.ie/rooms-to-rent/Rialto-Dublin-8-Kilmainham-Dublin-8/6623106/",
+      "title": "Rialto, Dublin 8, Kilmainham, Dublin 8",
+      "price": "€742 monthly",
+      "area": "Dublin 8, Kilmainham, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvN1wvMTdiYWMyZWQtMGU2OC00ZTIxLTk2NTktNjZkZDgzZjZhN2MxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9d74ba0487deca2a7a2f79a849296c4344e101b9509702c5a037995f0dca4e12",
+      "description": "Double Bedroom €742 monthly Available 1st August - House between Rialto and Kilmainhaim, 2 minutes from red line Luas. On street parking permits available to apply for. 5 bedrooms one ensuite, living room, kitchen, downstairs ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-16T09:52:05.457Z"
+      "firstSeenAt": "2026-07-17T01:20:44.225Z"
+    },
+    {
+      "id": "6622192",
+      "url": "https://www.rent.ie/rooms-to-rent/19-The-Crescent-Kilmartin-Grove-Hollystown-Dubl-Hollystown-Dublin-15/6622192/",
+      "title": "19 The Crescent, Kilmartin Grove, Hollystown, Dubl, Hollystown, Dublin 15",
+      "price": "€1,300 monthly",
+      "area": "Kilmartin Grove, Hollystown, Dubl, Hollystown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvOVwvZjk4MGI2ZTctNTNiMC00YjRkLThlYzAtZmEzYjdmZDcyMDE5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=aa8242c73e5d6d296d24da03d608c54d6ad15b363f890e0a18dcad9c532f6384",
+      "description": "Double Bedroom Ensuite €1,300 monthly - Double Bedroom Ensuite €1,300 monthly Owner Occupied Available Now - Stunning New Build House to Let – Hollystown, Dublin 15 Ideally located in a newly developed, modern residential community in Hollystown, Dublin 15, this pristine, brand-n... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-17T01:20:44.225Z"
     }
   ]
 }
