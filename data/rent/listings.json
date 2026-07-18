@@ -1,7 +1,67 @@
 {
-  "fetchedAt": "2026-07-17T20:40:37.423Z",
+  "fetchedAt": "2026-07-18T05:54:58.247Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
+    {
+      "id": "6624061",
+      "url": "https://www.rent.ie/rooms-to-rent/Castlegate-Walk-Adamstown-Castle-Lucan-Co-Dublin-Adamstown-Co-Dublin/6624061/",
+      "title": "Castlegate Walk, Adamstown Castle, Lucan, Co. Dublin, Adamstown, Co. Dublin",
+      "price": "€1,150 monthly",
+      "area": "Adamstown Castle, Lucan, Co. Dublin, Adamstown, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvNVwvZDVmMDA1OTEtZDAzZi00YzEwLWI4MzQtYzgzNjEyZTVlNzczLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d4c3c9153495d95170481f936c71328a6aa11fa2a517e366ca419c653d1cc459",
+      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available 22nd July - Private En-Suite Double Room to Rent – Castlegate Walk, Adamstown Available from 22nd July A bright and spacious en-suite double bedroom is available in a modern, well-maintained 3-bedroom, 3-bathroom shared house in the sought-after Castlegate Walk development, Adamstown. The room is fully furnished with a brand-new d... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-18T05:54:58.247Z"
+    },
+    {
+      "id": "6624080",
+      "url": "https://www.rent.ie/rooms-to-rent/Tandys-Gardens-Adamstown-Lucan-Co-Dublin-Adamstown-Co-Dublin/6624080/",
+      "title": "Tandy's Gardens, Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
+      "price": "€950 monthly",
+      "area": "Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvMVwvYzE4YjhhZjAtOTNkOS00OTY1LWIwMmEtZWIzNDlhZTg5ZGJjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3ccca9edf0d518e5e135319c591d2f1e6ea20a9078e68f1d08b4b420fb1c5755",
+      "description": "Double Bedroom Ensuite €950 monthly Available 16th August - PLEASE READ: double room with their own master bathroom. FOR ONE ONLY. The rent is NOT INCLUDED Friday and Saturday nights. Beautiful BER A2 house mid terrace in Adamstown. ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-18T05:54:58.247Z"
+    },
+    {
+      "id": "6624097",
+      "url": "https://www.rent.ie/rooms-to-rent/8-Rathvale-Park-Dublin-13-Ayrfield-Dublin-13/6624097/",
+      "title": "8 Rathvale Park, Dublin 13, Ayrfield, Dublin 13",
+      "price": "€650 monthly",
+      "area": "Dublin 13, Ayrfield, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvNVwvNzViMDMxZjYtOTVjOS00OTk2LWI1ZDktODQzOTZlYjlhMjcwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5bde236874a497002217a5b69fd3b740cc458be4c9d5ca6db4dadc0c8cf3c68c",
+      "description": "Double Bedroom Ensuite €650 monthly Owner Occupied Available Now - Attic Conversion Available – Ayrfield, Raheny – '650 per month Bright attic conversion available in a quiet, respectable private home in Ayrfield, Raheny. The space incl... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-18T05:54:58.247Z"
+    },
+    {
+      "id": "6624101",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Stevedore-Building-Grand-Canal-Harbour-Grand-Canal-Place-Dublin-8-St-James-Gate-Dublin-8/6624101/",
+      "title": "The Stevedore Building, Grand Canal Harbour, Grand Canal Place, Dublin 8, St. James Gate, Dublin 8",
+      "price": "€1,250 monthly",
+      "area": "Grand Canal Harbour, Grand Canal Place, Dublin 8, St. James Gate, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvYVwvYWFjNzUzNTgtYjViNS00Yzg2LTlmMGEtNjcwMzM4YzhkMmVjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=26312b9d01fdaa442b4eeaf1fe3bcceb25cd50286f06b9ba531c20e4963dbb33",
+      "description": "Double Bedroom Ensuite €1,250 monthly Available 20th July - 1 room available in a 2 bed, 2 bath modern 9th floor apartment. You will be sharing with an outgoing and friendly couple. We would be looking for someone respectful, friendly and... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-18T05:54:58.247Z"
+    },
+    {
+      "id": "6624108",
+      "url": "https://www.rent.ie/rooms-to-rent/Adamstown-Lucan-Co-Dublin-Adamstown-Co-Dublin/6624108/",
+      "title": "Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
+      "price": "€1,200 monthly",
+      "area": "Lucan, Co. Dublin, Adamstown, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvNlwvNjZkZDI5MmEtMWIxMy00MGM3LWJhNDItN2M5MzkwNzhjZjhlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=61177902c1b0378a4acbb8106793a36324be5b11a27a9c02b112f6d6245af0c0",
+      "description": "Double Bedroom Ensuite €1,200 monthly Available 31st August - A bright and spacious double en-suite room is available to rent in a modern and well-maintained apartment. The room is fully furnished and features a large double bed, private e... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-18T05:54:58.247Z"
+    },
     {
       "id": "6613773",
       "url": "https://www.rent.ie/rooms-to-rent/The-Hall-Cuacuteil-Duacutein-Avenue-Citywest-Co-Dublin-Citywest-Co-Dublin/6613773/",
@@ -13,42 +73,6 @@
       "agent": null,
       "agentPhone": null,
       "firstSeenAt": "2026-07-17T20:40:37.423Z"
-    },
-    {
-      "id": "6623945",
-      "url": "https://www.rent.ie/rooms-to-rent/Moylaragh-Walk-Balbriggan-Co-Dublin/6623945/",
-      "title": "Moylaragh Walk, Balbriggan, Co. Dublin",
-      "price": "€900 monthly",
-      "area": "Balbriggan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvN1wvNTcxYjVhZTMtNDFjYi00NDhjLWJkZmYtZjNjMGU4MjA3NTgwLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=4423a32e619ec279825311cce54318a2f55342dda0d97b21864fd51b7ab96998",
-      "description": "Double Bedroom Ensuite €900 monthly Agent: Colman Grimes Estate Agents Available Now - ***COLMAN GRIMES ESTATE AGENTS***LUXURIOUS ROOM RENTAL***WE ARE DELIGHTED TO PRESENT THIS FAB ROOM WITH EN-SUITE BATHROOM*** Accommodation comprises of communal kitch... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-17T16:55:51.831Z"
-    },
-    {
-      "id": "6623964",
-      "url": "https://www.rent.ie/rooms-to-rent/Albert-College-Park-Santry-Dublin-9/6623964/",
-      "title": "Albert College Park, Santry, Dublin 9",
-      "price": "€1,200 monthly",
-      "area": "Santry, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvOFwvMTg2NTQwYTYtMTg4Ny00MGI2LTk3OTYtNDc0NTIyYjk0MzQ4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=255728cea6d7a3825da124d67f23f60a80739ea95949fb6c0ae1f63eb34a5d9d",
-      "description": "Single Bedroom Ensuite €1,200 monthly Available 19th July - Lovely sunny, clean and warm bedroom ensuite for 1xOne person only in quiet, respectful house sharing with PhD, masters students and professionals. Common bills included. Just 4 mins walk to DCU and a short walk to many bus services to the city and airport. Fully Serviced property and completely hassle free renting. View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-17T16:55:51.831Z"
-    },
-    {
-      "id": "6622002",
-      "url": "https://www.rent.ie/rooms-to-rent/Premier-Square-Finglas-Road-Dublin-11-Finglas-Dublin-11/6622002/",
-      "title": "Premier Square, Finglas Road, Dublin 11, Finglas, Dublin 11",
-      "price": "€1,200 monthly",
-      "area": "Finglas Road, Dublin 11, Finglas, Dublin 11",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvM1wvOTM1ZGM4OTItMDVmOS00ZGZjLWI5OTEtOGUzMzk2YmY1YzdhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=abb47be1c409da973dc0a2699fffa5e2c5561ee8679a88686d5ec560a2ab40c8",
-      "description": "Double Bedroom Ensuite €1,200 monthly - Double Bedroom €1,000 monthly - Double Bedroom €1,000 monthly Available Now - ***ENQUIRES TO BE SENT BY EMAIL ONLY*** TOTALLY BRAND NEW! 1st time to let! Large 3 double bedroom, 2 bathroom, 1st floor apartment situated within this regarded and mature ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-17T16:55:51.831Z"
     }
   ]
 }
