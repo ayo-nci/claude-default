@@ -1,42 +1,66 @@
 {
-  "fetchedAt": "2026-07-22T01:16:50.142Z",
+  "fetchedAt": "2026-07-22T13:14:52.430Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6626454",
-      "url": "https://www.rent.ie/rooms-to-rent/Pinewood-Estate-Clondalkin-Dublin-22/6626454/",
-      "title": "Pinewood Estate, Clondalkin, Dublin 22",
-      "price": "€1,050 monthly",
-      "area": "Clondalkin, Dublin 22",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvNVwvYzU4YTllMWVlMTg0YWQ4MWRhYmYzMGY2ODA2NWNiNzIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=53a031a05f0612f30d2b7b062e521a546ce846e4470e38b4699feaca609c3fb2",
-      "description": "Double Bedroom Ensuite €1,050 monthly Agent: Nationwide Property Management and Estate Agent Limited Available Now - NATIONWIDE PROPERTY MANAGEMENT & ESTATE AGENT LIMITED, present a One Double bedroom en-suite in a four bedroom semi detached property - Property is not owner occupied *** ***. ... View full ad on Rent.ie",
+      "id": "6626647",
+      "url": "https://www.rent.ie/rooms-to-rent/Griffith-Avenue-Dublin-9-Drumcondra-Dublin-9/6626647/",
+      "title": "Griffith Avenue, Dublin 9, Drumcondra, Dublin 9",
+      "price": "€1,300 monthly",
+      "area": "Dublin 9, Drumcondra, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvZVwvMmU0ODM0NTYtYjI0MS00MTdmLThlZjMtOTAyNmQwYmRlMGY3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=fee4acc427c3c98485339f0c0c2ad529f4d8369ec98f9a72487d2ad6ddcb39a3",
+      "description": "Double Bedroom Ensuite €1,300 monthly Owner Occupied Available 1st August - A clean, modern, and fully self-contained studio space located on prestigious Griffith Avenue in Drumcondra, Dublin 9. Available for a 10-month academic/fixed-term tenancy... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-21T20:55:53.393Z"
+      "firstSeenAt": "2026-07-22T13:14:52.430Z"
     },
     {
-      "id": "6626472",
-      "url": "https://www.rent.ie/rooms-to-rent/8-Lissen-Hall-Drive-Swords-Co-Dublin-Swords-Co-Dublin/6626472/",
-      "title": "8 Lissen Hall Drive, Swords, Co. Dublin, Swords, Co. Dublin",
-      "price": "€1,000 monthly",
-      "area": "Swords, Co. Dublin, Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMFwvYjA5MzgyZDEtZGEyNi00NzUzLWExYzAtYjE4ZGIxNjk3MmE4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a35d98a27e7c3495ca7863415ad6598e5f0e2cbb37d9e6722ca0d1106328fdb3",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 1st August - Very residential semi detached home. Beautifully appointed ensuite bedroom with garden view in a quiet area, available to rent under the Rent a room scheme. Close to all amenit... View full ad on Rent.ie",
+      "id": "6626762",
+      "url": "https://www.rent.ie/rooms-to-rent/Grand-Parade-Cherrywood-Co-Dublin/6626762/",
+      "title": "Grand Parade, Cherrywood, Co. Dublin",
+      "price": "€250",
+      "area": "Cherrywood, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvY1wvZWMwOGE2MDEtMjY5MC00OGZjLWI3ZTUtNjhmZTEwODU4NzgyLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=9ef9bc88f7653396dd92a9a82f228ed2384e1b7bc479df09858b311931392399",
+      "description": "Single Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-21T20:55:53.393Z"
+      "firstSeenAt": "2026-07-22T13:14:52.430Z"
     },
     {
-      "id": "6626552",
-      "url": "https://www.rent.ie/rooms-to-rent/Cedar-Brook-Walk-Dublin-10-Cherry-Orchard-Dublin-22/6626552/",
-      "title": "Cedar Brook Walk, Dublin 10, Cherry Orchard, Dublin 22",
-      "price": "€1,250 monthly",
-      "area": "Dublin 10, Cherry Orchard, Dublin 22",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvZlwvNmZmNjczMTUtZmMyMS00NGZhLWIzYmUtMTFiZDcwMWNmY2ZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c7b20486b8281e79cbd16810411accd7f030728688e84bccc790b35987379a3b",
-      "description": "Double Bedroom Ensuite €1,250 monthly Available 2nd August - Hi There, Long tern accommodation of a double room en-suite available in a 2 bedroom, 2 bathroom apartment house at Park West area. Rent: ' 1250 (for single) OR ' 1400 (for 2 pe... View full ad on Rent.ie",
+      "id": "6626798",
+      "url": "https://www.rent.ie/rooms-to-rent/6-Vesey-Place-Dun-Laoghaire-Monkstown-Co-Dublin/6626798/",
+      "title": "6 Vesey Place, Dun Laoghaire, Monkstown, Co. Dublin",
+      "price": "€1,100 monthly",
+      "area": "Dun Laoghaire, Monkstown, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNFwvZTQyYmI5OTktMTIxNC00MDVkLTg3OTgtMWNhNjg3YzhkOGU5LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=4eef6c6f5a443a955292616922d338dd5b2210fa447eae0bb2d647d2ac9fd13d",
+      "description": "Double Bedroom Ensuite €1,100 monthly Agent: North's Property Available Now - *****EMAIL ENQUIRIES ONLY***** Bright and spacious double room to let in large period house on Vesey Place, Dun Laoghaire. The room has built in wardrobes and is fully furnis... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-21T20:55:53.393Z"
+      "firstSeenAt": "2026-07-22T13:14:52.430Z"
+    },
+    {
+      "id": "6626819",
+      "url": "https://www.rent.ie/rooms-to-rent/Laraghcon-Lucan-Co-Dublin/6626819/",
+      "title": "Laraghcon, Lucan, Co. Dublin",
+      "price": "€240",
+      "area": "Lucan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvYlwvZmIzMWY1NTItYzdkNS00ODA4LWFjMmEtOTA2MjljZDVlNDIxLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=1d3a5ba95742a90aeb799e2e20bd84ca90c1567d0bdefab6ad78d15e3e9fad7c",
+      "description": "Double Bedroom Ensuite €240 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-22T13:14:52.430Z"
+    },
+    {
+      "id": "6622545",
+      "url": "https://www.rent.ie/rooms-to-rent/Palmerstown-Drive-Dublin-20-Palmerstown-Dublin-20/6622545/",
+      "title": "Palmerstown Drive, Dublin 20, Palmerstown, Dublin 20",
+      "price": "€650 monthly",
+      "area": "Dublin 20, Palmerstown, Dublin 20",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvNFwvMTQ4NWZiNjMtOTI4YS00ODhkLWJmYjItOWVkMmJlMmE3M2RlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=60219c7d04ea699ca82746d07b3fb6dfc47a575f0035ad0fa720b98174bd7493",
+      "description": "Single Bedroom Ensuite €650 monthly Available 23rd July - One Single Bedroom, with ensuite & shared kitchen which is shared with one other person. View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-22T13:14:52.430Z"
     }
   ]
 }
