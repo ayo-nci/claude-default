@@ -1,66 +1,54 @@
 {
-  "fetchedAt": "2026-07-25T12:53:40.727Z",
+  "fetchedAt": "2026-07-26T09:48:17.149Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6630003",
-      "url": "https://www.rent.ie/rooms-to-rent/Navan-Road-Cabra-Dublin-7/6630003/",
-      "title": "Navan Road, Cabra, Dublin 7",
+      "id": "6630196",
+      "url": "https://www.rent.ie/rooms-to-rent/11-Corbally-Rise-Dublin-24-Citywest-Co-Dublin/6630196/",
+      "title": "11 Corbally Rise, Dublin 24, Citywest, Co. Dublin",
+      "price": "€185",
+      "area": "Dublin 24, Citywest, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvZVwvNWVmOTU2NGItZmU3OC00NGVhLTg0ODctMDM5OTM5ZjY0NDFiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4a1a84f0c5d018e257e31c0bef263d295cd474fe281759ea85ce2057883b12fe",
+      "description": "Double Bedroom Ensuite €185 weekly Owner Occupied Available 30th July - This a fully renovated home sharing with a professional female owner and 1 adult Female family member. The house is a three bedroom bungalow with an attic conversion and is locat... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-26T09:48:17.149Z"
+    },
+    {
+      "id": "6630238",
+      "url": "https://www.rent.ie/rooms-to-rent/Chapel-View-Donabate-Co-Dublin/6630238/",
+      "title": "Chapel View, Donabate, Co. Dublin",
       "price": "€250",
-      "area": "Cabra, Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvMFwvZDAyZTU1MzctNDhmZC00YjhkLWEwZDQtZTFhN2NkMTdlZGFhLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=9f844d1a88c8743305400bcb5317aa6e40b5a2c72f583a3ad183f048b8440432",
-      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 28th August - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "area": "Donabate, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvNFwvMjRhN2Y3YTktMWM2My00M2U0LTk0YjMtYWI3YjgzMjVlNTViLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=f780886757cd94d461c7a2287953520e0a040c948ed5d8c59cc6e138a0a931ab",
+      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 1st August - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-25T12:53:40.727Z"
+      "firstSeenAt": "2026-07-26T09:48:17.149Z"
     },
     {
-      "id": "6630005",
-      "url": "https://www.rent.ie/rooms-to-rent/Malahide-Road-Clontarf-Dublin-3/6630005/",
-      "title": "Malahide Road, Clontarf, Dublin 3",
-      "price": "€170",
-      "area": "Clontarf, Dublin 3",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvMlwvNTI3OWM5NWMtZjY1OC00Yjk4LWExZDEtOWIwYzYxZWVkN2E2LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=3751abc7a7a232d24234c6eda2241f7eefac79f51960737939808c523e7966ef",
-      "description": "Twin Bedroom Ensuite €170 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-25T12:53:40.727Z"
-    },
-    {
-      "id": "6630013",
-      "url": "https://www.rent.ie/rooms-to-rent/Hunstown-Way-Clonee-Dublin-15/6630013/",
-      "title": "Hunstown Way, Clonee, Dublin 15",
-      "price": "€170",
-      "area": "Clonee, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvY1wvZGM0NjgzMTItNGRlZS00ZjhhLTkzZjctZDAyNWQxNjVjOTA2LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=527b5a4e4a086824f38b8feef37691d414c0d1bf9c38482ccb28c4dff8e3f073",
-      "description": "Double Bedroom Ensuite €170 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-25T12:53:40.727Z"
-    },
-    {
-      "id": "6630059",
-      "url": "https://www.rent.ie/rooms-to-rent/13-The-Lawn-Boden-Park-Dublin-16-Ballyboden-Dublin-16/6630059/",
-      "title": "13 The Lawn, Boden Park, Dublin 16, Ballyboden, Dublin 16",
+      "id": "6630247",
+      "url": "https://www.rent.ie/rooms-to-rent/Dalkey-Avenue-Dalkey-Co-Dublin/6630247/",
+      "title": "Dalkey Avenue, Dalkey, Co. Dublin",
       "price": "€250",
-      "area": "Boden Park, Dublin 16, Ballyboden, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvMVwvOTFkZWU1MmQtMmQyNy00NWY2LWE0YWMtODNlM2NmNTMzZmE1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=14d2ddcf1717eadbfc540db6975cafbcd1a85f41f775279f109ed2a90fd422d3",
-      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Available 31st August - Large converted attic king-size bedroom own ensuite WC. Built in storage units. Bills : utilities broadband bins all included. House shared Non Smoker female Bus Routes nearby 74, 161, S8, 16, 15b 116 and 15d Direct bus to tallaght hospital, dun laoghaire Sandyford & more Close to dundrum rathfarnham and tallaght shopping... View full ad on Rent.ie",
+      "area": "Dalkey, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvOVwvZTkyNTc1MzYtOWFjYS00YTQwLTljZmQtODFhYTE4NDkyM2RlLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=e7e8e791502fda704321fb5a6106e24d31fa2cb454ad570507751c7741d5672d",
+      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 21st November - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-25T12:53:40.727Z"
+      "firstSeenAt": "2026-07-26T09:48:17.149Z"
     },
     {
-      "id": "6630069",
-      "url": "https://www.rent.ie/rooms-to-rent/14-Caddell-The-Links-Station-Rd-Portmarnock-Co-Dublin/6630069/",
-      "title": "14, Caddell, The Links, Station Rd, Portmarnock, Co. Dublin",
-      "price": "€1,150 monthly",
-      "area": "Caddell, The Links, Station Rd, Portmarnock, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvNVwvMzVlYzU4ZTYtMTE2MS00MjZiLTg1ZGEtY2Q2N2FjMGFiMjllLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=31830d184dcb539cbbab0769ce689d1c4a6a4b5c266525d2bb1cf28e5c589114",
-      "description": "Single Bedroom Ensuite €1,150 monthly Owner Occupied Available 24th August - This is a 3 bedroom apartment , low rise in a beautiful setting. The complex has large landscaped gardens with a tennis court. It is situated directly across from the dart station. The room is a large single room with a large double wardrobe and a private bathroom . It opens onto a large deck for the tenants private use. View full ad on Rent.ie",
+      "id": "6630270",
+      "url": "https://www.rent.ie/rooms-to-rent/Castleland-Park-Way-Balbriggan-Co-Dublin-Balbriggan-Co-Dublin/6630270/",
+      "title": "Castleland Park Way, Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "price": "€950 monthly",
+      "area": "Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvM1wvYTNlOTJhNTUtOGJiOC00MWEyLTk2NjctZTczY2JiZWUwNGY0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4405cfcd43c1b92b0ceb3e2f98e2e5cfd8cfa7f05b3c89c215214b2fb23bbd13",
+      "description": "Double Bedroom Ensuite €950 monthly Available 1st August - DOUBLE ROOM WITH PRIVATE BATHROOM – CASTLELANDS, BALBRIGGAN A beautiful and comfortable double bedroom is available in a quiet and welcoming home in Castlelands, Balbrigg... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-25T12:53:40.727Z"
+      "firstSeenAt": "2026-07-26T09:48:17.149Z"
     }
   ]
 }
