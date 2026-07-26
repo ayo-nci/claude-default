@@ -1,42 +1,54 @@
 {
-  "fetchedAt": "2026-07-26T12:51:03.064Z",
+  "fetchedAt": "2026-07-26T20:42:49.462Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6630238",
-      "url": "https://www.rent.ie/rooms-to-rent/Chapel-View-Donabate-Co-Dublin/6630238/",
-      "title": "Chapel View, Donabate, Co. Dublin",
-      "price": "€250",
-      "area": "Donabate, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvNFwvMjRhN2Y3YTktMWM2My00M2U0LTk0YjMtYWI3YjgzMjVlNTViLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=f780886757cd94d461c7a2287953520e0a040c948ed5d8c59cc6e138a0a931ab",
-      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 1st August - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
+      "id": "6630361",
+      "url": "https://www.rent.ie/rooms-to-rent/Drynam-Swords-Swords-Co-Dublin/6630361/",
+      "title": "Drynam, Swords, Swords, Co. Dublin",
+      "price": "€220",
+      "area": "Swords, Swords, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvOVwvMzk1NTY4MmQtNTQ2My00N2NlLTljMjYtYzkzYTVlNzQxNGNlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=933e618bf2dad77413e0017509fee075662f02ae58b122fb38ed4bb3b810c1a3",
+      "description": "Double Bedroom Ensuite €220 weekly Owner Occupied Available 5th August - Very nice large double bedroom to rent with 4 door built in wardrobe, small desk and chair now in room also (not in photos). You will have main use of the main bathroom beside your room. Heating/Electricity is shared with 1 owner. '880 deposit. No pets. Non smoker. 7 minute drive to the airport. Private parking available, with secu... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-26T09:48:17.149Z"
+      "firstSeenAt": "2026-07-26T20:42:49.462Z"
     },
     {
-      "id": "6630247",
-      "url": "https://www.rent.ie/rooms-to-rent/Dalkey-Avenue-Dalkey-Co-Dublin/6630247/",
-      "title": "Dalkey Avenue, Dalkey, Co. Dublin",
-      "price": "€250",
-      "area": "Dalkey, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvOVwvZTkyNTc1MzYtOWFjYS00YTQwLTljZmQtODFhYTE4NDkyM2RlLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=e7e8e791502fda704321fb5a6106e24d31fa2cb454ad570507751c7741d5672d",
-      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 21st November - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
+      "id": "6630396",
+      "url": "https://www.rent.ie/rooms-to-rent/2-Grantham-Close-Dublin-8-Portobello-Dublin-8/6630396/",
+      "title": "2 Grantham Close, Dublin 8, Portobello, Dublin 8",
+      "price": "€1,650 monthly",
+      "area": "Dublin 8, Portobello, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvZFwvZmQ4Y2ZlZGEtODdmNi00OTNiLWI0MjktMjQ1ODQ1ZmIwNzBkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9cf349952cbba005d702ca06057fd60e03ecc4028fe92487c530cf8dcbbe2079",
+      "description": "Double Bedroom Ensuite €1,650 monthly Available 1st September - Large En-Suite Room for Rent – Portobello, Dublin 8 Available from 1 September 2026 Pet-friendly | Parking | Location: Grantham Close, Portobello, Dublin 8 (D08 HR44) A s... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-26T09:48:17.149Z"
+      "firstSeenAt": "2026-07-26T20:42:49.462Z"
     },
     {
-      "id": "6630270",
-      "url": "https://www.rent.ie/rooms-to-rent/Castleland-Park-Way-Balbriggan-Co-Dublin-Balbriggan-Co-Dublin/6630270/",
-      "title": "Castleland Park Way, Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
-      "price": "€950 monthly",
-      "area": "Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvM1wvYTNlOTJhNTUtOGJiOC00MWEyLTk2NjctZTczY2JiZWUwNGY0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4405cfcd43c1b92b0ceb3e2f98e2e5cfd8cfa7f05b3c89c215214b2fb23bbd13",
-      "description": "Double Bedroom Ensuite €950 monthly Available 1st August - DOUBLE ROOM WITH PRIVATE BATHROOM – CASTLELANDS, BALBRIGGAN A beautiful and comfortable double bedroom is available in a quiet and welcoming home in Castlelands, Balbrigg... View full ad on Rent.ie",
+      "id": "6630184",
+      "url": "https://www.rent.ie/rooms-to-rent/Ardcian-Park-Swords-Co-Dubli-Swords-Co-Dublin/6630184/",
+      "title": "Ardcian Park, Swords, Co. Dubli, Swords, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "Swords, Co. Dubli, Swords, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNlwvNTY3NWFiMWUtZjU2NS00MDZjLWI3NmMtZTE5NzljMTU2ZTQ3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4521cc389d756f08525eca70cdb2d02d430442649c39e3d286c8a2c7e70fcb29",
+      "description": "Double Bedroom Ensuite €900 monthly Owner Occupied Available Now - A large, spacious double bedroom is available to share. The owner is occupied, and there is no other tenant. Bills are included. Female only Viewing is available this weekend View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-26T09:48:17.149Z"
+      "firstSeenAt": "2026-07-26T20:42:49.462Z"
+    },
+    {
+      "id": "6630466",
+      "url": "https://www.rent.ie/rooms-to-rent/Cluain-Shee-Aikens-Village-Dublin-18-Stepaside-Dublin-18/6630466/",
+      "title": "Cluain Shee, Aiken's Village, Dublin 18, Stepaside, Dublin 18",
+      "price": "€1,250 monthly",
+      "area": "Aiken's Village, Dublin 18, Stepaside, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvZVwvNGVmZThiMTktMWZjOC00ODA1LThjNjItNDdkZjU1ODczOTg4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=05c6ca3e94aab42ac793fb727e71cb298d17e6465376015153db9fcc2569bb8c",
+      "description": "Double Bedroom €1,250 monthly Available 28th July - 2 bed 2nd floor corner balcony apartment. Quiet block. 10 minute walk to green luas line. Double room. Use of main bathroom. Other room is ensuite and has 1 person (male) in the roo... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-26T20:42:49.462Z"
     }
   ]
 }
