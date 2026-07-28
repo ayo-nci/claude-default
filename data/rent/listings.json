@@ -1,42 +1,18 @@
 {
-  "fetchedAt": "2026-07-28T01:16:11.911Z",
+  "fetchedAt": "2026-07-28T20:55:26.248Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6631553",
-      "url": "https://www.rent.ie/rooms-to-rent/L-Dublin-7-Phibsborough-Dublin-7/6631553/",
-      "title": "L Dublin 7, Phibsborough, Dublin 7",
-      "price": "€780 monthly",
-      "area": "Phibsborough, Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvYlwvN2I0Mjg3ZTktNDVlNy00ZDg0LWE0NzEtMmFlYjkyYTdmOWU4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2e7a27e66cc078da973ad94d62bdbd634c1cfc89be1428f6dd5b119559308357",
-      "description": "Double Bedroom Ensuite €780 monthly Available Now - Spacious Double En Suite Room to Rent – Dublin 7 A double en suite room is available immediately in a shared house in Dublin 7 (for 1 occupant). The room is bright, comfortable, and... View full ad on Rent.ie",
+      "id": "6632196",
+      "url": "https://www.rent.ie/rooms-to-rent/40-Morrow-House-Myrtle-Drive-The-Coast-Dublin-1-Clarehall-Dublin-13/6632196/",
+      "title": "40 Morrow House, Myrtle Drive, The Coast, Dublin 1, Clarehall, Dublin 13",
+      "price": "€800 monthly",
+      "area": "Myrtle Drive, The Coast, Dublin 1, Clarehall, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvZVwvOGU5ZjIxZTAtZDlhMi00YmJkLWI2YjMtYzg3ZmZlMWQ4N2FiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=da55bb1e63165be38a9e03c76706ead482795fc4c1117d3d9a36bd146fc067d0",
+      "description": "Single Bedroom €800 monthly - Double Bedroom €850 monthly - Double Bedroom Ensuite €1,050 monthly Available Now - Newly decorated, all modern cons, luxury mattresses brand new . convenient location. 5mins walk to Clongriffin Station. BusH1 Bus 15 all close by. 10 minutes walk to Lidl. View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-28T01:16:11.911Z"
-    },
-    {
-      "id": "6631580",
-      "url": "https://www.rent.ie/rooms-to-rent/Waterville-Terrace-Waterville-Dublin-15-Ballycoolin-Dublin-15/6631580/",
-      "title": "Waterville Terrace, Waterville, Dublin 15, Ballycoolin, Dublin 15",
-      "price": "€1,200 monthly",
-      "area": "Waterville, Dublin 15, Ballycoolin, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYVwvY2E2NTg0MzktMTMxMy00ZjkyLTg4MjgtMjU3MGEzN2NkNGQxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1d7411332456bedc37943c6d672226671072f9e3b4cefb91cd16f5626881b6e1",
-      "description": "Single Bedroom Ensuite €1,200 monthly Owner Occupied Available 4th August - Looking for a comfortable, peaceful, and well-connected place to live? We are offering a bright single bedroom with your own private bathroom in a welcoming family home, ideal ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-28T01:16:11.911Z"
-    },
-    {
-      "id": "6630074",
-      "url": "https://www.rent.ie/rooms-to-rent/23-Kelston-Avenue-Dublin-18-Foxrock-Dublin-18/6630074/",
-      "title": "23 Kelston Avenue, Dublin 18, Foxrock, Dublin 18",
-      "price": "€1,238 monthly",
-      "area": "Dublin 18, Foxrock, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvOFwvYTgxZTZhZTMtYjU3Yy00NThlLTg4ZmQtZmQzOGY5NWU1MmE0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4e156d34472994a9d429e249058fbff882b102180fc2ca668e762772818c626c",
-      "description": "Double Bedroom Ensuite €1,238 monthly Available 15th August - Long-Term En Suite Room Available in Foxrock, Dublin 18 Available: August 15 (Flexible for an earlier start date if needed.) Rent: '1,237.5/month + utility bills Deposi... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-28T01:16:11.911Z"
+      "firstSeenAt": "2026-07-28T20:55:26.248Z"
     }
   ]
 }
