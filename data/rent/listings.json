@@ -1,114 +1,42 @@
 {
-  "fetchedAt": "2026-07-27T14:04:31.465Z",
+  "fetchedAt": "2026-07-28T01:16:11.911Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6630693",
-      "url": "https://www.rent.ie/rooms-to-rent/116-Orchard-Way-Dublin-13-Ayrfield-Dublin-13/6630693/",
-      "title": "116 Orchard Way, Dublin 13, Ayrfield, Dublin 13",
-      "price": "€1,100 monthly",
-      "area": "Dublin 13, Ayrfield, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNFwvNTRjNWRmNjgtZDE3My00MDdjLWJjNzUtMWZhNGMyMWMxZmNjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=96b3c38aa68cd73c7c768c8f07d03598ff6769741b24bde6f18fd95f0409359e",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 28th July - Double En-Suite Bedroom Available in a 3-Bedroom Duplex Apartment:- A spacious double en-suite bedroom is available in a clean and well-maintained 3-bedroom duplex apart... View full ad on Rent.ie",
+      "id": "6631553",
+      "url": "https://www.rent.ie/rooms-to-rent/L-Dublin-7-Phibsborough-Dublin-7/6631553/",
+      "title": "L Dublin 7, Phibsborough, Dublin 7",
+      "price": "€780 monthly",
+      "area": "Phibsborough, Dublin 7",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvYlwvN2I0Mjg3ZTktNDVlNy00ZDg0LWE0NzEtMmFlYjkyYTdmOWU4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2e7a27e66cc078da973ad94d62bdbd634c1cfc89be1428f6dd5b119559308357",
+      "description": "Double Bedroom Ensuite €780 monthly Available Now - Spacious Double En Suite Room to Rent – Dublin 7 A double en suite room is available immediately in a shared house in Dublin 7 (for 1 occupant). The room is bright, comfortable, and... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
+      "firstSeenAt": "2026-07-28T01:16:11.911Z"
     },
     {
-      "id": "6630753",
-      "url": "https://www.rent.ie/rooms-to-rent/Cromwellsfort-Road-Crumlin-Dublin-12/6630753/",
-      "title": "Cromwellsfort Road, Crumlin, Dublin 12",
-      "price": "€1,100 monthly",
-      "area": "Crumlin, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvNVwvODU1NjIyMTctZDNhNi00MTA5LTllMDctNDhkYTNmOGQ5ZDE4LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=c6b4f7418e38c431e01a9c47d822b75b23c7d33cd0a95b2222354c2805e94a42",
-      "description": "Double Bedroom Ensuite €1,100 monthly Agent: REA McGEE Available 10th August - Large Double ensuite bedroom to let in a spacious house accommodation comprises of spacious kitchen diner with all modern conveniences, fridge freezer, oven hob extractor, a... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
-    },
-    {
-      "id": "6630793",
-      "url": "https://www.rent.ie/rooms-to-rent/55-Boulevard-Bealing-Village-Dublin-15-Tyrrelstown-Dublin-15/6630793/",
-      "title": "55 Boulevard, Bealing Village, Dublin 15, Tyrrelstown, Dublin 15",
-      "price": "€950 monthly",
-      "area": "Bealing Village, Dublin 15, Tyrrelstown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMlwvNDJiODQ3ODMtMTkxZC00YmUxLWIwNDYtMWExMTg3NzZlN2NjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a9d85917ddb75f7669980e5951f23117137b5731577ded177bef024c7145e630",
-      "description": "Double Bedroom Ensuite €950 monthly Owner Occupied Available 1st August - Dublin 15. Tyrrelstown. 2 Floor, 3 bedroom house over ground floor apartment. Owner lives in apartment, so the security of owner who has the legal right to lease the unit, and is... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
-    },
-    {
-      "id": "6630865",
-      "url": "https://www.rent.ie/rooms-to-rent/80-Earlsfort-Road-Lucan-Co-Dublin-Lucan-Co-Dublin/6630865/",
-      "title": "80 Earlsfort Road, Lucan, Co. Dublin, Lucan, Co. Dublin",
-      "price": "€750 monthly",
-      "area": "Lucan, Co. Dublin, Lucan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvZFwvYmQzY2Q0NzEtOWI0Ni00MWNiLTk0MDAtZDFhNTUxNjE2NzgxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=151872e2ffdcfaa075eb145d2e99faa3d9af8d873e9a4cc83dfcd34608653edf",
-      "description": "Single Bedroom Ensuite €750 monthly Owner Occupied Available Now - 1 single room in the house for share. House full renovated. View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
-    },
-    {
-      "id": "6630938",
-      "url": "https://www.rent.ie/rooms-to-rent/Swords-Road-Whitehall-Dublin-9/6630938/",
-      "title": "Swords Road, Whitehall, Dublin 9",
+      "id": "6631580",
+      "url": "https://www.rent.ie/rooms-to-rent/Waterville-Terrace-Waterville-Dublin-15-Ballycoolin-Dublin-15/6631580/",
+      "title": "Waterville Terrace, Waterville, Dublin 15, Ballycoolin, Dublin 15",
       "price": "€1,200 monthly",
-      "area": "Whitehall, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvOVwvZTk2YTY1NDZlMTFlNDhjYWE4ODVkNGJjMmRmMDM5MzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=b52bbf353d2edd4b96702de803b2094b11a6fb0afe4b1ad0d187f893380f6672",
-      "description": "Double Bedroom Ensuite €1,200 monthly Agent: Buckley Real Estate Available Now - Buckley Real Estate are delighted to present this superb newly refurbished property to the Dublin rental market. Ideally situated in the ideally located just 200 meters from t... View full ad on Rent.ie",
+      "area": "Waterville, Dublin 15, Ballycoolin, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYVwvY2E2NTg0MzktMTMxMy00ZjkyLTg4MjgtMjU3MGEzN2NkNGQxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1d7411332456bedc37943c6d672226671072f9e3b4cefb91cd16f5626881b6e1",
+      "description": "Single Bedroom Ensuite €1,200 monthly Owner Occupied Available 4th August - Looking for a comfortable, peaceful, and well-connected place to live? We are offering a bright single bedroom with your own private bathroom in a welcoming family home, ideal ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
+      "firstSeenAt": "2026-07-28T01:16:11.911Z"
     },
     {
-      "id": "6630887",
-      "url": "https://www.rent.ie/rooms-to-rent/5-The-Boulevard-Kilmartin-Grove-Hollystown-Dubl-Hollystown-Dublin-15/6630887/",
-      "title": "5 The Boulevard, Kilmartin Grove, Hollystown, Dubl, Hollystown, Dublin 15",
-      "price": "€1,300 monthly",
-      "area": "Kilmartin Grove, Hollystown, Dubl, Hollystown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvOFwvMjg5YWQyZDAtZjI3MC00MmFjLTgwNzYtYmNhNTg0ZmYwOGI2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c4d287cedc4716083e0d64c4d9f388a43de5933d9fe97c0285fbe783c96053d6",
-      "description": "Double Bedroom Ensuite €1,300 monthly Owner Occupied Available 1st August - Luxury Ensuite Double Room in a Stunning New Build | Quiet Home This beautifully furnished ensuite double room is available in a newly built, A rated home finished to an exceptional standard. With only two other housemates, this home offers the perfect balance of privacy, comfort, and convenience. The Property Designed for ... View full ad on Rent.ie",
+      "id": "6630074",
+      "url": "https://www.rent.ie/rooms-to-rent/23-Kelston-Avenue-Dublin-18-Foxrock-Dublin-18/6630074/",
+      "title": "23 Kelston Avenue, Dublin 18, Foxrock, Dublin 18",
+      "price": "€1,238 monthly",
+      "area": "Dublin 18, Foxrock, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvOFwvYTgxZTZhZTMtYjU3Yy00NThlLTg4ZmQtZmQzOGY5NWU1MmE0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4e156d34472994a9d429e249058fbff882b102180fc2ca668e762772818c626c",
+      "description": "Double Bedroom Ensuite €1,238 monthly Available 15th August - Long-Term En Suite Room Available in Foxrock, Dublin 18 Available: August 15 (Flexible for an earlier start date if needed.) Rent: '1,237.5/month + utility bills Deposi... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
-    },
-    {
-      "id": "6630963",
-      "url": "https://www.rent.ie/rooms-to-rent/Whitechurch-Rathfarnham-Dublin-16-Rockbrook-Dublin-16/6630963/",
-      "title": "Whitechurch, Rathfarnham, Dublin 16, Rockbrook, Dublin 16",
-      "price": "€1,500 monthly",
-      "area": "Rathfarnham, Dublin 16, Rockbrook, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNFwvNTRlMmE5ODMtN2ViNi00MWIyLTk3MTItNjY5MWI4NjcxNjlhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8d868707035ed8d594593abf339456716e6fe43e97c71b679eb97bf20fd02ead",
-      "description": "Double Bedroom Ensuite €1,500 monthly Available 10th August - Stylish & Modern 1-Room Apartment – Rathfarnham, Dublin 16 Property Description Presenting a modern, beautifully finished 1-room apartment like attached to the side of ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
-    },
-    {
-      "id": "6630922",
-      "url": "https://www.rent.ie/rooms-to-rent/26-Glebe-Hall-Kill-Avenue-Deansgrange-Co-Dublin/6630922/",
-      "title": "26 Glebe Hall, Kill Avenue, Deansgrange, Co. Dublin",
-      "price": "€1,250 monthly",
-      "area": "Kill Avenue, Deansgrange, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvY1wvZGMwZDI2ZWVmZGE5N2VlNjRiYzMzMDZkZjFlOWNhOWEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=d6fa4140621d4b0bdc1de15cdbb7e0ede3f22ef2d30c897a86cac63a1ed6abb8",
-      "description": "Double Bedroom Ensuite €1,250 monthly Available Now - Spacious Double Room to Rent A bright and spacious double room is available in a quiet, modern apartment The room offers: Comfortable double bed Access to the main bathr... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
-    },
-    {
-      "id": "6631030",
-      "url": "https://www.rent.ie/rooms-to-rent/Cardy-Rock-Drive-Cardy-Rock-View-Balbriggan-Co-Balbriggan-Co-Dublin/6631030/",
-      "title": "Cardy Rock Drive, Cardy Rock View, Balbriggan, Co., Balbriggan, Co. Dublin",
-      "price": "€950 monthly",
-      "area": "Cardy Rock View, Balbriggan, Co., Balbriggan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvOFwvODgwZWM1N2MtYTY4ZC00OTQwLTg2N2QtN2MwM2Y4ZGViMDk5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a47a5781a0779a1d6eb9389299899bf6049add55241b299acaf43e2cd20649bc",
-      "description": "Double Bedroom Ensuite €950 monthly Available 30th July - Available now for non smokers only! Recently renovated Ensuite Double room with a direct sea view in non owner occupied house. Very warm room. Double room is very large 20sq... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-27T14:04:31.465Z"
+      "firstSeenAt": "2026-07-28T01:16:11.911Z"
     }
   ]
 }
