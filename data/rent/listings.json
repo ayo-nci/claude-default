@@ -1,18 +1,30 @@
 {
-  "fetchedAt": "2026-07-28T20:55:26.248Z",
+  "fetchedAt": "2026-07-29T01:18:00.409Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6632196",
-      "url": "https://www.rent.ie/rooms-to-rent/40-Morrow-House-Myrtle-Drive-The-Coast-Dublin-1-Clarehall-Dublin-13/6632196/",
-      "title": "40 Morrow House, Myrtle Drive, The Coast, Dublin 1, Clarehall, Dublin 13",
-      "price": "€800 monthly",
-      "area": "Myrtle Drive, The Coast, Dublin 1, Clarehall, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvZVwvOGU5ZjIxZTAtZDlhMi00YmJkLWI2YjMtYzg3ZmZlMWQ4N2FiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=da55bb1e63165be38a9e03c76706ead482795fc4c1117d3d9a36bd146fc067d0",
-      "description": "Single Bedroom €800 monthly - Double Bedroom €850 monthly - Double Bedroom Ensuite €1,050 monthly Available Now - Newly decorated, all modern cons, luxury mattresses brand new . convenient location. 5mins walk to Clongriffin Station. BusH1 Bus 15 all close by. 10 minutes walk to Lidl. View full ad on Rent.ie",
+      "id": "6632646",
+      "url": "https://www.rent.ie/rooms-to-rent/Carrs-Mill-Donabate-Co-Dublin-Portrane-Co-Dublin/6632646/",
+      "title": "Carr's Mill, Donabate, Co. Dublin, Portrane, Co. Dublin",
+      "price": "€230",
+      "area": "Donabate, Co. Dublin, Portrane, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvOFwvMThlZWI1ZmEtNDNhOC00NTMzLWI3ODItMzZmNmY5MzkwZDA4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2104e338b14c6b99c4d631538de388eaf6c357f1d56873a080b9f29fc15ae80b",
+      "description": "Double Bedroom Ensuite €230 weekly Available 3rd August - ***Only Temporary Accommodation *** Double room with OWN bathroom available in a large shared house in Donabate. Bright, private, and fully furnished. Room is ready and Available from Monday 3rd of August Living with 2 others *Fully equipped kitchen *Utility downstairs and toilet *Comfortable shared living areas ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-28T20:55:26.248Z"
+      "firstSeenAt": "2026-07-29T01:18:00.409Z"
+    },
+    {
+      "id": "6632642",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-Vantage-Central-Central-Park-Dublin-18-Leopardstown-Dublin-18/6632642/",
+      "title": "Apartment Vantage Central, Central Park, Dublin 18, Leopardstown, Dublin 18",
+      "price": "€1,213 monthly",
+      "area": "Central Park, Dublin 18, Leopardstown, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvMFwvZTA0OTUzOGEtNTNjNi00OTUxLWJlNTktNTNmMjk3ZjAzODE5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5af8c90e92670a836d83063e549b4acc17d208d09d9214351dfb5a738b99dac2",
+      "description": "Double Bedroom Ensuite €1,213 monthly Available 1st August - En-Suite Room Available – Vantage Central Apartments, Central Park I'm looking for someone to take an en-suite room in a modern apartment in Vantage Central Apartments, right... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-29T01:18:00.409Z"
     }
   ]
 }
