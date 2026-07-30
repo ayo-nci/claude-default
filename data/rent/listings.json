@@ -1,30 +1,66 @@
 {
-  "fetchedAt": "2026-07-29T20:40:47.717Z",
+  "fetchedAt": "2026-07-30T13:20:34.788Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6633506",
-      "url": "https://www.rent.ie/rooms-to-rent/Bradogue-Court-Annamoe-Road-Dublin-7-North-Circular-Road-Dublin-7/6633506/",
-      "title": "Bradogue Court, Annamoe Road, Dublin 7, North Circular Road, Dublin 7",
-      "price": "€1,160 monthly",
-      "area": "Annamoe Road, Dublin 7, North Circular Road, Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvMFwvZDAzYTIyNTYtNmNhYy00ODk3LTgxY2YtMzNhMTM2ZWU0N2ZhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9be7d7c20cb0718de2cbb76190ea6ea863671808da3cbc90805066ab1ffa14ea",
-      "description": "Double Bedroom Ensuite €1,160 monthly Owner Occupied Available 11th August - Double room in 2 bed 2 bathroom apartment. Sharing with 1 other; Professional male in 40s who will be away frequently. Desk available in living room if required. Gated, quiet r... View full ad on Rent.ie",
+      "id": "6630031",
+      "url": "https://www.rent.ie/rooms-to-rent/Marlfield-Kiltipper-Dublin-24/6630031/",
+      "title": "Marlfield, Kiltipper, Dublin 24",
+      "price": "€200",
+      "area": "Kiltipper, Dublin 24",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvNFwvYzQ2MjMwODMtNDNkMy00NzhjLWIzYTYtZDUyMGE2ODVkOTZhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a516fe648a930622a81b8014e00195f2a8013cea72fa8d77231d87986d64aac3",
+      "description": "Single Bedroom Ensuite €200 weekly Owner Occupied Available Now - Single bedroom with own bathroom. Apartment equipped with all amenities. Parking available. Reference and deposit required. Electric bill shared. View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-29T20:40:47.717Z"
+      "firstSeenAt": "2026-07-30T13:20:34.788Z"
     },
     {
-      "id": "6633569",
-      "url": "https://www.rent.ie/rooms-to-rent/Clonsilla-Clonsilla-Dublin-15/6633569/",
-      "title": "Clonsilla, Clonsilla, Dublin 15",
-      "price": "€1,166 monthly",
-      "area": "Clonsilla, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvZVwvMWUzNWI2N2EtNGZmNi00M2E3LTk3NjUtOWY1MmVkMGM3NTA1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e6da2f6f08d61ee9a7559584dc901ad5e4aaec36d913e6686f46e5e2c886699a",
-      "description": "Double Bedroom Ensuite €1,166 monthly Owner Occupied Available 1st August - A bright and spacious one-bedroom self-contained extension attached to a private home, offering comfortable living in a quiet setting. The accommodation includes: * • L... View full ad on Rent.ie",
+      "id": "6633752",
+      "url": "https://www.rent.ie/rooms-to-rent/Rathborne-Ave-Ashtown-Dublin-15/6633752/",
+      "title": "Rathborne Ave, Ashtown, Dublin 15",
+      "price": "€250",
+      "area": "Ashtown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvM1wvOTM2ZjM5NGUtY2Q5NC00M2I4LWIyY2UtY2U2OTFkNzdlN2JjLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=33c19e4763d843fd7b5d2678b3d318d96fda3d8ad0b488839878d165ef9e0730",
+      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 30th October - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-29T20:40:47.717Z"
+      "firstSeenAt": "2026-07-30T13:20:34.788Z"
+    },
+    {
+      "id": "6633762",
+      "url": "https://www.rent.ie/rooms-to-rent/Navan-Rd-Huntstown-Dublin-15/6633762/",
+      "title": "Navan Rd, Huntstown, Dublin 15",
+      "price": "€200",
+      "area": "Huntstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvZVwvZGU0MWI4NzctZGIyYS00MzEzLThhOWYtMWVjZjcxMjM5ZTBhLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=1ea18213c295340a206f64d513c7c04f8c1aaf7013d091e52bc9c3282e6f681c",
+      "description": "Double Bedroom Ensuite €200 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-30T13:20:34.788Z"
+    },
+    {
+      "id": "6633776",
+      "url": "https://www.rent.ie/rooms-to-rent/Tolka-View-Blanchardstown-Dublin-15/6633776/",
+      "title": "Tolka View, Blanchardstown, Dublin 15",
+      "price": "€750 monthly",
+      "area": "Blanchardstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvZlwvM2ZiOWQyMWY0OTQxOThkNTU3N2ZjMWE5OTU0ZDc1ZjguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=ce1dd7ad526119e67754adb885c8ff1dad74792ed811d3851ab117f23a2276c6",
+      "description": "Double Bedroom Ensuite €750 monthly Available 14th August - Ensuite Room, in a quiet cottage in the heart of Blanchardstown Village, it's a fantastic location within a short walking distance to Connolly Hospital, Blanchardstown Shopp... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-30T13:20:34.788Z"
+    },
+    {
+      "id": "6633907",
+      "url": "https://www.rent.ie/rooms-to-rent/Chieftains-Drive-Balbriggan-Co-Dublin-Balbriggan-Co-Dublin/6633907/",
+      "title": "Chieftains Drive, Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "price": "€1,050 monthly",
+      "area": "Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvYlwvMWI2NDgzYjktZWFjMS00NzRlLWEyYWEtZDExNjllZTAyYjIxLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=400ee6052c5a5c6a1234f21d4ac98d67ab9ac793f6edb5bdd4e0ceaf4c9656d1",
+      "description": "Double Bedroom Ensuite €1,050 monthly Agent: Colman Grimes Estate Agents Available Now - ***COLMAN GRIMES ESTATE AGENTS*** LUXURIOUS ROOM RENTAL / ALL BILLS INCLUDED*** WE ARE DELIGHTED TO PRESENT THIS HIGH END EXTRA LARGE ROOM WITH ENSUITE BATHROOM*** Accommo... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-30T13:20:34.788Z"
     }
   ]
 }
