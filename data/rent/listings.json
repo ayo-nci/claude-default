@@ -1,7 +1,19 @@
 {
-  "fetchedAt": "2026-07-31T01:24:25.913Z",
+  "fetchedAt": "2026-07-31T06:34:47.516Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
+    {
+      "id": "6634556",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Oak-Carrigmore-Woods-Dublin-24-Citywest-Co-Dublin/6634556/",
+      "title": "The Oak, Carrigmore Woods, Dublin 24, Citywest, Co. Dublin",
+      "price": "€800 monthly",
+      "area": "Carrigmore Woods, Dublin 24, Citywest, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYVwvY2FmYzNhOWItNTc2MC00YzY0LTlhODMtMzUwMGI2MzhhMzhlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0c25bd27b13257bdee419bde7c223911c66409d9849bcd87be5e1ce363f63cdd",
+      "description": "Double Bedroom Ensuite €800 monthly Available 1st August - Rent: '800 / month + shared bills and one month deposit Location: Fortunestown, Citywest (5-min walk to Fortunestown Luas stop) Availability: Sept 1st Preference: Clean, ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-07-31T06:34:47.516Z"
+    },
     {
       "id": "6634521",
       "url": "https://www.rent.ie/rooms-to-rent/Rowan-Walk-Kilcarbery-Dublin-22-Kilcarbery-Co-Dublin/6634521/",
