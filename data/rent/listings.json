@@ -1,42 +1,66 @@
 {
-  "fetchedAt": "2026-08-01T09:46:50.047Z",
+  "fetchedAt": "2026-08-01T16:43:51.101Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6635598",
-      "url": "https://www.rent.ie/rooms-to-rent/16-Ivar-Street-Dublin-7-Arbour-Hill-Dublin-7/6635598/",
-      "title": "16 Ivar Street, Dublin 7, Arbour Hill, Dublin 7",
-      "price": "€750 monthly",
-      "area": "Dublin 7, Arbour Hill, Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvN1wvMTcxMWU5MjUtODRlOS00N2ZhLWJjNjgtZmNkNWFhMzM0YTZjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=01877966450a4ea675cfa8f1bd0e7144fa21847469477a8fd689b15a7d19be49",
-      "description": "Single Bedroom Ensuite €750 monthly Owner Occupied Available 30th August - AVAILABLE MONDAY TO FRIDAY ONLY Room with own toilet and separate study room in the heart of Stoneybatter. Cozy and quiet, would suit someone living in Dublin during the wee... View full ad on Rent.ie",
+      "id": "6635715",
+      "url": "https://www.rent.ie/rooms-to-rent/Myrtle-The-Coast-Dublin-13-Clarehall-Dublin-13/6635715/",
+      "title": "Myrtle, The Coast, Dublin 13, Clarehall, Dublin 13",
+      "price": "€850 monthly",
+      "area": "The Coast, Dublin 13, Clarehall, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvNVwvYjU3ZTNmOWYtOGRlNy00NmUyLTk5MjMtOGQ5NjZlZDlkMDI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f860ee30ebc7ca2ba2da63c31628c9ba2b592291a018a5571e7fb9488a63de36",
+      "description": "Double Bedroom Ensuite €850 monthly Owner Occupied Available 1st September - A spacious room with an ensuite bathroom is available in The Coast, Baldoyle. Owner-occupied - family home - looking for a respectful, quiet, non-smoker, female. Features: -... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-01T09:46:50.047Z"
+      "firstSeenAt": "2026-08-01T16:43:51.101Z"
     },
     {
-      "id": "6635463",
-      "url": "https://www.rent.ie/rooms-to-rent/Castleviewnaas-Roaddublin-12-Bluebell-Dublin-12/6635463/",
-      "title": "Castleview,naas Road,dublin 12, Bluebell, Dublin 12",
+      "id": "6635714",
+      "url": "https://www.rent.ie/rooms-to-rent/Forbes-Street-Grand-Canal-Dock-Dublin-2/6635714/",
+      "title": "Forbes Street, Grand Canal Dock, Dublin 2",
+      "price": "€1,263 monthly",
+      "area": "Grand Canal Dock, Dublin 2",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvMVwvYzExOGNhNmEtMzM5ZC00MzQ0LThhOGEtYzVlM2ZhZGNkNGQ3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2e5bcdf5eba1be15237472c90d6a55b5ea885abf043b6ad284e21823879bae10",
+      "description": "Double Bedroom Ensuite €1,263 monthly Available 2nd August - Spacious double room available in a shared apartment in Grand Canal Dock, Dublin 2. Great location: - 2-minute walk to Grand Canal Dock and Grand Canal Square - Grand Canal D... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-01T16:43:51.101Z"
+    },
+    {
+      "id": "6635730",
+      "url": "https://www.rent.ie/rooms-to-rent/Newcastle-Boulevard-Newcastle-Co-Dublin-Baldonnell-Dublin-22/6635730/",
+      "title": "Newcastle Boulevard, Newcastle, Co. Dublin, Baldonnell, Dublin 22",
+      "price": "€1,400 monthly",
+      "area": "Newcastle, Co. Dublin, Baldonnell, Dublin 22",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMFwvYjBmYzUxOGEtYmU0NS00ZGYzLTk0MzktNDJjYzdiMzc2MjAwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ca0fc0aeb8ee2b7fc4796948371631521fbef7bd7692fd8a6dee2de993c757da",
+      "description": "Double Bedroom Ensuite €1,400 monthly - Double Bedroom €1,000 monthly Available 9th August - Permanent 2-bedroom duplex available for rent in Newcastle, Dublin 22 for '2,400 a month. - Lovely view from the property, in a quiet and peaceful area - Bus or train available... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-01T16:43:51.101Z"
+    },
+    {
+      "id": "6635436",
+      "url": "https://www.rent.ie/rooms-to-rent/Mount-Sandford-Dublin-6-Milltown-Dublin-6/6635436/",
+      "title": "Mount Sandford, Dublin 6, Milltown, Dublin 6",
       "price": "€1,300 monthly",
-      "area": "naas Road, dublin 12, Bluebell, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvY1wvNGM3YjIxZjMtZGI0OC00NTQ5LTg1YmUtMGFkMTA4MzUxYjIyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=53f3e86aa82ed6d2cbc92827510c1aee0f29112f852062c55f4275bccab07660",
-      "description": "Double Bedroom Ensuite €1,300 monthly Available 1st September - This double room is available in a 2 bedroom house. A bright, fully furnished double room is available in a clean, quiet flat shared with a young couple. The room comes with its own ... View full ad on Rent.ie",
+      "area": "Dublin 6, Milltown, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvM1wvNDMwN2JlYTktNDM2Yy00MGYzLWJlZjItYTVhNDFkODA3ZjQ5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2833d0d02d8a3b17767521e5d998af44f17967ca3d63741d006a5f419e414caf",
+      "description": "Double Bedroom Ensuite €1,300 monthly Available 1st September - Ensuite Double Room Available in Milltown A bright and comfortable ensuite double room will be available from the beginning of September in a three-bedroom, 2.5-bathroom h... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-01T09:46:50.047Z"
+      "firstSeenAt": "2026-08-01T16:43:51.101Z"
     },
     {
-      "id": "6635581",
-      "url": "https://www.rent.ie/rooms-to-rent/Seven-Mills-Dublin-22-Seven-Mills-Co-Dublin/6635581/",
-      "title": "Seven Mills, Dublin 22, Seven Mills, Co. Dublin",
-      "price": "€1,100 monthly",
-      "area": "Dublin 22, Seven Mills, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvMFwvMTA3NmI4YzEtOTFmNC00ODgzLTkyNWEtNWNlMDE5MjBjZGU1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=10c4d540b3eacf9b58fd04159af9d16b9c67f02c660741e458d15a542d27836c",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 1st September - En-suite Double Room to Rent – Seven Mills, Dublin 22 Spacious furnished double room with a private en-suite bathroom available in a modern owner-occupied house in Seven Mil... View full ad on Rent.ie",
+      "id": "6635761",
+      "url": "https://www.rent.ie/rooms-to-rent/Kilmartin-Grovehollystowndublin-15-Hollystown-Dublin-15/6635761/",
+      "title": "Kilmartin Grove,hollystown,dublin 15, Hollystown, Dublin 15",
+      "price": "€1,000 monthly",
+      "area": "hollystown, dublin 15, Hollystown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNVwvZTVhMTYxMzMtZjg2MC00ODE3LWFmYjQtMTRjYzgwOTUzNWM1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f757bc42650b4654ebb7cf07843211f83177a6f54893c6e136e299ccd516db0b",
+      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available Now - Its a new build property - smart home- with all amenities - best for those who need to commute to airport and business parks nearby. The room is availAble for immediate occupancy f... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-01T06:18:40.093Z"
+      "firstSeenAt": "2026-08-01T16:43:51.101Z"
     }
   ]
 }
