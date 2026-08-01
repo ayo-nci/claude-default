@@ -1,66 +1,30 @@
 {
-  "fetchedAt": "2026-07-31T17:15:08.813Z",
+  "fetchedAt": "2026-08-01T06:18:40.093Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6634921",
-      "url": "https://www.rent.ie/rooms-to-rent/Dun-Laoghaire-Co-Dublin-Glasthule-Co-Dublin/6634921/",
-      "title": "Dun Laoghaire, Co. Dublin, Glasthule, Co. Dublin",
-      "price": "€250",
-      "area": "Co. Dublin, Glasthule, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNVwvZTVjZjg2NjEtY2Y1ZS00ZmMyLTg2MmQtMjkxZGZmNjUxODhmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0d54d4957ed4299b5c810b49eea293a5e33c53aeca7220b8346d4c922a58543b",
-      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Available 30th August - My house is located beside all amenities & very close to the sea & the famous 40 Foot bathing area! The bus stop & DART station are just opposite the house & Glasthule village is a few ... View full ad on Rent.ie",
+      "id": "6635507",
+      "url": "https://www.rent.ie/rooms-to-rent/Marrsfield-Avenue-Clongriffin-Dublin-13-Baldoyle-Dublin-13/6635507/",
+      "title": "Marrsfield Avenue, Clongriffin, Dublin 13, Baldoyle, Dublin 13",
+      "price": "€1,200 monthly",
+      "area": "Clongriffin, Dublin 13, Baldoyle, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvYVwvMmFmY2U2OTgtOTMwNS00YzJjLTgwMGEtN2RiNTRjYzA5NjllLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=01b02582f996589e86e20441365ae74457ea7741612d9fa2b53a7f7531597a36",
+      "description": "Double Bedroom Ensuite €1,200 monthly Available Now - Beautiful house double room ensuite to rent in Dublin 13. Walking to train station 10mins, to city centre 30mins. 10 mins to Clongriffin Main Street. Parking space in front.... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-31T17:15:08.813Z"
+      "firstSeenAt": "2026-08-01T06:18:40.093Z"
     },
     {
-      "id": "6634886",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-24-Glenasmole-The-Crescent-Two-Oaks-Knocklyon-Dublin-16/6634886/",
-      "title": "Apartment 24, Glenasmole, The Crescent, Two Oaks, Knocklyon, Dublin 16",
-      "price": "€1,140 monthly",
-      "area": "Glenasmole, The Crescent, Two Oaks, Knocklyon, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvN1wvNDdiYmMxMDEtMWFhNy00ZmEwLTg2NmEtMDgwYTQ2MGM5YjNkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=017002204db51ffa8040b7c0333f7c2dc20c9df1fc7dbf3091a90d73e7e4438a",
-      "description": "Double Bedroom Ensuite €1,140 monthly Available 1st October - Spacious Ensuite Double Room for Female Flatmate | Knocklyon, Dublin 16 I am looking for a female, non-student flatmate to share a modern 2-bedroom, 2-bathroom apartment in ... View full ad on Rent.ie",
+      "id": "6635581",
+      "url": "https://www.rent.ie/rooms-to-rent/Seven-Mills-Dublin-22-Seven-Mills-Co-Dublin/6635581/",
+      "title": "Seven Mills, Dublin 22, Seven Mills, Co. Dublin",
+      "price": "€1,100 monthly",
+      "area": "Dublin 22, Seven Mills, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvMFwvMTA3NmI4YzEtOTFmNC00ODgzLTkyNWEtNWNlMDE5MjBjZGU1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=10c4d540b3eacf9b58fd04159af9d16b9c67f02c660741e458d15a542d27836c",
+      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 1st September - En-suite Double Room to Rent – Seven Mills, Dublin 22 Spacious furnished double room with a private en-suite bathroom available in a modern owner-occupied house in Seven Mil... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-07-31T17:15:08.813Z"
-    },
-    {
-      "id": "6634970",
-      "url": "https://www.rent.ie/rooms-to-rent/Lucan-Co-Dublin-Lucan-Co-Dublin/6634970/",
-      "title": "Lucan, Co. Dublin, Lucan, Co. Dublin",
-      "price": "€1,500 monthly",
-      "area": "Co. Dublin, Lucan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvZVwvZGVlNGRiYjUtYmRmMi00ZTIwLTg1NTYtOWNkYTY2ZWJjOTljLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=205ceaca38f8ac3b450a1e911d07cd993a9d78b63ff9a61dfd512f1c0d4e0f4a",
-      "description": "Double Bedroom Ensuite €1,500 monthly Owner Occupied Available Now - A double bedroom for two people is available to rent in a fully renovated four-bedroom house in Lucan. The room has a private bathroom. '1,500. For more information, please co... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-31T17:15:08.813Z"
-    },
-    {
-      "id": "6634979",
-      "url": "https://www.rent.ie/rooms-to-rent/Griffith-Avenue-Glasnevin-Dublin-11/6634979/",
-      "title": "Griffith Avenue, Glasnevin, Dublin 11",
-      "price": "€900 monthly",
-      "area": "Glasnevin, Dublin 11",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvZlwvYWZjNWZkOTAtMDE0Ni00NWEzLWIyNDktOWRjNzQ2NDk1NjJhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=dacc10508d45c8a1fccb9b562a2942ccf79c10bed7e3f1da1c15eac142f3b046",
-      "description": "Double Bedroom Ensuite €900 monthly - Double Bedroom Ensuite €800 monthly Owner Occupied Available Now - 2 rooms available for rent on Griffith Ave in Glasnevin.Large double bedrooms with one large bathroom to share. One sitting room available to use. Owner occupied. Within walki... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-31T17:15:08.813Z"
-    },
-    {
-      "id": "6634917",
-      "url": "https://www.rent.ie/rooms-to-rent/Ballymun-Road-D11-Etf7-Ballymun-Dublin-9/6634917/",
-      "title": "Ballymun Road D11 Etf7, Ballymun, Dublin 9",
-      "price": "€295",
-      "area": "Ballymun, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvMFwvZTBmOTRlZDktNzVkYi00ZGUxLTgzYmMtZThkNzRiMzFhMTZmLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=a2a1883a2aa165dfe5735644e6df54069316f255df36fc48e070f383e12c7e43",
-      "description": "Single Bedroom Ensuite €295 weekly Agent: StudentHouse Available 5th September - Bright private en-suite room, located within a six-bedroom shared apartment in a modern student residence. The room includes a comfortable bed, wardrobe, storage, study desk... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-07-31T17:15:08.813Z"
+      "firstSeenAt": "2026-08-01T06:18:40.093Z"
     }
   ]
 }
