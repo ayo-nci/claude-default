@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-08-01T16:43:51.101Z",
+  "fetchedAt": "2026-08-02T01:23:03.504Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
-    {
-      "id": "6635715",
-      "url": "https://www.rent.ie/rooms-to-rent/Myrtle-The-Coast-Dublin-13-Clarehall-Dublin-13/6635715/",
-      "title": "Myrtle, The Coast, Dublin 13, Clarehall, Dublin 13",
-      "price": "€850 monthly",
-      "area": "The Coast, Dublin 13, Clarehall, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvNVwvYjU3ZTNmOWYtOGRlNy00NmUyLTk5MjMtOGQ5NjZlZDlkMDI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f860ee30ebc7ca2ba2da63c31628c9ba2b592291a018a5571e7fb9488a63de36",
-      "description": "Double Bedroom Ensuite €850 monthly Owner Occupied Available 1st September - A spacious room with an ensuite bathroom is available in The Coast, Baldoyle. Owner-occupied - family home - looking for a respectful, quiet, non-smoker, female. Features: -... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-01T16:43:51.101Z"
-    },
-    {
-      "id": "6635714",
-      "url": "https://www.rent.ie/rooms-to-rent/Forbes-Street-Grand-Canal-Dock-Dublin-2/6635714/",
-      "title": "Forbes Street, Grand Canal Dock, Dublin 2",
-      "price": "€1,263 monthly",
-      "area": "Grand Canal Dock, Dublin 2",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvMVwvYzExOGNhNmEtMzM5ZC00MzQ0LThhOGEtYzVlM2ZhZGNkNGQ3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2e5bcdf5eba1be15237472c90d6a55b5ea885abf043b6ad284e21823879bae10",
-      "description": "Double Bedroom Ensuite €1,263 monthly Available 2nd August - Spacious double room available in a shared apartment in Grand Canal Dock, Dublin 2. Great location: - 2-minute walk to Grand Canal Dock and Grand Canal Square - Grand Canal D... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-01T16:43:51.101Z"
-    },
     {
       "id": "6635730",
       "url": "https://www.rent.ie/rooms-to-rent/Newcastle-Boulevard-Newcastle-Co-Dublin-Baldonnell-Dublin-22/6635730/",
@@ -33,7 +9,7 @@
       "price": "€1,400 monthly",
       "area": "Newcastle, Co. Dublin, Baldonnell, Dublin 22",
       "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMFwvYjBmYzUxOGEtYmU0NS00ZGYzLTk0MzktNDJjYzdiMzc2MjAwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ca0fc0aeb8ee2b7fc4796948371631521fbef7bd7692fd8a6dee2de993c757da",
-      "description": "Double Bedroom Ensuite €1,400 monthly - Double Bedroom €1,000 monthly Available 9th August - Permanent 2-bedroom duplex available for rent in Newcastle, Dublin 22 for '2,400 a month. - Lovely view from the property, in a quiet and peaceful area - Bus or train available... View full ad on Rent.ie",
+      "description": "Double Bedroom Ensuite €1,400 monthly - Double Bedroom €1,000 monthly Available 9th August - Permanent 2-bedroom duplex available for rent in Newcastle, Dublin 22 for '2,300 a month. - Lovely view from the property, in a quiet and peaceful area - Bus or train available... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
       "firstSeenAt": "2026-08-01T16:43:51.101Z"
