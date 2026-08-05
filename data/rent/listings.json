@@ -1,42 +1,66 @@
 {
-  "fetchedAt": "2026-08-05T13:29:02.344Z",
+  "fetchedAt": "2026-08-05T20:52:57.175Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6638023",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Hunt-Management-Suite-The-Hunt-Building-Gran-Cherrywood-Co-Dublin/6638023/",
-      "title": "The Hunt Management Suite, The Hunt Building, Gran, Cherrywood, Co. Dublin",
-      "price": "€1,100 monthly",
-      "area": "The Hunt Building, Gran, Cherrywood, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvM1wvZDNlZDhhNDgtZDE2Zi00YTdlLWE1YjMtMDIyYjUzMDE0ZTViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=def1903765cf5d4d114167617538b952536735a9ece43813e81c3a62a8efc0db",
-      "description": "Double Bedroom Ensuite €1,100 monthly - Double Bedroom Ensuite €1,100 monthly - Double Bedroom €1,100 monthly Available 23rd August - Permanent accommodation. Name will be entered on lease. Location: Cherrywood, Dublin 18 Rent: 1100,00 Features: Wifi included. Building amenities: Fully equipped G... View full ad on Rent.ie",
+      "id": "6638468",
+      "url": "https://www.rent.ie/rooms-to-rent/Larkfield-Way-Lucan-Co-Dublin/6638468/",
+      "title": "Larkfield Way, Lucan, Co. Dublin",
+      "price": "€940 monthly",
+      "area": "Lucan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMFwvNjA4OTc5ZjQtZTcwYS00YjljLTg1ZWItMTg0NmIwMWJhN2EzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=25b10353d85a160a1a0d3f5bf1b7eb25194e085c876470f76a37c6ad38aafd02",
+      "description": "Double Bedroom Ensuite €940 monthly Available 27th August - SPACIOUS EN SUITE DOUBLE BEDROOM. SHARING WITH FRIENDLY IRISH GIRLS IN THEIR 20's WORKING IN PHARMA AND BUSINESS/ LEISURE. VERY QUIET, NON OWNER OCCUPIED, WELL KEPT, RELAXED HOME. SUITABLE FOR A NON SMOKER WHO IS NEAT, TIDY, EASY TO GET ALONG WITH & WANTS A HIGH STANDARD OF ACCOMMODATION IN AN ATTRACTIVE HOME IN A LOVELY QUIET, UPMAR... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-05T13:29:02.344Z"
+      "firstSeenAt": "2026-08-05T20:52:57.175Z"
     },
     {
-      "id": "6638140",
-      "url": "https://www.rent.ie/rooms-to-rent/25-Golden-Ridge-Road-Rush-Co-Dublin-Rush-Co-Dublin/6638140/",
-      "title": "25 Golden Ridge Road, Rush, Co. Dublin, Rush, Co. Dublin",
-      "price": "€800 monthly",
-      "area": "Rush, Co. Dublin, Rush, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvZFwvN2RiYjVhMDUtZTA5Mi00NTgzLWIxZDktMGU1ODBmMzIwZTI5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1319d955df875acf153de1ac578fab5986255086fd1e02bb878563f2d3777f70",
-      "description": "Double Bedroom Ensuite €800 monthly Owner Occupied Available 9th August - This is a modern, bright 3-bedroom semi-detached home in a quiet residential estate in Rush. The room available is a spacious and comfortable double bedroom with a large fitted ... View full ad on Rent.ie",
+      "id": "6638521",
+      "url": "https://www.rent.ie/rooms-to-rent/102-Rathmines-Road-Lower-Rathmines-Dublin-6/6638521/",
+      "title": "102 Rathmines Road Lower, Rathmines, Dublin 6",
+      "price": "€1,650 monthly",
+      "area": "Rathmines, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvY1wvYWM3YzY3MTYtYjdiNi00Y2U1LWE1N2EtMGU0NTUxMjhlODYxLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=267b6af03c8652d4d75be48efe7ec368b5474a067e1bef332de74e097da8f14e",
+      "description": "Double Bedroom Ensuite €1,650 monthly Agent: McCormack Property Available 16th August - Entire ! bedroom Apt available for 4 months. Bills not included. Please give me some information about you and I can arrange a viewing. View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-05T13:29:02.344Z"
+      "firstSeenAt": "2026-08-05T20:52:57.175Z"
     },
     {
-      "id": "6638048",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-115-Block-A1-Smithfield-Market-Smithf-Smithfield-Dublin-7/6638048/",
-      "title": "Apartment 115, Block A1, Smithfield Market, Smithf, Smithfield, Dublin 7",
-      "price": "€1,400 monthly",
-      "area": "Block A1, Smithfield Market, Smithf, Smithfield, Dublin 7",
-      "imageUrl": null,
-      "description": "Double Bedroom Ensuite €1,400 monthly Available Now - Apartment View full ad on Rent.ie",
+      "id": "6638588",
+      "url": "https://www.rent.ie/rooms-to-rent/McKee-Park-Dublin-7/6638588/",
+      "title": "McKee Park, Dublin 7",
+      "price": "€875 monthly",
+      "area": "Dublin 7",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvOFwvODhmYTZmOGEtMTBmYi00NWRjLTk0YjEtMTcxOWVmOGU5NjA0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a6713fc294f41658a77b4a62f60ab73b8acf611105e89457aac2880064e843d2",
+      "description": "Double Bedroom Ensuite €875 monthly Available 8th August - Available for 6 months or longer. Attic room (Ensuite), lots of storage available in clean, warm house. Everything is new or nearly new Bills are not included. Approximately over the year '45 a month Quiet house in a quiet area 25 minutes walk to the City Centre Outside back yard with side garden and outdoor all weather cloth... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-05T13:29:02.344Z"
+      "firstSeenAt": "2026-08-05T20:52:57.175Z"
+    },
+    {
+      "id": "6638594",
+      "url": "https://www.rent.ie/rooms-to-rent/12-Elder-Heath-Hill-Dublin-24-Kiltipper-Dublin-24/6638594/",
+      "title": "12 Elder Heath Hill, Dublin 24, Kiltipper, Dublin 24",
+      "price": "€1,000 monthly",
+      "area": "Dublin 24, Kiltipper, Dublin 24",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvYlwvM2I2N2FjNGMtOTNiYi00MjY5LTk1ZTUtZTQzZmVmYWQxY2Q3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=93d03ac2616124f67c19e1b120d09fafe9bdbc922cd0f231644ada30de13d3e0",
+      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 1st September - Available from September. Spacious double bedroom with a private ensuite available in our beautiful A-rated home at 12 Elder Heath Hill, Kiltipper, Dublin 24. The Room & Hou... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-05T20:52:57.175Z"
+    },
+    {
+      "id": "6631358",
+      "url": "https://www.rent.ie/rooms-to-rent/Whitworth-Road-Drumcondra-Dublin-9/6631358/",
+      "title": "Whitworth Road, Drumcondra, Dublin 9",
+      "price": "€1,055 monthly",
+      "area": "Drumcondra, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvYlwvZmJhMDAzNTUtMWVkNC00MWViLTk4MjktMmViNmMzOThiY2ZkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8ca80b8296526bac7fc1b0d1a3fd6e21c9231158e1da7cd36e543805c89db88d",
+      "description": "Double Bedroom Ensuite €1,055 monthly Available 30th August - Spacious Double Room with En-suite in a Modern 3-Bedroom Home A spacious and modern three-bedroom house in a sought-after location, featuring a large rear garden. The prope... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-05T20:52:57.175Z"
     }
   ]
 }
