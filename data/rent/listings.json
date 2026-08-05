@@ -1,66 +1,42 @@
 {
-  "fetchedAt": "2026-08-05T06:16:13.520Z",
+  "fetchedAt": "2026-08-05T13:29:02.344Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6636460",
-      "url": "https://www.rent.ie/rooms-to-rent/Clarinda-Park-Dun-Laoghaire-Co-Dublin/6636460/",
-      "title": "Clarinda Park, Dun Laoghaire, Co. Dublin",
-      "price": "€1,290 monthly",
-      "area": "Dun Laoghaire, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvN1wvZjcyNTA0NzktZWQwNi00MzgwLWJhY2EtYmQxNDdjMTg1YjA1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=22924d9c65a922a6e562bdc55b7de8d9a216c97758bef26464208cce7762835d",
-      "description": "Double Bedroom Ensuite €1,290 monthly Available Now - Double ensuite bedroom available for one or couple at 1290 euros per month (+ electricity and internet on top). The whole apartment is being shared with another two tenants living in their own separate bedrooms (2 males in their mid 30s) Apartment is not owner occupied. One month's rent deposit is required in advance. Avai... View full ad on Rent.ie",
+      "id": "6638023",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Hunt-Management-Suite-The-Hunt-Building-Gran-Cherrywood-Co-Dublin/6638023/",
+      "title": "The Hunt Management Suite, The Hunt Building, Gran, Cherrywood, Co. Dublin",
+      "price": "€1,100 monthly",
+      "area": "The Hunt Building, Gran, Cherrywood, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvM1wvZDNlZDhhNDgtZDE2Zi00YTdlLWE1YjMtMDIyYjUzMDE0ZTViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=def1903765cf5d4d114167617538b952536735a9ece43813e81c3a62a8efc0db",
+      "description": "Double Bedroom Ensuite €1,100 monthly - Double Bedroom Ensuite €1,100 monthly - Double Bedroom €1,100 monthly Available 23rd August - Permanent accommodation. Name will be entered on lease. Location: Cherrywood, Dublin 18 Rent: 1100,00 Features: Wifi included. Building amenities: Fully equipped G... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-05T06:16:13.520Z"
+      "firstSeenAt": "2026-08-05T13:29:02.344Z"
     },
     {
-      "id": "6636511",
-      "url": "https://www.rent.ie/rooms-to-rent/Ivy-Court-Beaumont-Woods-Dublin-9-Beaumont-Dublin-9/6636511/",
-      "title": "Ivy Court, Beaumont Woods, Dublin 9, Beaumont, Dublin 9",
-      "price": "€985 monthly",
-      "area": "Beaumont Woods, Dublin 9, Beaumont, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvZlwvOWY4MTNkMDgtMzBjNi00N2JiLWIwM2QtNWVhMjRjMmY4ZjM5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1b5c56eb8ca561ea3d111f2b0a10fdf77afd4685c9a73d38eb83aa9630986ea3",
-      "description": "Double Bedroom Ensuite €985 monthly Owner Occupied Available 5th September - Recently refurbished townhouse in Ivy Court, a quiet, well-kept private development just off Beaumont Road. Freshly furnished throughout with brand new beds, desks, chairs ... View full ad on Rent.ie",
+      "id": "6638140",
+      "url": "https://www.rent.ie/rooms-to-rent/25-Golden-Ridge-Road-Rush-Co-Dublin-Rush-Co-Dublin/6638140/",
+      "title": "25 Golden Ridge Road, Rush, Co. Dublin, Rush, Co. Dublin",
+      "price": "€800 monthly",
+      "area": "Rush, Co. Dublin, Rush, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvZFwvN2RiYjVhMDUtZTA5Mi00NTgzLWIxZDktMGU1ODBmMzIwZTI5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1319d955df875acf153de1ac578fab5986255086fd1e02bb878563f2d3777f70",
+      "description": "Double Bedroom Ensuite €800 monthly Owner Occupied Available 9th August - This is a modern, bright 3-bedroom semi-detached home in a quiet residential estate in Rush. The room available is a spacious and comfortable double bedroom with a large fitted ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-05T06:16:13.520Z"
+      "firstSeenAt": "2026-08-05T13:29:02.344Z"
     },
     {
-      "id": "6637583",
-      "url": "https://www.rent.ie/rooms-to-rent/Aderrig-Avenue-Adamstown-Lucan-Co-Dublin-Adamstown-Co-Dublin/6637583/",
-      "title": "Aderrig Avenue, Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
-      "price": "€1,190 monthly",
-      "area": "Adamstown, Lucan, Co. Dublin, Adamstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvZFwvZmQ2OGRhN2EtMmNiMS00ZTc2LTlkNzMtNzNkN2ZhODQwMWUwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=bf17642aa177f3693a0e20479c28e67f7aae04111684f400b6529520048cb935",
-      "description": "Double Bedroom Ensuite €1,190 monthly Available 31st August - En-suite Room Available – Adamstown A spacious en-suite room is available in Adamstown, with move-in at the end of August/beginning of September. Great Location: • 10-... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-05T06:16:13.520Z"
-    },
-    {
-      "id": "6637586",
-      "url": "https://www.rent.ie/rooms-to-rent/Cuil-Duin-Avenue-The-Hall-Citywest-Dublin-Citywest-Co-Dublin/6637586/",
-      "title": "Cuil Duin Avenue, The Hall, Citywest, Dublin, Citywest, Co. Dublin",
-      "price": "€1,155 monthly",
-      "area": "The Hall, Citywest, Dublin, Citywest, Co. Dublin",
+      "id": "6638048",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-115-Block-A1-Smithfield-Market-Smithf-Smithfield-Dublin-7/6638048/",
+      "title": "Apartment 115, Block A1, Smithfield Market, Smithf, Smithfield, Dublin 7",
+      "price": "€1,400 monthly",
+      "area": "Block A1, Smithfield Market, Smithf, Smithfield, Dublin 7",
       "imageUrl": null,
-      "description": "Double Bedroom Ensuite €1,155 monthly Available 1st September - - En-suite room with private bathroom in a two bedroom apartment for long term accommodation - Well furnished with shared living room and kitchen. - You will be sharing the a... View full ad on Rent.ie",
+      "description": "Double Bedroom Ensuite €1,400 monthly Available Now - Apartment View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-05T06:16:13.520Z"
-    },
-    {
-      "id": "6637608",
-      "url": "https://www.rent.ie/rooms-to-rent/52-Mayor-Street-Upper-Dublin-1-IFSC-Dublin-1/6637608/",
-      "title": "52 Mayor Street Upper, Dublin 1, IFSC, Dublin 1",
-      "price": "€1,780 monthly",
-      "area": "Dublin 1, IFSC, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvZlwvMWZiYTAyZmQtOTI0Yi00YjU2LWExNTEtNjE0NDhlMmQ0NTQ3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cc5473f2ba35e4eb729a90f03f5edb5fbd93b5f33fba7ef6a6ccc188b333ad86",
-      "description": "Double Bedroom Ensuite €1,780 monthly Available 1st September - SPACIOUS ENSUITE MASTER BEDROOM AVAILABLE – FROM 1 SEPTEMBER A bright, spacious ensuite master bedroom is available for one female occupant in a modern, well-lit, luxuriou... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-05T06:16:13.520Z"
+      "firstSeenAt": "2026-08-05T13:29:02.344Z"
     }
   ]
 }
