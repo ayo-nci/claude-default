@@ -1,54 +1,78 @@
 {
-  "fetchedAt": "2026-08-10T09:03:17.766Z",
+  "fetchedAt": "2026-08-11T12:34:57.457Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6641264",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-137-The-Alliance-The-Gasworks-South-L-Grand-Canal-Dock-Dublin-4/6641264/",
-      "title": "Apartment 137, The Alliance, The Gasworks, South L, Grand Canal Dock, Dublin 4",
-      "price": "€1,257 monthly",
-      "area": "The Alliance, The Gasworks, South L, Grand Canal Dock, Dublin 4",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvNlwvMjZlYWZkMDAtNWU5Yy00YWQ2LWEwNzgtZDcwNzFhMjMyMzU4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=aef29d4b811e4390ed69a66e62d11098ecd4925963f32c2c57202867e681a482",
-      "description": "Double Bedroom Ensuite €1,257 monthly Available 1st September - A bedroom in a large 2 bed apartment situated on the 5th floor of the gasworks buildings close to Grand Canal Dock. It is a nice residential complex, well managed by the agency and c... View full ad on Rent.ie",
+      "id": "6642436",
+      "url": "https://www.rent.ie/rooms-to-rent/Enniskerry-Rd-Kilternan-Dublin-18/6642436/",
+      "title": "Enniskerry Rd, Kilternan, Dublin 18",
+      "price": "€180",
+      "area": "Kilternan, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvYlwvMGJiY2ViZTEtYjVkMS00OTkyLTkyNDEtMDJmZjc5YzRkYTE4LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=4e3c7e8067a53e9fe5b426fffe38efc4aaa579e3b0f5f069867a7e8b5608038a",
+      "description": "Double Bedroom Ensuite €180 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-10T09:03:17.766Z"
+      "firstSeenAt": "2026-08-11T12:34:57.457Z"
     },
     {
-      "id": "6641298",
-      "url": "https://www.rent.ie/rooms-to-rent/2-Jamestown-Road-Dublin-8-Inchicore-Dublin-8/6641298/",
-      "title": "2 Jamestown Road, Dublin 8, Inchicore, Dublin 8",
-      "price": "€1,145 monthly",
-      "area": "Dublin 8, Inchicore, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvY1wvZWNlYjY4ZjAtNWZhMC00OTJlLThiNDktOTRiMTBmYjYxZjAxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=25afd0915dc6edeca59c8f5031c94836a292aee02b0df46337f3e25ecf70bc4c",
-      "description": "Double Bedroom Ensuite €1,145 monthly Available Now - **Double Ensuite Room Available Now** **Call / WhatsApp James on 0894831335 for a viewing** Available Immediately | Viewing Highly Recommended A bright and spacious double bedroom with private ensuite bathroom is now available in this recently refurbished, high-quality co-living property on Jamestown Road, Inchicore.... View full ad on Rent.ie",
+      "id": "6642453",
+      "url": "https://www.rent.ie/rooms-to-rent/Navan-Rd-Ashtown-Dublin-15/6642453/",
+      "title": "Navan Rd, Ashtown, Dublin 15",
+      "price": "€150",
+      "area": "Ashtown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvNVwvZjU1YzhkOWEtZDRhYi00MDlmLTkzNmItY2IzZDY3ZTQ5NjU2LkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=27a870baef453262de19634f3d04a5c8089952ba9d3318ab52519dd6c0a464d7",
+      "description": "Single Bedroom Ensuite €150 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 11th December - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-10T09:03:17.766Z"
+      "firstSeenAt": "2026-08-11T12:34:57.457Z"
     },
     {
-      "id": "6641152",
-      "url": "https://www.rent.ie/rooms-to-rent/Beaumont-Woods-Beaumont-Rood-Beaumont-Dublin-9/6641152/",
-      "title": "Beaumont Woods, Beaumont Rood, Beaumont, Dublin 9",
-      "price": "€1,100 monthly",
-      "area": "Beaumont Rood, Beaumont, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvYVwvNWExNmRlYWExZGI0ZTYxOTEyNGVkMmE1YTY4Nzg4YjUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=600031ce286cc6d7033b83d37698dd987c10a79f728327c49d54c0873a96628f",
-      "description": "Double Bedroom Ensuite €1,100 monthly - Double Bedroom Ensuite €1,100 monthly - Double Bedroom Ensuite €1,100 monthly Available Now - one double room to rent,the room window face to south,by walk to DCU around 20min,the bus 14,16 straight way to city center View full ad on Rent.ie",
+      "id": "6642575",
+      "url": "https://www.rent.ie/rooms-to-rent/Castle-Avenue-Dublin-3-Clontarf-Dublin-3/6642575/",
+      "title": "Castle Avenue, Dublin 3, Clontarf, Dublin 3",
+      "price": "€250",
+      "area": "Dublin 3, Clontarf, Dublin 3",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvZFwvZWQ0YTM5ZDUtNjYwNS00OTYwLThjOTktNDczMjY1NDdlMTA2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5dfba5a803965c30dd2a25cee5a51cf874d5e0bb912867c533c5d386b84eb5a5",
+      "description": "Single Bedroom Ensuite €250 weekly Owner Occupied Available 15th August - Rent a room scheme (licencee) private studio within safe secure family home in Clontarf suitable for female university undergraduate for the full academic year only please. P... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-09T20:16:48.374Z"
+      "firstSeenAt": "2026-08-11T12:34:57.457Z"
     },
     {
-      "id": "6641155",
-      "url": "https://www.rent.ie/rooms-to-rent/Lucan-Village-Lucan-Co-Dublin/6641155/",
-      "title": "Lucan Village, Lucan, Co. Dublin",
-      "price": "€1,100 monthly",
-      "area": "Lucan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvY1wvMmMyMDNiNzQtZTk1NC00ZmM4LWJkNDgtYjFhN2EyNmIwNzE4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=edd63b4313173c7fe06cc72006d6469195ae45d25d6584fa3f206ef552794586",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available Now - Large Double en-suite Bedroom with own cooking area inclusive of bills. Parking available 10 min walk to Lucan village & buses. Person must be comfortable with Dogs. Will r... View full ad on Rent.ie",
+      "id": "6642266",
+      "url": "https://www.rent.ie/rooms-to-rent/23-Clay-Farm-Glade-Dublin-18-Leopardstown-Dublin-18/6642266/",
+      "title": "23 Clay Farm Glade, Dublin 18, Leopardstown, Dublin 18",
+      "price": "€1,600 monthly",
+      "area": "Dublin 18, Leopardstown, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvNlwvNzY4ZmVlN2QtYjdjZi00MTc3LTk0ZTYtNmVmZmE0NDUzNzk4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=798f2a6f107a3c7e6c6e4ebc0fa8b9b57a5a50652a60fd125816d953efce4d1f",
+      "description": "Double Bedroom Ensuite €1,600 monthly Available 12th August - Very well located house , close to Luis Transport , 8 Minutes walking distance . close to the shops. View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-09T20:16:48.374Z"
+      "firstSeenAt": "2026-08-11T12:34:57.457Z"
+    },
+    {
+      "id": "6642709",
+      "url": "https://www.rent.ie/rooms-to-rent/Ongar-Dublin-15-Ongar-Dublin-15/6642709/",
+      "title": "Ongar, Dublin 15, Ongar, Dublin 15",
+      "price": "€400 monthly",
+      "area": "Dublin 15, Ongar, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvNlwvNDY5MDE5NTQtZDk2MS00YjQwLWIzMWMtNTY1ODFlMDA5ZmE0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f104b07e87571b608372ca0a680130a838bedd43ac9eb8f38e391964855b2953",
+      "description": "Double Bedroom Ensuite €400 monthly Available Now - ***Short Term Only*** Double En-Suite room to rent. Available immediately until Friday September 4th. Sharing with two easy going tidy lads in their mid 20s. View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-11T12:34:57.457Z"
+    },
+    {
+      "id": "6642488",
+      "url": "https://www.rent.ie/rooms-to-rent/Point-Campus-Mayor-Street-Upper-Dublin-1-IFSC-Dublin-1/6642488/",
+      "title": "Point Campus, Mayor Street Upper, Dublin 1, IFSC, Dublin 1",
+      "price": "€331",
+      "area": "Mayor Street Upper, Dublin 1, IFSC, Dublin 1",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvYlwvMGIyZjg2NzgtNTVkMC00OWJmLWE0ZGQtM2QwMTY1OWUxNGY2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e53f9a0f0bb5d40acda1c344e0ec29f49bad32b23ff7561fd25e223a99049f14",
+      "description": "Double Bedroom Ensuite €331 weekly Owner Occupied Available 22nd August - Student Accomodation I'm looking for a student to take over my lease for a premium en-suite room in the point campus,Dublin1 from 22 August 2026 to June 2027(lease can be exten... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-11T12:34:57.457Z"
     }
   ]
 }
