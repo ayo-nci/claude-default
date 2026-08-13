@@ -1,42 +1,90 @@
 {
-  "fetchedAt": "2026-08-12T16:42:44.429Z",
+  "fetchedAt": "2026-08-13T12:38:33.334Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6643663",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-601-The-Collins-One-Three-North-Marrs-Baldoyle-Dublin-13/6643663/",
-      "title": "Apartment 601, The Collins, One Three North, Marrs, Baldoyle, Dublin 13",
-      "price": "€1,490 monthly",
-      "area": "The Collins, One Three North, Marrs, Baldoyle, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvNVwvMjViZDk1OTktOGZhZS00ZjA5LWI3N2UtOGJmZDNmMDQ2YmJmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3786ea5e3b2831489a6c630d488648831f0d972469183e92b565f15e48b7e88c",
-      "description": "Double Bedroom Ensuite €1,490 monthly Available 1st September - Hello, Looking for a replacement : Ensuite double bedroom in Vesta Penthouse. Tesco, Clongriffin dart walking distance. Bus :15,42,43 The whole apartment has 3 bedroo... View full ad on Rent.ie",
+      "id": "6644254",
+      "url": "https://www.rent.ie/rooms-to-rent/Carrig-Court-Citywest-Co-Dublin/6644254/",
+      "title": "Carrig Court, Citywest, Co. Dublin",
+      "price": "€235",
+      "area": "Citywest, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvY1wvMWNjMGMzZTRkMTMzYmQ3YjEyYTA2ZDk3M2I5ZWJlYzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=1b28ae5b8de6eee5f5e7110673350e84bc92729778def390f1f4de1bf9445a60",
+      "description": "Double Bedroom Ensuite €235 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 5th September - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-12T16:42:44.429Z"
+      "firstSeenAt": "2026-08-13T12:38:33.334Z"
     },
     {
-      "id": "6643679",
-      "url": "https://www.rent.ie/rooms-to-rent/52-Cromwellsfort-Road-Walkinstown-Walkinstown-Dublin-12/6643679/",
-      "title": "52 Cromwellsfort Road, Walkinstown, Walkinstown, Dublin 12",
-      "price": "€1,100 monthly",
-      "area": "Walkinstown, Walkinstown, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNFwvNTRiYmU0ODAtMjIxYi00MTQzLTg1ZGYtYmJkNTE3Yzg4Y2M4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=61eee4d491a0aa79c98770acbde057f9528d0735fb52cb650fe72f6d0c43d342",
-      "description": "Double Bedroom Ensuite €1,100 monthly Available 1st September - ROOM 5 AVAILABLE – WALKINSTOWN, DUBLIN 12 52 Cromwellsfort Road, Walkinstown, Dublin, D12 E1C0 Spacious double room available for a coup1e only from 1 September 2026. R... View full ad on Rent.ie",
+      "id": "6644322",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Green-Carberry-Meadows-Donabate-Co-Dublin-Portrane-Co-Dublin/6644322/",
+      "title": "The Green, Carberry Meadows, Donabate, Co. Dublin, Portrane, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "Carberry Meadows, Donabate, Co. Dublin, Portrane, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMlwvYjJhZjQ0YTEtMzdjZi00ZmJiLWFiMzktMzExMGVhMGYwMTJhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cca5b39324e4abd5715a19c667e92c3b76d6fb9d7ba82e6cf609b949a53a0373",
+      "description": "Double Bedroom Ensuite €900 monthly Owner Occupied Available 31st August - Donabate Station, SuperValu, Aldi, Bus Stop within 1 Km walking distance. Donabate community center is also nearby which has gym facility and other classes. Donabate beach, g... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-12T16:42:44.429Z"
+      "firstSeenAt": "2026-08-13T12:38:33.334Z"
     },
     {
-      "id": "6643818",
-      "url": "https://www.rent.ie/rooms-to-rent/9-Watermill-Park-Dublin-5-Raheny-Dublin-5/6643818/",
-      "title": "9 Watermill Park, Dublin 5, Raheny, Dublin 5",
+      "id": "6644404",
+      "url": "https://www.rent.ie/rooms-to-rent/Blackglen-Rd-Sandyford-Dublin-18/6644404/",
+      "title": "Blackglen Rd, Sandyford, Dublin 18",
+      "price": "€200",
+      "area": "Sandyford, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvMlwvYTJhNzFhMGMtMDA2ZS00YTJlLWI2NjctZDdkMzBlOWMyOTFiLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=1d1fd629eea1c4e5ca6c14b415c40d96bf2c58d1d741f7429b6d25384043350b",
+      "description": "Double Bedroom Ensuite €200 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-13T12:38:33.334Z"
+    },
+    {
+      "id": "6644420",
+      "url": "https://www.rent.ie/rooms-to-rent/Diswellstown-Rd-Castleknock-Dublin-15/6644420/",
+      "title": "Diswellstown Rd, Castleknock, Dublin 15",
+      "price": "€190",
+      "area": "Castleknock, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvMFwvNzAzOGQzZTAtNjE0My00MTQ0LTkzYjUtMGZmYTlhMDI1ZTVmLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=40a232f2a7cc880b49a7200f553a601eee145001813093ed203ab55559d40eef",
+      "description": "Double Bedroom Ensuite €190 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-13T12:38:33.334Z"
+    },
+    {
+      "id": "6644515",
+      "url": "https://www.rent.ie/rooms-to-rent/Cardy-Rock-Avenue-Balbriggan-Co-Dublin-Balbriggan-Co-Dublin/6644515/",
+      "title": "Cardy Rock Avenue, Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvM1wvYjM3ZDc4ZjktMDEzZC00NDk3LTg2YjktMWY2ZmRiNWFjOWI1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8c00cd10758b9fe22b17b4eb2d856a8961253e20458f44be63b074074e424c46",
+      "description": "Double Bedroom Ensuite €900 monthly Available 15th August - Available now for non smokers only! Ensuite Double room with a direct sea view in non owner occupied house. Very warm room. Double room is very large 20sqm Its a house share ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-13T12:38:33.334Z"
+    },
+    {
+      "id": "6644535",
+      "url": "https://www.rent.ie/rooms-to-rent/Harbour-View-Opposoite-Dun-Laoghaire-Dart-Station-Dun-Laoghaire-Co-Dublin/6644535/",
+      "title": "Harbour View Opposoite Dun Laoghaire Dart Station, Dun Laoghaire, Co. Dublin",
+      "price": "€880 monthly",
+      "area": "Dun Laoghaire, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvZlwvZWY5ODEyMjEtY2Q1OS00YTA1LWJlOGEtYTFkYzgwZjI1YWE2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c83a33a5d02e3f41d6ded550eab2d38595e9594c612e2baff55ebfaabaef2e2f",
+      "description": "Double Bedroom €880 monthly Available Now - - modern apartment opposite dun laoghaire dart station - double bedroom not ensuite - sharing with professional male - place is kept tidy View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-13T12:38:33.334Z"
+    },
+    {
+      "id": "6644596",
+      "url": "https://www.rent.ie/rooms-to-rent/40-Slieve-Rua-Drive-Kilmacud-Blackrock-Co-Dubl-Kilmacud-Co-Dublin/6644596/",
+      "title": "40 Slieve Rua Drive, Kilmacud, Blackrock, Co. Dubl, Kilmacud, Co. Dublin",
       "price": "€1,000 monthly",
-      "area": "Dublin 5, Raheny, Dublin 5",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvNlwvMzY2OTk2ODUtMWFlYy00MzZmLTliMDItMGFmYzU5YmNjYmQ5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=266931b52a78a8c98b8a0726a0a92650635c7459f334868c04e7acfb09b90983",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 14th August - double en-suite room to rent beside St. Anne’s Park. Prime location with easy DART and bus access, close to shops and a short commute to Dublin City Centre. Fully furnished with a ... View full ad on Rent.ie",
+      "area": "Kilmacud, Blackrock, Co. Dubl, Kilmacud, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvNlwvYjZjMTM5OWMtMGY0ZC00NGQ5LWEzY2MtNmEwNGJhNjY1NzdlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cd73ca222ccc70676d37b801d152cea30f338b320c12b0c33df33b27c02c4516",
+      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 1st September - Room Available – Student Accommodation A spacious large double bedroom with en-suite is available in a family home, located approximately 10 minutes by car from UCD. The r... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-12T16:42:44.429Z"
+      "firstSeenAt": "2026-08-13T12:38:33.334Z"
     }
   ]
 }
