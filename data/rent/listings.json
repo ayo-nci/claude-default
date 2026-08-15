@@ -1,54 +1,30 @@
 {
-  "fetchedAt": "2026-08-15T00:29:09.877Z",
+  "fetchedAt": "2026-08-15T16:08:59.479Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6646075",
-      "url": "https://www.rent.ie/rooms-to-rent/Pembroke-Street-Upper-Dublin-2-Dublin-2/6646075/",
-      "title": "Pembroke Street Upper, Dublin 2, Dublin 2",
+      "id": "6646241",
+      "url": "https://www.rent.ie/rooms-to-rent/3-Rathgar-Villas-Dublin-6-Harolds-Cross-Dublin-6/6646241/",
+      "title": "3 Rathgar Villas, Dublin 6, Harold's Cross, Dublin 6",
       "price": "€850 monthly",
-      "area": "Dublin 2, Dublin 2",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvYVwvZGFjMGNkZWEtZDc4OS00ZDc5LTg3Y2EtY2U1MmNiZWUxYzYzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=abd9dcbc179dcf5c8d0c5ecd53e9f0d52eb696d4945e969c437b94d3ef3e4eea",
-      "description": "Double Bedroom Ensuite €850 monthly Available 19th August - Well locations rental property, situated in a highly convenient area close to Dublin city centre. The property benefits from excellent access to public transport, local shops... View full ad on Rent.ie",
+      "area": "Dublin 6, Harold's Cross, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvN1wvOTdmZjM3NzEtMzk1OC00MGZjLWE4OTUtNGMzMGU2MTk2MzVmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1f93940892a3cc3005230d95aa65deabfbc812d0e7b0b9cc633327adeae7e84d",
+      "description": "Double Bedroom Ensuite €850 monthly Available 1st September - Double room to rent with own bathroom. Quiet house, sharing with two females. Please send an email with an introduction, describing yourself, anything key to know. Very br... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-15T00:29:09.877Z"
+      "firstSeenAt": "2026-08-15T16:08:59.479Z"
     },
     {
-      "id": "6646081",
-      "url": "https://www.rent.ie/rooms-to-rent/Kylemore-Wood-Kylemore-Killiney-Co-Dublin-Ballybrack-Co-Dublin/6646081/",
-      "title": "Kylemore Wood, Kylemore, Killiney, Co. Dublin, Ballybrack, Co. Dublin",
-      "price": "€1,590 monthly",
-      "area": "Kylemore, Killiney, Co. Dublin, Ballybrack, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvY1wvM2NmZmRjNjktNmIzYS00ZDc2LTkwMzYtMmRmYjhiY2VmMmVlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=081025ac531b500c35f8b105780dd8ded38ae75ec22ee7c7984120a821e33325",
-      "description": "Double Bedroom Ensuite €1,590 monthly Owner Occupied Available 13th September - [1 PERSON and FEMALE ONLY] All BILLS Included. Preferred professionals or students. Exclusive Luxury: Brand New Double Ensuite with Private Balcony & parking space. A stunning, beautifully appointed double ensuite bedroom for rent in a newly built, immaculate apartment. Everything here is fresh, high-end, and ready f... View full ad on Rent.ie",
+      "id": "6646257",
+      "url": "https://www.rent.ie/rooms-to-rent/Slane-House-Mount-Street-Lower-Dublin-2-Dublin-2/6646257/",
+      "title": "Slane House, Mount Street Lower, Dublin 2, Dublin 2",
+      "price": "€1,600 monthly",
+      "area": "Mount Street Lower, Dublin 2, Dublin 2",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvY1wvNmNjOTYzZDAtYjJmOS00YjIxLTg4ZjUtZjUxZGU5MzEwYjA0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e42946e8de0743200a1e16ff56d534dc457a9940720ab01321de86ea70041f77",
+      "description": "Double Bedroom Ensuite €1,600 monthly - Double Bedroom €1,300 monthly - Double Bedroom €1,300 monthly Owner Occupied Available 17th August - 3x bedrooms available in duplex 130sqm 4bed/3bath appartment En Suite + Double Bedroom available immediately 3rd Double Bedroom Available Starting October 1st View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-15T00:29:09.877Z"
-    },
-    {
-      "id": "6646098",
-      "url": "https://www.rent.ie/rooms-to-rent/Kilternan-Co-Dublin-Kilternan-Dublin-18/6646098/",
-      "title": "Kilternan, Co. Dublin, Kilternan, Dublin 18",
-      "price": "€850 monthly",
-      "area": "Co. Dublin, Kilternan, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvNVwvOTUyN2QyNmItYWNiNS00ZWYwLWI3YzMtOWQ1ODJkZWJhZTg0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9a7a89795e8f7db76728deedb0d6a2dcd0c0dd7dbfaf974249b08a1c51896c12",
-      "description": "Double Bedroom Ensuite €850 monthly Available 20th September - CAR IS ESSENTIAL DUE TO LOCATION! Double bedroom with private en-suite available in a cosy and well-maintained home, available from mid to late September. You’ll be shari... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-15T00:29:09.877Z"
-    },
-    {
-      "id": "6646130",
-      "url": "https://www.rent.ie/rooms-to-rent/Ocasey-Hall-Collegewood-Castleknock-Dublin-15-Castleknock-Dublin-15/6646130/",
-      "title": "O'casey Hall, Collegewood, Castleknock, Dublin 15, Castleknock, Dublin 15",
-      "price": "€1,150 monthly",
-      "area": "Collegewood, Castleknock, Dublin 15, Castleknock, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYlwvY2I4MWVhMGItNGU2NC00M2U0LTlhN2EtNDJmNjJhMjBlNjEzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=bcefc9031ef97a12919fe00a8d9c46136475cbce00f0bf5c2762d970610b4ff1",
-      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available 21st August - Large Double en suite room in quiet neighbourhood close to centre of Catsleknock. Castleknock Train station 15 min walk, Bus 5 min walk. All Bills included. Gas Central heat... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-15T00:29:09.877Z"
+      "firstSeenAt": "2026-08-15T16:08:59.479Z"
     }
   ]
 }
