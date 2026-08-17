@@ -1,30 +1,54 @@
 {
-  "fetchedAt": "2026-08-15T16:08:59.479Z",
+  "fetchedAt": "2026-08-17T00:27:58.027Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6646241",
-      "url": "https://www.rent.ie/rooms-to-rent/3-Rathgar-Villas-Dublin-6-Harolds-Cross-Dublin-6/6646241/",
-      "title": "3 Rathgar Villas, Dublin 6, Harold's Cross, Dublin 6",
-      "price": "€850 monthly",
-      "area": "Dublin 6, Harold's Cross, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvN1wvOTdmZjM3NzEtMzk1OC00MGZjLWE4OTUtNGMzMGU2MTk2MzVmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1f93940892a3cc3005230d95aa65deabfbc812d0e7b0b9cc633327adeae7e84d",
-      "description": "Double Bedroom Ensuite €850 monthly Available 1st September - Double room to rent with own bathroom. Quiet house, sharing with two females. Please send an email with an introduction, describing yourself, anything key to know. Very br... View full ad on Rent.ie",
+      "id": "6646586",
+      "url": "https://www.rent.ie/rooms-to-rent/Swordsco-Dublin-Swords-Co-Dublin/6646586/",
+      "title": "Swords,co. Dublin, Swords, Co. Dublin",
+      "price": "€1,150 monthly",
+      "area": "co. Dublin, Swords, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvNVwvNzViMzA5YmUtMzAzMC00ODk1LTgzOWQtNDk5MDI0MmFmYWExLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=acd272b6f0ba1ac4be7e6e90f2e614b540c70c6b04dbdc9d9d126f019659343d",
+      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available 1st September - This newly refurbished double studio , with kitchenette ( including fridge, washing machine, microwave). En-suite : newly installed walk in power shower. - Great locatio... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-15T16:08:59.479Z"
+      "firstSeenAt": "2026-08-17T00:27:58.027Z"
     },
     {
-      "id": "6646257",
-      "url": "https://www.rent.ie/rooms-to-rent/Slane-House-Mount-Street-Lower-Dublin-2-Dublin-2/6646257/",
-      "title": "Slane House, Mount Street Lower, Dublin 2, Dublin 2",
-      "price": "€1,600 monthly",
-      "area": "Mount Street Lower, Dublin 2, Dublin 2",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvY1wvNmNjOTYzZDAtYjJmOS00YjIxLTg4ZjUtZjUxZGU5MzEwYjA0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e42946e8de0743200a1e16ff56d534dc457a9940720ab01321de86ea70041f77",
-      "description": "Double Bedroom Ensuite €1,600 monthly - Double Bedroom €1,300 monthly - Double Bedroom €1,300 monthly Owner Occupied Available 17th August - 3x bedrooms available in duplex 130sqm 4bed/3bath appartment En Suite + Double Bedroom available immediately 3rd Double Bedroom Available Starting October 1st View full ad on Rent.ie",
+      "id": "6646595",
+      "url": "https://www.rent.ie/rooms-to-rent/Sandymount-Sandymount-Dublin-4/6646595/",
+      "title": "Sandymount, Sandymount, Dublin 4",
+      "price": "€175",
+      "area": "Sandymount, Dublin 4",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvN1wvYzc1Mzc5MDQ3NTIzMTJiMjM4NGFlOWJmMTgzMTYyMmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=a32b763f2853444035c150091b0e98bbe2f8ea8bd992de8a0d6751b19b09cd1e",
+      "description": "Double Bedroom Ensuite €175 weekly Owner Occupied Available 30th August - NOTE. Available from Sunday Evening to Friday Evening only. PLEASE CONFIRM YOU UNDERSTAND THIS WHEN RESPONDING. Lovely quiet double room with ensuite bathroom to rent in Sand... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-15T16:08:59.479Z"
+      "firstSeenAt": "2026-08-17T00:27:58.027Z"
+    },
+    {
+      "id": "6646603",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-1005-Terrace-Sandyford-Central-Sandyf-Stillorgan-Co-Dublin/6646603/",
+      "title": "Apartment 1005, Terrace, Sandyford Central, Sandyf, Stillorgan, Co. Dublin",
+      "price": "€1,400 monthly",
+      "area": "Terrace, Sandyford Central, Sandyf, Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvZVwvNWU3MmMxZDQtNWNmMy00MGFhLWJkZjctNjg5NWZhMzA2ZDhlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f836decae903e98c803c0837c2c3b4a23b3079949893846c2b2b2d336751a865",
+      "description": "Single Bedroom Ensuite €1,400 monthly Owner Occupied Available 1st October - Location: - 5 min walk to Stillorgan luas stop - 5 min walk to Dunnes Stores for groceries - 20 min bus to UCD - 10 min luas ride to Dundrum shopping centre - Bear Market Coffee, S... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-17T00:27:58.027Z"
+    },
+    {
+      "id": "6646612",
+      "url": "https://www.rent.ie/rooms-to-rent/South-Beacon-Quarter-Dublin-18-Sandyford-Dublin-18/6646612/",
+      "title": "South Beacon Quarter, Dublin 18, Sandyford, Dublin 18",
+      "price": "€1,350 monthly",
+      "area": "Dublin 18, Sandyford, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvMVwvMDFlZjBiZDItNTViNC00NzdjLTkxYWItZmU4MTQ4YTUyOWE5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c6999b73faea3e295d587f8984f092c687b41294bdb640b6fb31984dd89348ac",
+      "description": "Double Bedroom Ensuite €1,350 monthly Available Now - I'm looking for a housemate for my two bed apartment with private bathroom at the beacon South quarter, Sandyford. I'm an early 30's male working in tech. Please write a short m... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-17T00:27:58.027Z"
     }
   ]
 }
