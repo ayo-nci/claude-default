@@ -1,78 +1,30 @@
 {
-  "fetchedAt": "2026-08-22T12:13:07.433Z",
+  "fetchedAt": "2026-08-22T16:08:42.908Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6650722",
-      "url": "https://www.rent.ie/rooms-to-rent/6-Old-Coach-Road-Balrothery-Balbriggan-Co-Dubl-Balbriggan-Co-Dublin/6650722/",
-      "title": "6 Old Coach Road, Balrothery, Balbriggan, Co. Dubl, Balbriggan, Co. Dublin",
+      "id": "6651799",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-612-The-Griffin-One-Three-North-Marrs-Baldoyle-Dublin-13/6651799/",
+      "title": "Apartment 612, The Griffin, One Three North, Marrs, Baldoyle, Dublin 13",
       "price": "€1,150 monthly",
-      "area": "Balrothery, Balbriggan, Co. Dubl, Balbriggan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvNlwvNTY5MGZlNWQtZTI4Zi00MzZiLTlhNDItMmJiZTM1NjhhNjUyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4e9880faa27d24119645130930985942f6f1c34c11b69f182b84303e805b8550",
-      "description": "Single Bedroom Ensuite €1,150 monthly Owner Occupied Available 30th September - Coming for rent September 2026 Totally self contained from rest of house Own entrance Sliding patio doors to garden Velux windows 1 bed 1 person Solid wood floors through... View full ad on Rent.ie",
+      "area": "The Griffin, One Three North, Marrs, Baldoyle, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvNVwvODVhYTYxMjItZTIwNC00OTRkLTljNTAtMTQ3ZDc0MGNjMTk0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d16fb5f4707af28dfa02bf5dd2b84b4e16fbb6709b049fe770236fb583788b06",
+      "description": "Double Bedroom Ensuite €1,150 monthly Available 1st September - Modern 3-bedroom 2-bathroom penthouse apartment, top floor. One furnished double bedroom and private bathroom (ensuite) for let, located in Dublin 13. View of the large park ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-22T12:13:07.433Z"
+      "firstSeenAt": "2026-08-22T16:08:42.908Z"
     },
     {
-      "id": "6651756",
-      "url": "https://www.rent.ie/rooms-to-rent/Greenpark-Road-Lucan-Co-Dublin/6651756/",
-      "title": "Greenpark Road, Lucan, Co. Dublin",
-      "price": "€250",
-      "area": "Lucan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvYlwvZmIwMzkzMTgtNDlhNS00MjVlLTgxYjUtMTVmZmYwM2U1ZTEyLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=3054c672509c3f7377efec548f6a82e0904a66d83454fa517d3575374a484871",
-      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
+      "id": "6651847",
+      "url": "https://www.rent.ie/rooms-to-rent/Barnoaks-Citywest-Saggart-Co-Dublin/6651847/",
+      "title": "Barnoaks, Citywest, Saggart, Co. Dublin",
+      "price": "€1,100 monthly",
+      "area": "Citywest, Saggart, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvNVwvMzVkYjNiNjMtMWMyNy00OTVlLTk3NzgtOTVmNTA4YTZiMjNjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=04cfbb11a81db2423e25c83f65a69d5bc6bd6252274821233bf65dc823693bdd",
+      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 1st October - Double bedroom with ensuite available in a A1 rated house. King size bed ottoman style bed with storage underneath / emma mattress / access to Attic for extra storage. Rent is... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-22T12:13:07.433Z"
-    },
-    {
-      "id": "6650623",
-      "url": "https://www.rent.ie/rooms-to-rent/Watery-Lane-Swords-Co-Dublin-Swords-Co-Dublin/6650623/",
-      "title": "Watery Lane, Swords, Co. Dublin, Swords, Co. Dublin",
-      "price": "€1,050 monthly",
-      "area": "Swords, Co. Dublin, Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvNFwvMTRmNDIxZTgtZDIzNC00MTQwLTk5OWUtOTEwMDI1Yjg2ZWFiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3121a9f480c28d74fb2bae1f7b60b449f286f91d5d460d98edaf2a7ef0eccd60",
-      "description": "Double Bedroom Ensuite €1,050 monthly Owner Occupied Available 6th September - Quiet, safe area , within 5 mins walk of Swords Main street. Minutes walk from Dublin Bus and Swords Express. 4 bed detached alarmed house with one parking space in driveway exclu... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-22T12:13:07.433Z"
-    },
-    {
-      "id": "6651757",
-      "url": "https://www.rent.ie/rooms-to-rent/Porterstown-Road-Castleknock-Dublin-15/6651757/",
-      "title": "Porterstown Road, Castleknock, Dublin 15",
-      "price": "€270",
-      "area": "Castleknock, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvNFwvZjQ2NzRjMWQtMWIyMy00NGQ0LWFiODMtNzMyZDE3MGNhODVkLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=42e3b86f5fa1ac60c9229d163df61b7eb4352b8531169a4028a2e7823e1624a8",
-      "description": "Double Bedroom Ensuite €270 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, to protect the landlord's privacy. However, it still provides reliable information by indica... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-22T12:13:07.433Z"
-    },
-    {
-      "id": "6651763",
-      "url": "https://www.rent.ie/rooms-to-rent/Sandyford-Dublin-16-Ballinteer-Dublin-16/6651763/",
-      "title": "Sandyford Dublin 16, Ballinteer, Dublin 16",
-      "price": "€900 monthly",
-      "area": "Ballinteer, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvYVwvMWFmNjQ2YjItM2ZjNy00MDJlLTkxMjUtZDQyMGFhZGMxZTE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7b5853ea4bb8b157d58b3b204e68be028c4336631af09ca1537b655d5f97edf8",
-      "description": "Double Bedroom Ensuite €900 monthly - Single Bedroom €680 monthly Available 14th September - Lovely 4 bed semi detached house, situated at tbe end cul-de-sac of very quiet small neighbourhood on foothill of Dublin Mountains Very in demand location, close to all amenti... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-22T12:13:07.433Z"
-    },
-    {
-      "id": "6651796",
-      "url": "https://www.rent.ie/rooms-to-rent/Herbertons-Apartments-Reuben-Street-Dublin-8/6651796/",
-      "title": "Herbertons Apartments, Reuben Street, Dublin 8",
-      "price": "€1,040 monthly",
-      "area": "Reuben Street, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvMlwvZDI1MzIzNzM1M2JlZDNiYjlhNmJkMWU0YzkyMGZiNDUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=8ba6bd944bcff2e03e149f551289ec627f8b93b3742e41ad6f1f12947d7a74a5",
-      "description": "Double Bedroom Ensuite €1,040 monthly Available 1st September - An excellent opportunity to live in a bright, specious and private double en-suite bedroom in Herberton Apartments, conveniently located in Dublin 8. Situated just off Cork... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-22T12:13:07.433Z"
+      "firstSeenAt": "2026-08-22T16:08:42.908Z"
     }
   ]
 }
