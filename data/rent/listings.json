@@ -1,18 +1,30 @@
 {
-  "fetchedAt": "2026-08-22T16:08:42.908Z",
+  "fetchedAt": "2026-08-22T20:08:40.941Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6651799",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-612-The-Griffin-One-Three-North-Marrs-Baldoyle-Dublin-13/6651799/",
-      "title": "Apartment 612, The Griffin, One Three North, Marrs, Baldoyle, Dublin 13",
-      "price": "€1,150 monthly",
-      "area": "The Griffin, One Three North, Marrs, Baldoyle, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvNVwvODVhYTYxMjItZTIwNC00OTRkLTljNTAtMTQ3ZDc0MGNjMTk0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d16fb5f4707af28dfa02bf5dd2b84b4e16fbb6709b049fe770236fb583788b06",
-      "description": "Double Bedroom Ensuite €1,150 monthly Available 1st September - Modern 3-bedroom 2-bathroom penthouse apartment, top floor. One furnished double bedroom and private bathroom (ensuite) for let, located in Dublin 13. View of the large park ... View full ad on Rent.ie",
+      "id": "6651887",
+      "url": "https://www.rent.ie/rooms-to-rent/Southmede-Ballinteer-Road-Dublin-1-Dundrum-Dublin-16/6651887/",
+      "title": "Southmede, Ballinteer Road, Dublin 1, Dundrum, Dublin 16",
+      "price": "€1,350 monthly",
+      "area": "Ballinteer Road, Dublin 1, Dundrum, Dublin 16",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvM1wvMTNiNmFiZDYtYzA0YS00YWIyLTkxN2YtOWIyNmJjYmNhOTJmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=52bd810c961dd9d32092a34d3e2edf33e3e1c49971a8f23c0e9f4d011199f9b0",
+      "description": "Double Bedroom Ensuite €1,350 monthly Owner Occupied Available 6th September - Double room available in Southmede, Dundrum. 3/5 month available flexible Own bathroom. 5 min walk from Dundrum shopping centre & Dundrum luas stop Parking availabl... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-22T16:08:42.908Z"
+      "firstSeenAt": "2026-08-22T20:08:40.941Z"
+    },
+    {
+      "id": "6651931",
+      "url": "https://www.rent.ie/rooms-to-rent/Abberley-House-19-Saint-Columbas-Road-Upper-Dub-Drumcondra-Dublin-9/6651931/",
+      "title": "Abberley House, 19 Saint Columba's Road Upper, Dub, Drumcondra, Dublin 9",
+      "price": "€1,000 monthly",
+      "area": "19 Saint Columba's Road Upper, Dub, Drumcondra, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMVwvNDE0ZDQ1M2QtMDhjMC00ZWIyLTkyZDktN2IwZWUzM2M2YjgzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3eab23a55bac6bfd31efb8c01d1a098edcacb6fd392d9421fad0578950d0d640",
+      "description": "Single Bedroom Ensuite €1,000 monthly Owner Occupied Available 30th August - Room to Rent – Digs Drumcondra, Dublin 5 min walk to train and majpr bus route Furnished bedroom available in a comfortable private home. Available Sunday to Friday** '... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-22T20:08:40.941Z"
     },
     {
       "id": "6651847",
