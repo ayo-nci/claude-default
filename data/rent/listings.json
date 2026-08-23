@@ -1,42 +1,66 @@
 {
-  "fetchedAt": "2026-08-22T20:08:40.941Z",
+  "fetchedAt": "2026-08-23T12:13:44.189Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6651887",
-      "url": "https://www.rent.ie/rooms-to-rent/Southmede-Ballinteer-Road-Dublin-1-Dundrum-Dublin-16/6651887/",
-      "title": "Southmede, Ballinteer Road, Dublin 1, Dundrum, Dublin 16",
-      "price": "€1,350 monthly",
-      "area": "Ballinteer Road, Dublin 1, Dundrum, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvM1wvMTNiNmFiZDYtYzA0YS00YWIyLTkxN2YtOWIyNmJjYmNhOTJmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=52bd810c961dd9d32092a34d3e2edf33e3e1c49971a8f23c0e9f4d011199f9b0",
-      "description": "Double Bedroom Ensuite €1,350 monthly Owner Occupied Available 6th September - Double room available in Southmede, Dundrum. 3/5 month available flexible Own bathroom. 5 min walk from Dundrum shopping centre & Dundrum luas stop Parking availabl... View full ad on Rent.ie",
+      "id": "6651869",
+      "url": "https://www.rent.ie/rooms-to-rent/Lockhouse-View-Seven-Mills-Clonburris-Dublin-22-Seven-Mills-Co-Dublin/6651869/",
+      "title": "Lockhouse View, Seven Mills, Clonburris, Dublin 22, Seven Mills, Co. Dublin",
+      "price": "€1,166 monthly",
+      "area": "Seven Mills, Clonburris, Dublin 22, Seven Mills, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvOFwvMzgwMGY3Y2ItOWQ5OC00MTQwLWEwOWUtYzA4ZDlkYzUyZGViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=37f0713d2f0a42ec06e05c4ce8ff37c7061d15342f99f2d275051b859e0c375f",
+      "description": "Double Bedroom Ensuite €1,166 monthly Owner Occupied Available 31st August - A large, high-end south-facing en-suite double room is available in a brand-new 3-bedroom house. This is an OWNER-OCCUPIED home. A quiet and private home, ideal for someone lo... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-22T20:08:40.941Z"
+      "firstSeenAt": "2026-08-23T12:13:44.189Z"
     },
     {
-      "id": "6651931",
-      "url": "https://www.rent.ie/rooms-to-rent/Abberley-House-19-Saint-Columbas-Road-Upper-Dub-Drumcondra-Dublin-9/6651931/",
-      "title": "Abberley House, 19 Saint Columba's Road Upper, Dub, Drumcondra, Dublin 9",
-      "price": "€1,000 monthly",
-      "area": "19 Saint Columba's Road Upper, Dub, Drumcondra, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMVwvNDE0ZDQ1M2QtMDhjMC00ZWIyLTkyZDktN2IwZWUzM2M2YjgzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3eab23a55bac6bfd31efb8c01d1a098edcacb6fd392d9421fad0578950d0d640",
-      "description": "Single Bedroom Ensuite €1,000 monthly Owner Occupied Available 30th August - Room to Rent – Digs Drumcondra, Dublin 5 min walk to train and majpr bus route Furnished bedroom available in a comfortable private home. Available Sunday to Friday** '... View full ad on Rent.ie",
+      "id": "6652057",
+      "url": "https://www.rent.ie/rooms-to-rent/Kilcarbery-Grange-Dublin-22-Grange-Castle-Co-Dublin/6652057/",
+      "title": "Kilcarbery Grange, Dublin 22, Grange Castle, Co. Dublin",
+      "price": "€750 monthly",
+      "area": "Dublin 22, Grange Castle, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvMlwvZjIzMzBkMjAtZmI3NS00MDBjLTgyYWMtMmExNjJmMzQ4ZGM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2263673139101df8f4748b9fb91b3257d7e2422c161f450bfdb67d5cd290dc0c",
+      "description": "Double Bedroom Ensuite €750 monthly Owner Occupied Available Now - A spacious, en-suite, double room is available in our 4-bedroom home beside Corkagh Park. The room is unfurnished, but it has plenty of inbuilt wardrobe space so all you would ne... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-22T20:08:40.941Z"
+      "firstSeenAt": "2026-08-23T12:13:44.189Z"
     },
     {
-      "id": "6651847",
-      "url": "https://www.rent.ie/rooms-to-rent/Barnoaks-Citywest-Saggart-Co-Dublin/6651847/",
-      "title": "Barnoaks, Citywest, Saggart, Co. Dublin",
+      "id": "6652073",
+      "url": "https://www.rent.ie/rooms-to-rent/Aulden-Grange-Dublin-Kilmore-Dublin-5/6652073/",
+      "title": "Aulden Grange, Dublin, Kilmore, Dublin 5",
+      "price": "€900 monthly",
+      "area": "Dublin, Kilmore, Dublin 5",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvMVwvNTFjYzYwNWYtMmFmNy00ZWUxLWExYTUtNGM4OTAwZWM5YmFjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=ca123c7afa72c6898569cbd7adf0180060d80ca7a83ac17e7e953a6bec98d85d",
+      "description": "Single Bedroom Ensuite €900 monthly Available 1st September - **Email enquiries only - phone calls cannot be accepted** This is a new built detached 1 bedroom unit that is positioned to the rear of an existing residential property. Int... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-23T12:13:44.189Z"
+    },
+    {
+      "id": "6652089",
+      "url": "https://www.rent.ie/rooms-to-rent/Cheevers-Court-Cualanor-Dun-Laoghaire-Glenageary-Co-Dublin/6652089/",
+      "title": "Cheevers Court, Cualanor, Dun Laoghaire, Glenageary, Co. Dublin",
       "price": "€1,100 monthly",
-      "area": "Citywest, Saggart, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvNVwvMzVkYjNiNjMtMWMyNy00OTVlLTk3NzgtOTVmNTA4YTZiMjNjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=04cfbb11a81db2423e25c83f65a69d5bc6bd6252274821233bf65dc823693bdd",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 1st October - Double bedroom with ensuite available in a A1 rated house. King size bed ottoman style bed with storage underneath / emma mattress / access to Attic for extra storage. Rent is... View full ad on Rent.ie",
+      "area": "Cualanor, Dun Laoghaire, Glenageary, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvYVwvY2FiMjg5MDYtM2U1ZS00Yzg5LWJjMTQtZjI2YjE4ZTQwOTMzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c38991c616df49bcc3f8f058f78f5b27ce8ef9d8f5be0b336540271da6883d36",
+      "description": "Single Bedroom Ensuite €1,100 monthly Available 10th October - Big modern En-suite room in family apartment to Co-rent. Please read full description before applying. Available from: Mid October For Rent: 14m2 bedroom, with PRIVATE ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-22T16:08:42.908Z"
+      "firstSeenAt": "2026-08-23T12:13:44.189Z"
+    },
+    {
+      "id": "6651913",
+      "url": "https://www.rent.ie/rooms-to-rent/Parkside-Gardens-Dublin-13-Clongriffin-Dublin-13/6651913/",
+      "title": "Parkside Gardens, Dublin 13, Clongriffin, Dublin 13",
+      "price": "€1,400 monthly",
+      "area": "Dublin 13, Clongriffin, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvMFwvMDA4OThhMTQtYTNmZC00MGMxLWE2Y2MtOTA3MDgyNTFlZTg3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=940fe54b4f33748ce1921eeebf789307945f276000126be923c3babe80f9d15c",
+      "description": "Double Bedroom Ensuite €1,400 monthly Owner Occupied Available 1st September - Spacious Ensuite Double Bedroom with Super King Bed – Clongriffin / Dublin 13 Property Overview A bright, spacious master ensuite double bedroom is available in a modern, A3... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-23T12:13:44.189Z"
     }
   ]
 }
