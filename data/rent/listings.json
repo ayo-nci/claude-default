@@ -1,66 +1,30 @@
 {
-  "fetchedAt": "2026-08-26T12:22:46.347Z",
+  "fetchedAt": "2026-08-26T16:39:44.986Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6654556",
-      "url": "https://www.rent.ie/rooms-to-rent/24-Cloister-Square-Blackrock-Co-Dublin-Stillorgan-Co-Dublin/6654556/",
-      "title": "24 Cloister Square, Blackrock, Co. Dublin, Stillorgan, Co. Dublin",
-      "price": "€900 monthly",
-      "area": "Blackrock, Co. Dublin, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMVwvNDExNTJmOTktOTZmOC00N2M5LWI5YTktMmMwZWI3ODQ1YzkwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=47e06095ff14e2b9c3e9d20a48fd4926fa018b852bde370b28f590f459ed2bb0",
-      "description": "Single Bedroom €900 monthly Available 27th August - Spacious and well organised accommodation available for UCD Smurfit post graduates or working professionals . Also Twin room with en-suite available immediately for two fe... View full ad on Rent.ie",
+      "id": "6655041",
+      "url": "https://www.rent.ie/rooms-to-rent/40-Lohunda-Road-Clonsilla-Dublin-15-Clonsilla-Dublin-15/6655041/",
+      "title": "40 Lohunda Road, Clonsilla, Dublin 15, Clonsilla, Dublin 15",
+      "price": "€830 monthly",
+      "area": "Clonsilla, Dublin 15, Clonsilla, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvZVwvYWU1ZWZkMmQtMWI2MS00ZGViLTk4ZjMtZTI3MmYwYWU3NGRlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a503a59d82a778756b478eb0d9e8ed4632137b9825f8916c8e015bf16c88324e",
+      "description": "Double Bedroom Ensuite €830 monthly Owner Occupied Available 12th September - Double room with small bathroom in a shared detached house available. The house in conveniently located near the 37, 39, L52 and 139 (to Kildare) bus routes to and from city cen... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-26T12:22:46.347Z"
+      "firstSeenAt": "2026-08-26T16:39:44.986Z"
     },
     {
-      "id": "6654648",
-      "url": "https://www.rent.ie/rooms-to-rent/Kirkpatrick-House-Spencer-Dock-Dublin-1-IFSC-Dublin-1/6654648/",
-      "title": "Kirkpatrick House, Spencer Dock, Dublin 1, IFSC, Dublin 1",
-      "price": "€1,600 monthly",
-      "area": "Spencer Dock, Dublin 1, IFSC, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvZlwvNWZlYzBlYzItN2I2MC00NWNjLWExMGYtZjc3NzVkMDc0Zjg2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e73a8192116dfcd5f06ca014f9c251a8ef991fd8307476018d861545b43faa46",
-      "description": "Double Bedroom Ensuite €1,600 monthly Owner Occupied Available Now - Starting August26th, a lovely room will be available in a super-spacious and super sunny apartment (70sqm2) at Spencer Docks. The Apartment: - Your own bedroom - Your own... View full ad on Rent.ie",
+      "id": "6654551",
+      "url": "https://www.rent.ie/rooms-to-rent/Saint-Peters-Road-Dublin-12-Walkinstown-Dublin-12/6654551/",
+      "title": "Saint Peter's Road, Dublin 12, Walkinstown, Dublin 12",
+      "price": "€1,000 monthly",
+      "area": "Dublin 12, Walkinstown, Dublin 12",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvZFwvZGQ2NTg5NmUtNDJhMC00MzVkLWI3ZmItMDcwOGQwMTE4OTIzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c090b369ed4a093f36df3b9e34a152324d6d7d6d3a221ea7b12689e0d17bc096",
+      "description": "Double Bedroom Ensuite €1,000 monthly - Double Bedroom €900 monthly Available 1st October - 2 spacious double bedrooms available to rent in a large well maintained house. Available from 1st October 2026. Bedroom 1: Double Bedroom with ensuite bathroom Bedroom 2: Double Bedroom The third bedroom is currently occupied by a male professional in his mid 30s. The house itself has plenty of shared living space, includ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-26T12:22:46.347Z"
-    },
-    {
-      "id": "6654469",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-126-East-Courtyard-Tullyvale-Dublin-1-Cherrywood-Co-Dublin/6654469/",
-      "title": "Apartment 126, East Courtyard, Tullyvale, Dublin 1, Cherrywood, Co. Dublin",
-      "price": "€1,150 monthly",
-      "area": "East Courtyard, Tullyvale, Dublin 1, Cherrywood, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvMVwvZjFhZTM3ZDMtMmYyOS00NGYyLWI1MmUtZjJkMzU1OTY1MTU0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=131dece20bdbfd3fbf481b1dbf6a6124bb72cf9815198938e191c3e279d90b0c",
-      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available 1st September - Large apartment in Tullyvale with Double room en-suite, own sitting room and shared use of kitchen facilities. Freshly painted and presented in immaculate condition. Park... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-26T12:22:46.347Z"
-    },
-    {
-      "id": "6654834",
-      "url": "https://www.rent.ie/rooms-to-rent/Knocksedan-Demesnebrackenstownswordsco-Dublin-Swords-Co-Dublin/6654834/",
-      "title": "Knocksedan Demesne,brackenstown,swords,co. Dublin, Swords, Co. Dublin",
-      "price": "€175",
-      "area": "brackenstown, swords, co. Dublin, Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMFwvNjA1YzgwZmEtZGUwMi00MTE1LTgzYWItNzkzMGE0ZjAyNGUyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=fc94673be92361b44460fc3ffca983aa9d654d7ed941f65ae90f4276a952ebf7",
-      "description": "Double Bedroom Ensuite €175 weekly Owner Occupied Available 1st September - *** Room is only available Sunday - Friday mornings. Price includes all bills, 2GB Fibre broadband, bins & electricity - '175 per week. Large double room with King size bed, wa... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-26T12:22:46.347Z"
-    },
-    {
-      "id": "6654860",
-      "url": "https://www.rent.ie/rooms-to-rent/Newport-Street-Dublin-8-St-James-Gate-Dublin-8/6654860/",
-      "title": "Newport Street, Dublin 8, St. James Gate, Dublin 8",
-      "price": "€1,200 monthly",
-      "area": "Dublin 8, St. James Gate, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvY1wvM2MzOWVkNmEtMTQ5OC00MDYxLWI4NzEtZGY4YTkwMjcyODE4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c098bf792729ef200779676d9f3142b009621933992f554fe8658bf01e8ccc47",
-      "description": "Double Bedroom Ensuite €1,200 monthly Available 7th September - En-suite double room available in a bright, modern 3-bed apartment, sharing with one easygoing male () and female (34) professional. Building is A2-rated, very clean, with mo... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-26T12:22:46.347Z"
+      "firstSeenAt": "2026-08-26T16:39:44.986Z"
     }
   ]
 }
