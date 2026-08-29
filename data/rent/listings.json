@@ -1,54 +1,18 @@
 {
-  "fetchedAt": "2026-08-28T03:53:14.910Z",
+  "fetchedAt": "2026-08-29T00:11:24.919Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6656363",
-      "url": "https://www.rent.ie/rooms-to-rent/Somerton-Avenue-Lucan-Co-Dublin-Adamstown-Co-Dublin/6656363/",
-      "title": "Somerton Avenue, Lucan, Co. Dublin, Adamstown, Co. Dublin",
-      "price": "€750 monthly",
-      "area": "Lucan, Co. Dublin, Adamstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMFwvNDBjODZkNWYtMjJhZC00YzM3LWEyYWItOTI3YzkwZmQ2MjUwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=752991c07a7a8974512b30eb4996c7948aed9fd1b7315839dd4c378e2eb3fdff",
-      "description": "Double Bedroom Ensuite €750 monthly Owner Occupied Available 7th September - ***This room is available Monday/Sunday eve to Friday only*** We are a family of four (two boys aged 9 and 6) who live in a suburban estate in Lucan. We also have a small dog. The ... View full ad on Rent.ie",
+      "id": "6657327",
+      "url": "https://www.rent.ie/rooms-to-rent/South-Circular-Road-Dublin-8-Dublin-8/6657327/",
+      "title": "South Circular Road, Dublin 8, Dublin 8",
+      "price": "€214",
+      "area": "Dublin 8, Dublin 8",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvMlwvYTIzMTQ5MjUtYTUxNi00ODZmLWI0MTktYzczMmM0YzY1ZTNiLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=b9f5f792bbd5e2d742574a7f9d67c1bca917da264d2fa04d32bf43e69ae9846c",
+      "description": "Twin Bedroom Ensuite €214 weekly Agent: StudentHouse Available 8th September - Beds are available within twin en-suite bedrooms from 8 September for the full academic year. The rent is '214 per person per week, with all utility bills and Wi-Fi included. You ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-28T03:53:14.910Z"
-    },
-    {
-      "id": "6656489",
-      "url": "https://www.rent.ie/rooms-to-rent/Vantage-Central-Central-Park-Dublin-18-Leopardstown-Dublin-18/6656489/",
-      "title": "Vantage Central, Central Park, Dublin 18, Leopardstown, Dublin 18",
-      "price": "€1,150 monthly",
-      "area": "Central Park, Dublin 18, Leopardstown, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMFwvYjA3MDZkMWQtYzI2ZC00Y2U2LWJmNjQtOGVkMDljMTA1NDlmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=73a40f1f50d256f86362af179d27a0044cda4a2b2fa23025017dd6e90b481d21",
-      "description": "Double Bedroom Ensuite €1,150 monthly Available 1st October - Hi all! Ensuite room available in Central Park, Dublin 18 Accommodation details: - Single vacancy in a spacious two-bedroom apartment - Available from October 1, 2026 - ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-28T03:53:14.910Z"
-    },
-    {
-      "id": "6640819",
-      "url": "https://www.rent.ie/rooms-to-rent/Moyglass-Lucan-Co-Dublin/6640819/",
-      "title": "Moyglass, Lucan, Co. Dublin",
-      "price": "€1,100 monthly",
-      "area": "Lucan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvMFwvYTA1YTNmM2UtNDk4OC00OGZiLTk5ZTgtYTljODk0OWQxODc2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6c4382dfd4d535609b02d5505a03d990af9311aae2688daa286b870b38847ac9",
-      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 1st September - To Rent - A large en-suite double bedroom in 3 bed house with extra storage space Few minutes walk to Supervalue ;Centra. Beside 25A/25/66 Bus Stops and Nightlink.Short distance... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-28T03:53:14.910Z"
-    },
-    {
-      "id": "6648216",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Cubes-6-Beacon-South-Quarter-Dublin-18-Stillorgan-Co-Dublin/6648216/",
-      "title": "The Cubes 6, Beacon South Quarter, Dublin 18, Stillorgan, Co. Dublin",
-      "price": "€1,000 monthly",
-      "area": "Beacon South Quarter, Dublin 18, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvYVwvN2E3YWZlN2MtZjUzYi00MDJmLTgxMjgtNzVkNTgzOGNkZjZiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=73f668221d252d42a49e66e8daaea5f586420cc86d5d346e33b5d5cfe7ce73ed",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 31st October - You sharing apartment with male and two boys age 8 and 6. Available from 1st November. Double bedroom with en-suite bathroom. '1000 per month (internet included) - bill ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-28T03:53:14.910Z"
+      "firstSeenAt": "2026-08-29T00:11:24.919Z"
     }
   ]
 }
