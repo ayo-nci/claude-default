@@ -1,18 +1,42 @@
 {
-  "fetchedAt": "2026-08-29T00:11:24.919Z",
+  "fetchedAt": "2026-08-31T01:51:29.292Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6657327",
-      "url": "https://www.rent.ie/rooms-to-rent/South-Circular-Road-Dublin-8-Dublin-8/6657327/",
-      "title": "South Circular Road, Dublin 8, Dublin 8",
-      "price": "€214",
-      "area": "Dublin 8, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvMlwvYTIzMTQ5MjUtYTUxNi00ODZmLWI0MTktYzczMmM0YzY1ZTNiLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=b9f5f792bbd5e2d742574a7f9d67c1bca917da264d2fa04d32bf43e69ae9846c",
-      "description": "Twin Bedroom Ensuite €214 weekly Agent: StudentHouse Available 8th September - Beds are available within twin en-suite bedrooms from 8 September for the full academic year. The rent is '214 per person per week, with all utility bills and Wi-Fi included. You ... View full ad on Rent.ie",
+      "id": "6658232",
+      "url": "https://www.rent.ie/rooms-to-rent/8-Castleland-Park-Lawn-Balbriggan-Co-Dublin-Balbriggan-Co-Dublin/6658232/",
+      "title": "8 Castleland Park Lawn, Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "price": "€1,100 monthly",
+      "area": "Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNFwvZTQxMDRiNDItNjlhNC00YWRhLWJiMjctMTA1MzU2YjA5NTA4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3b7ad76d2593093ef22727666165019aa1c441937d29be56420b2d63eb9a9473",
+      "description": "Double Bedroom Ensuite €1,100 monthly Available 1st September - 1 ensuite room available with 2 options: Option 1: 2 single beds available to share the ensuite room 550 each person Option 2: 1 double bed for couples 1100 negotiable Available immediately or from 01 Sep 2026 onwards Location: Balbriggan (Eircode K32k466) Bright living room , shared kitchen and big garden area Excelle... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-29T00:11:24.919Z"
+      "firstSeenAt": "2026-08-31T01:51:29.292Z"
+    },
+    {
+      "id": "6657850",
+      "url": "https://www.rent.ie/rooms-to-rent/Leonahoney-Parkdun-Laoghaireco-Dublin-Dun-Laoghaire-Co-Dublin/6657850/",
+      "title": "Leona,honey Park,dun Laoghaire,co. Dublin, Dun Laoghaire, Co. Dublin",
+      "price": "€972 monthly",
+      "area": "honey Park, dun Laoghaire, co. Dublin, Dun Laoghaire, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvYlwvZWJkNmY1MTQtY2VjOS00M2Q1LTg2YTQtYTc4OWEyMjdlYTg4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cc2f0e1d84811372334270efda9e6997a53757d9c00b2a52d3ee029b98654847",
+      "description": "Double Bedroom Ensuite €972 monthly - Double Bedroom €900 monthly Available 1st October - A spacious ensuite double bedroom and another double bedroom are available for rent in a sea-facing, 3-bedroom apartment in Honeypark, Dun Laoghaire, starting October 1st. T... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-31T01:51:29.292Z"
+    },
+    {
+      "id": "6658007",
+      "url": "https://www.rent.ie/rooms-to-rent/Ensuite-Double-Room---Park-Boulevard-Tyrrelstown-D15-Tyrrelstown-Dublin-15/6658007/",
+      "title": "Ensuite Double Room - Park Boulevard, Tyrrelstown, D15, Tyrrelstown, Dublin 15",
+      "price": "€850 monthly",
+      "area": "Tyrrelstown, D15, Tyrrelstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvY1wvNWNjN2MxNzctMDVlMy00NzY4LTk4ZTMtMTI3MjM3YjI2ODRkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=efcbb01c9f31ac5f55131355f18384df160fe58da7f21a3e15440dbdfbcfdcab",
+      "description": "Double Bedroom Ensuite €850 monthly Available 5th September - ROOM WITH ENSUITE BATHROOM. COUPLE POSSIBLE. CONTACT please contact via Whatsapp to arrange a viewing. Thanks! 089 978 9896 THE HOUSE On the ground floor there is a spac... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-08-31T01:51:29.292Z"
     }
   ]
 }
