@@ -1,42 +1,78 @@
 {
-  "fetchedAt": "2026-08-31T23:27:44.782Z",
+  "fetchedAt": "2026-09-02T01:36:24.493Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6659355",
-      "url": "https://www.rent.ie/rooms-to-rent/Manor-Hall-Mount-Brown-Dublin-8-Kilmainham-Dublin-8/6659355/",
-      "title": "Manor Hall, Mount Brown, Dublin 8, Kilmainham, Dublin 8",
-      "price": "€240",
-      "area": "Mount Brown, Dublin 8, Kilmainham, Dublin 8",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvN1wvNjdkMDFkZWItZTQwZS00NTU1LWE2NjYtMjllOGVlNjY5MTExLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5ed681e78d82ad5b0ac2c918b9091ff0f5c8bc95f32209d38ca5cce3f5884669",
-      "description": "Double Bedroom Ensuite €240 weekly Owner Occupied Available 7th September - ***Available Monday to Friday only*** ***Nightly rate 60e also available*** Spacious king-size room with own bathroom (not en-suite) in a recently refurbished penthouse apartment in Kilmainham. Ideal for a hybrid worker looking to stay in Dublin midweek or student (particularly TCD, TUD). Located right beside St. James ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-31T23:27:44.782Z"
-    },
-    {
-      "id": "6658912",
-      "url": "https://www.rent.ie/rooms-to-rent/Glenageary-Co-Dublin-Glasthule-Co-Dublin/6658912/",
-      "title": "Glenageary, Co. Dublin, Glasthule, Co. Dublin",
-      "price": "€950 monthly",
-      "area": "Co. Dublin, Glasthule, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvZVwvNGUxMmQ0YmEtZDhiMy00MDQ4LTgyZmQtOTg3N2I0MDEwZDIwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=670219ed07a4ab472d7d147fcfd782f6186a6616ffdff38caebb2e8204476aa7",
-      "description": "Single Bedroom Ensuite €950 monthly Owner Occupied Available 13th September - Spacious room to rent in a refurbished period home. Adjacent bathroom with walk-in shower. Five mins walk to DART station. Five mins walk to Glasthule village and seaside. Look... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-08-31T23:27:44.782Z"
-    },
-    {
-      "id": "6659461",
-      "url": "https://www.rent.ie/rooms-to-rent/Commons-Road-Dublin-18-Laughanstown-Co-Dublin/6659461/",
-      "title": "Commons Road, Dublin 18, Laughanstown, Co. Dublin",
+      "id": "6660550",
+      "url": "https://www.rent.ie/rooms-to-rent/Colberts-Fort-Belgard-Road-Tallaght-Dublin-24/6660550/",
+      "title": "Colberts Fort, Belgard Road, Tallaght, Dublin 24",
       "price": "€1,000 monthly",
-      "area": "Dublin 18, Laughanstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvZlwvY2Y4YTE2M2MtZjFkMS00ZTUzLTk5MzAtNGQzNWU5NzE1ZTNhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=394a96188a61fcb3ce17b22e57ae83ee87dad262ab8526fc41f282694a6baf56",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available Now - FEMALE ONLY Rent includes all bills + internet Comfortable en-suite double bedroom available in our home. Room features: • Double bed • Private bathroom with shower •... View full ad on Rent.ie",
+      "area": "Belgard Road, Tallaght, Dublin 24",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvY1wvNGM0MmUxMmUtYmYwNi00YzZkLTgxOGMtZDU4OGNmNWUxZGM5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=dccce96ee06422edf47164f504d666bb1959a093da4f47be0f114815b50de8df",
+      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available Now - A spacious double room is available on Belgard Road, right next to Burger King. This modern, newly built house is just a 5-minute walk from The Square Shopping Centre and the LUAS ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-08-31T23:27:44.782Z"
+      "firstSeenAt": "2026-09-02T01:36:24.493Z"
+    },
+    {
+      "id": "6632079",
+      "url": "https://www.rent.ie/rooms-to-rent/Canon-Hall-Church-Street-East-East-Wall-Dublin-3/6632079/",
+      "title": "Canon Hall, Church Street East, East Wall, Dublin 3",
+      "price": "€1,300 monthly",
+      "area": "Church Street East, East Wall, Dublin 3",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvY1wvY2NlY2Y1NTc0NDE3MTg0YTA2NTMzMDJkZjkyNjBkOWMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=7a60e17441847b3e1a652606de251ff9d0012a0c289f4691ae7013e38aacd4a6",
+      "description": "Double Bedroom Ensuite €1,300 monthly Available Now - Master bedroom ensuite in a 2-bed-2-bath apartment for 1300 Euro per month. (bills not included) The apartment is modern spacious with large windows, located near IFSC and Grand Canal, suit for private, clean, and tidy. Looking for tenant (male or female) to share with another gentleman (professional working on sales) who is c... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-02T01:36:24.493Z"
+    },
+    {
+      "id": "6660558",
+      "url": "https://www.rent.ie/rooms-to-rent/13-Belmont-Lawn-Stillorgan-Blackrock-Co-Dublin-Stillorgan-Co-Dublin/6660558/",
+      "title": "13 Belmont Lawn, Stillorgan, Blackrock, Co. Dublin, Stillorgan, Co. Dublin",
+      "price": "€1,600 monthly",
+      "area": "Stillorgan, Blackrock, Co. Dublin, Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvN1wvMjczZGVlOWMtZGZjOS00Mjc3LTkxMmQtZTFkNjE0ZmE4NGE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d306c3ab558a0c93809f9fbd510dbfb5b28510e00851e006b473209930860993",
+      "description": "Double Bedroom Ensuite €1,600 monthly Available Now - Spacious Ensuite Bedroom in Large detached house five minutes' walk from frequent bus route to city and UCD. King size bed and single bed '1,600 /month including all utilities View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-02T01:36:24.493Z"
+    },
+    {
+      "id": "6660588",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Grange-Residence-Brewery-Road-Stillorgan-Cherrywood-Co-Dublin/6660588/",
+      "title": "The Grange Residence, Brewery Road, Stillorgan, Cherrywood, Co. Dublin",
+      "price": "€1,500 monthly",
+      "area": "Brewery Road, Stillorgan, Cherrywood, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMVwvNjExOTEzODUtOWQwYS00ODUxLTkzNWYtYWM1M2ExMDgyMzU4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a7c36a7fba4bf8a4583bbe4371c181ee99cb903b7c052369063be011a7d899d8",
+      "description": "Double Bedroom Ensuite €1,500 monthly Available 1st October - I’m looking for a clean, tidy and easy-going person to share a lovely two-bedroom apartment in The Grange, Stillorgan. The apartment is on the 3rd floor and has a lovely view. T... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-02T01:36:24.493Z"
+    },
+    {
+      "id": "6660590",
+      "url": "https://www.rent.ie/rooms-to-rent/Shanowen-Road-Dublin-9-Whitehall-Dublin-9/6660590/",
+      "title": "Shanowen Road, Dublin 9, Whitehall, Dublin 9",
+      "price": "€175",
+      "area": "Dublin 9, Whitehall, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMFwvNjAwMDRmMjktMjllMS00NDQzLWFlMGItNjBjNjgyODg4NjFkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7b9e6a6d1f15f62c8895b4305d21c76180d871f7647994df4d01199c6e5d69c5",
+      "description": "Double Bedroom Ensuite €175 weekly Owner Occupied Available 7th September - Attic EnSuite Room for Student digs. Available Sunday evening to Friday, not Available at weekends. Ideal if attending DCU. We are located 1km from the DCU campus, roughly a ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-02T01:36:24.493Z"
+    },
+    {
+      "id": "6660605",
+      "url": "https://www.rent.ie/rooms-to-rent/Ballinclea-Road-Killiney-Co-Dublin/6660605/",
+      "title": "Ballinclea Road, Killiney, Co. Dublin",
+      "price": "€200",
+      "area": "Killiney, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvZVwvY2U5MzAxMWYtMWRjYS00MGRmLWI3YTYtNTM3MTllOWQ5OTFjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5615da3fd372f3d4b9768fac52b5c185c1742c991d8c8d591e4b942b08ab56b2",
+      "description": "Double Bedroom Ensuite €200 weekly Owner Occupied Available 13th September - An independent older lady is seeking a kind and considerate person to share her home. • Private double room and own bathroom • Shared living areas: kitchen, living room, and ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-02T01:36:24.493Z"
     }
   ]
 }
