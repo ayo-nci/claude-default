@@ -1,78 +1,78 @@
 {
-  "fetchedAt": "2026-09-02T01:36:24.493Z",
+  "fetchedAt": "2026-09-04T01:34:22.487Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6660550",
-      "url": "https://www.rent.ie/rooms-to-rent/Colberts-Fort-Belgard-Road-Tallaght-Dublin-24/6660550/",
-      "title": "Colberts Fort, Belgard Road, Tallaght, Dublin 24",
+      "id": "6662908",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-11-House-8-Linden-Square-Grove-Avenue-Stillorgan-Co-Dublin/6662908/",
+      "title": "Apartment 11, House 8, Linden Square, Grove Avenue, Stillorgan, Co. Dublin",
+      "price": "€1,200 monthly",
+      "area": "House 8, Linden Square, Grove Avenue, Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMFwvYlwvMGI1ZDM5MTUtMmFjMC00NzE3LTljYmYtNjY0OGQwMTVhOWNmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0ee9192a9aa8a7393e7674216fa1d2c14b678149b1e9b6ffe54c75d506661bf0",
+      "description": "Double Bedroom Ensuite €1,200 monthly Available 1st October - Lovely master bedroom with king sized bed available in Linden Square. 3rd floor, very spacious, 2 bed apartment. Own en-suite bathroom and plenty of storage. Undergrou... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-04T01:34:22.487Z"
+    },
+    {
+      "id": "6662941",
+      "url": "https://www.rent.ie/rooms-to-rent/47-Boulevard-Mount-Eustace-Dublin-15-Tyrrelstown-Dublin-15/6662941/",
+      "title": "47 Boulevard, Mount Eustace, Dublin 15, Tyrrelstown, Dublin 15",
+      "price": "€750 monthly",
+      "area": "Mount Eustace, Dublin 15, Tyrrelstown, Dublin 15",
+      "imageUrl": null,
+      "description": "Double Bedroom Ensuite €750 monthly Available 10th September - Double room with bathroom in quiet location. Monthly rent plus deposit. Parking space, bus 40, Lidl, Tesco 5 min walk. Available from 10th September. View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-04T01:34:22.487Z"
+    },
+    {
+      "id": "6662861",
+      "url": "https://www.rent.ie/rooms-to-rent/Loreto-Abbey-Grange-Road-Rathfarnham-Dublin-14-Dublin-14/6662861/",
+      "title": "Loreto Abbey, Grange Road, Rathfarnham, Dublin 14, Dublin 14",
+      "price": "€1,050 monthly",
+      "area": "Grange Road, Rathfarnham, Dublin 14, Dublin 14",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvOVwvYTkzNjMxYTUtMTA0OS00ZDM2LTgyMDEtY2ExMGY0YzIwMDY4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3a036042047293306a26f97c2e15d92796642c2d64a2fb390bb1ac24bccbc743",
+      "description": "Double Bedroom Ensuite €1,050 monthly Available 1st October - Bright and cozy double bedroom available in Rathfarnham. The room is not ensuite, you’ll have exclusive use of a separate private bathroom. The room is available from late Sept... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-04T01:34:22.487Z"
+    },
+    {
+      "id": "6663005",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-305-Block-2b-Spencer-Place-Residential-IFSC-Dublin-1/6663005/",
+      "title": "Apartment 305, Block 2b, Spencer Place Residential, IFSC, Dublin 1",
+      "price": "€1,675 monthly",
+      "area": "Block 2b, Spencer Place Residential, IFSC, Dublin 1",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvNVwvODVlMzgzYjEtZDE5MC00YjExLTk0OTYtMDllZDNkMGU5ZjRlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=2034b3196b9dd67f35ea3ea0492f91db7676396a55b6bbe12a3521e0e204e449",
+      "description": "Single Bedroom Ensuite €1,675 monthly Available 10th September - OFFICIAL SPENCER PLACE RESIDENTIAL TENANCY – LONG-TERM REDUCED SEPTEMBER RENT: '1,173 for Sept 10–30 Modern furnished en-suite double room in a high-quality 2-bed, 2-b... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-04T01:34:22.487Z"
+    },
+    {
+      "id": "6663006",
+      "url": "https://www.rent.ie/rooms-to-rent/Chapelgate-Saint-Alphonsus-Road-Upper-Dublin-9-Drumcondra-Dublin-9/6663006/",
+      "title": "Chapelgate, Saint Alphonsus' Road Upper, Dublin 9, Drumcondra, Dublin 9",
       "price": "€1,000 monthly",
-      "area": "Belgard Road, Tallaght, Dublin 24",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvY1wvNGM0MmUxMmUtYmYwNi00YzZkLTgxOGMtZDU4OGNmNWUxZGM5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=dccce96ee06422edf47164f504d666bb1959a093da4f47be0f114815b50de8df",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available Now - A spacious double room is available on Belgard Road, right next to Burger King. This modern, newly built house is just a 5-minute walk from The Square Shopping Centre and the LUAS ... View full ad on Rent.ie",
+      "area": "Saint Alphonsus' Road Upper, Dublin 9, Drumcondra, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvZVwvMmVlZDQ1ZjAtNTBkOC00Y2YzLTkxMmMtYWE5MTk3NjNkY2ZmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6a92a876feb7b5e12de04f3a16f0b04dcf9aa46cdd9308e544287c465f5f5c47",
+      "description": "Double Bedroom Ensuite €1,000 monthly Available 1st October - Double room available in a relaxed, friendly apartment in Drumcondra, sharing with two working males, both aged 35. Rent is '1000 per month plus bills We’re looking for som... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-02T01:36:24.493Z"
+      "firstSeenAt": "2026-09-04T01:34:22.487Z"
     },
     {
-      "id": "6632079",
-      "url": "https://www.rent.ie/rooms-to-rent/Canon-Hall-Church-Street-East-East-Wall-Dublin-3/6632079/",
-      "title": "Canon Hall, Church Street East, East Wall, Dublin 3",
-      "price": "€1,300 monthly",
-      "area": "Church Street East, East Wall, Dublin 3",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvY1wvY2NlY2Y1NTc0NDE3MTg0YTA2NTMzMDJkZjkyNjBkOWMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=7a60e17441847b3e1a652606de251ff9d0012a0c289f4691ae7013e38aacd4a6",
-      "description": "Double Bedroom Ensuite €1,300 monthly Available Now - Master bedroom ensuite in a 2-bed-2-bath apartment for 1300 Euro per month. (bills not included) The apartment is modern spacious with large windows, located near IFSC and Grand Canal, suit for private, clean, and tidy. Looking for tenant (male or female) to share with another gentleman (professional working on sales) who is c... View full ad on Rent.ie",
+      "id": "6663018",
+      "url": "https://www.rent.ie/rooms-to-rent/Saggart-Co-Dublin-Saggart-Co-Dublin/6663018/",
+      "title": "Saggart, Co. Dublin, Saggart, Co. Dublin",
+      "price": "€800 monthly",
+      "area": "Co. Dublin, Saggart, Co. Dublin",
+      "imageUrl": null,
+      "description": "Double Bedroom Ensuite €800 monthly Owner Occupied Available 11th September - Extra Large double room with own ensuite. This property is advertised for a Sunday night to Thursday night. May suit someone employed in Dublin and travelling home the weekend ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-02T01:36:24.493Z"
-    },
-    {
-      "id": "6660558",
-      "url": "https://www.rent.ie/rooms-to-rent/13-Belmont-Lawn-Stillorgan-Blackrock-Co-Dublin-Stillorgan-Co-Dublin/6660558/",
-      "title": "13 Belmont Lawn, Stillorgan, Blackrock, Co. Dublin, Stillorgan, Co. Dublin",
-      "price": "€1,600 monthly",
-      "area": "Stillorgan, Blackrock, Co. Dublin, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvN1wvMjczZGVlOWMtZGZjOS00Mjc3LTkxMmQtZTFkNjE0ZmE4NGE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d306c3ab558a0c93809f9fbd510dbfb5b28510e00851e006b473209930860993",
-      "description": "Double Bedroom Ensuite €1,600 monthly Available Now - Spacious Ensuite Bedroom in Large detached house five minutes' walk from frequent bus route to city and UCD. King size bed and single bed '1,600 /month including all utilities View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-02T01:36:24.493Z"
-    },
-    {
-      "id": "6660588",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Grange-Residence-Brewery-Road-Stillorgan-Cherrywood-Co-Dublin/6660588/",
-      "title": "The Grange Residence, Brewery Road, Stillorgan, Cherrywood, Co. Dublin",
-      "price": "€1,500 monthly",
-      "area": "Brewery Road, Stillorgan, Cherrywood, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMVwvNjExOTEzODUtOWQwYS00ODUxLTkzNWYtYWM1M2ExMDgyMzU4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a7c36a7fba4bf8a4583bbe4371c181ee99cb903b7c052369063be011a7d899d8",
-      "description": "Double Bedroom Ensuite €1,500 monthly Available 1st October - I’m looking for a clean, tidy and easy-going person to share a lovely two-bedroom apartment in The Grange, Stillorgan. The apartment is on the 3rd floor and has a lovely view. T... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-02T01:36:24.493Z"
-    },
-    {
-      "id": "6660590",
-      "url": "https://www.rent.ie/rooms-to-rent/Shanowen-Road-Dublin-9-Whitehall-Dublin-9/6660590/",
-      "title": "Shanowen Road, Dublin 9, Whitehall, Dublin 9",
-      "price": "€175",
-      "area": "Dublin 9, Whitehall, Dublin 9",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvMFwvNjAwMDRmMjktMjllMS00NDQzLWFlMGItNjBjNjgyODg4NjFkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7b9e6a6d1f15f62c8895b4305d21c76180d871f7647994df4d01199c6e5d69c5",
-      "description": "Double Bedroom Ensuite €175 weekly Owner Occupied Available 7th September - Attic EnSuite Room for Student digs. Available Sunday evening to Friday, not Available at weekends. Ideal if attending DCU. We are located 1km from the DCU campus, roughly a ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-02T01:36:24.493Z"
-    },
-    {
-      "id": "6660605",
-      "url": "https://www.rent.ie/rooms-to-rent/Ballinclea-Road-Killiney-Co-Dublin/6660605/",
-      "title": "Ballinclea Road, Killiney, Co. Dublin",
-      "price": "€200",
-      "area": "Killiney, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvZVwvY2U5MzAxMWYtMWRjYS00MGRmLWI3YTYtNTM3MTllOWQ5OTFjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5615da3fd372f3d4b9768fac52b5c185c1742c991d8c8d591e4b942b08ab56b2",
-      "description": "Double Bedroom Ensuite €200 weekly Owner Occupied Available 13th September - An independent older lady is seeking a kind and considerate person to share her home. • Private double room and own bathroom • Shared living areas: kitchen, living room, and ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-02T01:36:24.493Z"
+      "firstSeenAt": "2026-09-04T01:34:22.487Z"
     }
   ]
 }
