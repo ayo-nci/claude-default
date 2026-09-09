@@ -1,78 +1,42 @@
 {
-  "fetchedAt": "2026-09-08T22:04:44.032Z",
+  "fetchedAt": "2026-09-09T15:24:12.348Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6666617",
-      "url": "https://www.rent.ie/rooms-to-rent/Kilreesk-Lane-Saint-Margarets-Co-Dublin-Kilshane-Cross-Dublin-11/6666617/",
-      "title": "Kilreesk Lane, Saint Margaret's, Co. Dublin, Kilshane Cross, Dublin 11",
-      "price": "€700 monthly",
-      "area": "Saint Margaret's, Co. Dublin, Kilshane Cross, Dublin 11",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvNFwvMTQ2NjBmMGItMDQxNS00MzhhLThkOGYtNjUwMWRhYTI4YmYzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e3b7bec6ca94276fa6c7942e7c310530f34807a2549ee4f735d5f52f1f98b577",
-      "description": "Single Bedroom Ensuite €700 monthly Owner Occupied Available 18th September - Modern dormer bungalow. Only 10 mins drive to Dublin Airport, M50 or Swords. Owner occupied by couple with one other renter - so 3 people currently living in house. Room has a double bed with plenty of wardrobe and drawer space. Ensuite with power shower. Office desk with seat in bedroom also. All new furnishings. Utility bills e... View full ad on Rent.ie",
+      "id": "6667160",
+      "url": "https://www.rent.ie/rooms-to-rent/Seapoint-Avenue-Blackrock-Co-Dublin-Monkstown-Co-Dublin/6667160/",
+      "title": "Seapoint Avenue, Blackrock, Co. Dublin, Monkstown, Co. Dublin",
+      "price": "€800 monthly",
+      "area": "Blackrock, Co. Dublin, Monkstown, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvY1wvMWM4MWY0ZmMtNzZlNy00NTViLWFlNjMtYjE3MzQzYTkzYTlkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=498e34bc92ee8b80c52a552344a641633c94f0ad8b565876fcfe8b127340ce8f",
+      "description": "Double Bedroom Ensuite €800 monthly Owner Occupied Available 27th September - Bright and large 2 bed, 2 bath apartment with unobstructed sea views, sharing with one young female professional. Open plan living area with modern kitchen. Electricity, ga... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-08T22:04:44.032Z"
+      "firstSeenAt": "2026-09-09T15:24:12.348Z"
     },
     {
-      "id": "6666618",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Cubes-Beacon-South-Quarter-Dublin-18-Stillorgan-Co-Dublin/6666618/",
-      "title": "The Cubes, Beacon South Quarter, Dublin 18, Stillorgan, Co. Dublin",
-      "price": "€1,495 monthly",
-      "area": "Beacon South Quarter, Dublin 18, Stillorgan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvYVwvNWFlYTg5ZmEtYjRhYy00ZDFjLWE4NTAtZjU4ODQ1NzM3YTVkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=127ac2f9c5d3c79b8a7ccf572e4f6c63e036a150964339958bfe0f384ca4bca7",
-      "description": "Double Bedroom Ensuite €1,495 monthly Available Now - A beautiful very well furnished double room in a luxury penthouse with extremely good public transport connection and or a car parking space (please let me know whether you need ... View full ad on Rent.ie",
+      "id": "6667185",
+      "url": "https://www.rent.ie/rooms-to-rent/Ramleh-Hallconvent-Avenuemount-Saint-Annesdublin-6-Milltown-Dublin-6/6667185/",
+      "title": "Ramleh Hall,convent Avenue,mount Saint Annes,dublin 6, Milltown, Dublin 6",
+      "price": "€260",
+      "area": "convent Avenue, mount Saint Annes, dublin 6, Milltown, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvNlwvYjZlNTJkODItMWVhOC00NGNkLWEyMmEtZjFkNjZmY2U3YTM4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=dbb2558f36965307335a5848a07801b1d68fe7a0a563400bdeba5dbb136d5e97",
+      "description": "Double Bedroom Ensuite €260 weekly Owner Occupied Available 11th September - Hello! I am looking to rent my spare room to one quiet, non-smoking mature person. One tenant only. The room is available from Friday 11th September 2026 until Friday18th Decemb... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-08T22:04:44.032Z"
+      "firstSeenAt": "2026-09-09T15:24:12.348Z"
     },
     {
-      "id": "6666670",
-      "url": "https://www.rent.ie/rooms-to-rent/Neptune-Apartments-Honey-Park-Dun-Laoghaire-Glenageary-Co-Dublin/6666670/",
-      "title": "Neptune Apartments, Honey Park, Dun Laoghaire, Glenageary, Co. Dublin",
-      "price": "€1,200 monthly",
-      "area": "Honey Park, Dun Laoghaire, Glenageary, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvYlwvOWI3Y2MzMTYtODhiOS00N2RmLTgwZDQtNmZlYzY3ODExNjNhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4ad49c6de27f3880f5b89c38fcb8b1bdcb2fe535a269642a7186d3cc8742c27c",
-      "description": "Double Bedroom €1,200 monthly Available Now - Double room in a 2-bedroom apartment available at Neptune Apartments at Honeypark. There are two possible arrangements: 1 ensuite double bedroom with a bathroom inside 1 double room with a bathroom opposite the room but that will be your own. 5 mins walk to a big Tesco, Costa, Boots, bus stop and several eateries and caf&eacute;s. 1 min... View full ad on Rent.ie",
+      "id": "6662867",
+      "url": "https://www.rent.ie/rooms-to-rent/Ravenswood-Clonsilla-Dublin-15-Clonee-Dublin-15/6662867/",
+      "title": "Ravenswood, Clonsilla, Dublin 15, Clonee, Dublin 15",
+      "price": "€280",
+      "area": "Clonsilla, Dublin 15, Clonee, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvMlwvMTIzNWRkZjctMTdkNS00ZTI2LTg4ZTctMTIzMmYwMzdiYTc3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=cdd88c1c714d742d7ce98f5cefc1327909392fb4919b69c1051825122b02da27",
+      "description": "Double Bedroom Ensuite €280 weekly Owner Occupied Available 14th September - Spacious double room available with it's own private bathroom. Large living room and large kitchen space with beautiful garden and peaceful private patio area to the rear. L... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-08T22:04:44.032Z"
-    },
-    {
-      "id": "6666677",
-      "url": "https://www.rent.ie/rooms-to-rent/Saint-Cathryns-Courtnewgrove-Avenuedublin-4-Sandymount-Dublin-4/6666677/",
-      "title": "Saint Cathryn's Court,newgrove Avenue,dublin 4, Sandymount, Dublin 4",
-      "price": "€980 monthly",
-      "area": "newgrove Avenue, dublin 4, Sandymount, Dublin 4",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvOFwvZjg3OTVmYTAtYjI5NS00YjJjLWEzM2YtYmZkMzlmMTI4ZDIwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8cd8bbb8cb7ab328e0b3d1342d467c5d70a33fa16fcc9de83eb46ffae7f5591b",
-      "description": "Double Bedroom Ensuite €980 monthly Available Now - Double room with ensuite available in a nice apartment. The apartment is located just between Sandymount green and the beach. Close to C1, C2 and 47 buses into the city center. A... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-08T22:04:44.032Z"
-    },
-    {
-      "id": "6666729",
-      "url": "https://www.rent.ie/rooms-to-rent/6a-Grotto-Place-Booterstown-Blackrock-Co-Dubli-Booterstown-Co-Dublin/6666729/",
-      "title": "6a Grotto Place, Booterstown, Blackrock, Co. Dubli, Booterstown, Co. Dublin",
-      "price": "€1,250 monthly",
-      "area": "Booterstown, Blackrock, Co. Dubli, Booterstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvOVwvZDk5ZTBlNWQtNTc2OC00YzFhLTkxOTYtNDI1NjEyMjViNmZmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c9f8e245734efc58575e10f27a71164776f5dc88df16c0d18427da544d0770a1",
-      "description": "Double Bedroom Ensuite €1,250 monthly Available 20th September - Beautiful 2 bedroom fully furnished and equipped townhouse, with sea views opposite Booterstown Dart station and main bus corridor. 20 mins walk to UCD & 10 mins walk to Smurfit... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-08T22:04:44.032Z"
-    },
-    {
-      "id": "6666714",
-      "url": "https://www.rent.ie/rooms-to-rent/Stocking-Wood-Walk-Stocking-Avenue-Dublin-16-Rathfarnham-Dublin-16/6666714/",
-      "title": "Stocking Wood Walk, Stocking Avenue, Dublin 16, Rathfarnham, Dublin 16",
-      "price": "€1,000 monthly",
-      "area": "Stocking Avenue, Dublin 16, Rathfarnham, Dublin 16",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvZFwvYmQ0ZTg3YWEtMGEyNS00ZWUyLTliYzAtZjNjMzEyNTJlNjQyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e69e488dfb218280258556a29cd61233a093a6c8926197b84251fcbf1c8bab7b",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 9th September - Bright, extra-large double bedroom on the second floor in a quiet residential home. Private en-suite bathroom for excellent privacy. Light, airy and ready for immediate mov... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-08T22:04:44.032Z"
+      "firstSeenAt": "2026-09-09T15:24:12.348Z"
     }
   ]
 }
