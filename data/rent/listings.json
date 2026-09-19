@@ -1,66 +1,30 @@
 {
-  "fetchedAt": "2026-09-16T22:25:46.967Z",
+  "fetchedAt": "2026-09-19T14:54:16.811Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6650746",
-      "url": "https://www.rent.ie/rooms-to-rent/Brennanstown-Wood-Brennanstown-Dublin-18/6650746/",
-      "title": "Brennanstown Wood, Brennanstown, Dublin 18",
-      "price": "€1,500 monthly",
-      "area": "Brennanstown, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvMFwvNzBmOGFjNzMtNDI1OC00MGQ3LThhNzAtNzM0YjZjZDZlNjhiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=330d85ece31eb75dca7329977cf5447f935a9d0675d1552ce5d92c418b758b1d",
-      "description": "Double Bedroom Ensuite €1,500 monthly Owner Occupied Available Now - Spacious Furnished Double Bedroom with Private Bathroom – Available Immediately A generous, fully furnished double bedroom is available in a modern A-rated home, located ... View full ad on Rent.ie",
+      "id": "6675342",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-14--Wyckham-Place-Wyckham-Way-Dundrum-Ballinteer-Dublin-16/6675342/",
+      "title": "Apartment 14 , Wyckham Place, Wyckham Way, Dundrum, Ballinteer, Dublin 16",
+      "price": "€1,122 monthly",
+      "area": "Wyckham Place, Wyckham Way, Dundrum, Ballinteer, Dublin 16",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvNFwvNzQyZDBjODYtNGM2Ni00NjAwLTk1N2QtYzg0ODI5OGM2NGVkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=04236f2d791287ecd10f18b559ce0c082d746ed99b16ba8989d9f16585dadedd",
+      "description": "Double Bedroom Ensuite €1,122 monthly Available Now - Double room available to rent with your own large bathroom (bath/shower and large mirror) in ground floor apartment in Dundrum. Suitable for single occupier or couple sharing.... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-16T22:25:46.967Z"
+      "firstSeenAt": "2026-09-19T14:54:16.811Z"
     },
     {
-      "id": "6626406",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Lansdowne-Block-Pembroke-Square-Grand-Canal-Grand-Canal-Dock-Dublin-2/6626406/",
-      "title": "The Lansdowne Block, Pembroke Square, Grand Canal, Grand Canal Dock, Dublin 2",
-      "price": "€1,250 monthly",
-      "area": "Pembroke Square, Grand Canal, Grand Canal Dock, Dublin 2",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvZFwvYWRlZTk3NGQtOGQ5ZS00NTczLTllMjctMTEyYzNhZDYwNWNlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=50193a8a325bc5c430f0fc822c6c3abcf4e14329185081e9caa468b12072927f",
-      "description": "Double Bedroom Ensuite €1,250 monthly Available 1st October - Double room available in Pembroke Square with private bathroom. Utilities are about 100-120 per month Dart station just around the corner. Pembroke Square is within stroll... View full ad on Rent.ie",
+      "id": "6673382",
+      "url": "https://www.rent.ie/rooms-to-rent/Huntstown-Dublin-15-Huntstown-Dublin-15/6673382/",
+      "title": "Huntstown, Dublin 15, Huntstown, Dublin 15",
+      "price": "€850 monthly",
+      "area": "Dublin 15, Huntstown, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvOFwvZjgxM2RlNzAtMzIwZS00ZTE5LWFjNDgtYTVkYTA2YjcxMWNmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6fb10331bb72194fd9c759e67ab6f65470b75b0e18b11a83d1ccf9a288d1c9d0",
+      "description": "Double Bedroom Ensuite €850 monthly Owner Occupied Available 1st November - Property Overview: We are offering a spacious ensuite double room available for rent in a stunning house located in a quiet, settled residential neighborhood in Dublin 15. Th... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-16T22:25:46.967Z"
-    },
-    {
-      "id": "6673341",
-      "url": "https://www.rent.ie/rooms-to-rent/1a-Hilltown-Green-Swords-Co-Dublin-Swords-Co-Dublin/6673341/",
-      "title": "1a Hilltown Green, Swords, Co. Dublin, Swords, Co. Dublin",
-      "price": "€900 monthly",
-      "area": "Swords, Co. Dublin, Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvY1wvNGMxZjk1NWEtODBhOS00Yzg0LTkwMTAtYmJlNTA3ZWViNTE2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f815266b7013f0191bd6165d3cebbd92638a2fc057be3aeab725ecf1f41b0120",
-      "description": "Double Bedroom Ensuite €900 monthly Available 17th October - High standard double room with private bathroom in 4 bedroom house ( the only room on the top floor. Double bed, 3 chest of drowers, cabinet, coffe table, leather chair, kettle, s... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-16T22:25:46.967Z"
-    },
-    {
-      "id": "6673345",
-      "url": "https://www.rent.ie/rooms-to-rent/Dublin-6-Rathmines-Dublin-6/6673345/",
-      "title": "Dublin 6, Rathmines, Dublin 6",
-      "price": "€1,250 monthly",
-      "area": "Rathmines, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvOVwvMTk5NTllNTItOTRlNC00ZmM0LWE1NzgtMGU2NmZlMThiMWVmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4bca5234b3463336ddeab58ddb07e1c1b511420ef7a3aabacd5126ded9317dbd",
-      "description": "Single Bedroom Ensuite €1,250 monthly Owner Occupied Available 1st November - I am looking for a housemate to share accommodation with me and a friendly cat Eva. The room that you will get is en-suite (shower + toilet), modern, furnished, and private. You wi... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-16T22:25:46.967Z"
-    },
-    {
-      "id": "6673363",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-56-Saunders-House-Spencer-Dock-Dublin-IFSC-Dublin-1/6673363/",
-      "title": "Apartment 56, Saunders House, Spencer Dock, Dublin, IFSC, Dublin 1",
-      "price": "€1,300 monthly",
-      "area": "Saunders House, Spencer Dock, Dublin, IFSC, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvOFwvODhhOTc0ZjQtMzA1Yy00MDU1LTgwMTktZDcyYzYxN2NhMDIzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8a920d17d20469aa230374d1cd6d0424bedbea8962c7b3540627eb2776edb157",
-      "description": "Double Bedroom Ensuite €1,300 monthly Available 21st September - Bright double room with three windows and a private bathroom, available in a shared apartment close to the city centre. You'd be sharing with one guy (the flatmate) in a spacious, light-filled apartment featuring a large living room, balconies on both ends of the flat, and a fully equipped kitchen. Details: • Room type: Do... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-16T22:25:46.967Z"
+      "firstSeenAt": "2026-09-19T14:54:16.811Z"
     }
   ]
 }
