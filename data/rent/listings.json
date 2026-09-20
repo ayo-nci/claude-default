@@ -1,54 +1,42 @@
 {
-  "fetchedAt": "2026-09-19T21:50:16.496Z",
+  "fetchedAt": "2026-09-20T14:58:19.823Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6675413",
-      "url": "https://www.rent.ie/rooms-to-rent/Phoenix-Park-Racecoursedublin-15-Navan-Road-D7-Dublin-7/6675413/",
-      "title": "Phoenix Park Racecourse,dublin 15, Navan Road (D7), Dublin 7",
-      "price": "€1,300 monthly",
-      "area": "dublin 15, Navan Road (D7), Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvYVwvNGE4MmFjNWMtNDhlYy00MDhlLThlOTYtMjg2YWVjZWVhODE4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f5db6939971aa10525172e8f862b02c0201749eec2d3954b85dcff53f196b93b",
-      "description": "Double Bedroom Ensuite €1,300 monthly Available 6th October - A beautiful two-bed, second-floor apartment presented in excellent condition. The property benefits from spacious, light-filled accommodation and a large southeast-facing enclosed balcony overlooking communal gardens. Accommodation: &middot; Entrance hall &middot; Spacious open-plan living/dining room &middot; Kitchen &middot; Two bedr... View full ad on Rent.ie",
+      "id": "6675578",
+      "url": "https://www.rent.ie/rooms-to-rent/Harry-Reynolds-Road-Balbriggan-Co-Dublin/6675578/",
+      "title": "Harry Reynolds Road, Balbriggan, Co. Dublin",
+      "price": "€170",
+      "area": "Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvY1wvMmNjYmY4ZDItZDM2Yy00OTJmLTg1N2MtNzc2ODdjZGY3MDJkLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=f8525e28474d50ae66dc952313e0b8454276bf242aa814b9a7c8a8ba413f621d",
+      "description": "Double Bedroom Ensuite €170 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 21st October - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-19T18:15:06.373Z"
+      "firstSeenAt": "2026-09-20T14:58:19.823Z"
     },
     {
-      "id": "6675424",
-      "url": "https://www.rent.ie/rooms-to-rent/114-Church-Road-Dublin-3-North-Wall-Dublin-1/6675424/",
-      "title": "114 Church Road, Dublin 3, North Wall, Dublin 1",
-      "price": "€550 monthly",
-      "area": "Dublin 3, North Wall, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvYlwvN2IyOGExNzUtOGQyNy00ZWM0LTk2ZTItNmZkY2YxZDQ1YmJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=a9bbfbc11b0353d7194e185e3fe23930bcde99f82b1763a6b99a541363f1b892",
-      "description": "Shared Bedroom Ensuite €550 monthly Available 22nd September - Nice ,clean bedroom which is shared with 1 man. Situated at rear of house at 1st floor level. Located on Church Road, East Wall, within easy reach of city centre, On Offer: Shared... View full ad on Rent.ie",
+      "id": "6675590",
+      "url": "https://www.rent.ie/rooms-to-rent/Minnowbrook-Terenure-Road-West-Terenure-Terenure-Dublin-6/6675590/",
+      "title": "Minnowbrook Terenure Road West Terenure, Terenure, Dublin 6",
+      "price": "€975 monthly",
+      "area": "Terenure, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvM1wvODNiOWFkYmMtNGFmNC00ZThjLTgwMjEtNTIzYmY4MDhiZjAwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e893c2bce1a0d99efaf60715f36523c1dae801097aa17f05ccaf62dc7a24f35b",
+      "description": "Double Bedroom Ensuite €975 monthly Available Now - Double en-suite bedroom to rent in a spacious 4 bedroom house in a quiet gated community in the middle of Terenure beside Garda Station. Only a minute walk from Terenure village, ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-19T18:15:06.373Z"
+      "firstSeenAt": "2026-09-20T14:58:19.823Z"
     },
     {
-      "id": "6675433",
-      "url": "https://www.rent.ie/rooms-to-rent/Foxfield-Grove-Raheny-Raheny-Dublin-5/6675433/",
-      "title": "Foxfield Grove, Raheny, Raheny, Dublin 5",
-      "price": "€1,925 monthly",
-      "area": "Raheny, Raheny, Dublin 5",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvZVwvMmU1M2M3ZWUtMDQxMy00ZjE0LWE5MjctMGFjNGQ1Y2NlYTRmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=efe4155cc3166b5b5eec6988a235007f46f2a3bdaf73b3530b391bd3d7b896ce",
-      "description": "Double Bedroom Ensuite €1,925 monthly Available 1st November - Bright and well-maintained apartment available from November 2026. The apartment offers a comfortable, relaxed living environment with shared living room and fully modern... View full ad on Rent.ie",
+      "id": "6675605",
+      "url": "https://www.rent.ie/rooms-to-rent/Saint-Brendans-Park-Dublin-5-Artane-Dublin-5/6675605/",
+      "title": "Saint Brendan's Park, Dublin 5, Artane, Dublin 5",
+      "price": "€800 monthly",
+      "area": "Dublin 5, Artane, Dublin 5",
+      "imageUrl": null,
+      "description": "Single Bedroom €800 monthly - Double Bedroom Ensuite €900 monthly - Double Bedroom €1,100 monthly Available 27th September - 3 Rooms Available | Artane, Dublin 5 | From '800pm Three bright rooms available in a clean, well-managed home in St Brendan’s Park, Artane, Dublin 5. Rooms * Large Single — '... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-19T18:15:06.373Z"
-    },
-    {
-      "id": "6673382",
-      "url": "https://www.rent.ie/rooms-to-rent/Huntstown-Dublin-15-Huntstown-Dublin-15/6673382/",
-      "title": "Huntstown, Dublin 15, Huntstown, Dublin 15",
-      "price": "€850 monthly",
-      "area": "Dublin 15, Huntstown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvOFwvZjgxM2RlNzAtMzIwZS00ZTE5LWFjNDgtYTVkYTA2YjcxMWNmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=6fb10331bb72194fd9c759e67ab6f65470b75b0e18b11a83d1ccf9a288d1c9d0",
-      "description": "Double Bedroom Ensuite €850 monthly Owner Occupied Available 1st November - Property Overview: We are offering a spacious ensuite double room available for rent in a stunning house located in a quiet, settled residential neighborhood in Dublin 15. Th... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-19T14:54:16.811Z"
+      "firstSeenAt": "2026-09-20T14:58:19.823Z"
     }
   ]
 }
