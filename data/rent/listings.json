@@ -1,42 +1,66 @@
 {
-  "fetchedAt": "2026-09-20T14:58:19.823Z",
+  "fetchedAt": "2026-09-22T22:27:25.544Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6675578",
-      "url": "https://www.rent.ie/rooms-to-rent/Harry-Reynolds-Road-Balbriggan-Co-Dublin/6675578/",
-      "title": "Harry Reynolds Road, Balbriggan, Co. Dublin",
-      "price": "€170",
-      "area": "Balbriggan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvY1wvMmNjYmY4ZDItZDM2Yy00OTJmLTg1N2MtNzc2ODdjZGY3MDJkLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=f8525e28474d50ae66dc952313e0b8454276bf242aa814b9a7c8a8ba413f621d",
-      "description": "Double Bedroom Ensuite €170 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 21st October - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "id": "6677728",
+      "url": "https://www.rent.ie/rooms-to-rent/Castleland-Park-Way-Balbriggan-Co-Dublin-Balbriggan-Co-Dublin/6677728/",
+      "title": "Castleland Park Way, Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "price": "€1,000 monthly",
+      "area": "Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvZFwvMWRlMmFkMDktZmIzZC00Y2NjLThhYWQtOTJiMDU0ZjFkOGEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=b425130efd55f84d177dcd601db12b0aa4788ad74083c28a108be6d4fd0ec198",
+      "description": "Single Bedroom Ensuite €1,000 monthly Available 23rd September - Available for 1 , or a couple, with a separate washroom, for 5 months. Duration: 01 Oct to 28 Feb (5 months) In the house: Washing machine, dryer, microwave, oven, refriger... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-20T14:58:19.823Z"
+      "firstSeenAt": "2026-09-22T22:27:25.544Z"
     },
     {
-      "id": "6675590",
-      "url": "https://www.rent.ie/rooms-to-rent/Minnowbrook-Terenure-Road-West-Terenure-Terenure-Dublin-6/6675590/",
-      "title": "Minnowbrook Terenure Road West Terenure, Terenure, Dublin 6",
-      "price": "€975 monthly",
-      "area": "Terenure, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvM1wvODNiOWFkYmMtNGFmNC00ZThjLTgwMjEtNTIzYmY4MDhiZjAwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=e893c2bce1a0d99efaf60715f36523c1dae801097aa17f05ccaf62dc7a24f35b",
-      "description": "Double Bedroom Ensuite €975 monthly Available Now - Double en-suite bedroom to rent in a spacious 4 bedroom house in a quiet gated community in the middle of Terenure beside Garda Station. Only a minute walk from Terenure village, ... View full ad on Rent.ie",
+      "id": "6677727",
+      "url": "https://www.rent.ie/rooms-to-rent/Grange-View-Road-Dublin-22-Grange-Castle-Co-Dublin/6677727/",
+      "title": "Grange View Road, Dublin 22, Grange Castle, Co. Dublin",
+      "price": "€950 monthly",
+      "area": "Dublin 22, Grange Castle, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvN1wvMTc4MTAwNGQtYWJlMi00M2FjLTk3MGQtODkxMTI2ZDU4ZWMyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=660e0ab5ad9200ebd3a3469e90b9bfc99dd3e8ba36c5b8679a0e95bfea2c0dcd",
+      "description": "Double Bedroom Ensuite €950 monthly - Double Bedroom Ensuite €1,100 monthly - Double Bedroom Ensuite €1,200 monthly Available 1st October - Spacious and bright bedrooms available in a friendly, clean and quiet residential home in the Clondalkin area. 3 rooms available: 2 rooms with private bathrooms 1 room wi... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-20T14:58:19.823Z"
+      "firstSeenAt": "2026-09-22T22:27:25.544Z"
     },
     {
-      "id": "6675605",
-      "url": "https://www.rent.ie/rooms-to-rent/Saint-Brendans-Park-Dublin-5-Artane-Dublin-5/6675605/",
-      "title": "Saint Brendan's Park, Dublin 5, Artane, Dublin 5",
-      "price": "€800 monthly",
-      "area": "Dublin 5, Artane, Dublin 5",
-      "imageUrl": null,
-      "description": "Single Bedroom €800 monthly - Double Bedroom Ensuite €900 monthly - Double Bedroom €1,100 monthly Available 27th September - 3 Rooms Available | Artane, Dublin 5 | From '800pm Three bright rooms available in a clean, well-managed home in St Brendan’s Park, Artane, Dublin 5. Rooms * Large Single — '... View full ad on Rent.ie",
+      "id": "6677753",
+      "url": "https://www.rent.ie/rooms-to-rent/Allendale-Glenclonsilladublin-15-Clonee-Dublin-15/6677753/",
+      "title": "Allendale Glen,clonsilla,dublin 15, Clonee, Dublin 15",
+      "price": "€1,100 monthly",
+      "area": "clonsilla, dublin 15, Clonee, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvMFwvODAyNjhmOGItYzU4Zi00NzZiLTkwMzgtOWUyYzVhMmIxNDMyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=c6b51474ed182bb3b3fa09c44710ef76b138cc28e19aef0de7a80c4604ebd966",
+      "description": "Double Bedroom Ensuite €1,100 monthly Available 1st October - DOUBLE BEDROOMS AVAILABLE IN CLONSILLA, BLANCHARDSTOWN, DUBLIN 15 Location: Prime residential area in Clonsilla, Blanchardstown, Dublin 15 Room Details: – In-suite ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-20T14:58:19.823Z"
+      "firstSeenAt": "2026-09-22T22:27:25.544Z"
+    },
+    {
+      "id": "6677746",
+      "url": "https://www.rent.ie/rooms-to-rent/12a-Cremore-Villas-Dublin-11-Finglas-Dublin-11/6677746/",
+      "title": "12a Cremore Villas, Dublin 11, Finglas, Dublin 11",
+      "price": "€1,300 monthly",
+      "area": "Dublin 11, Finglas, Dublin 11",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvNVwvMzU0MDJkZjYtNjUyNS00MDE0LWEzZGEtZjliMzczMzhiZTYzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=58ec28152c22508996a0f156fddad99dc6fd7a2ba09d2c0506f9655f885a10c6",
+      "description": "Double Bedroom Ensuite €1,300 monthly - Double Bedroom €1,100 monthly - Single Bedroom €1,000 monthly - Single Bedroom €900 monthly Available 25th September - Glasnevin: Old Glasnevin near village. 4 bedrooms available immediately in a shared detached house. BER A2. Walking distance to DCU,DCU Alpha, St Pat's Campus, Bon Secours H... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-22T22:27:25.544Z"
+    },
+    {
+      "id": "6677812",
+      "url": "https://www.rent.ie/rooms-to-rent/Foxwood-Barn-Dublin-24-Citywest-Co-Dublin/6677812/",
+      "title": "Foxwood Barn, Dublin 24, Citywest, Co. Dublin",
+      "price": "€1,050 monthly",
+      "area": "Dublin 24, Citywest, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvN1wvNTcwMDRiY2EtZWY5ZS00MTdkLTg4ZmItNWNhNjdhNzc3NTRkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0409f1de79df66f82b854af74fc338d2730602270ab975771f367aafac6d5966",
+      "description": "Double Bedroom Ensuite €1,050 monthly Owner Occupied Available 10th October - Spacious double room en-suite available in new A rated 2 bed 3 bath home , Citywest, South county Dublin incl. all bills (internet, electricity, tv license, waste collection et... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-22T22:27:25.544Z"
     }
   ]
 }
