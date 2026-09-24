@@ -1,42 +1,42 @@
 {
-  "fetchedAt": "2026-09-23T15:38:38.592Z",
+  "fetchedAt": "2026-09-24T08:48:03.542Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6677722",
-      "url": "https://www.rent.ie/rooms-to-rent/6-Northcliffe-Heights-Skerries-Co-Dublin-Skerries-Co-Dublin/6677722/",
-      "title": "6 Northcliffe Heights, Skerries, Co. Dublin, Skerries, Co. Dublin",
+      "id": "6678937",
+      "url": "https://www.rent.ie/rooms-to-rent/Glebe-Road-Kilternan-Dublin-18/6678937/",
+      "title": "Glebe Road, Kilternan, Dublin 18",
+      "price": "€275",
+      "area": "Kilternan, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvYlwvNGJiNDZmYThmZmEzY2I0ODgxNmIwY2Q2YTgzMzk2ZmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=7d1761d069388ac0f03159410e83839f80c03fb346852fccca0a9bac370343d4",
+      "description": "Single Bedroom Ensuite €275 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-24T08:48:03.542Z"
+    },
+    {
+      "id": "6678945",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-11-Smyths-Apartments-Callaghans-Lane-Monkstown-Co-Dublin/6678945/",
+      "title": "Apartment 11, Smyths Apartments, Callaghan's Lane, Monkstown, Co. Dublin",
       "price": "€1,000 monthly",
-      "area": "Skerries, Co. Dublin, Skerries, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvZFwvZmQ3ZGZlZTEtMjJiMC00OTcwLTljZDEtNmQxZDhhZGFhNGNmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=b7c3841d1f6bf6a0d3d286543c09f0dc3998591328db7d5916644272409e810d",
-      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available Now - A detached home beside the sea. A 20 min drive to Dublin airport. Bus stop 2 min from the house. Train a 15 min walk direct to city centre. Ensuite room in a quiet home. Shared kitchen ... View full ad on Rent.ie",
+      "area": "Smyths Apartments, Callaghan's Lane, Monkstown, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvMlwvYTI0NGYyNWEtYWNmZi00YTRjLTg3YmEtNTM3NzJlNzlkMDk5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4a4459de97b4941bceb84d5503630476b9c8f36ddbb5a24f675ed218f067034c",
+      "description": "Double Bedroom Ensuite €1,000 monthly Available 5th October - Lovely double bed en suite room available from 5 October 2026 in a three bedroom apartment renting with two clean males in a quiet building. When applying for this bedroom plea... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-23T15:38:38.592Z"
+      "firstSeenAt": "2026-09-24T08:48:03.542Z"
     },
     {
-      "id": "6678256",
-      "url": "https://www.rent.ie/rooms-to-rent/Smithfield-Market-Apartments-Block-A-Smithfield-Dublin-1/6678256/",
-      "title": "Smithfield Market Apartments, Block A, Smithfield, Dublin 1",
-      "price": "€350",
-      "area": "Block A, Smithfield, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvNlwvZjZlNzRjZGYtODM2Yy00YzNiLWJkMDEtYTg0NGRiOTEwYTZkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=82859f99796fa7b8d2bbc71ec9f1ffe5c1727de4d4fe8c9d3b26eb7120897f17",
-      "description": "Double Bedroom Ensuite €350 weekly Available Now - -- BEAUTIFUL EN-SUITE Double BEDROOM- .Move in Date Immediately. -Flexible with 2 to 3 months and can be Extend Further for 6 month/year. Beautiful 2 Bed Apartment in t... View full ad on Rent.ie",
+      "id": "6678989",
+      "url": "https://www.rent.ie/rooms-to-rent/Saint-Pappins-Road-Glasnevin-Dublin-11/6678989/",
+      "title": "Saint Pappins' Road, Glasnevin, Dublin 11",
+      "price": "€1,100 monthly",
+      "area": "Glasnevin, Dublin 11",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvMlwvNzJiNGM2ZTItN2FiOC00MjYxLWJmMmYtNzY1ODU1NDI2MWJiLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=751b4e65abbff5b703f4d608e7c036b6e319aa8f0b6af2ed6ca172f904452aa8",
+      "description": "Double Bedroom Ensuite €1,100 monthly Agent: Arkcon Available 1st October - Arkcon welcomes you to our brand new house share to let on the ever popular St Pappin Road. Please email your enquiry. Phone call enquires are not accepted due to high volume deman... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-23T15:38:38.592Z"
-    },
-    {
-      "id": "6678427",
-      "url": "https://www.rent.ie/rooms-to-rent/Delwood-Dublin-15-Coolmine-Dublin-15/6678427/",
-      "title": "Delwood Dublin 15, Coolmine, Dublin 15",
-      "price": "€1,165 monthly",
-      "area": "Coolmine, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvY1wvNmM3OTMzZjYtMGFlYi00ZGVmLTk4YTgtOWRmMjJkOGVhNTIwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=731f3d7edf698603534ba5dc4d05e19a4d7c7674363d4ebd47fe1a7e664fdb5b",
-      "description": "Single Bedroom Ensuite €1,165 monthly Owner Occupied Available 1st October - ACCOMMODATION TO LET – NEAR COOLMINE TRAIN STATION Self contained unit in a family house in quiet mature residential neighbourhood comprising of large room, private ensuite... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-23T15:38:38.592Z"
+      "firstSeenAt": "2026-09-24T08:48:03.542Z"
     }
   ]
 }
