@@ -1,42 +1,78 @@
 {
-  "fetchedAt": "2026-09-24T08:48:03.542Z",
+  "fetchedAt": "2026-09-24T15:59:16.477Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6678937",
-      "url": "https://www.rent.ie/rooms-to-rent/Glebe-Road-Kilternan-Dublin-18/6678937/",
-      "title": "Glebe Road, Kilternan, Dublin 18",
-      "price": "€275",
-      "area": "Kilternan, Dublin 18",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvYlwvNGJiNDZmYThmZmEzY2I0ODgxNmIwY2Q2YTgzMzk2ZmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=7d1761d069388ac0f03159410e83839f80c03fb346852fccca0a9bac370343d4",
-      "description": "Single Bedroom Ensuite €275 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available Now - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "id": "6679257",
+      "url": "https://www.rent.ie/rooms-to-rent/D20ft51-Palmerstown-Dublin-20/6679257/",
+      "title": "D20ft51, Palmerstown, Dublin 20",
+      "price": "€950 monthly",
+      "area": "Palmerstown, Dublin 20",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvOVwvNTk0Yzk5ODItYmNmNi00Y2YwLTk2OTctYzRhNzZkOTY3Nzc4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=9b08dccbc13cc6399585c1c8bdb114a50f7342de367a8db8ef99ee2e7a268091",
+      "description": "Single Bedroom Ensuite €950 monthly Owner Occupied Available Now - Annex garden room recently renovated to a high standard All inclusive of bills Separate Laundry room. View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-24T08:48:03.542Z"
+      "firstSeenAt": "2026-09-24T15:59:16.477Z"
     },
     {
-      "id": "6678945",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-11-Smyths-Apartments-Callaghans-Lane-Monkstown-Co-Dublin/6678945/",
-      "title": "Apartment 11, Smyths Apartments, Callaghan's Lane, Monkstown, Co. Dublin",
+      "id": "6679261",
+      "url": "https://www.rent.ie/rooms-to-rent/Latchford-Park-Castaheany-Dublin-15-Ongar-Dublin-15/6679261/",
+      "title": "Latchford Park, Castaheany, Dublin 15, Ongar, Dublin 15",
       "price": "€1,000 monthly",
-      "area": "Smyths Apartments, Callaghan's Lane, Monkstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYVwvMlwvYTI0NGYyNWEtYWNmZi00YTRjLTg3YmEtNTM3NzJlNzlkMDk5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=4a4459de97b4941bceb84d5503630476b9c8f36ddbb5a24f675ed218f067034c",
-      "description": "Double Bedroom Ensuite €1,000 monthly Available 5th October - Lovely double bed en suite room available from 5 October 2026 in a three bedroom apartment renting with two clean males in a quiet building. When applying for this bedroom plea... View full ad on Rent.ie",
+      "area": "Castaheany, Dublin 15, Ongar, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvY1wvYmMxMDMxYTktNTUzMi00YTZlLTg1ZjQtZmNiOGQ4Mjc1NmZiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=49544f069a4f0eb69850d75fef1fb2cdcdd1b792402b5504fc3a14e2d88a7d06",
+      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 1st October - ** NO EXTRA BILLS ** A bright and spacious double bedroom with a private bathroom is available in a well-kept, modern home at Latchford Park, Clonee. The property is owner occup... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-24T08:48:03.542Z"
+      "firstSeenAt": "2026-09-24T15:59:16.477Z"
     },
     {
-      "id": "6678989",
-      "url": "https://www.rent.ie/rooms-to-rent/Saint-Pappins-Road-Glasnevin-Dublin-11/6678989/",
-      "title": "Saint Pappins' Road, Glasnevin, Dublin 11",
-      "price": "€1,100 monthly",
-      "area": "Glasnevin, Dublin 11",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvMlwvNzJiNGM2ZTItN2FiOC00MjYxLWJmMmYtNzY1ODU1NDI2MWJiLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=751b4e65abbff5b703f4d608e7c036b6e319aa8f0b6af2ed6ca172f904452aa8",
-      "description": "Double Bedroom Ensuite €1,100 monthly Agent: Arkcon Available 1st October - Arkcon welcomes you to our brand new house share to let on the ever popular St Pappin Road. Please email your enquiry. Phone call enquires are not accepted due to high volume deman... View full ad on Rent.ie",
+      "id": "6679431",
+      "url": "https://www.rent.ie/rooms-to-rent/Lower-Kimmage-Road-Harolds-Cross-Dublin-6/6679431/",
+      "title": "Lower Kimmage Road, Harold's Cross, Dublin 6",
+      "price": "€1,150 monthly",
+      "area": "Harold's Cross, Dublin 6",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvN1wvOTc2MzY1NWU4YjZlMWRmOGQ4MDA3MGY5YzY4ZTQ5NjAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=ccaa9f5e5bc5b9e5561d30e0bb27803e607418d0411eb003eb6f3d3d6fe5e868",
+      "description": "Double Bedroom €1,150 monthly - Double Bedroom Ensuite €1,300 monthly Agent: McIntyre Property Consultants Available Now - *** AVAILABLE FOR 8X MONTHS UNTIL BEGINNING END MAY 2027 *** ALL BILLS INCLUDED- GAS, ELEC AND BROADBAND MCINTYRE PROPERTY CONSULTANTS PRESENT THIS STUNNING Edwardian r... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-24T08:48:03.542Z"
+      "firstSeenAt": "2026-09-24T15:59:16.477Z"
+    },
+    {
+      "id": "6679107",
+      "url": "https://www.rent.ie/rooms-to-rent/Block-C-Hamilton-Gardens-Dublin-7-Cabra-Dublin-7/6679107/",
+      "title": "Block C, Hamilton Gardens, Dublin 7, Cabra, Dublin 7",
+      "price": "€1,282 monthly",
+      "area": "Hamilton Gardens, Dublin 7, Cabra, Dublin 7",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvY1wvOGM1MmEzODMtMGUwYi00ZjhmLWFmMjgtYjhlMWI0YTk2MWI2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=33be2f5dc00210cb31c728ffae80833826d1120e4946ba42e61fd810ff70683e",
+      "description": "Double Bedroom Ensuite €1,282 monthly Available 25th October - Bright Spacious Double Room with Private En-Suite Hamilton Gardens, Dublin 7 Bright double room with **private en-suite** in a modern 2-bed apartment at Hamilton Gardens, ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-24T15:59:16.477Z"
+    },
+    {
+      "id": "6679567",
+      "url": "https://www.rent.ie/rooms-to-rent/Parker-House-Myrtle-Court-The-Coast-Dublin-13-Baldoyle-Dublin-13/6679567/",
+      "title": "Parker House, Myrtle Court, The Coast, Dublin 13, Baldoyle, Dublin 13",
+      "price": "€1,100 monthly",
+      "area": "Myrtle Court, The Coast, Dublin 13, Baldoyle, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvYlwvYmIyZDlkNTktNWY2Ni00MmFkLWFjMTUtMmI5OThhMzU4OThiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=974c352218ae2aa2c8aeaed73e3719d6c3cc472f21366b622309ab56cb55a385",
+      "description": "Double Bedroom Ensuite €1,100 monthly Owner Occupied Available 1st October - Bright and comfortable double room available in a quiet, pleasant neighbourhood. The room is furnished with a double bed and desk, and has its own private bathroom with shower... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-24T15:59:16.477Z"
+    },
+    {
+      "id": "6679154",
+      "url": "https://www.rent.ie/rooms-to-rent/Block-A-Park-House-Benson-Street-Dublin-2-Hanover-Quay-Dublin-2/6679154/",
+      "title": "Block A, Park House, Benson Street, Dublin 2, Hanover Quay, Dublin 2",
+      "price": "€1,320 monthly",
+      "area": "Park House, Benson Street, Dublin 2, Hanover Quay, Dublin 2",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvM1wvZDM4NjUwZTEtODI0ZS00NTBkLWE3ZTItMTA1MGYzMzUwYzcyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=eae04fbe6f7c909dd8489108d465c944a5f828f58208cd5933ca76c6a2dc9d9c",
+      "description": "Double Bedroom Ensuite €1,320 monthly Available 18th October - Ensuite Double Bedroom available in Modern 3 bed apartment. Available from 18th October Sharing with 2 female professionals in early 30s. Room Details: Ensuite Double... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-24T15:59:16.477Z"
     }
   ]
 }
