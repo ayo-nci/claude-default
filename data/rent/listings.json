@@ -1,54 +1,78 @@
 {
-  "fetchedAt": "2026-09-26T02:11:21.711Z",
+  "fetchedAt": "2026-09-26T15:11:54.601Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6680625",
-      "url": "https://www.rent.ie/rooms-to-rent/Chieftains-Drive-Balbriggan-Co-Dublin-Balbriggan-Co-Dublin/6680625/",
-      "title": "Chieftains Drive, Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
-      "price": "€850 monthly",
-      "area": "Balbriggan, Co. Dublin, Balbriggan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvNVwvNjU3MzkzOWEtMDIzMy00MjFhLWI4NDUtMjg4M2FhYzg5ODQzLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=058e3cbfd4a0accdb62ddaec5c764ce0739ee63b0f38dde0a58ab1e547c74cae",
-      "description": "Double Bedroom Ensuite €850 monthly Agent: Colman Grimes Estate Agents Available Now - ***COLMAN GRIMES ESTATE AGENTS*** LUXURIOUS ROOM RENTAL / ALL BILLS INCLUDED*** WE ARE DELIGHTED TO PRESENT DOUBLE ROOM WITH ENSUITE BATHROOM*** Accommodation comprises ... View full ad on Rent.ie",
+      "id": "6680808",
+      "url": "https://www.rent.ie/rooms-to-rent/Apartment-11-Hanover-Mills-Creighton-Street-Dub-Dublin-2/6680808/",
+      "title": "Apartment 11, Hanover Mills, Creighton Street, Dub, Dublin 2",
+      "price": "€1,740 monthly",
+      "area": "Hanover Mills, Creighton Street, Dub, Dublin 2",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvMlwvNTI4YmFjNTgtNDNmMS00NzQ4LWFhMjctMmQ2M2M0YzY4MDE4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d101ce95a32235f4bb992b319c08dc35e34e16478452fdb6d7e026e1ccade575",
+      "description": "Double Bedroom Ensuite €1,740 monthly Available 1st November - Large Ensuite Bedroom in Spacious 3-Bed Apartment – Grand Canal Dock Available from the end of October. I’m looking for someone to take over the largest bedroom with a private ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-26T02:11:21.711Z"
+      "firstSeenAt": "2026-09-26T15:11:54.601Z"
     },
     {
-      "id": "6680694",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-89-Block-E-Cedar-Square-Ridgewood-Sw-Swords-Co-Dublin/6680694/",
-      "title": "Apartment 89, Block E, Cedar Square, Ridgewood, Sw, Swords, Co. Dublin",
-      "price": "€900 monthly",
-      "area": "Block E, Cedar Square, Ridgewood, Sw, Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvZlwvZGZhYTk5YTQtMTA0Ni00Nzk5LTkwZGYtMjgwNDczNWY4NmFjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=04df9b5b7cdef25c2454af060763287281bfe72a4cee7e81ee7d0b833073f0a8",
-      "description": "Double Bedroom Ensuite €900 monthly Available 1st October - Large double room with a private en-suite bathroom in 2 bedrooms apartment. Looking for a full-time working professional who is clean, tidy and respectful. No parties, no... View full ad on Rent.ie",
+      "id": "6680814",
+      "url": "https://www.rent.ie/rooms-to-rent/25-Greenwood-Close-Dublin-13-Ayrfield-Dublin-13/6680814/",
+      "title": "25 Greenwood Close, Dublin 13, Ayrfield, Dublin 13",
+      "price": "€800 monthly",
+      "area": "Dublin 13, Ayrfield, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvYVwvOWE0YWY5ZTEtNzg0NS00ZDgyLWJkNTMtZDM1YThlN2ExZjA4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=75a897002923b4ab9c9b3828d4fd11c35652af8b19e1654c99d96e9adaa2e6cd",
+      "description": "Single Bedroom Ensuite €800 monthly Owner Occupied Available Now - Large bright Single Ensuite to rear of quiet house. Room has single bed bedside table chest of drawers double wardrobe study desk and lamp. Ensuite ... toilet basin very large sh... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-26T02:11:21.711Z"
+      "firstSeenAt": "2026-09-26T15:11:54.601Z"
     },
     {
-      "id": "6680706",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-96-Block-3-Custom-Hall-Gardiner-Stree-Dublin-1/6680706/",
-      "title": "Apartment 96, Block 3, Custom Hall, Gardiner Stree, Dublin 1",
-      "price": "€500 monthly",
-      "area": "Block 3, Custom Hall, Gardiner Stree, Dublin 1",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvOVwvYzk2MWVhNWMtY2Q2ZS00YjE3LWEyM2ItOGM0MTU4ZWZhOGJmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=7693c5a61c2df419a0a62256e8dc00f6f39c3d625384d1bd426545eca8a85e92",
-      "description": "Shared Bedroom Ensuite €500 monthly Owner Occupied Available Now - Short-term rental available strictly from September 25th to October 13th at Apartment 96, Block 3, Custom Hall, Gardiner Street Lower, Dublin 1 (D01RH26). This fully furnish... View full ad on Rent.ie",
+      "id": "6680806",
+      "url": "https://www.rent.ie/rooms-to-rent/Navan-Road-Dublin-7-Ashtown-Dublin-7/6680806/",
+      "title": "Navan Road, Dublin 7, Ashtown, Dublin 7",
+      "price": "€800 monthly",
+      "area": "Dublin 7, Ashtown, Dublin 7",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvYlwvNWI0MDhmMGYtMDMwYy00NTgxLTkyN2QtNjQwMGM0ZGNmNDZhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=805529b6b453c6b0a8288182c7d50e39e2d2fa5e8262eb899d7349dc87f84075",
+      "description": "Twin Bedroom Ensuite €800 monthly Owner Occupied Available Now - Beautifuly designed self Contained unit with own hall Door & light cooking facilities... would be better described as a small studio .. Suit Student Monday to Friday only !! View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-26T02:11:21.711Z"
+      "firstSeenAt": "2026-09-26T15:11:54.601Z"
     },
     {
-      "id": "6680715",
-      "url": "https://www.rent.ie/rooms-to-rent/Woodbine-Booterstown-Co-Dublin-Booterstown-Co-Dublin/6680715/",
-      "title": "Woodbine, Booterstown, Co. Dublin, Booterstown, Co. Dublin",
-      "price": "€1,700 monthly",
-      "area": "Booterstown, Co. Dublin, Booterstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvYlwvZWI3ZmZlZDktOTI0MS00Njc3LTg4MDQtYTZmYWI3YTMyZTQwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d96924b280d728bc34c400bbb71e55447ba19f01bde314d35527ec0af998ce78",
-      "description": "Double Bedroom Ensuite €1,700 monthly Available 28th September - **Please see video of property below.** Recently fully-renovated granny flat. Everything brand new with no previous tenants. Separate building to main house with own front... View full ad on Rent.ie",
+      "id": "6680849",
+      "url": "https://www.rent.ie/rooms-to-rent/94-Merrion-Road-Ballsbridge-Dublin-4/6680849/",
+      "title": "94 Merrion Road, Ballsbridge, Dublin 4",
+      "price": "€1,225 monthly",
+      "area": "Ballsbridge, Dublin 4",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOFwvOVwvODlkYWQ2NTQyOGJjYmM1YmFhNGUzMjZiYzg2ZGIyMTMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=36ec5da8888d0f580b453bb8ba386d15c77951aa8127ba43de859bd7ca406848",
+      "description": "Single Bedroom Ensuite €1,225 monthly Owner Occupied Available 1st October - Room available in a period house on Merrion Road in Ballsbridge. The house is close to St. Vincent's Hospital, The RDS, Ballsbridge Village, Aviva Statium, Meta Offices, Sandymount DART station. On bus Routes No. 4 and No. 7. Aircoach No. 702 Large en suite room to the front of the house on the first floor (6.6 m x 4.12 m) This r... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-26T02:11:21.711Z"
+      "firstSeenAt": "2026-09-26T15:11:54.601Z"
+    },
+    {
+      "id": "6680865",
+      "url": "https://www.rent.ie/rooms-to-rent/Esker-Meadows-Green-Lucan-Co-Dublin/6680865/",
+      "title": "Esker Meadows Green, Lucan, Co. Dublin",
+      "price": "€230",
+      "area": "Lucan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvNlwvMTZkNDIyY2NhMDRkNWUyYzA0MzkxM2U2ZjcwZjNiYzguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=75a25ed672a315a5670ba6a60c609c128d8db8f09e4aca72fad66fe20f8fa8c6",
+      "description": "Double Bedroom Ensuite €230 weekly Owner Occupied Agent: Dublin Host Families Available Now - Dublin Host Families are proud to offer a large en suite bedroom in this fabulous property located only 11 kilometres from Dublin City Centre. Ideally situated close to Lucan ... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-26T15:11:54.601Z"
+    },
+    {
+      "id": "6680884",
+      "url": "https://www.rent.ie/rooms-to-rent/Supervalu-The-Kestrel-Building-Block-9b-Heuston-Kilmainham-Dublin-8/6680884/",
+      "title": "Supervalu, The Kestrel Building Block 9b, Heuston, Kilmainham, Dublin 8",
+      "price": "€950 monthly",
+      "area": "The Kestrel Building Block 9b, Heuston, Kilmainham, Dublin 8",
+      "imageUrl": null,
+      "description": "Double Bedroom Ensuite €950 monthly Available Now - The room: Spacious bright double bedroom available immediately. The apartment is a three bed room all with en-suits located in Heuston South Quarter. Tenant with have their own... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-26T15:11:54.601Z"
     }
   ]
 }
