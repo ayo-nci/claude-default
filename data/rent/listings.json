@@ -1,54 +1,42 @@
 {
-  "fetchedAt": "2026-09-30T02:36:46.019Z",
+  "fetchedAt": "2026-09-30T10:02:24.170Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6683362",
-      "url": "https://www.rent.ie/rooms-to-rent/Clondalkin--Dublin-22-Clondalkin-Dublin-22/6683362/",
-      "title": "Clondalkin , Dublin 22, Clondalkin, Dublin 22",
+      "id": "6683483",
+      "url": "https://www.rent.ie/rooms-to-rent/47-Oakdale-Close-Dublin-24-Firhouse-Dublin-24/6683483/",
+      "title": "47 Oakdale Close, Dublin 24, Firhouse, Dublin 24",
+      "price": "€1,150 monthly",
+      "area": "Dublin 24, Firhouse, Dublin 24",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvOFwvYzgyNjc5MWItYzBlYS00MDU0LTg3YjAtNDYyZTFmOTg3OTIyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=afb3e6da9f2d44562eb997ae41bddbe31b2c19c20c446238a6607ab1df59f464",
+      "description": "Double Bedroom Ensuite €1,150 monthly Owner Occupied Available 24th October - A bright and well-maintained one-bedroom suite is now available, perfect a couple. This comfortable suite features a private bedroom, a clean and modern bathroom, and a cozy living area designed for both relaxation and everyday living. The space is well-lit with natural light and offers a warm, welcoming atmosphere. Located in... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-30T10:02:24.170Z"
+    },
+    {
+      "id": "6683580",
+      "url": "https://www.rent.ie/rooms-to-rent/Willow-Place-Cherrywood-Co-Dublin/6683580/",
+      "title": "Willow Place, Cherrywood, Co. Dublin",
+      "price": "€260",
+      "area": "Cherrywood, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvZVwvNmU5NjMxYTIyMGY2M2U3NTc3MTUzZDBiNGMyNjQ1NGMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=194deb1bee7116b7322d7f90782e7487d0d74c42f95c52521ccde90e8b779e69",
+      "description": "Double Bedroom Ensuite €260 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 1st November - street, in order to protect the landlord privacy. However, it still provides reliable information by indicating the correct area. Hosting Power - providing affordable acc... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-09-30T10:02:24.170Z"
+    },
+    {
+      "id": "6683647",
+      "url": "https://www.rent.ie/rooms-to-rent/28-Congress-Gardens-Glasthule-Dun-Laoghaire-Co-Sandycove-Co-Dublin/6683647/",
+      "title": "28 Congress Gardens, Glasthule, Dun Laoghaire, Co., Sandycove, Co. Dublin",
       "price": "€1,200 monthly",
-      "area": "Dublin 22, Clondalkin, Dublin 22",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvYVwvNWEzZjQxODgtYzI1Zi00NzRlLWE0YjgtMzkzZWM3ZTI2NjgzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d0af68e5b637a48e7bc923cc50222fe91425aaa98efdf0d89de8da4ccad60960",
-      "description": "Double Bedroom Ensuite €1,200 monthly Available Now - 1 Bed Room Granny Flat to let in Clondalkin Available A.s.a.p 1200 euro Month 1 months rent 1 months Deposit Own Entrance Bus stop 2 minute walk away W 2 and G1 and G2 .. L53 ... View full ad on Rent.ie",
+      "area": "Glasthule, Dun Laoghaire, Co., Sandycove, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvZVwvM2VkZDQxMTUtZGNiZC00NjU1LWIyNDgtOTM3YzBjZTg3ZTQyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=1426714b9e2b75a19b334af3f73b1d24e090376d8d932ad58e7544a50e00433c",
+      "description": "Double Bedroom Ensuite €1,200 monthly Owner Occupied Available 14th October - Stunning mid-terrace home located in the heart of Glasthule! This superb home has been modernised, upgraded and extended to offer light filled open plan living. The property is... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-09-30T02:36:46.019Z"
-    },
-    {
-      "id": "6683385",
-      "url": "https://www.rent.ie/rooms-to-rent/Flat-1-97-North-Circular-Road-Dublin-7-North-Circular-Road-Dublin-7/6683385/",
-      "title": "Flat 1, 97 North Circular Road, Dublin 7, North Circular Road, Dublin 7",
-      "price": "€900 monthly",
-      "area": "97 North Circular Road, Dublin 7, North Circular Road, Dublin 7",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvNVwvZTVlM2YwMGYtODVhMS00MGI3LWFkMmEtM2VjNjczZTBjODQ2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=13977032c86e4e00dc9cee4afcb2ce6f56fb4e589427821db94ece40c650ca79",
-      "description": "Twin Bedroom Ensuite €900 monthly Available Now - Recommended for those seeking a medium-term stay for the academic year (Oct'26 – June '27). ***We currently have 5 studios available at the same address; please view all the photos.*** ***All studios have their own bathroom/shower and kitchenette.*** All-inclusive accommodation, so our guests can enjoy hassle-free l... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-30T02:36:46.019Z"
-    },
-    {
-      "id": "6683405",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Bottle-Works-Dermot-Ohurley-Avenue-Dublin-4-Irishtown-Dublin-4/6683405/",
-      "title": "The Bottle Works, Dermot O'hurley Avenue, Dublin 4, Irishtown, Dublin 4",
-      "price": "€1,400 monthly",
-      "area": "Dermot O'hurley Avenue, Dublin 4, Irishtown, Dublin 4",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvMlwvYjIxMWZmYjEtMmY1OS00ZGQzLTk2ZWYtMmJkOTQzZmY0NTQ4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5ff6b20a772919fa6219268dc034abf9fbbb9e73cb542a619c273a9edc775972",
-      "description": "Double Bedroom Ensuite €1,400 monthly Available 1st October - About the Apartment 2 Bright Bedrooms 2 Bathrooms Fully Equipped kitchen & living space Amazing views The Location (Dublin 4) 10 mins walking to the Google Docks offices... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-30T02:36:46.019Z"
-    },
-    {
-      "id": "6683436",
-      "url": "https://www.rent.ie/rooms-to-rent/Synod-Place-Lusk-Co-Dublin/6683436/",
-      "title": "Synod Place, Lusk, Co. Dublin",
-      "price": "€750 monthly",
-      "area": "Lusk, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvM1wvZTNmNjc5NWIwYTVmMWRjYjUzNjcwMzI3MzMzOTM0N2YuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=c661e6a034f471d6181b0e2820a1c67ce6a865d397c2bf587755e3bacd92912f",
-      "description": "Double Bedroom Ensuite €750 monthly Owner Occupied Available 1st November - Large en suite double bedroom available to rent in 2 bed owner occupier apartment. Room has been freshly painted and is 5 min walk to bus stop and Lidl. 15 min walk to train station. ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-09-30T02:36:46.019Z"
+      "firstSeenAt": "2026-09-30T10:02:24.170Z"
     },
     {
       "id": "6683435",
