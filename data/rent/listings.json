@@ -1,90 +1,66 @@
 {
-  "fetchedAt": "2026-10-04T03:02:17.247Z",
+  "fetchedAt": "2026-10-05T10:54:46.199Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6686627",
-      "url": "https://www.rent.ie/rooms-to-rent/15-Woodbank-Dublin-18-Loughlinstown-Co-Dublin/6686627/",
-      "title": "15 Woodbank, Dublin 18, Loughlinstown, Co. Dublin",
+      "id": "6687529",
+      "url": "https://www.rent.ie/rooms-to-rent/Temple-View-Copse-Clarehall-Dublin-13/6687529/",
+      "title": "Temple View Copse, Clarehall, Dublin 13",
+      "price": "€190",
+      "area": "Clarehall, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvZVwvY2U2NjNiMDQxYzUwYjE5Mjk2MTY5NjA5NmE0MzdkYzMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=fb8ba9b97d6d81bb07854438bd69488b00c5aae120a45a5a46dedf64a4d0b6b3",
+      "description": "Double Bedroom Ensuite €190 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 15th December - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-10-05T10:54:46.199Z"
+    },
+    {
+      "id": "6687546",
+      "url": "https://www.rent.ie/rooms-to-rent/Rockview-Sandyford-Dublin-18/6687546/",
+      "title": "Rockview, Sandyford, Dublin 18",
+      "price": "€220",
+      "area": "Sandyford, Dublin 18",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiY1wvOVwvYzk2ODUwYjMyZTAwYjA5NzEwMmY5OTE3NjkzOWI1MGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=b88d53bf27fca0bca72afd876c8fee7cace131f140d7f39d4cfa3e51b8de057b",
+      "description": "Double Bedroom Ensuite €220 weekly Owner Occupied Agent: Hosting Power / hostingpower.ie Available 7th January - Please note that the pinpoint shown is not the exact property location or street, in order to protect the landlord privacy. However, it still provides reliable information by i... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-10-05T10:54:46.199Z"
+    },
+    {
+      "id": "6687624",
+      "url": "https://www.rent.ie/rooms-to-rent/Villarea-Park-Dun-Laoghaire-Co-Dublin/6687624/",
+      "title": "Villarea Park, Dun Laoghaire, Co. Dublin",
+      "price": "€900 monthly",
+      "area": "Dun Laoghaire, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvMlwvMjJmMWM4NzktN2ZjZi00NGYzLTk5MzItODVjYTM1MzNjODE4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=31f2650da5a7bb4d6b1546d924f89b588fd3174a7186251ced70f8d4373ab7e8",
+      "description": "Single Bedroom Ensuite €900 monthly Owner Occupied Available Now - *Escape the daily Dublin commute*. Warm and comfortable loft available to rent 1 min from Glenageary Dart and 3 mins walk to Glasthule Village and the sea. Rental for a professio... View full ad on Rent.ie",
+      "agent": null,
+      "agentPhone": null,
+      "firstSeenAt": "2026-10-05T10:54:46.199Z"
+    },
+    {
+      "id": "6687674",
+      "url": "https://www.rent.ie/rooms-to-rent/Crumlin-Road-Crumlin-Dublin-12/6687674/",
+      "title": "Crumlin Road, Crumlin, Dublin 12",
       "price": "€1,200 monthly",
-      "area": "Dublin 18, Loughlinstown, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvY1wvNmNjMDUxMzYtYzJmMi00ZGIzLWEyNjQtNTg4NWE2OThiOWRkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=f0de45f55c0dd8e1ad696bd71c3ac7b82210a7247b05500d7ee45608a3fbe09d",
-      "description": "Double Bedroom Ensuite €1,200 monthly Owner Occupied Available Now - Double bedroom with adjacent bathroom and study room. Private house in settled neighbourhood. We are a retired couple sharing the house with you. There is a bus service E1 to city centre one minute walk away . There is also the DART 10 minutes and a bus that takes you to the Luas in 10 minutes. Shankill has many walks and is adjacent to ... View full ad on Rent.ie",
+      "area": "Crumlin, Dublin 12",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNlwvYlwvNmJkNjc0ZTYtNTQ4ZS00ZjM5LTg0ZDQtNTg0MGQ0OWMyZmVmLkpQRUciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIzNDAiLCJoZWlnaHQiOiIyNTUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6Im5vcnRod2VzdCJ9LCJrZXkiOiJ3YXRlcm1hcmstcmVudC1sb2dvLXNtYWxsLnBuZyJ9fX0=?signature=428aad313256b737eeb485a7ea521800d0ead5553b5b73ccfbdbd5883d2360cc",
+      "description": "Double Bedroom Ensuite €1,200 monthly Agent: Arkcon Available 8th October - Arkcon welcomes you to our recently renovated house to let on the ever popular Crumlin Road. Please email your enquiry. Phone call enquires are not accepted due to high volume de... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-10-04T03:02:17.247Z"
+      "firstSeenAt": "2026-10-05T10:54:46.199Z"
     },
     {
-      "id": "6686805",
-      "url": "https://www.rent.ie/rooms-to-rent/Saint-Endas-Road-Dublin-6-Rathgar-Dublin-6/6686805/",
-      "title": "Saint Enda's Road, Dublin 6, Rathgar, Dublin 6",
-      "price": "€1,440 monthly",
-      "area": "Dublin 6, Rathgar, Dublin 6",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvZlwvN2Y1MDA1MGYtMTFmYS00NTJhLTlkNjktZTA1OTdiMGE5ZTlhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=fffd4c667cb7790c66d37d61719fe3cc9ed6148951f0bb7d7453ab92c9b5a9a7",
-      "description": "Twin Bedroom Ensuite €1,440 monthly - Double Bedroom Ensuite €1,400 monthly - Double Bedroom €1,310 monthly - Double Bedroom Ensuite €950 monthly Available Now - Ready for immediate move-in, long term lease. We are delighted to present this spacious 4-bedroom property located in the heart of Dublin 6 now available for immediate occup... View full ad on Rent.ie",
+      "id": "6687222",
+      "url": "https://www.rent.ie/rooms-to-rent/The-Coast-Dublin-13-Baldoyle-Dublin-13/6687222/",
+      "title": "The Coast, Dublin 13, Baldoyle, Dublin 13",
+      "price": "€1,000 monthly",
+      "area": "Dublin 13, Baldoyle, Dublin 13",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvY1wvNWM0OWYzY2QtNThmZS00ODhmLWJjNDctYzcwNjE1MWU2YjFkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=01371c55ef72cd827afc3c9eb073c2b7a90e512c2475bd8a61c6908dffc472a1",
+      "description": "Double Bedroom Ensuite €1,000 monthly Owner Occupied Available 1st November - Spacious large double bedroom for rent in baldoyle, coast area , Dublin 13, 10 min walk to clongriffin DART station for train to city centre, which takes 20 mins to city centre. Pr... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-10-04T03:02:17.247Z"
-    },
-    {
-      "id": "6686816",
-      "url": "https://www.rent.ie/rooms-to-rent/21-Cherryfield-Court-Hartstown-Dublin-15-Hartstown-Dublin-15/6686816/",
-      "title": "21 Cherryfield Court, Hartstown, Dublin 15, Hartstown, Dublin 15",
-      "price": "€175",
-      "area": "Hartstown, Dublin 15, Hartstown, Dublin 15",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvY1wvOWNhMjlhNTEtOTU3Yi00ODE2LWFiMjktNjQxZDA5Nzg5MmZmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3b759f2db83828be97b9613bfae7508e664a9c790d866e85029f8351d6b83047",
-      "description": "Single Bedroom Ensuite €175 weekly Owner Occupied Available 8th October - The property is seperate to main house. Has two bedroom and bathroom, sharing with one other person. Has own kitchen/living room and own entrance. Double doors to garden. 5 mins ... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-10-04T03:02:17.247Z"
-    },
-    {
-      "id": "6686814",
-      "url": "https://www.rent.ie/rooms-to-rent/Apartment-605-Beacon-One-Beacon-Court-Dublin-18-Dundrum-Dublin-14/6686814/",
-      "title": "Apartment 605, Beacon One, Beacon Court, Dublin 18, Dundrum, Dublin 14",
-      "price": "€1,600 monthly",
-      "area": "Beacon One, Beacon Court, Dublin 18, Dundrum, Dublin 14",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvY1wvNGNiNTAwNDMtNmEwNC00ZTk0LTg0YjAtZGMwYzBlYzk2M2ZmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3d79c0eaf9b4cb792e3316882e2d25685fc517c8597fa6d542e607a29283c37e",
-      "description": "Double Bedroom Ensuite €1,600 monthly Owner Occupied Available 6th October - Bright, spacious room available in a beautifully presented apartment in Beacon South Quarter, Sandyford. The apartment has been furnished and finished to a very high stand... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-10-04T03:02:17.247Z"
-    },
-    {
-      "id": "6686822",
-      "url": "https://www.rent.ie/rooms-to-rent/Maryfield-Drive-Beaumont-Dublin-5/6686822/",
-      "title": "Maryfield Drive, Beaumont, Dublin 5",
-      "price": "€250",
-      "area": "Beaumont, Dublin 5",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiOVwvY1wvOWMwZTliZGQtYTYxYS00ZjUxLTg0NjktMTQyYjRmN2Q4ZjA3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=60967009177515a8e126064491421b66b27342e7898fa11eed2cb31e69a079ce",
-      "description": "Double Bedroom Ensuite €250 weekly Owner Occupied Available Now - A bright, comfortable ensuite double room with its own private bathroom is available immediately in a spacious and welcoming house located in a quiet, friendly residential ne... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-10-04T03:02:17.247Z"
-    },
-    {
-      "id": "6683334",
-      "url": "https://www.rent.ie/rooms-to-rent/Domville-Dublin-18-Cherrywood-Co-Dublin/6683334/",
-      "title": "Domville, Dublin 18, Cherrywood, Co. Dublin",
-      "price": "€1,200 monthly",
-      "area": "Dublin 18, Cherrywood, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiM1wvY1wvM2MzNGU0MmUtOTJiZi00YWFiLTg5YzAtMmNmMTlhMDNmOWIxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0751d9952baf289753a2b5a80af178051a0a934ecfd8df2f48e2f5d87cc83d19",
-      "description": "Double Bedroom Ensuite €1,200 monthly Available 1st December - Bright double room with private bathroom in Domville, Cherrywood D18. 8 min walk to Cherrywood LUAS and Tesco. • Freshly furnished double room, built-in closet, your own bat... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-10-04T03:02:17.247Z"
-    },
-    {
-      "id": "6686834",
-      "url": "https://www.rent.ie/rooms-to-rent/Churchwell-Close-Belmayne-Dublin-13-Clongriffin-Dublin-13/6686834/",
-      "title": "Churchwell Close, Belmayne, Dublin 13, Clongriffin, Dublin 13",
-      "price": "€1,345 monthly",
-      "area": "Belmayne, Dublin 13, Clongriffin, Dublin 13",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvZVwvN2U4MjFhMTctYTVmNC00YzRhLTgyNWUtYjcwYjYwMWI3YTYzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=8ab93978ef26bfead9b08b441d779ef933fc12c17b5adb62873e0cc768671323",
-      "description": "Double Bedroom Ensuite €1,345 monthly Available 7th October - Ensuite King Room in Spacious 3-Bedroom Apartment Enjoy a comfortable ensuite king room in a spacious 3-bedroom apartment, ideally located with excellent access to shoppin... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-10-04T03:02:17.247Z"
+      "firstSeenAt": "2026-10-05T10:54:46.199Z"
     }
   ]
 }
