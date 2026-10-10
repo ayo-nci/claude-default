@@ -1,66 +1,42 @@
 {
-  "fetchedAt": "2026-10-08T18:02:59.628Z",
+  "fetchedAt": "2026-10-10T02:56:53.902Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6692077",
-      "url": "https://www.rent.ie/rooms-to-rent/Grange-View-Road-Dublin-22-Grange-Castle-Co-Dublin/6692077/",
-      "title": "Grange View Road, Dublin 22, Grange Castle, Co. Dublin",
-      "price": "€1,050 monthly",
-      "area": "Dublin 22, Grange Castle, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMVwvYVwvMWEwMTQ4ODYtNDczMy00NzAwLWE1MTMtOGVlNjZlYTIxZmRjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=519022101bc681c7158d4582968b0da29a2a3e40f21d8c6348807f513dee91d2",
-      "description": "Double Bedroom Ensuite €1,050 monthly - Double Bedroom Ensuite €900 monthly Available Now - Spacious and bright bedrooms available in a friendly, clean and quiet residential home in the Clondalkin area. 2 rooms available: 1 room with private bathrooms/toilet 1 ... View full ad on Rent.ie",
+      "id": "6693365",
+      "url": "https://www.rent.ie/rooms-to-rent/Beacon-South-Quarter-Dublin-18-Stillorgan-Co-Dublin/6693365/",
+      "title": "Beacon South Quarter, Dublin 18, Stillorgan, Co. Dublin",
+      "price": "€1,450 monthly",
+      "area": "Dublin 18, Stillorgan, Co. Dublin",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiN1wvOFwvNzg5OTE3MzYtOWM2OC00YzMzLTk4NTktYWFjNjJhNDk2MmYzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=d24f09ca36aa7cd2f15d6a1554729b44dce86169f32fefc00e69308875c93ad9",
+      "description": "Double Bedroom Ensuite €1,450 monthly Available 14th October - Available Immediately | Sharing with One Other Person A bright, spacious double ensuite room with a private balcony is available in a modern, fully furnished 2-bedroom duplex apartment in Beacon South Quarter, Sandyford. The apartment is shared with just one other person who values a clean, peaceful, and well-maintained h... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-10-08T18:02:59.628Z"
+      "firstSeenAt": "2026-10-10T02:56:53.902Z"
     },
     {
-      "id": "6692185",
-      "url": "https://www.rent.ie/rooms-to-rent/Block-2-Castleview-Naas-Road-Bluebell-Bluebell-Dublin-12/6692185/",
-      "title": "Block 2, Castleview, Naas Road, Bluebell, Bluebell, Dublin 12",
-      "price": "€1,328 monthly",
-      "area": "Castleview, Naas Road, Bluebell, Bluebell, Dublin 12",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvOVwvNTk2YzNhMDAtOWVjNi00NGEwLTliMTEtZTYzNDI0NmUyOTIwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=dc20495f75396d457f83e458cdf399a9dfdf1585a0b233a0a773f41b3f7873b2",
-      "description": "Double Bedroom Ensuite €1,328 monthly Available 1st November - Hi I am a doctor working in Dublin and my roommate is moving by the end of May. The room will be available from the 1st June I have a nice and calm British short hair cat and looking for someone who is also a cat lover. I am an easy, outgoing, and social person I am looking for someone, must be an outgoing, sociable person, LGBT friendly may... View full ad on Rent.ie",
+      "id": "6693599",
+      "url": "https://www.rent.ie/rooms-to-rent/Caulfield-Gate-Griffith-Wood-Dublin-9-Whitehall-Dublin-9/6693599/",
+      "title": "Caulfield Gate, Griffith Wood, Dublin 9, Whitehall, Dublin 9",
+      "price": "€1,400 monthly",
+      "area": "Griffith Wood, Dublin 9, Whitehall, Dublin 9",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvOFwvZDg3OWRiNDktZDc3Ni00MjU2LTkxMTktZDgyNjJjYzJiMTQ5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=96ef50ddefb959e9b91928cfbe661fd77b00572beb677d9f78fed8d53ed8be08",
+      "description": "Double Bedroom Ensuite €1,400 monthly Available 1st January - Lovely apartment with a really nice room available in a quiet, relaxed and comfortable home. I’m 26 years old and work full-time, so I tend to be out of the apartment quite a bit. ... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-10-08T18:02:59.628Z"
+      "firstSeenAt": "2026-10-10T02:56:53.902Z"
     },
     {
-      "id": "6692426",
-      "url": "https://www.rent.ie/rooms-to-rent/Kingswood-Heights-Dublin-24-Kilnamanagh-Dublin-24/6692426/",
-      "title": "Kingswood Heights, Dublin 24, Kilnamanagh, Dublin 24",
-      "price": "€1,330 monthly",
-      "area": "Dublin 24, Kilnamanagh, Dublin 24",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiYlwvZVwvYmVlMzc0NWItMGJkNS00MDA2LTliOWYtZmNjZGJkZmRmZTI2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=939d89ed4f1c4faa67f8eca9ceba865d08b769a6f038212e0759e0921e3b267a",
-      "description": "Single Bedroom Ensuite €1,330 monthly Owner Occupied Available Now - Rent-A-Room Availability in Kingswood Heights, short walk to Kingswood Luas Stop. Attractive, newly refurbished, excellent condition, self-contained accommodation w... View full ad on Rent.ie",
+      "id": "6693616",
+      "url": "https://www.rent.ie/rooms-to-rent/Mayor-Street-Upper-Dublin-1-IFSC-Dublin-1/6693616/",
+      "title": "Mayor Street Upper, Dublin 1, IFSC, Dublin 1",
+      "price": "€900",
+      "area": "Dublin 1, IFSC, Dublin 1",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNFwvMlwvNDIyNDQyOWItNzlmNy00YTM5LTg4YzQtMzdjNzBiYzRlNTc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=5e5750e97fa18ba0019b275c16e2e56ec30d0bc56389ff575c556c359c9f5b04",
+      "description": "Double Bedroom Ensuite €900 weekly Available 17th October - SHORT TERM LET: 17 October to 25 October 2026 (8 nights) Large ENSUITE double room, only 1 other flatmate Dublin 1, 100 m from the Salesforce office EUR 900 for the whole stay, A... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-10-08T18:02:59.628Z"
-    },
-    {
-      "id": "6675677",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Elms-Ridgewood-Swords-Co-Dublin/6675677/",
-      "title": "The Elms, Ridgewood, Swords, Co. Dublin",
-      "price": "€800 monthly",
-      "area": "Ridgewood, Swords, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiMlwvNlwvMjY1NTJjYTk4YjQyNjM0MDg1MmVmYTc2NDc5MzY3M2QuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMzQwIiwiaGVpZ2h0IjoiMjU1In0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6Im1lZGlhbWFzdGVyLXMzZXUiLCJvcHRpb25zIjp7ImdyYXZpdHkiOiJub3J0aHdlc3QifSwia2V5Ijoid2F0ZXJtYXJrLXJlbnQtbG9nby1zbWFsbC5wbmcifX19?signature=7beac64bfcdd2a836b7caa7d9411207dd4c369be12800cc3f72b6be99b0197da",
-      "description": "Double Bedroom Ensuite €800 monthly Available 2nd November - Nice double bedroom with private bathroom available for rent in a comfortable house in Swords area. Tesco Express, SuperValu, Aldi, Verve Gym and Airside Retail Park all within... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-10-08T18:02:59.628Z"
-    },
-    {
-      "id": "6691491",
-      "url": "https://www.rent.ie/rooms-to-rent/27-The-Lodge-Mount-Argus-Mill-Dublin-6w-Harolds-Cross-Dublin-6w/6691491/",
-      "title": "27 The Lodge, Mount Argus Mill, Dublin 6w, Harold's Cross, Dublin 6w",
-      "price": "€1,285 monthly",
-      "area": "Mount Argus Mill, Dublin 6w, Harold's Cross, Dublin 6w",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZVwvZFwvZWRjOThhMWQtMjRkMS00ODJmLWFlOTQtYTI1YjMzMjQ3ZjdjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=035102c59cd68634740db0ccaa98942c307ea3dea1cfb0c3c1a5d80b6dbbb85a",
-      "description": "Double Bedroom Ensuite €1,285 monthly Available 1st November - Double Room with ensuite Available in Modern, Peaceful Flat Share – Dublin Women only About Us Hi! We’re Aisling and Sara, both in our 30s, originally from Ireland and Spai... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-10-08T18:02:59.628Z"
+      "firstSeenAt": "2026-10-10T02:56:53.902Z"
     }
   ]
 }
