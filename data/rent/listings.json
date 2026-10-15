@@ -1,30 +1,18 @@
 {
-  "fetchedAt": "2026-10-15T02:01:17.716Z",
+  "fetchedAt": "2026-10-15T22:43:32.881Z",
   "source": "https://www.rent.ie/rooms-to-rent/renting_dublin/room-type_either/",
   "listings": [
     {
-      "id": "6697697",
-      "url": "https://www.rent.ie/rooms-to-rent/En-Suite-Larkfield-Estate-Lucan-Co-Dublin/6697697/",
-      "title": "En Suite Larkfield Estate, Lucan, Co. Dublin",
-      "price": "€940 monthly",
-      "area": "Lucan, Co. Dublin",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZlwvYlwvZmI2MjU5NDgtNmIxMi00ZmE4LWJkODktM2E0ZDNjZmU5YjFlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=0a9ed4ba98f70c2d94d2d8523cf12cdbb859a75b706da65e962b7680fb6b1e98",
-      "description": "Double Bedroom Ensuite €940 monthly Available 19th October - EN SUITE BEDROOM. SPACIOUS, ATTRACTIVE, BEDROOM SHARING WITH TWO FRIENDLY, EASY GOING IRISH GIRLS WORKING IN IT AND INTEL. VERY QUIET, NON OWNER OCCUPIED, WELL MAINTAINED, BRIGHT, THREE BEDROOMED, RELAXED HOME. SUITABLE FOR A TIDY, QUIET, NON SMOKING GIRL WHO IS EASY TO GET ALONG WITH AND WANTS A HIGH STANDARD OF ACCOMMODATION IN... View full ad on Rent.ie",
+      "id": "6698585",
+      "url": "https://www.rent.ie/rooms-to-rent/Aspen-Avenue-Clonsilla-Dublin-15/6698585/",
+      "title": "Aspen Avenue, Clonsilla, Dublin 15",
+      "price": "€900 monthly",
+      "area": "Clonsilla, Dublin 15",
+      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiNVwvOVwvNTkyNDc2MTctN2RlYy00NGFkLWIyYTUtZDgzY2U4OGJhNGVjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=3f2e1ac0930bddbee16173158acf920a01cd7064e53f6493cf82d53fe46f779d",
+      "description": "Single Bedroom Ensuite €900 monthly Owner Occupied Available Now - Cosy room double bed with private bathroom suitable for female only. Great nearby transport including bus number 39a, 39,37, L52 and Train ( Clonsilla train station) College s... View full ad on Rent.ie",
       "agent": null,
       "agentPhone": null,
-      "firstSeenAt": "2026-10-15T02:01:17.716Z"
-    },
-    {
-      "id": "6695585",
-      "url": "https://www.rent.ie/rooms-to-rent/The-Crescent-Millbrook-Lawns-Dublin-24-Oldbawn-Dublin-24/6695585/",
-      "title": "The Crescent, Millbrook Lawns, Dublin 24, Oldbawn, Dublin 24",
-      "price": "€1,200 monthly",
-      "area": "Millbrook Lawns, Dublin 24, Oldbawn, Dublin 24",
-      "imageUrl": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwia2V5IjoiZFwvY1wvZGNmNGZmM2YtMDFhNC00OWQxLTkzMDUtYjkyYmFhOGM4NmI5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjM0MCIsImhlaWdodCI6IjI1NSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1Iiwib3B0aW9ucyI6eyJncmF2aXR5Ijoibm9ydGh3ZXN0In0sImtleSI6IndhdGVybWFyay1yZW50LWxvZ28tc21hbGwucG5nIn19fQ==?signature=855c5d810a624c0e17fcc1b710c57652fdfcf8cf275bd5c4b8f63c05839de96b",
-      "description": "Double Bedroom Ensuite €1,200 monthly Owner Occupied Available 27th November - Well maintained, Studio apartment located within a family home. Access is via a shared main front door, leading to a private, secure studio space. Double bed will be in place of t... View full ad on Rent.ie",
-      "agent": null,
-      "agentPhone": null,
-      "firstSeenAt": "2026-10-14T16:01:57.536Z"
+      "firstSeenAt": "2026-10-15T22:43:32.881Z"
     }
   ]
 }
